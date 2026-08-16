@@ -1,0 +1,107 @@
+---
+import chung from '../data/chung.json';
+
+const { title, description, path = '/' } = Astro.props;
+const siteUrl = 'https://timhangxetai.com';
+const fullTitle = title || 'Tìm Hàng Xe Tải — Sàn kết nối chủ hàng và nhà xe tải toàn quốc';
+const fullDesc = description || 'Chủ hàng đăng chuyến, nhà xe báo giá và nhận đơn — hai bên tự thoả thuận, tự thanh toán trực tiếp. Miễn phí cho chủ hàng, trải nghiệm ngay với đơn hàng thật.';
+---
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<script>
+  /* Ai đã cài app vào máy (icon ngoài màn hình) thì nhảy thẳng qua app thật, không xem trang
+     giới thiệu — đúng cơ chế chuxetai.com đang dùng. */
+  (function(){
+    try{
+      var laAppDaCai = (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches) || window.navigator.standalone === true;
+      if (laAppDaCai) { location.replace('https://app.timhangxetai.com/'); }
+    }catch(e){}
+  })();
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{fullTitle}</title>
+<meta name="description" content={fullDesc}>
+<meta name="theme-color" content="#0a1642">
+<link rel="canonical" href={siteUrl + path}>
+<link rel="icon" href="/anh/favicon.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content={fullTitle}>
+<meta property="og:description" content={fullDesc}>
+<meta property="og:url" content={siteUrl + path}>
+{chung.fbPixelId && (
+  <script is:inline define:vars={{ pixelId: chung.fbPixelId }}>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', pixelId); fbq('track', 'PageView');
+  </script>
+)}
+{chung.gaId && (
+  <>
+    <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${chung.gaId}`}></script>
+    <script is:inline define:vars={{ gaId: chung.gaId }}>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', gaId);
+    </script>
+  </>
+)}
+<style is:global>
+  :root{
+    --bg:#eef1f7; --panel:#ffffff; --card:#ffffff; --line:#e4e8f2;
+    --text:#0b1233; --text-soft:#33405e; --muted:#6b7793;
+    --accent:#eb3309; --accent-dark:#b02607; --accent-tint:#fff1ec;
+    --navy:#0a1642; --navy2:#060e2b;
+    --green:#12833f; --green-tint:#e9f7ee;
+    --amber:#b5730a; --amber-tint:#fff4dd; --amber-line:#f2c65a;
+    --blue:#2f5fd6; --blue-tint:#eaf0ff;
+    --shadow:0 1px 2px rgba(10,22,66,.06),0 8px 30px rgba(10,22,66,.08);
+    --radius:14px;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --bg:#080d1c; --panel:#0d1330; --card:#12224f; --line:rgba(255,255,255,.12);
+      --text:#eef2ff; --text-soft:#c7d2ec; --muted:#95a6cf;
+      --accent:#ff5a2b; --accent-dark:#ff7d55; --accent-tint:#2a140d;
+      --green:#26c281; --green-tint:#123720;
+      --amber:#f5b301; --amber-tint:#2a2206; --amber-line:#5a4a12;
+      --blue:#4b8bff; --blue-tint:#132449;
+      --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 34px rgba(0,0,0,.45);
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#080d1c; --panel:#0d1330; --card:#12224f; --line:rgba(255,255,255,.12);
+    --text:#eef2ff; --text-soft:#c7d2ec; --muted:#95a6cf;
+    --accent:#ff5a2b; --accent-dark:#ff7d55; --accent-tint:#2a140d;
+    --green:#26c281; --green-tint:#123720;
+    --amber:#f5b301; --amber-tint:#2a2206; --amber-line:#5a4a12;
+    --blue:#4b8bff; --blue-tint:#132449;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 34px rgba(0,0,0,.45);
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0; background:var(--bg); color:var(--text);
+    font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    line-height:1.6; -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1120px; margin:0 auto; padding:0 20px}
+  a{color:inherit}
+  img{max-width:100%}
+  :focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+  [data-edit]{cursor:text}
+  [data-edit-img]{cursor:pointer}
+</style>
+</head>
+<body>
+  <slot />
+  {chung.contactForm && (
+    <div id="popupLienHe" style="display:none"></div>
+  )}
+</body>
+</html>

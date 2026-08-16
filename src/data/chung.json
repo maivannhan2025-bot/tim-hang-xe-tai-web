@@ -1,0 +1,17 @@
+{
+  "hotline": "",
+  "tel": "",
+  "zalo": "",
+  "messenger": "",
+  "companyFull": "",
+  "mst": "",
+  "address": "",
+  "logo": "",
+  "fbPixelId": "",
+  "gaId": "",
+  "aiWebhook": "",
+  "contactForm": false,
+  "contactFormTitle": "Để lại số điện thoại, chúng tôi liên hệ ngay",
+  "contactFormDelay": 8,
+  "apiKeys": []
+}

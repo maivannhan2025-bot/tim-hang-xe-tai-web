@@ -1,0 +1,350 @@
+---
+import Layout from '../layouts/Layout.astro';
+import t from '../data/trangchu.json';
+
+const appUrl = t.appUrl || 'https://app.timhangxetai.com/';
+---
+<Layout path="/">
+
+<header class="site-head">
+  <div class="wrap bar">
+    <a class="brand-logo" href="/"><span class="brand-mark">🚚</span><span>Tìm hàng<span style="color:var(--accent)"> xe tải</span></span></a>
+    <nav class="nav-links" aria-label="Menu chính">
+      <a href="#loiich">Lợi ích</a>
+      <a href="#cachlam">Cách hoạt động</a>
+      <a href="/blog/">Blog</a>
+      <a href="#hoidap">Hỏi nhanh</a>
+    </nav>
+    <div class="nav-cta">
+      <a class="login" href={appUrl}>Đăng nhập</a>
+      <a class="btn" href={appUrl}>Trải nghiệm ngay</a>
+      <button class="burger" aria-label="Mở menu" id="burgerBtn">☰</button>
+    </div>
+  </div>
+  <nav class="m-menu" id="mMenu" aria-label="Menu điện thoại">
+    <a href="#loiich">Lợi ích</a>
+    <a href="#cachlam">Cách hoạt động</a>
+    <a href="/blog/">Blog</a>
+    <a href="#hoidap">Hỏi nhanh</a>
+    <a href={appUrl}>Đăng nhập</a>
+  </nav>
+</header>
+
+<div class="wrap">
+
+  <div class="hero">
+    <div class="hero-in">
+      <span class="eyebrow" data-edit="t:eyebrow">{t.eyebrow}</span>
+      <h1 data-edit="t:heroH1">{t.heroH1}</h1>
+      <p class="lead" data-edit="t:heroLead">{t.heroLead}</p>
+
+      <div class="role-grid">
+        {t.roleCards.map((rc, i) => (
+          <div class="role-card">
+            <div class="r-ico" data-edit={`t:roleCards.${i}.ico`}>{rc.ico}</div>
+            <h3 data-edit={`t:roleCards.${i}.title`}>{rc.title}</h3>
+            <p data-edit={`t:roleCards.${i}.desc`}>{rc.desc}</p>
+            <a class="btn-lg primary" href={appUrl} data-edit={`t:roleCards.${i}.btn`}>{rc.btn}</a>
+          </div>
+        ))}
+      </div>
+
+      <div class="bonus-band">
+        <span class="b-ico" data-edit="t:bonus.ico">{t.bonus.ico}</span>
+        <div class="b-txt">
+          <b data-edit="t:bonus.title">{t.bonus.title}</b>
+          <span data-edit="t:bonus.desc">{t.bonus.desc}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="strip">
+    <div class="chips">
+      {t.chips.map((c, i) => <span class="chip" data-edit={`t:chips.${i}`}>{c}</span>)}
+    </div>
+  </div>
+
+  <section>
+    <div class="sec-h">
+      <span class="tag" data-edit="t:ketQua.tag">{t.ketQua.tag}</span>
+      <h2 data-edit="t:ketQua.h2">{t.ketQua.h2}</h2>
+    </div>
+    <div class="prose">
+      <p><b>{t.ketQua.labelChuHang}</b> <span data-edit="t:ketQua.textChuHang">{t.ketQua.textChuHang}</span></p>
+      <p><b>{t.ketQua.labelNhaXe}</b> <span data-edit="t:ketQua.textNhaXe">{t.ketQua.textNhaXe}</span></p>
+      <p data-edit="t:ketQua.ketLuan">{t.ketQua.ketLuan}</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-h">
+      <span class="tag" data-edit="t:luonDiKem.tag">{t.luonDiKem.tag}</span>
+      <h2 data-edit="t:luonDiKem.h2">{t.luonDiKem.h2}</h2>
+    </div>
+    <div class="cred">
+      {t.luonDiKem.items.map((it, i) => (
+        <div class="c-card">
+          <div class={`c-ico ${['a','g','b'][i % 3]}`} data-edit={`t:luonDiKem.items.${i}.ico`}>{it.ico}</div>
+          <h3 data-edit={`t:luonDiKem.items.${i}.title`}>{it.title}</h3>
+          <p data-edit={`t:luonDiKem.items.${i}.desc`}>{it.desc}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <section id="loiich">
+    <div class="sec-h">
+      <span class="tag" data-edit="t:loiIch.tag">{t.loiIch.tag}</span>
+      <h2 data-edit="t:loiIch.h2">{t.loiIch.h2}</h2>
+    </div>
+    <div class="cred">
+      {t.loiIch.items.map((it, i) => (
+        <div class="c-card">
+          <div class={`c-ico ${['a','g','b'][i % 3]}`} data-edit={`t:loiIch.items.${i}.ico`}>{it.ico}</div>
+          <h3 data-edit={`t:loiIch.items.${i}.title`}>{it.title}</h3>
+          <p data-edit={`t:loiIch.items.${i}.desc`}>{it.desc}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <section id="cachlam">
+    <div class="sec-h">
+      <span class="tag" data-edit="t:cachHoatDong.tag">{t.cachHoatDong.tag}</span>
+      <h2 data-edit="t:cachHoatDong.h2">{t.cachHoatDong.h2}</h2>
+    </div>
+    <div class="how-split">
+      <div class="how-col buyer">
+        <div class="h-head"><span class="h-ico">📦</span><h3 data-edit="t:cachHoatDong.buyer.title">{t.cachHoatDong.buyer.title}</h3></div>
+        <ol>
+          {t.cachHoatDong.buyer.steps.map((s, i) => (
+            <li><span class="st-n">{i + 1}</span><span class="st-t"><b>{s.label}</b> — <span data-edit={`t:cachHoatDong.buyer.steps.${i}.desc`}>{s.desc}</span></span></li>
+          ))}
+        </ol>
+      </div>
+      <div class="how-col carrier">
+        <div class="h-head"><span class="h-ico">🚚</span><h3 data-edit="t:cachHoatDong.carrier.title">{t.cachHoatDong.carrier.title}</h3></div>
+        <ol>
+          {t.cachHoatDong.carrier.steps.map((s, i) => (
+            <li><span class="st-n">{i + 1}</span><span class="st-t"><b>{s.label}</b> — <span data-edit={`t:cachHoatDong.carrier.steps.${i}.desc`}>{s.desc}</span></span></li>
+          ))}
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-h">
+      <span class="tag" data-edit="t:hopVoiAi.tag">{t.hopVoiAi.tag}</span>
+      <h2 data-edit="t:hopVoiAi.h2">{t.hopVoiAi.h2}</h2>
+    </div>
+    <div class="who-split">
+      <div class="who-col">
+        <h4 data-edit="t:hopVoiAi.chuHang.label">{t.hopVoiAi.chuHang.label}</h4>
+        {t.hopVoiAi.chuHang.items.map((it, i) => (
+          <div class="w"><b>{it.b}</b> — <span data-edit={`t:hopVoiAi.chuHang.items.${i}.rest`}>{it.rest}</span></div>
+        ))}
+      </div>
+      <div class="who-col">
+        <h4 data-edit="t:hopVoiAi.nhaXe.label">{t.hopVoiAi.nhaXe.label}</h4>
+        {t.hopVoiAi.nhaXe.items.map((it, i) => (
+          <div class="w"><b>{it.b}</b> — <span data-edit={`t:hopVoiAi.nhaXe.items.${i}.rest`}>{it.rest}</span></div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="mission">
+      <blockquote data-edit="t:mission.quote">{t.mission.quote}</blockquote>
+      <cite data-edit="t:mission.cite">{t.mission.cite}</cite>
+    </div>
+  </section>
+
+  <section id="hoidap">
+    <div class="sec-h">
+      <span class="tag" data-edit="t:faq.tag">{t.faq.tag}</span>
+      <h2 data-edit="t:faq.h2">{t.faq.h2}</h2>
+    </div>
+    <div class="faq">
+      {t.faq.items.map((f, i) => (
+        <details open={i === 0}>
+          <summary data-edit={`t:faq.items.${i}.q`}>{f.q}</summary>
+          <div class="a" data-edit={`t:faq.items.${i}.a`}>{f.a}</div>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <section style="padding-top:0">
+    <div class="momentum" data-edit="t:momentum">{t.momentum}</div>
+  </section>
+
+  <section>
+    <div class="final">
+      <h2 data-edit="t:finalCta.h2">{t.finalCta.h2}</h2>
+      <p data-edit="t:finalCta.p">{t.finalCta.p}</p>
+      <div class="hero-cta">
+        <a class="btn-lg primary" href={appUrl} data-edit="t:finalCta.btn1">{t.finalCta.btn1}</a>
+        <a class="btn-lg ghost" href={appUrl} data-edit="t:finalCta.btn2">{t.finalCta.btn2}</a>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<footer class="site-foot">
+  <div class="wrap f-grid">
+    <div class="f-col">
+      <a class="brand-logo" href="/"><span class="brand-mark">🚚</span><span>Tìm hàng<span style="color:var(--accent)"> xe tải</span></span></a>
+      <p class="f-desc">Sàn kết nối chủ hàng và nhà xe tải khắp Việt Nam. Đăng chuyến, báo giá, chốt xe — nhanh gọn mỗi ngày.</p>
+    </div>
+    <div class="f-col">
+      <h4>Sản phẩm</h4>
+      <a href="#loiich">Lợi ích</a>
+      <a href="#cachlam">Cách hoạt động</a>
+      <a href="#hoidap">Hỏi nhanh</a>
+    </div>
+    <div class="f-col">
+      <h4>Tài khoản</h4>
+      <a href={appUrl}>Đăng nhập</a>
+      <a href={appUrl}>Trải nghiệm ngay</a>
+    </div>
+  </div>
+  <div class="f-legal">© 2026 Tìm Hàng Xe Tải — Sàn kết nối chủ hàng &amp; nhà xe tải toàn quốc.</div>
+</footer>
+
+<style>
+  .site-head{position:sticky; top:0; z-index:30; background:var(--panel); border-bottom:1px solid var(--line)}
+  .site-head .bar{display:flex; align-items:center; justify-content:space-between; gap:16px; padding:12px 20px}
+  .brand-logo{display:flex; align-items:center; gap:10px; font-weight:800; letter-spacing:-.01em; font-size:18px; text-decoration:none}
+  .brand-mark{width:34px; height:34px; border-radius:10px; background:var(--accent); color:#fff; display:grid; place-items:center; font-size:17px; box-shadow:0 4px 12px rgba(235,51,9,.35); flex:0 0 auto}
+  .nav-links{display:flex; align-items:center; gap:22px; font-size:14.5px; font-weight:700}
+  .nav-links a{text-decoration:none; color:var(--text-soft)}
+  .nav-links a:hover{color:var(--accent-dark)}
+  .nav-cta{display:flex; align-items:center; gap:14px}
+  .nav-cta .login{text-decoration:none; color:var(--text-soft); font-size:14.5px; font-weight:700}
+  .nav-cta .login:hover{color:var(--accent-dark)}
+  .nav-cta .btn{background:var(--accent); color:#fff; text-decoration:none; font-size:14.5px; font-weight:800; padding:9px 16px; border-radius:10px}
+  .nav-cta .btn:hover{background:var(--accent-dark)}
+  .burger{display:none; appearance:none; background:transparent; border:1px solid var(--line); border-radius:9px; width:38px; height:38px; place-items:center; cursor:pointer; color:var(--text); font-size:18px}
+  .m-menu{display:none; border-top:1px solid var(--line); padding:10px 20px 14px}
+  .m-menu a{display:block; padding:9px 4px; text-decoration:none; color:var(--text-soft); font-weight:700; font-size:15px}
+  .m-menu.open{display:block}
+  @media(max-width:820px){ .nav-links{display:none} .nav-cta .login{display:none} .burger{display:grid} }
+
+  .btn-lg{display:inline-block; text-decoration:none; font-weight:800; font-size:15.5px; padding:13px 22px; border-radius:12px; transition:.18s; text-align:center}
+  .btn-lg.primary{background:var(--accent); color:#fff; box-shadow:0 8px 22px rgba(235,51,9,.35)}
+  .btn-lg.primary:hover{background:var(--accent-dark)}
+  .btn-lg.ghost{border:2px solid rgba(255,255,255,.35); color:#fff}
+  .btn-lg.ghost:hover{background:rgba(255,255,255,.1)}
+
+  .hero{background:linear-gradient(160deg,var(--navy),var(--navy2)); color:#fff; border-radius:22px; padding:46px 28px 34px; position:relative; overflow:hidden; margin-top:22px}
+  .hero:before{content:""; position:absolute; right:-90px; top:-90px; width:320px; height:320px; background:radial-gradient(circle,rgba(235,51,9,.36),transparent 68%); pointer-events:none}
+  .hero:after{content:""; position:absolute; left:-120px; bottom:-140px; width:320px; height:320px; background:radial-gradient(circle,rgba(245,179,1,.16),transparent 70%); pointer-events:none}
+  .hero-in{max-width:760px; margin:0 auto; text-align:center; position:relative; z-index:1}
+  .eyebrow{display:inline-block; font-size:12px; font-weight:800; text-transform:uppercase; letter-spacing:.08em; color:#fff; background:rgba(255,255,255,.12); border:1px solid rgba(255,255,255,.18); padding:5px 12px; border-radius:999px}
+  .hero h1{margin:.6em 0 .35em; font-size:clamp(22px,3.6vw,33px); line-height:1.28; font-weight:800; letter-spacing:.01em; text-transform:uppercase; text-wrap:balance}
+  .hero p.lead{margin:0 auto 26px; color:#c7cde8; font-size:clamp(14.5px,1.8vw,16.5px); max-width:56ch}
+
+  .role-grid{display:grid; grid-template-columns:1fr 1fr; gap:14px; text-align:left}
+  @media(max-width:680px){ .role-grid{grid-template-columns:1fr} }
+  .role-card{background:rgba(255,255,255,.07); border:1px solid rgba(255,255,255,.16); border-radius:16px; padding:20px}
+  .role-card .r-ico{font-size:26px; margin-bottom:6px}
+  .role-card h3{margin:0 0 3px; font-size:16.5px; font-weight:800; color:#fff}
+  .role-card p{margin:0 0 14px; color:#b9c1e6; font-size:13.5px}
+  .role-card .btn-lg{width:100%; display:block}
+
+  .bonus-band{margin-top:16px; background:var(--accent-tint); border:1px solid var(--amber-line); border-radius:16px; padding:18px 22px; display:flex; align-items:center; gap:16px; flex-wrap:wrap}
+  .bonus-band .b-ico{font-size:30px; flex:0 0 auto}
+  .bonus-band .b-txt{flex:1; min-width:220px; text-align:left}
+  .bonus-band .b-txt b{color:var(--text); font-size:15.5px; display:block; margin-bottom:2px}
+  .bonus-band .b-txt span{color:var(--text-soft); font-size:13.5px}
+
+  .strip{padding:24px 0 4px; text-align:center}
+  .chips{display:flex; flex-wrap:wrap; gap:9px; justify-content:center}
+  .chip{background:var(--card); border:1px solid var(--line); border-radius:999px; padding:7px 15px; font-size:13.3px; font-weight:700; color:var(--text-soft); box-shadow:var(--shadow)}
+
+  section{padding:36px 0}
+  .sec-h{text-align:center; max-width:680px; margin:0 auto 24px}
+  .sec-h .tag{display:inline-block; font-size:12px; font-weight:800; text-transform:uppercase; letter-spacing:.07em; color:var(--accent-dark); background:var(--accent-tint); padding:4px 12px; border-radius:999px; margin-bottom:10px}
+  .sec-h h2{font-size:clamp(19px,2.8vw,26px); font-weight:800; letter-spacing:.01em; text-transform:uppercase; margin:0 0 8px; text-wrap:balance}
+
+  .prose{background:var(--card); border:1px solid var(--line); border-radius:var(--radius); box-shadow:var(--shadow); padding:28px 26px; max-width:820px; margin:0 auto}
+  .prose p{margin:0 0 14px; color:var(--text-soft); font-size:15.5px}
+  .prose p:last-child{margin:0}
+  .prose b{color:var(--text)}
+
+  .cred{display:grid; grid-template-columns:repeat(3,1fr); gap:16px}
+  @media(max-width:880px){ .cred{grid-template-columns:1fr} }
+  .cred .c-card{background:var(--card); border:1px solid var(--line); border-radius:var(--radius); padding:22px; box-shadow:var(--shadow)}
+  .cred .c-ico{width:36px; height:36px; border-radius:10px; display:grid; place-items:center; font-size:18px; margin-bottom:12px}
+  .cred .c-ico.a{background:var(--accent-tint); color:var(--accent-dark)}
+  .cred .c-ico.g{background:var(--green-tint); color:var(--green)}
+  .cred .c-ico.b{background:var(--blue-tint); color:var(--blue)}
+  .cred h3{margin:0 0 5px; font-size:16.5px; font-weight:800}
+  .cred p{margin:0; color:var(--text-soft); font-size:14px}
+
+  .how-split{display:grid; grid-template-columns:1fr 1fr; gap:20px}
+  @media(max-width:820px){ .how-split{grid-template-columns:1fr} }
+  .how-col{background:var(--card); border:1px solid var(--line); border-radius:18px; padding:24px; box-shadow:var(--shadow)}
+  .how-col .h-head{display:flex; align-items:center; gap:10px; margin-bottom:16px}
+  .how-col .h-ico{width:38px; height:38px; border-radius:10px; display:grid; place-items:center; font-size:19px; color:#fff; background:var(--navy)}
+  .how-col.buyer .h-ico{background:var(--accent)}
+  .how-col h3{margin:0; font-size:17.5px; font-weight:800}
+  .how-col ol{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:14px}
+  .how-col li{display:flex; gap:12px; align-items:flex-start}
+  .how-col .st-n{flex:0 0 auto; width:24px; height:24px; border-radius:50%; background:var(--bg); border:1px solid var(--line); color:var(--text-soft); font-size:12.5px; font-weight:800; display:grid; place-items:center}
+  .how-col .st-t{font-size:14.5px; color:var(--text-soft)}
+  .how-col .st-t b{color:var(--text); font-weight:700}
+
+  .who-split{display:grid; grid-template-columns:1fr 1fr; gap:20px}
+  @media(max-width:820px){ .who-split{grid-template-columns:1fr} }
+  .who-col h4{font-size:13px; font-weight:800; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); margin:0 0 12px}
+  .who-col .w{background:var(--card); border:1px solid var(--line); border-radius:12px; padding:13px 15px; font-size:14px; color:var(--text-soft); box-shadow:var(--shadow); margin-bottom:10px}
+  .who-col .w b{color:var(--text)}
+
+  .mission{max-width:700px; margin:0 auto; text-align:center; padding:6px 10px}
+  .mission blockquote{margin:0; font-size:clamp(17px,2.4vw,21px); font-weight:700; color:var(--text); line-height:1.5; text-wrap:balance}
+  .mission blockquote:before{content:"“"; color:var(--accent)}
+  .mission blockquote:after{content:"”"; color:var(--accent)}
+  .mission cite{display:block; margin-top:12px; font-style:normal; color:var(--muted); font-size:13.5px; font-weight:700}
+
+  .faq{max-width:760px; margin:0 auto}
+  .faq details{background:var(--card); border:1px solid var(--line); border-radius:12px; margin-bottom:10px; box-shadow:var(--shadow); overflow:hidden}
+  .faq summary{cursor:pointer; padding:15px 20px; font-weight:700; font-size:15px; list-style:none; position:relative; padding-right:44px}
+  .faq summary::-webkit-details-marker{display:none}
+  .faq summary:after{content:"+"; position:absolute; right:18px; top:50%; transform:translateY(-50%); font-size:21px; font-weight:400; color:var(--accent-dark)}
+  .faq details[open] summary:after{content:"\2212"}
+  .faq .a{padding:0 20px 16px; color:var(--text-soft); font-size:14px}
+
+  .momentum{max-width:820px; margin:0 auto; text-align:center; background:var(--card); border:1px dashed var(--line); border-radius:14px; padding:16px 20px; color:var(--text-soft); font-size:14.5px}
+
+  .final{background:linear-gradient(160deg,var(--navy),var(--navy2)); color:#fff; border-radius:22px; padding:42px 26px; text-align:center; position:relative; overflow:hidden}
+  .final:before{content:""; position:absolute; left:50%; top:-120px; transform:translateX(-50%); width:420px; height:280px; background:radial-gradient(circle,rgba(235,51,9,.28),transparent 68%); pointer-events:none}
+  .final h2{margin:0 0 10px; font-size:clamp(19px,3vw,26px); font-weight:800; letter-spacing:.01em; text-transform:uppercase; position:relative; text-wrap:balance}
+  .final p{margin:0 auto 22px; color:#c7cde8; font-size:15px; max-width:56ch; position:relative}
+  .final .hero-cta{display:flex; gap:12px; flex-wrap:wrap; justify-content:center; position:relative}
+
+  .site-foot{border-top:1px solid var(--line); background:var(--panel); margin-top:24px; padding-top:10px}
+  .f-grid{display:grid; grid-template-columns:1.4fr 1fr 1fr; gap:26px; padding:34px 20px 24px}
+  @media(max-width:640px){ .f-grid{grid-template-columns:1fr 1fr} }
+  @media(max-width:460px){ .f-grid{grid-template-columns:1fr} }
+  .f-col .f-desc{color:var(--muted); font-size:13.3px; max-width:32ch}
+  .f-col h4{margin:0 0 11px; font-size:12px; font-weight:800; text-transform:uppercase; letter-spacing:.06em; color:var(--muted)}
+  .f-col a{display:block; text-decoration:none; color:var(--text-soft); font-size:13.5px; padding:3px 0}
+  .f-col a:hover{color:var(--accent-dark)}
+  .f-legal{border-top:1px solid var(--line); padding:16px 20px 26px; text-align:center; color:var(--muted); font-size:12.5px}
+</style>
+
+<script>
+  document.getElementById('burgerBtn')?.addEventListener('click', () => {
+    document.getElementById('mMenu')?.classList.toggle('open');
+  });
+  document.querySelectorAll('#mMenu a').forEach((a) => {
+    a.addEventListener('click', () => document.getElementById('mMenu')?.classList.remove('open'));
+  });
+</script>
+
+</Layout>

@@ -1,0 +1,85 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = (await getCollection('blog')).sort(
+  (a, b) => b.data.ngayDang.valueOf() - a.data.ngayDang.valueOf()
+);
+const chuHang = allPosts.filter((p) => p.data.doiTuong !== 'nha-xe');
+const nhaXe = allPosts.filter((p) => p.data.doiTuong !== 'chu-hang');
+---
+<Layout title="Blog — Tìm Hàng Xe Tải" description="Kinh nghiệm cho cả chủ hàng lẫn nhà xe: cách tìm hàng hiệu quả, thuê xe an tâm, và tin tức về Tìm Hàng Xe Tải." path="/blog/">
+
+<header class="site-head">
+  <div class="wrap bar">
+    <a class="brand-logo" href="/"><span class="brand-mark">🚚</span><span>Tìm hàng<span style="color:var(--accent)"> xe tải</span></span></a>
+    <a class="btn" href="https://app.timhangxetai.com/">Trải nghiệm ngay</a>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="art-head">
+    <h1>Blog Tìm Hàng Xe Tải</h1>
+    <p class="lead">Kinh nghiệm cho cả người gửi hàng lẫn người chở hàng — chia theo đúng việc anh/chị đang cần.</p>
+  </div>
+
+  {allPosts.length === 0 && <p class="empty">Chưa có bài viết nào. Quay lại sau nhé.</p>}
+
+  {chuHang.length > 0 && (
+    <section>
+      <h2>📦 Dành cho chủ hàng</h2>
+      <div class="grid">
+        {chuHang.map((p) => (
+          <a class="card" href={`/blog/${p.id.replace(/\.md$/, '')}/`}>
+            <h3>{p.data.title}</h3>
+            <p>{p.data.description}</p>
+            <span class="meta">{p.data.thoiGianDoc ? `${p.data.thoiGianDoc} phút đọc` : ''}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {nhaXe.length > 0 && (
+    <section>
+      <h2>🚚 Dành cho nhà xe</h2>
+      <div class="grid">
+        {nhaXe.map((p) => (
+          <a class="card" href={`/blog/${p.id.replace(/\.md$/, '')}/`}>
+            <h3>{p.data.title}</h3>
+            <p>{p.data.description}</p>
+            <span class="meta">{p.data.thoiGianDoc ? `${p.data.thoiGianDoc} phút đọc` : ''}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+</div>
+
+<footer class="site-foot">
+  <div class="wrap f-legal">© 2026 Tìm Hàng Xe Tải — Sàn kết nối chủ hàng &amp; nhà xe tải toàn quốc.</div>
+</footer>
+
+<style>
+  .site-head{position:sticky; top:0; z-index:30; background:var(--panel); border-bottom:1px solid var(--line)}
+  .site-head .bar{display:flex; align-items:center; justify-content:space-between; gap:16px; padding:12px 20px}
+  .brand-logo{display:flex; align-items:center; gap:10px; font-weight:800; letter-spacing:-.01em; font-size:18px; text-decoration:none}
+  .brand-mark{width:34px; height:34px; border-radius:10px; background:var(--accent); color:#fff; display:grid; place-items:center; font-size:17px; flex:0 0 auto}
+  .btn{background:var(--accent); color:#fff; text-decoration:none; font-size:14.5px; font-weight:800; padding:9px 16px; border-radius:10px}
+  .art-head{padding:30px 0 10px}
+  .art-head h1{font-size:clamp(26px,4vw,36px); font-weight:800; margin:0 0 8px; letter-spacing:-.01em}
+  .art-head .lead{color:var(--muted); font-size:15.5px; margin:0}
+  .empty{color:var(--muted); padding:30px 0}
+  section{padding:26px 0}
+  section h2{font-size:19px; font-weight:800; margin:0 0 16px}
+  .grid{display:grid; grid-template-columns:repeat(3,1fr); gap:16px}
+  @media(max-width:900px){ .grid{grid-template-columns:repeat(2,1fr)} }
+  @media(max-width:600px){ .grid{grid-template-columns:1fr} }
+  .card{display:block; background:var(--card); border:1px solid var(--line); border-radius:14px; padding:20px; text-decoration:none; color:inherit; box-shadow:var(--shadow)}
+  .card h3{margin:0 0 8px; font-size:16px; font-weight:800; color:var(--text); line-height:1.4}
+  .card p{margin:0 0 12px; color:var(--text-soft); font-size:13.8px}
+  .card .meta{color:var(--muted); font-size:12.5px; font-weight:700}
+  .f-legal{padding:20px; text-align:center; color:var(--muted); font-size:12.5px}
+  .site-foot{border-top:1px solid var(--line); margin-top:20px}
+</style>
+</Layout>

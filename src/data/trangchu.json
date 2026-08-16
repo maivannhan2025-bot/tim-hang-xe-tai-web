@@ -1,0 +1,105 @@
+{
+  "eyebrow": "Sàn kết nối chủ hàng ↔ nhà xe tải · 63 tỉnh thành",
+  "heroH1": "Có hàng đăng ngay, có xe tìm liền — chốt chuyến trong hôm nay.",
+  "heroLead": "Chủ hàng đăng chuyến, nhận báo giá từ nhiều nhà xe. Nhà xe xem đơn hợp tuyến, báo giá và nhận chuyến ngay. Hai bên tự thoả thuận, nhận tiền trực tiếp — nhanh gọn.",
+  "roleCards": [
+    { "ico": "📦", "title": "Tôi cần thuê xe chở hàng", "desc": "Đăng chuyến 30 giây, nhiều nhà xe báo giá — chọn người anh/chị ưng nhất.", "btn": "Đăng hàng, nhận báo giá →" },
+    { "ico": "🚚", "title": "Tôi là nhà xe, muốn tìm hàng", "desc": "Xem đơn hợp tuyến ngay gần mình, báo giá và nhận chuyến trong hôm nay.", "btn": "Trải nghiệm miễn phí →" }
+  ],
+  "bonus": { "ico": "🎁", "title": "Trải nghiệm với đơn hàng THẬT, có kết quả ngay từ hôm nay.", "desc": "Vào là dùng được luôn — không cần chờ duyệt, không cần khai báo dài dòng." },
+  "chips": [
+    "✅ Mọi người dùng đã xác minh khuôn mặt",
+    "⭐ Đánh giá 5 sao minh bạch",
+    "📍 63 tỉnh thành · gom 7 vùng",
+    "📲 Cài vào máy như app thật"
+  ],
+  "ketQua": {
+    "tag": "Kết quả thực tế",
+    "h2": "Điều anh/chị nhận được ngay từ chuyến đầu tiên",
+    "labelChuHang": "Chủ hàng:",
+    "textChuHang": "đăng chuyến lên là có nhiều nhà xe báo giá trong vài phút — xem đánh giá 5 sao, tự chọn người ưng ý nhất, chốt xong ngay trong ngày.",
+    "labelNhaXe": "Nhà xe:",
+    "textNhaXe": "mở app lên là thấy ngay đơn hợp tuyến gần mình, báo giá liền, nhận thêm chuyến cho cả hai chiều đi và về.",
+    "ketLuan": "Nhanh, rõ ràng, và luôn có lựa chọn mới mỗi ngày ở khắp 63 tỉnh thành."
+  },
+  "luonDiKem": {
+    "tag": "Luôn đi kèm mỗi chuyến",
+    "h2": "Những gì anh/chị luôn có, không cần hỏi thêm",
+    "items": [
+      { "ico": "🆓", "title": "Chủ hàng miễn phí", "desc": "Đăng bao nhiêu chuyến cũng được, không giới hạn, dùng mãi mãi." },
+      { "ico": "💸", "title": "Nhận tiền trực tiếp", "desc": "Hai bên tự chốt giá, tiền về thẳng túi mình ngay sau khi giao hàng." },
+      { "ico": "🪪", "title": "Ai cũng đã xác minh", "desc": "Xác minh khuôn mặt một lần, đánh giá 5 sao công khai sau mỗi chuyến." }
+    ]
+  },
+  "loiIch": {
+    "tag": "Lợi ích rõ nhất",
+    "h2": "Nhiều lựa chọn hơn, chọn đúng người nhanh hơn",
+    "items": [
+      { "ico": "🙌", "title": "Nhiều nhà xe báo giá cùng lúc", "desc": "Không phải gọi từng người, không phải chờ đợi — nhiều lựa chọn đến cùng một lúc, chọn xong trong vài phút." },
+      { "ico": "⭐", "title": "Đánh giá 5 sao dẫn đường", "desc": "Không cần đoán, không cần thử — điểm đánh giá công khai giúp chọn đúng người ngay từ đầu." },
+      { "ico": "🌏", "title": "Không còn giới hạn trong vài mối quen", "desc": "Có mặt khắp 63 tỉnh thành, luôn có thêm lựa chọn mới mỗi ngày." }
+    ]
+  },
+  "cachHoatDong": {
+    "tag": "Cách hoạt động",
+    "h2": "3 bước cho mỗi bên, không ai phải đoán việc của mình",
+    "buyer": {
+      "title": "Nếu anh/chị cần thuê xe",
+      "steps": [
+        { "label": "Đăng chuyến cần chở", "desc": "mô tả tự do, tuyến đường, loại hàng, trọng lượng, chỉ 30 giây." },
+        { "label": "Nhận báo giá từ nhiều nhà xe", "desc": "xem điểm đánh giá 5 sao và lịch sử chốt đơn của từng nhà xe." },
+        { "label": "Chọn nhà xe ưng ý", "desc": "tự thoả thuận giá cuối, nhận hàng đúng hẹn." }
+      ]
+    },
+    "carrier": {
+      "title": "Nếu anh/chị là nhà xe",
+      "steps": [
+        { "label": "Đăng ký, xác minh khuôn mặt", "desc": "một lần duy nhất, dùng cho mọi chuyến sau." },
+        { "label": "Xem đơn hợp tuyến đang chạy", "desc": "báo giá hoặc gọi thẳng cho chủ hàng ngay trong app." },
+        { "label": "Nhận chuyến, chạy xong được đánh giá", "desc": "điểm 5 sao tích luỹ giúp chuyến sau dễ được chọn hơn." }
+      ]
+    }
+  },
+  "hopVoiAi": {
+    "tag": "Hợp với ai",
+    "h2": "Cả người gửi hàng lẫn người chở hàng",
+    "chuHang": {
+      "label": "Chủ hàng",
+      "items": [
+        { "b": "gửi hàng thường xuyên", "rest": "Doanh nghiệp, chủ động chọn nhà xe cho từng chuyến" },
+        { "b": "chuyển nhà, gửi hàng lẻ", "rest": "Cá nhân — cần xe nhanh, có ngay trong hôm nay" },
+        { "b": "cần xe đột xuất", "rest": "Đại lý, cửa hàng — đăng lên là có nhiều nhà xe báo giá ngay" }
+      ]
+    },
+    "nhaXe": {
+      "label": "Nhà xe",
+      "items": [
+        { "b": "1–2 xe tự chạy", "rest": "Chủ — có thêm nguồn hàng mới mỗi ngày" },
+        { "b": "nhiều xe", "rest": "Nhà xe — lấp đầy lịch chạy cả hai chiều đi/về" },
+        { "b": "chạy tuyến cố định", "rest": "Nhà xe — có đơn đều đặn từ cùng một tuyến quen" }
+      ]
+    }
+  },
+  "mission": {
+    "quote": "Mỗi chuyến xe đều có hàng, mỗi lô hàng đều có xe.",
+    "cite": "— Vì sao Tìm Hàng Xe Tải tồn tại"
+  },
+  "faq": {
+    "tag": "Hỏi nhanh",
+    "h2": "Bắt đầu nhanh, ít câu hỏi",
+    "items": [
+      { "q": "Bắt đầu như thế nào?", "a": "Vào thẳng app, đăng chuyến hoặc xem đơn hợp tuyến — có kết quả ngay trong lần dùng đầu tiên, không cần chờ duyệt." },
+      { "q": "Tiền cước tính sao?", "a": "Hai bên tự thoả thuận giá theo chuyến, nhận tiền trực tiếp với nhau ngay sau khi giao hàng." },
+      { "q": "Cần chuẩn bị gì trước khi dùng?", "a": "Nhà xe xác minh khuôn mặt một lần, sau đó dùng thoải mái cho mọi chuyến sau. Chủ hàng thì vào là đăng chuyến được ngay." },
+      { "q": "Dùng trên điện thoại có được không?", "a": "Được — mở app là dùng ngay, bấm \"Thêm vào màn hình chính\" để mở nhanh như app thật, có thông báo khi có đơn hợp tuyến." }
+    ]
+  },
+  "momentum": "📍 Có mặt khắp 63 tỉnh thành, gom 7 vùng — đăng ở đâu, tìm ở đó, không giới hạn phạm vi.",
+  "finalCta": {
+    "h2": "Chuyến hàng tiếp theo, chuyến xe tiếp theo — có ngay trong hôm nay.",
+    "p": "Chủ hàng đăng chuyến, nhà xe báo giá — hai bên tự chốt, tự nhận tiền trực tiếp. Trải nghiệm ngay với đơn hàng thật, có kết quả từ hôm nay.",
+    "btn1": "📦 Tôi cần thuê xe",
+    "btn2": "🚚 Trải nghiệm miễn phí"
+  },
+  "appUrl": "https://app.timhangxetai.com/"
+}
