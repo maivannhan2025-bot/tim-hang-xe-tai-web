@@ -5,7 +5,9 @@ const { title, description, path = '/', image } = Astro.props;
 const siteUrl = 'https://timhangxetai.com';
 const fullTitle = title || 'Tìm Hàng Xe Tải — Sàn kết nối chủ hàng và nhà xe tải toàn quốc';
 const fullDesc = description || 'Chủ hàng đăng chuyến, nhà xe báo giá và nhận đơn — hai bên tự thoả thuận, tự thanh toán trực tiếp. Miễn phí cho chủ hàng, trải nghiệm ngay với đơn hàng thật.';
-const ogImage = image ? siteUrl + image : null;
+// Chưa có ảnh thương hiệu riêng (logo vuông) — tạm dùng ảnh thật đã tải lên (/anh/6.png) làm mặc
+// định chung, để chia sẻ link không bị trống ảnh. Đổi ngay khi có ảnh logo/thương hiệu chính thức.
+const ogImage = siteUrl + (image || '/anh/6.png');
 ---
 <!doctype html>
 <html lang="vi">
@@ -32,7 +34,11 @@ const ogImage = image ? siteUrl + image : null;
 <meta property="og:title" content={fullTitle}>
 <meta property="og:description" content={fullDesc}>
 <meta property="og:url" content={siteUrl + path}>
-{ogImage && <meta property="og:image" content={ogImage} />}
+<meta property="og:image" content={ogImage} />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content={fullTitle}>
+<meta name="twitter:description" content={fullDesc}>
+<meta name="twitter:image" content={ogImage}>
 <script type="application/ld+json" set:html={JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'Organization',

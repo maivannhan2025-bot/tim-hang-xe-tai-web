@@ -16,7 +16,7 @@ const { Content } = await render(post);
 const ngay = post.data.ngayDang.toLocaleDateString('vi-VN', { day: '2-digit', month: '2-digit', year: 'numeric' });
 const nhan = post.data.doiTuong === 'chu-hang' ? 'Dành cho chủ hàng' : post.data.doiTuong === 'nha-xe' ? 'Dành cho nhà xe' : 'Dành cho tất cả';
 ---
-<Layout title={`${post.data.title} — Tìm Hàng Xe Tải`} description={post.data.description} path={`/blog/${slug}/`} image={post.data.anhDaiDien}>
+<Layout title={post.data.title} description={post.data.description} path={`/blog/${slug}/`} image={post.data.anhDaiDien}>
 
 <header class="site-head">
   <div class="wrap bar">

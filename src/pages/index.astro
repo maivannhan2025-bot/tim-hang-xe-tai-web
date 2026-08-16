@@ -42,7 +42,7 @@ const appUrl = t.appUrl || 'https://app.timhangxetai.com/';
         {t.roleCards.map((rc, i) => (
           <div class="role-card">
             <div class="r-ico" data-edit={`t:roleCards.${i}.ico`}>{rc.ico}</div>
-            <h3 data-edit={`t:roleCards.${i}.title`}>{rc.title}</h3>
+            <h2 data-edit={`t:roleCards.${i}.title`}>{rc.title}</h2>
             <p data-edit={`t:roleCards.${i}.desc`}>{rc.desc}</p>
             <a class="btn-lg primary" href={appUrl} data-edit={`t:roleCards.${i}.btn`}>{rc.btn}</a>
           </div>
@@ -141,13 +141,13 @@ const appUrl = t.appUrl || 'https://app.timhangxetai.com/';
     </div>
     <div class="who-split">
       <div class="who-col">
-        <h4 data-edit="t:hopVoiAi.chuHang.label">{t.hopVoiAi.chuHang.label}</h4>
+        <h3 data-edit="t:hopVoiAi.chuHang.label">{t.hopVoiAi.chuHang.label}</h3>
         {t.hopVoiAi.chuHang.items.map((it, i) => (
           <div class="w"><b>{it.b}</b> — <span data-edit={`t:hopVoiAi.chuHang.items.${i}.rest`}>{it.rest}</span></div>
         ))}
       </div>
       <div class="who-col">
-        <h4 data-edit="t:hopVoiAi.nhaXe.label">{t.hopVoiAi.nhaXe.label}</h4>
+        <h3 data-edit="t:hopVoiAi.nhaXe.label">{t.hopVoiAi.nhaXe.label}</h3>
         {t.hopVoiAi.nhaXe.items.map((it, i) => (
           <div class="w"><b>{it.b}</b> — <span data-edit={`t:hopVoiAi.nhaXe.items.${i}.rest`}>{it.rest}</span></div>
         ))}
@@ -252,7 +252,7 @@ const appUrl = t.appUrl || 'https://app.timhangxetai.com/';
   @media(max-width:680px){ .role-grid{grid-template-columns:1fr} }
   .role-card{background:rgba(255,255,255,.07); border:1px solid rgba(255,255,255,.16); border-radius:16px; padding:20px}
   .role-card .r-ico{font-size:26px; margin-bottom:6px}
-  .role-card h3{margin:0 0 3px; font-size:16.5px; font-weight:800; color:#fff}
+  .role-card h2{margin:0 0 3px; font-size:16.5px; font-weight:800; color:#fff}
   .role-card p{margin:0 0 14px; color:#b9c1e6; font-size:13.5px}
   .role-card .btn-lg{width:100%; display:block}
 
@@ -301,7 +301,7 @@ const appUrl = t.appUrl || 'https://app.timhangxetai.com/';
 
   .who-split{display:grid; grid-template-columns:1fr 1fr; gap:20px}
   @media(max-width:820px){ .who-split{grid-template-columns:1fr} }
-  .who-col h4{font-size:13px; font-weight:800; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); margin:0 0 12px}
+  .who-col h3{font-size:13px; font-weight:800; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); margin:0 0 12px}
   .who-col .w{background:var(--card); border:1px solid var(--line); border-radius:12px; padding:13px 15px; font-size:14px; color:var(--text-soft); box-shadow:var(--shadow); margin-bottom:10px}
   .who-col .w b{color:var(--text)}
 

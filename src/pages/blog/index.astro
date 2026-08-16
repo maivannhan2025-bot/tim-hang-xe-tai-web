@@ -8,7 +8,7 @@ const allPosts = (await getCollection('blog')).sort(
 const chuHang = allPosts.filter((p) => p.data.doiTuong !== 'nha-xe');
 const nhaXe = allPosts.filter((p) => p.data.doiTuong !== 'chu-hang');
 ---
-<Layout title="Blog — Tìm Hàng Xe Tải" description="Kinh nghiệm cho cả chủ hàng lẫn nhà xe: cách tìm hàng hiệu quả, thuê xe an tâm, và tin tức về Tìm Hàng Xe Tải." path="/blog/">
+<Layout title="Blog — Tìm Hàng Xe Tải" description="Kinh nghiệm thật cho chủ hàng và nhà xe: cách tìm hàng hiệu quả, chọn nhà xe uy tín, thuê xe an tâm, và tin tức mới từ Tìm Hàng Xe Tải." path="/blog/">
 
 <header class="site-head">
   <div class="wrap bar">

@@ -1,6 +1,6 @@
 ---
 title: "Vì sao xe chạy rỗng chiều về, và cách tìm hàng 2 chiều để đỡ lỗ dầu"
-description: "Chạy được một chuyến hàng ngon, nhưng quay đầu về thùng xe trống trơn — nỗi quen thuộc của gần như mọi nhà xe. Bài này nói thẳng vì sao chuyện đó cứ lặp lại, và vài cách thực tế để chiều về đỡ trống hơn."
+description: "Chạy được chuyến hàng ngon, quay đầu về lại trống trơn — nỗi quen của mọi nhà xe. Vài cách thực tế để chiều về đỡ chạy không, đỡ lỗ tiền dầu."
 ngayDang: 2026-08-16
 thoiGianDoc: 6
 anhDaiDien: "/anh/6.png"
