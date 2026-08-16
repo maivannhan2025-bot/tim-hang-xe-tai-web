@@ -1,10 +1,11 @@
 ---
 import chung from '../data/chung.json';
 
-const { title, description, path = '/' } = Astro.props;
+const { title, description, path = '/', image } = Astro.props;
 const siteUrl = 'https://timhangxetai.com';
 const fullTitle = title || 'Tìm Hàng Xe Tải — Sàn kết nối chủ hàng và nhà xe tải toàn quốc';
 const fullDesc = description || 'Chủ hàng đăng chuyến, nhà xe báo giá và nhận đơn — hai bên tự thoả thuận, tự thanh toán trực tiếp. Miễn phí cho chủ hàng, trải nghiệm ngay với đơn hàng thật.';
+const ogImage = image ? siteUrl + image : null;
 ---
 <!doctype html>
 <html lang="vi">
@@ -30,6 +31,7 @@ const fullDesc = description || 'Chủ hàng đăng chuyến, nhà xe báo giá 
 <meta property="og:title" content={fullTitle}>
 <meta property="og:description" content={fullDesc}>
 <meta property="og:url" content={siteUrl + path}>
+{ogImage && <meta property="og:image" content={ogImage} />}
 <script type="application/ld+json" set:html={JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'Organization',

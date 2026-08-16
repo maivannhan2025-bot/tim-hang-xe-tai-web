@@ -31,6 +31,7 @@ const nhaXe = allPosts.filter((p) => p.data.doiTuong !== 'chu-hang');
       <div class="grid">
         {chuHang.map((p) => (
           <a class="card" href={`/blog/${p.id.replace(/\.md$/, '')}/`}>
+            {p.data.anhDaiDien && <img class="thumb" src={p.data.anhDaiDien} alt={p.data.title} />}
             <h3>{p.data.title}</h3>
             <p>{p.data.description}</p>
             <span class="meta">{p.data.thoiGianDoc ? `${p.data.thoiGianDoc} phút đọc` : ''}</span>
@@ -46,6 +47,7 @@ const nhaXe = allPosts.filter((p) => p.data.doiTuong !== 'chu-hang');
       <div class="grid">
         {nhaXe.map((p) => (
           <a class="card" href={`/blog/${p.id.replace(/\.md$/, '')}/`}>
+            {p.data.anhDaiDien && <img class="thumb" src={p.data.anhDaiDien} alt={p.data.title} />}
             <h3>{p.data.title}</h3>
             <p>{p.data.description}</p>
             <span class="meta">{p.data.thoiGianDoc ? `${p.data.thoiGianDoc} phút đọc` : ''}</span>
@@ -76,6 +78,7 @@ const nhaXe = allPosts.filter((p) => p.data.doiTuong !== 'chu-hang');
   @media(max-width:900px){ .grid{grid-template-columns:repeat(2,1fr)} }
   @media(max-width:600px){ .grid{grid-template-columns:1fr} }
   .card{display:block; background:var(--card); border:1px solid var(--line); border-radius:14px; padding:20px; text-decoration:none; color:inherit; box-shadow:var(--shadow)}
+  .card .thumb{width:100%; aspect-ratio:16/9; object-fit:cover; border-radius:10px; margin-bottom:14px}
   .card h3{margin:0 0 8px; font-size:16px; font-weight:800; color:var(--text); line-height:1.4}
   .card p{margin:0 0 12px; color:var(--text-soft); font-size:13.8px}
   .card .meta{color:var(--muted); font-size:12.5px; font-weight:700}

@@ -16,7 +16,7 @@ const { Content } = await render(post);
 const ngay = post.data.ngayDang.toLocaleDateString('vi-VN', { day: '2-digit', month: '2-digit', year: 'numeric' });
 const nhan = post.data.doiTuong === 'chu-hang' ? 'Dành cho chủ hàng' : post.data.doiTuong === 'nha-xe' ? 'Dành cho nhà xe' : 'Dành cho tất cả';
 ---
-<Layout title={`${post.data.title} — Tìm Hàng Xe Tải`} description={post.data.description} path={`/blog/${slug}/`}>
+<Layout title={`${post.data.title} — Tìm Hàng Xe Tải`} description={post.data.description} path={`/blog/${slug}/`} image={post.data.anhDaiDien}>
 
 <header class="site-head">
   <div class="wrap bar">
@@ -27,6 +27,7 @@ const nhan = post.data.doiTuong === 'chu-hang' ? 'Dành cho chủ hàng' : post.
 
 <div class="wrap narrow">
   <div class="crumb"><a href="/">Trang chủ</a> / <a href="/blog/">Blog</a> / <span>{nhan}</span></div>
+  {post.data.anhDaiDien && <img class="anh-dai-dien" src={post.data.anhDaiDien} alt={post.data.title} />}
 
   <article>
     <span class="cat">{nhan}</span>
@@ -56,6 +57,7 @@ const nhan = post.data.doiTuong === 'chu-hang' ? 'Dành cho chủ hàng' : post.
   .narrow{max-width:760px}
   .crumb{padding:22px 0 0; font-size:13px; color:var(--muted); font-weight:700}
   .crumb a{text-decoration:none; color:var(--muted)}
+  .anh-dai-dien{width:100%; aspect-ratio:16/9; object-fit:cover; border-radius:16px; margin-top:16px; box-shadow:var(--shadow)}
   article{padding:14px 0 10px}
   .cat{display:inline-block; font-size:12px; font-weight:800; text-transform:uppercase; letter-spacing:.06em; color:var(--accent-dark); background:var(--accent-tint); padding:4px 12px; border-radius:999px; margin-bottom:14px}
   article h1{font-size:clamp(24px,4vw,32px); font-weight:800; line-height:1.28; margin:0 0 10px; letter-spacing:-.01em}
