@@ -30,6 +30,14 @@ const fullDesc = description || 'Chủ hàng đăng chuyến, nhà xe báo giá 
 <meta property="og:title" content={fullTitle}>
 <meta property="og:description" content={fullDesc}>
 <meta property="og:url" content={siteUrl + path}>
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'Tìm Hàng Xe Tải',
+  url: siteUrl,
+  description: 'Sàn kết nối chủ hàng và nhà xe tải khắp Việt Nam.',
+  areaServed: 'VN'
+})} />
 {chung.fbPixelId && (
   <script is:inline define:vars={{ pixelId: chung.fbPixelId }}>
     !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?

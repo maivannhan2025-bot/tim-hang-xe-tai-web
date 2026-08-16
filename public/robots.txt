@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://timhangxetai.com/sitemap-index.xml

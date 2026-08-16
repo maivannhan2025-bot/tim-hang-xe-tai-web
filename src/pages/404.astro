@@ -1,0 +1,21 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout title="Không tìm thấy trang — Tìm Hàng Xe Tải" description="Trang anh/chị tìm không tồn tại." path="/404/">
+<div class="wrap notfound">
+  <div class="box">
+    <span class="ico">🚚</span>
+    <h1>Không tìm thấy trang này</h1>
+    <p>Đường dẫn có thể đã đổi hoặc không còn tồn tại.</p>
+    <a href="/">← Về trang chủ</a>
+  </div>
+</div>
+<style>
+  .notfound{min-height:60vh; display:flex; align-items:center; justify-content:center; text-align:center}
+  .box{max-width:420px}
+  .ico{font-size:48px; display:block; margin-bottom:14px}
+  h1{font-size:22px; font-weight:800; margin:0 0 8px}
+  p{color:var(--muted); font-size:15px; margin:0 0 20px}
+  a{display:inline-block; background:var(--accent); color:#fff; text-decoration:none; font-weight:800; font-size:14.5px; padding:11px 20px; border-radius:10px}
+</style>
+</Layout>
