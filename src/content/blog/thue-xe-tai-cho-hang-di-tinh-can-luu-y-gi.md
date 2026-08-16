@@ -8,6 +8,10 @@ doiTuong: chu-hang
 draft: false
 ---
 
+Thuê xe tải chở hàng đi tỉnh nghe tưởng đơn giản, chỉ cần gọi một cuộc là xong. Thực tế người mới thuê thường lúng túng ngay từ bước đầu tiên.
+
+Không biết hỏi gì trước, không biết giá nào là hợp lý, sợ nhất là hàng đi rồi mới phát sinh chuyện. Bài này gom lại những điều cần lưu ý, để chuyến hàng đi tỉnh đầu tiên bớt hồi hộp hơn.
+
 ## Vì sao thuê xe tải chở hàng đi tỉnh hay khiến người mới bối rối
 
 Có lô hàng cần gửi đi tỉnh khác mà nhà không có xe tải. Gọi thử vài nơi, mỗi chỗ báo một giá khác nhau.

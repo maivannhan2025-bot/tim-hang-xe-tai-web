@@ -41,7 +41,7 @@ Câu hỏi thứ hai là thời gian có gấp không. Xe ghép phải chờ gom
 Câu hỏi thứ ba là loại hàng có kén chọn không. Hàng cồng kềnh, có mùi, hoặc cần giữ nguyên vẹn tuyệt đối thường không hợp đi ghép. Lý do là dễ va chạm hay lẫn mùi với hàng khác.
 
 
-<img src="/anh/xe-ro-mooc-18-tan-di-khap-ca-nuoc.jpg" alt="Xe tải thùng bạt cỡ lớn di chuyển trên đường" style="width:100%;border-radius:12px;margin:20px 0" />
+<img src="/anh/xe-ro-mooc-18-tan-di-khap-ca-nuoc.jpg" alt="Xe tải chạy tuyến Bắc Nam chở hàng ghép nhiều chủ trên cùng chuyến" style="width:100%;border-radius:12px;margin:20px 0" />
 
 ## Cẩm nang thuê xe tải chở hàng Bắc Nam không bị hớ
 
@@ -78,4 +78,4 @@ Cách chắc nhất là hỏi giá vài nơi cho cùng lô hàng, cùng chặng 
 **Đi ghép hàng thì giờ giao có tính chính xác được không?**
 Khó chính xác tuyệt đối vì xe còn ghé lấy trả hàng cho nhiều chủ khác nhau. Nếu cần giao đúng giờ, nên hỏi kỹ nhà xe trước hoặc cân nhắc bao nguyên chuyến.
 
-Nếu ngại mất công gọi hỏi từng nhà xe một, Tìm Hàng Xe Tải là chỗ đăng nhu cầu một lần. Nhà xe rảnh tuyến sẽ chủ động liên hệ lại, không phải tự đi gọi từng nơi. Cứ thử đăng tuyến đường, khối lượng và thời gian cần chuyển, xem có nhà xe nào hợp không.
+Nếu ngại mất công gọi hỏi từng nhà xe một, Tìm Hàng Xe Tải là chỗ đăng nhu cầu thuê xe tải chở hàng Bắc Nam một lần. Nhà xe rảnh tuyến sẽ chủ động liên hệ lại, không phải tự đi gọi từng nơi. Cứ thử đăng tuyến đường, khối lượng và thời gian cần chuyển, xem có nhà xe nào hợp không.

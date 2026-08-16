@@ -31,7 +31,7 @@ Nhà xe luôn giữ đầy đủ giấy tờ xe và giấy phép lái xe hợp l
 Nhiều người còn lập biên bản giao nhận đơn giản cho mỗi chuyến. Biên bản ghi rõ số lượng và tình trạng hàng lúc lấy và lúc giao. Có căn cứ rõ ràng, hai bên đều yên tâm hơn nếu sau này cần đối chiếu.
 
 
-<img src="/anh/xe-keo-container-24-tan-tron-goi.jpg" alt="Xe tải thùng kín màu trắng đậu trên đường" style="width:100%;border-radius:12px;margin:20px 0" />
+<img src="/anh/xe-keo-container-24-tan-tron-goi.jpg" alt="Xe chở hàng hoá cần chuẩn bị đủ giấy tờ vận chuyển trước khi lăn bánh" style="width:100%;border-radius:12px;margin:20px 0" />
 
 ## Cẩm nang chuẩn bị giấy tờ vận chuyển hàng hoá trước mỗi chuyến
 

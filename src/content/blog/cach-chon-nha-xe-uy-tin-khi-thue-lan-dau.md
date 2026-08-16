@@ -35,7 +35,7 @@ Giá cước hiện tại rất khác nhau theo tuyến, theo loại xe và lo�
 Nhà xe càng ngại trả lời câu hỏi cụ thể về xe và tài xế. Người thuê càng nên cân nhắc kỹ trước khi giao hàng.
 
 
-<img src="/anh/thue-xe-tai-cho-hang-lien-tinh-5-tan.jpg" alt="Xe tải thùng kín màu trắng đậu sẵn sàng nhận chuyến" style="width:100%;border-radius:12px;margin:20px 0" />
+<img src="/anh/thue-xe-tai-cho-hang-lien-tinh-5-tan.jpg" alt="Xe tải của nhà xe uy tín đậu sẵn sàng nhận chuyến" style="width:100%;border-radius:12px;margin:20px 0" />
 
 ## Cẩm nang thực chiến: kiểm tra nhà xe trước khi gửi hàng
 

@@ -43,7 +43,7 @@ Chở quá tải trọng cho phép vừa nguy hiểm vừa dễ bị xử phạt
 Giá cước xe tải trên thị trường thường tính theo loại xe, quãng đường và loại hàng. Mức chênh lệch giữa các khu vực khá lớn. Thông tin này chỉ để tham khảo, giá thật do hai bên tự thoả thuận.
 
 
-<img src="/anh/xe-tai-cho-hang-100.jpg" alt="Xe tải thùng bạt cỡ vừa chở hàng phủ bạt kín" style="width:100%;border-radius:12px;margin:20px 0" />
+<img src="/anh/xe-tai-cho-hang-100.jpg" alt="Xe tải thùng bạt chở đầy hàng đúng tải trọng cho phép" style="width:100%;border-radius:12px;margin:20px 0" />
 
 ## Cẩm nang chọn xe tải mấy tấn chở được bao nhiêu hàng là vừa
 
