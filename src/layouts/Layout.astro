@@ -164,21 +164,36 @@ const ogImage = siteUrl + (image || '/anh/6.png');
       }
       document.addEventListener('click', function (e) {
         var b = e.target.closest('#btnCaiApp, .js-cai-app');
-        if (!b) return;
-        // 1) Android/Chrome đủ điều kiện: bật hộp Cài đặt của máy (1 chạm ra icon)
-        if (deferred) {
-          e.preventDefault();
-          deferred.prompt();
-          deferred.userChoice.finally(function () { deferred = null; });
+        if (b) {
+          // NÚT "TẢI ỨNG DỤNG":
+          // 1) Android/Chrome đủ điều kiện: bật hộp Cài đặt của máy (1 chạm ra icon)
+          if (deferred) {
+            e.preventDefault();
+            deferred.prompt();
+            deferred.userChoice.finally(function () { deferred = null; });
+            return;
+          }
+          // 2) iPhone/iPad (chưa cài): Apple bắt buộc làm tay, hiện hướng dẫn 2 bước
+          if (laIOS() && !daCai()) {
+            e.preventDefault();
+            huongDanIOS();
+            return;
+          }
+          // 3) Còn lại (máy tính, hoặc đã cài): để nút mở thẳng app — không chặn
           return;
         }
-        // 2) iPhone/iPad (chưa cài): Apple bắt buộc làm tay, hiện hướng dẫn 2 bước
-        if (laIOS() && !daCai()) {
-          e.preventDefault();
-          huongDanIOS();
-          return;
+        // MỌI NÚT HÀNH ĐỘNG MỞ APP (Đăng hàng, Trải nghiệm, Tôi cần thuê xe, Đăng nhập...):
+        // gắn lời mời cài trước, rồi vẫn vào app để không cản trở việc của khách.
+        var a = e.target.closest('a');
+        if (a && a.href && a.href.indexOf('app.timhangxetai.com') >= 0) {
+          if (deferred) {
+            e.preventDefault();
+            var href = a.href;
+            deferred.prompt();
+            deferred.userChoice.finally(function () { deferred = null; location.href = href; });
+          }
+          // else: mở app bình thường — không chặn
         }
-        // 3) Còn lại (máy tính, hoặc đã cài): để nút mở thẳng app — không chặn
       });
     })();
   </script>
