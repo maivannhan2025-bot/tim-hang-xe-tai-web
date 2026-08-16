@@ -30,6 +30,8 @@ const ogImage = siteUrl + (image || '/anh/6.png');
 <meta name="google-site-verification" content="oSd56LSOQs7h_LZoo0nH-If322vcO6uL-yUa7aR1PnU" />
 <link rel="canonical" href={siteUrl + path}>
 <link rel="icon" href="/anh/favicon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="apple-touch-icon" href="/anh/6.png">
 <meta property="og:type" content="website">
 <meta property="og:title" content={fullTitle}>
 <meta property="og:description" content={fullDesc}>
@@ -120,5 +122,65 @@ const ogImage = siteUrl + (image || '/anh/6.png');
   {chung.contactForm && (
     <div id="popupLienHe" style="display:none"></div>
   )}
+  <script is:inline>
+    /* PWA: đăng ký service worker + nút "Tải ứng dụng" cài ra màn hình.
+       Không trình duyệt nào cho phép TỰ ghim không hỏi — nút này hiện hộp Cài đặt
+       (Android/Chrome) hoặc hướng dẫn 2 bước (iPhone/Safari). */
+    (function () {
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+          navigator.serviceWorker.register('/sw.js').catch(function () {});
+        });
+      }
+      var deferred = null;
+      window.addEventListener('beforeinstallprompt', function (e) {
+        e.preventDefault();
+        deferred = e;
+      });
+      function laIOS() {
+        return /iphone|ipad|ipod/i.test(navigator.userAgent) ||
+          (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+      }
+      function daCai() {
+        return (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches) ||
+          window.navigator.standalone === true;
+      }
+      function huongDanIOS() {
+        var o = document.getElementById('caiAppGuide');
+        if (o) { o.style.display = 'flex'; return; }
+        o = document.createElement('div');
+        o.id = 'caiAppGuide';
+        o.style.cssText = 'position:fixed;inset:0;background:rgba(6,14,43,.72);z-index:99999;display:flex;align-items:flex-end;justify-content:center;padding:16px';
+        o.innerHTML =
+          '<div style="background:#fff;color:#0b1233;max-width:440px;width:100%;border-radius:18px;padding:20px;font-family:inherit;box-shadow:0 20px 60px rgba(0,0,0,.4)">' +
+          '<div style="display:flex;align-items:center;gap:10px;margin-bottom:12px"><img src="/anh/icon.svg" style="width:42px;height:42px;border-radius:10px"><b style="font-size:16px">Cài Tìm Hàng Xe Tải ra màn hình</b></div>' +
+          '<p style="margin:0 0 8px;color:#33405e;font-size:14.5px">Trên iPhone/iPad, làm 2 bước:</p><ol style="margin:0 0 4px 18px;color:#33405e;font-size:14.5px;line-height:1.75"><li>Bấm nút <b>Chia sẻ</b> (ô vuông có mũi tên) ở thanh Safari.</li><li>Chọn <b>“Thêm vào Màn hình chính”</b>.</li></ol>' +
+          '<div style="text-align:right;margin-top:16px"><button id="caiAppClose" style="background:#eb3309;color:#fff;border:0;border-radius:10px;font-weight:800;font-size:14.5px;padding:10px 18px;cursor:pointer">Đã hiểu</button></div>' +
+          '</div>';
+        document.body.appendChild(o);
+        o.addEventListener('click', function (ev) {
+          if (ev.target === o || ev.target.id === 'caiAppClose') o.style.display = 'none';
+        });
+      }
+      document.addEventListener('click', function (e) {
+        var b = e.target.closest('#btnCaiApp, .js-cai-app');
+        if (!b) return;
+        // 1) Android/Chrome đủ điều kiện: bật hộp Cài đặt của máy (1 chạm ra icon)
+        if (deferred) {
+          e.preventDefault();
+          deferred.prompt();
+          deferred.userChoice.finally(function () { deferred = null; });
+          return;
+        }
+        // 2) iPhone/iPad (chưa cài): Apple bắt buộc làm tay, hiện hướng dẫn 2 bước
+        if (laIOS() && !daCai()) {
+          e.preventDefault();
+          huongDanIOS();
+          return;
+        }
+        // 3) Còn lại (máy tính, hoặc đã cài): để nút mở thẳng app — không chặn
+      });
+    })();
+  </script>
 </body>
 </html>
