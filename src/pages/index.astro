@@ -10,22 +10,54 @@ const appUrl = t.appUrl || 'https://app.timhangxetai.com/';
   <div class="wrap bar">
     <a class="brand-logo" href="/"><span class="brand-mark">🚚</span><span>Tìm hàng<span style="color:var(--accent)"> xe tải</span></span></a>
     <nav class="nav-links" aria-label="Menu chính">
-      <a href="#loiich">Lợi ích</a>
-      <a href="#cachlam">Cách hoạt động</a>
-      <a href="/blog/">Blog</a>
-      <a href="#hoidap">Hỏi nhanh</a>
+      <span class="navdrop">
+        <a href="/blog/">Dịch vụ <span class="car">▾</span></a>
+        <div class="mega">
+          <div class="mtop"><span class="pill dv">DỊCH VỤ</span><span class="kw">Dịch vụ vận chuyển theo tuyến &amp; khu vực</span></div>
+          <div class="mlist">
+            <a class="it" href="/blog/thue-xe-tai-cho-hang-di-tinh-can-luu-y-gi/"><span class="bt dv"></span>Thuê xe tải chở hàng đi tỉnh cần lưu ý gì</a>
+            <a class="it" href="/blog/thue-xe-tai-cho-hang-bac-nam-ghep-hang-hay-bao-xe/"><span class="bt dv"></span>Thuê xe tải chở hàng Bắc Nam: ghép hay bao xe</a>
+            <a class="mall dv" href="/blog/">Xem tất cả Dịch vụ →</a>
+          </div>
+        </div>
+      </span>
+      <span class="navdrop">
+        <a href="/blog/">Cách tìm hàng <span class="car">▾</span></a>
+        <div class="mega">
+          <div class="mtop"><span class="pill tim">CÁCH TÌM HÀNG</span><span class="kw">Kinh nghiệm cho chủ xe tải</span></div>
+          <div class="mlist">
+            <a class="it" href="/blog/nha-xe-tim-hang-o-dau/"><span class="bt tim"></span>Nhà xe tìm hàng ở đâu để xe ít chạy rỗng</a>
+            <a class="it" href="/blog/vi-sao-xe-chay-rong-chieu-ve/"><span class="bt tim"></span>Vì sao xe chạy rỗng chiều về &amp; cách tìm hàng 2 chiều</a>
+            <a class="mall tim" href="/blog/">Xem tất cả Cách tìm hàng →</a>
+          </div>
+        </div>
+      </span>
+      <span class="navdrop rt">
+        <a href="/blog/">Kinh nghiệm đặt xe <span class="car">▾</span></a>
+        <div class="mega">
+          <div class="mtop"><span class="pill dat">KINH NGHIỆM ĐẶT XE</span><span class="kw">Hướng dẫn chủ hàng đặt xe, chọn nhà xe uy tín</span></div>
+          <div class="mlist">
+            <a class="it" href="/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/"><span class="bt dat"></span>Cách chọn nhà xe uy tín khi thuê lần đầu</a>
+            <a class="it" href="/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/"><span class="bt dat"></span>Cách tính cước vận chuyển hàng hóa</a>
+            <a class="it" href="/blog/cach-dong-goi-hang-hoa-khi-gui-xe-tai/"><span class="bt dat"></span>Cách đóng gói hàng hóa an toàn khi gửi xe</a>
+            <a class="it" href="/blog/gui-hang-qua-nha-xe-hay-chanh-xe/"><span class="bt dat"></span>Gửi hàng qua nhà xe hay chành xe</a>
+            <a class="it" href="/blog/van-chuyen-hang-hoa-can-giay-to-gi/"><span class="bt dat"></span>Vận chuyển hàng hóa cần giấy tờ gì</a>
+            <a class="it" href="/blog/xe-tai-may-tan-cho-duoc-bao-nhieu-hang/"><span class="bt dat"></span>Xe tải mấy tấn chở được bao nhiêu hàng</a>
+            <a class="mall dat" href="/blog/">Xem tất cả Kinh nghiệm đặt xe →</a>
+          </div>
+        </div>
+      </span>
     </nav>
     <div class="nav-cta">
       <a class="login" href={appUrl}>Đăng nhập</a>
-      <a class="btn" href={appUrl}>Trải nghiệm ngay</a>
+      <a class="btn js-cai-app" id="btnCaiApp" href={appUrl}>Tải ứng dụng</a>
       <button class="burger" aria-label="Mở menu" id="burgerBtn">☰</button>
     </div>
   </div>
   <nav class="m-menu" id="mMenu" aria-label="Menu điện thoại">
-    <a href="#loiich">Lợi ích</a>
-    <a href="#cachlam">Cách hoạt động</a>
-    <a href="/blog/">Blog</a>
-    <a href="#hoidap">Hỏi nhanh</a>
+    <a href="/blog/" class="m-sub"><span class="sq dv"></span>Dịch vụ</a>
+    <a href="/blog/" class="m-sub"><span class="sq tim"></span>Cách tìm hàng</a>
+    <a href="/blog/" class="m-sub"><span class="sq dat"></span>Kinh nghiệm đặt xe</a>
     <a href={appUrl}>Đăng nhập</a>
   </nav>
 </header>
@@ -220,9 +252,30 @@ const appUrl = t.appUrl || 'https://app.timhangxetai.com/';
   .site-head .bar{display:flex; align-items:center; justify-content:space-between; gap:16px; padding:12px 20px}
   .brand-logo{display:flex; align-items:center; gap:10px; font-weight:800; letter-spacing:-.01em; font-size:18px; text-decoration:none}
   .brand-mark{width:34px; height:34px; border-radius:10px; background:var(--accent); color:#fff; display:grid; place-items:center; font-size:17px; box-shadow:0 4px 12px rgba(235,51,9,.35); flex:0 0 auto}
-  .nav-links{display:flex; align-items:center; gap:22px; font-size:14.5px; font-weight:700}
-  .nav-links a{text-decoration:none; color:var(--text-soft)}
-  .nav-links a:hover{color:var(--accent-dark)}
+  .nav-links{display:flex; align-items:center; gap:15px; font-size:14px; font-weight:700}
+  .nav-links>a,.navdrop>a{text-decoration:none; color:var(--text-soft); white-space:nowrap; display:inline-flex; align-items:center; gap:5px}
+  .nav-links>a:hover,.navdrop:hover>a{color:var(--accent-dark)}
+  .navdrop{position:relative; display:flex; align-items:center}
+  .navdrop>a .car{font-size:9px; opacity:.7; transition:transform .2s}
+  .navdrop:hover>a .car{transform:rotate(180deg)}
+  .mega{position:absolute; top:calc(100% + 14px); left:0; width:334px; background:var(--panel); border:1px solid var(--line); border-radius:15px; box-shadow:0 20px 46px rgba(10,22,66,.18); opacity:0; visibility:hidden; transform:translateY(8px); transition:.16s; overflow:hidden; z-index:40}
+  .navdrop.rt .mega{left:auto; right:0}
+  .navdrop:hover .mega{opacity:1; visibility:visible; transform:translateY(0)}
+  .mega .mtop{padding:14px 16px 10px; border-bottom:1px solid var(--line)}
+  .mega .pill{display:inline-block; font-size:11px; color:#fff; padding:3px 10px; border-radius:999px; font-weight:800; letter-spacing:.3px}
+  .mega .pill.dv{background:var(--blue)} .mega .pill.tim{background:var(--accent)} .mega .pill.dat{background:var(--green)}
+  .mega .kw{display:block; margin-top:7px; font-size:12px; color:var(--muted); font-weight:600}
+  .mega .mlist{padding:8px}
+  .mega a.it{display:flex; gap:9px; align-items:flex-start; padding:8px 9px; border-radius:9px; font-size:13.6px; font-weight:700; color:var(--text-soft); line-height:1.34; text-decoration:none}
+  .mega a.it:hover{background:var(--bg); color:var(--text)}
+  .mega a.it .bt{width:7px; height:7px; border-radius:50%; margin-top:6px; flex:none}
+  .mega .bt.dv{background:var(--blue)} .mega .bt.tim{background:var(--accent)} .mega .bt.dat{background:var(--green)}
+  .mega a.mall{display:block; text-align:center; font-weight:800; font-size:12.5px; padding:11px; color:#fff; margin:6px 8px 10px; border-radius:9px; text-decoration:none}
+  .mega a.mall.dv{background:var(--blue)} .mega a.mall.tim{background:var(--accent)} .mega a.mall.dat{background:var(--green)}
+  .m-menu .m-cat{display:block; padding:12px 4px 4px; font-size:12px; font-weight:800; text-transform:uppercase; letter-spacing:.05em; color:var(--muted)}
+  .m-menu .m-sub{padding-left:8px; display:flex; align-items:center; gap:9px}
+  .m-menu .sq{width:9px; height:9px; border-radius:3px; flex:none}
+  .m-menu .sq.dv{background:var(--blue)} .m-menu .sq.tim{background:var(--accent)} .m-menu .sq.dat{background:var(--green)}
   .nav-cta{display:flex; align-items:center; gap:14px}
   .nav-cta .login{text-decoration:none; color:var(--text-soft); font-size:14.5px; font-weight:700}
   .nav-cta .login:hover{color:var(--accent-dark)}
