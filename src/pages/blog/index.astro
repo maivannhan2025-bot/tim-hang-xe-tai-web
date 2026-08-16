@@ -2,7 +2,8 @@
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
-const allPosts = (await getCollection('blog')).sort(
+const now = Date.now();
+const allPosts = (await getCollection('blog', ({ data }) => !data.draft && data.ngayDang.valueOf() <= now)).sort(
   (a, b) => b.data.ngayDang.valueOf() - a.data.ngayDang.valueOf()
 );
 const chuHang = allPosts.filter((p) => p.data.doiTuong !== 'nha-xe');

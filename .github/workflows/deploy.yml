@@ -3,6 +3,11 @@ name: Deploy
 on:
   push:
     branches: [main]
+  # Bài blog hẹn ngày đăng (ngayDang) chỉ tự hiện khi build LẠI sau đúng giờ đó — chạy lại
+  # đều đặn để bài hẹn lịch tự "sống dậy" đúng giờ, không cần ai bấm tay.
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
 
 jobs:
   deploy:
