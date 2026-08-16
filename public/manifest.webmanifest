@@ -1,0 +1,15 @@
+{
+  "name": "Tìm Hàng Xe Tải",
+  "short_name": "Tìm Hàng Xe Tải",
+  "description": "Sàn kết nối chủ hàng và nhà xe tải khắp Việt Nam.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a1642",
+  "theme_color": "#0a1642",
+  "icons": [
+    { "src": "/anh/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/anh/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
