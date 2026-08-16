@@ -21,5 +21,5 @@ jobs:
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          accountId: e9e88ac586803b53ffff66350dd0e375
           command: pages deploy dist --project-name=tim-hang-xe-tai-web
