@@ -144,12 +144,12 @@
    (mọi phần khác của file GIỮ NGUYÊN — đây là bộ khung dùng chung)
    ================================================================== */
 const CFG = {
-  repo:    'maivannhan2025-bot/tim-hang-xe-tai-web',  // kho GitHub của web này
+  repo:    'maivannhan2025-bot/tim-hang-xe-tai-web',                      // kho GitHub của web đó.  VD: vantaidanhlong-cyber/vantaidanhlong-web
   branch:  'main',                                    // nhánh chính (thường 'main')
-  auth:    'https://sveltia-auth.vantaidanhlong.workers.dev', // dùng CHUNG cầu đăng nhập Danh Long (đúng cách Lê Chung đã làm)
-  site:    'https://timhangxetai.com',                // tên miền web thật
-  brand:   'TÌM HÀNG XE TẢI',                         // tên hiện ở đầu trang quản lý + màn đăng nhập
-  brandMark: 'TX',                                    // 2 chữ tắt trong ô tròn màn đăng nhập
+  auth:    'https://sveltia-auth.vantaidanhlong.workers.dev',    // cầu đăng nhập GitHub (Cloudflare Worker) của web đó
+  site:    'https://timhangxetai.com',                    // tên miền web thật (xem ảnh + mở "Sửa trang chủ")
+  brand:   'TÌM HÀNG XE TẢI',                             // tên hiện ở đầu trang quản lý + màn đăng nhập. VD: VẬN TẢI DANH LONG
+  brandMark: 'TX',                                    // 2 chữ tắt trong ô tròn màn đăng nhập. VD: DL
   blogDir: 'src/content/blog',                        // thư mục bài blog (.md) — giữ nguyên nếu dùng khung Astro chuẩn
   imgDir:  'public/anh',                              // thư mục ảnh — giữ nguyên nếu dùng khung Astro chuẩn
 };
@@ -425,6 +425,18 @@ async function renderBlogList() {
   } catch (e) { document.getElementById('bl').innerHTML = '<div class="center-msg">Lỗi tải: ' + esc(e.message) + '</div>'; }
 }
 
+// ngayDang luu dang "2026-08-17" hoac "2026-08-17T07:30:00+07:00" (gio VN) -> doi qua/lai voi
+// input type="datetime-local" (can dang "YYYY-MM-DDTHH:mm", khong duoc co giay/mui gio).
+function ngayDangToInput(nd) {
+  const m = String(nd || '').match(/^(\d{4}-\d{2}-\d{2})(?:[T ](\d{2}:\d{2}))?/);
+  if (!m) return '';
+  return m[1] + 'T' + (m[2] || '00:00');
+}
+function inputToNgayDang(v) {
+  const m = String(v || '').match(/^(\d{4}-\d{2}-\d{2})T(\d{2}:\d{2})/);
+  if (!m) return v || '';
+  return m[1] + 'T' + m[2] + ':00+07:00';   // luon gio Viet Nam, khong phu thuoc may build o dau
+}
 async function renderBlogEdit(nameEnc) {
   const isNew = !nameEnc;
   let fm = { title:'', description:'', ngayDang:new Date().toISOString().slice(0,10), thoiGianDoc:'', anhDaiDien:'', tuKhoa:'' };
@@ -451,7 +463,7 @@ async function renderBlogEdit(nameEnc) {
         <div class="field"><label>Tiêu đề bài <span class="hint">(nên có từ khoá)</span></label><input id="f_title" value="${esc(fm.title)}"></div>
         <div class="field"><label>Mô tả ngắn (hiện trên Google) <span class="hint">120–160 ký tự</span></label><textarea id="f_desc" rows="2">${esc(fm.description)}</textarea></div>
         <div class="field" style="display:flex;gap:14px;flex-wrap:wrap">
-          <div style="flex:1;min-width:150px"><label>Ngày đăng <span class="hint">(ngày bài hiện trên web — bấm "Lên lịch" là dùng ngày này)</span></label><input id="f_date" type="date" value="${esc(fm.ngayDang)}"></div>
+          <div style="flex:1;min-width:200px"><label>Ngày giờ đăng <span class="hint">(giờ Việt Nam — bấm "Lên lịch" là dùng đúng ngày giờ này)</span></label><input id="f_date" type="datetime-local" value="${esc(ngayDangToInput(fm.ngayDang))}"></div>
           <div style="width:150px"><label>Phút đọc</label><input id="f_read" type="number" value="${esc(fm.thoiGianDoc)}"></div>
         </div>
         <div class="field"><label>Ảnh đại diện</label>
@@ -537,10 +549,10 @@ async function renderBlogEdit(nameEnc) {
     if(!title){ toast('⚠️ Chưa có tiêu đề'); return; }
     if(!$('f_desc').value.trim()){ toast('⚠️ Chưa có mô tả ngắn'); return; }
     const today=new Date().toISOString().slice(0,10);
-    // Đăng ngay = ngày HÔM NAY (hiện liền). Lên lịch = dùng ngày trong ô (chọn tương lai để hẹn).
+    // Đăng ngay = ngày HÔM NAY (hiện liền, không cần giờ). Lên lịch = dùng đúng ngày GIỜ trong ô (chọn tương lai để hẹn).
     let ngay;
-    if(mode==='publish'){ ngay=today; }               // Đăng ngay = hôm nay
-    else { ngay=$('f_date').value||today; }            // Lên lịch = dùng ô "Ngày đăng"
+    if(mode==='publish'){ ngay=today; }                        // Đăng ngay = hôm nay
+    else { ngay=inputToNgayDang($('f_date').value)||today; }   // Lên lịch = dùng đúng ngày giờ trong ô "Ngày giờ đăng"
     const nfm={ title, description:$('f_desc').value.trim(), ngayDang:ngay, thoiGianDoc:$('f_read').value.trim(), anhDaiDien:$('f_img').value.trim(), tuKhoa:$('f_kw').value.trim() };
     const md=buildMd(nfm, getContent());
     let path;
