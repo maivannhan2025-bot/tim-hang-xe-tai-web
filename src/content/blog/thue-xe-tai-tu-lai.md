@@ -18,11 +18,15 @@ Bài này giúp Quý khách thuê xe tải tự lái an toàn. Em nói rõ cần
 
 Không phải lúc nào tự lái cũng hợp. Quý khách cân theo tình huống của mình.
 
+### Trường hợp nên chọn tự lái để chủ động chở hàng
+
 Tự lái hợp khi Quý khách quen lái xe tải. Có bằng lái phù hợp với loại xe định thuê. Đường đi cũng đã rành, không quá xa lạ.
 
-Tự lái hợp khi hàng cần xếp dỡ nhiều lần trong ngày. Tự làm thì chủ động thời gian. Không phải tính giờ chờ tài xế.
+Tự lái cũng hợp khi hàng cần xếp dỡ nhiều lần trong ngày. Tự làm thì chủ động thời gian, không phải tính giờ chờ tài xế.
 
-Ngược lại, nếu tuyến quá dài và lạ, nên cân nhắc. Đường xa mà chưa quen xe thì mệt và dễ rủi ro. Khi đó thuê cả xe lẫn tài xế lại an toàn hơn.
+### Trường hợp nên thuê xe kèm tài xế thay vì tự lái
+
+Ngược lại, nếu tuyến quá dài và lạ, Quý khách nên cân nhắc. Đường xa mà chưa quen xe thì mệt và dễ rủi ro. Khi đó thuê cả xe lẫn tài xế lại an toàn hơn.
 
 Muốn so sánh với hình thức thuê có tài xế, Quý khách đọc bài [thuê xe tải chở hàng](/blog/thue-xe-tai-cho-hang/) để chọn cho đúng nhu cầu.
 
@@ -32,15 +36,21 @@ Muốn so sánh với hình thức thuê có tài xế, Quý khách đọc bài 
 
 Đây là phần quan trọng nhất. Kiểm kỹ trước khi nhận giúp Quý khách tránh rắc rối về sau.
 
-Việc một là kiểm tra lốp và phanh. Lốp còn gai không, có non hơi không. Đạp thử phanh xem ăn đều không. Đây là hai thứ liên quan trực tiếp tới an toàn.
+### Kiểm tra an toàn xe: lốp, phanh, đèn và còi trước khi nhận
+
+Việc một là kiểm tra lốp và phanh. Lốp còn gai không, có non hơi không, đạp thử phanh xem ăn đều không. Đây là hai thứ liên quan trực tiếp tới an toàn khi lái xe tải.
 
 Việc hai là kiểm tra đèn và còi. Bật thử đèn trước, đèn sau, đèn xi nhan. Đi buổi tối mà đèn hỏng là rất nguy hiểm.
 
-Việc ba là xem thùng xe và cửa khóa. Thùng có kín không, sàn có chắc không. Chốt cửa đóng mở êm không. Thùng tốt thì hàng mới an toàn.
+### Kiểm tra thùng xe, chụp ảnh hiện trạng và giấy tờ xe đầy đủ
 
-Việc bốn là chụp ảnh tình trạng xe khi nhận. Chụp các vết trầy sẵn có quanh xe. Khi trả xe có gì thắc mắc thì đã có bằng chứng rõ.
+Việc ba là xem thùng xe và cửa khóa. Thùng có kín không, sàn có chắc không, chốt cửa đóng mở êm không. Thùng tốt thì hàng mới an toàn.
+
+Việc bốn là chụp ảnh tình trạng xe khi nhận, gồm các vết trầy sẵn có quanh xe. Khi trả xe có gì thắc mắc thì đã có bằng chứng rõ.
 
 Việc năm là kiểm giấy tờ xe. Xe phải có đăng ký, đăng kiểm còn hạn, bảo hiểm đầy đủ. Thiếu giấy là dễ bị phạt khi ra đường.
+
+### Ghi rõ mức nhiên liệu và chuẩn bị giấy tờ hàng hóa mang theo
 
 Việc sáu là ghi rõ mức nhiên liệu lúc nhận. Nhận đầy thì trả đầy, nhận vơi thì trả vơi. Thống nhất trước cho khỏi tranh cãi lúc trả.
 
@@ -58,9 +68,13 @@ Mẹo ba là tránh giờ kẹt xe. Kẹt xe làm hao dầu và mất thời gia
 
 Chọn xe đúng là bước quyết định. Sai tải trọng thì hoặc chở không hết, hoặc phí tiền.
 
+### Xe nhỏ hợp với hàng ít, đi trong phố
+
 Hàng ít, đi trong phố thì chọn xe nhỏ. Xe nhỏ vào hẻm được, đậu gọn, ít tốn dầu. Đây là lựa chọn hợp cho phần lớn nhu cầu cá nhân.
 
-Hàng nhiều, cồng kềnh thì chọn xe lớn hơn. Đi một chuyến hết còn hơn chạy nhiều lần. Nhưng phải chắc mình lái được cỡ xe đó.
+### Xe lớn hợp với hàng nhiều, cồng kềnh
+
+Hàng nhiều, cồng kềnh thì chọn xe lớn hơn. Đi một chuyến hết còn hơn chạy nhiều lần, nhưng phải chắc mình lái được cỡ xe đó.
 
 Để ước lượng xe mấy tấn chở vừa hàng, Quý khách đọc bài [xe tải mấy tấn chở được bao nhiêu hàng](/blog/xe-tai-may-tan-cho-duoc-bao-nhieu-hang/). Ước đúng thì thuê đúng, không thừa không thiếu.
 
@@ -68,55 +82,75 @@ Hàng nhiều, cồng kềnh thì chọn xe lớn hơn. Đi một chuyến hết
 
 ## Những lưu ý để không mất tiền oan
 
-Lưu ý đầu là đọc kỹ thỏa thuận thuê. Xem rõ điều kiện trả xe và các khoản có thể phát sinh. Hiểu trước thì không bị bất ngờ.
+Vài lưu ý nhỏ sau giúp Quý khách kiểm soát chi phí thuê xe tốt hơn.
 
-Lưu ý hai là hỏi rõ xử lý khi xe hỏng dọc đường. Ai lo sửa, liên hệ ai. Biết trước thì lúc sự cố không luống cuống.
+### Đọc kỹ thỏa thuận thuê và cách xử lý khi xe gặp sự cố
 
-Lưu ý ba là lái đúng luật và đúng tải. Chở quá tải dễ bị phạt và hại xe. Phạt một lần có khi bằng tiền thuê nhiều ngày.
+Lưu ý đầu là đọc kỹ thỏa thuận thuê. Xem rõ điều kiện trả xe và các khoản có thể phát sinh, hiểu trước thì không bị bất ngờ.
 
-Lưu ý bốn là giữ xe sạch và trả đúng hẹn. Trả trễ hoặc xe bẩn có thể bị trừ. Giữ gìn tử tế thì lần sau thuê dễ hơn.
+Lưu ý hai là hỏi rõ xử lý khi xe hỏng dọc đường, ai lo sửa và liên hệ ai. Biết trước thì lúc sự cố không luống cuống.
 
-Nếu thấy tự lái nhiều thủ tục quá, Quý khách có thể chọn cách khác. Đăng chuyến để nhà xe nhận chở giúp. Vừa đỡ lo giấy tờ vừa đỡ lo tay lái.
+### Lái đúng tải trọng và giữ xe sạch để tránh phát sinh chi phí
+
+Lưu ý ba là lái đúng luật và đúng tải. Chở quá tải dễ bị phạt và hại xe, phạt một lần có khi bằng tiền thuê nhiều ngày.
+
+Lưu ý bốn là giữ xe sạch và trả đúng hẹn. Trả trễ hoặc xe bẩn có thể bị trừ, còn giữ gìn tử tế thì lần sau thuê dễ hơn.
+
+Nếu thấy tự lái nhiều thủ tục quá, Quý khách có thể chọn cách khác. Đăng chuyến để nhà xe nhận chở giúp, vừa đỡ lo giấy tờ vừa đỡ lo tay lái.
 
 ## Tự lái và thuê xe kèm tài xế, chọn cái nào
 
 Hai cách này đều có chỗ hay riêng. Quý khách chọn theo việc thật của mình.
 
-Tự lái được cái chủ động và tiết kiệm công. Không phải chờ tài xế, không phải tính giờ của người ta. Hợp khi Quý khách quen xe và rành đường.
+### Ưu và nhược điểm khi tự lái xe tải
+
+Tự lái được cái chủ động và tiết kiệm công. Không phải chờ tài xế, không phải tính giờ của người ta. Cách này hợp khi Quý khách quen xe và rành đường.
 
 Nhưng tự lái cũng có cái phải gánh. Lo giấy tờ, lo tay lái, lo cả xử lý khi xe trục trặc. Đường xa và lạ thì gánh này khá nặng.
 
-Thuê xe kèm tài xế thì nhẹ đầu hơn. Nhà xe lo xe, lo lái, lo cả tuyến đường. Quý khách chỉ theo dõi hàng của mình.
+### Ưu và nhược điểm khi thuê xe kèm tài xế
 
-Đổi lại, cách này Quý khách bớt chủ động giờ giấc hơn. Phải phối hợp với lịch của tài xế. Nhưng bù lại an toàn và đỡ mệt.
+Thuê xe kèm tài xế thì nhẹ đầu hơn, miễn Quý khách biết [cách chọn nhà xe uy tín khi thuê lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/). Nhà xe lo xe, lo lái, lo cả tuyến đường, Quý khách chỉ theo dõi hàng của mình.
 
-Nói gọn lại thế này. Hàng gần, quen xe thì tự lái lợi. Hàng xa, lạ đường thì thuê kèm tài xế yên tâm hơn.
+Đổi lại, cách này Quý khách bớt chủ động giờ giấc hơn, phải phối hợp với lịch của tài xế. Nhưng bù lại an toàn và đỡ mệt.
+
+### Nên chọn tự lái hay thuê kèm tài xế
+
+Nói gọn lại thế này: hàng gần, quen xe thì tự lái lợi. Hàng xa, lạ đường thì thuê kèm tài xế yên tâm hơn.
 
 ## Chuẩn bị hàng trước khi lên xe
 
 Thuê được xe rồi, khâu chuẩn bị hàng cũng quan trọng. Chuẩn bị tốt thì tự lái nhẹ nhàng hơn nhiều.
 
-Trước hết là bó gọn và dán nhãn từng kiện. Kiện nào nặng, kiện nào dễ vỡ ghi rõ. Lúc xếp lên xe sẽ nhanh và đúng thứ tự.
+### Đóng gói và sắp xếp hàng đúng cách trên xe
 
-Kế đến là xếp hàng nặng xuống dưới, nhẹ lên trên. Chèn lót các khoảng trống cho hàng khỏi xê dịch. Xe chạy rung mà hàng không nhúc nhích là đạt.
+Trước hết là bó gọn và dán nhãn từng kiện theo đúng [cách đóng gói hàng hóa khi gửi xe tải](/blog/cach-dong-goi-hang-hoa-khi-gui-xe-tai/), ghi rõ kiện nào nặng, kiện nào dễ vỡ. Lúc xếp lên xe sẽ nhanh và đúng thứ tự.
 
-Đừng chất quá đầy che khuất tầm nhìn. Tự lái mà không thấy phía sau là nguy hiểm. Chất vừa phải, cột chắc là an toàn nhất.
+Kế đến là xếp hàng nặng xuống dưới, nhẹ lên trên. Chèn lót các khoảng trống cho hàng khỏi xê dịch, xe chạy rung mà hàng không nhúc nhích là đạt.
 
-Cuối cùng là mang theo dây ràng và bạt che. Gặp mưa dọc đường thì có cái đậy ngay. Chuẩn bị dư một chút luôn tốt hơn thiếu.
+### Chất hàng vừa tầm nhìn và chuẩn bị dây ràng, bạt che
 
-Làm kỹ khâu này thì cả chuyến trôi chảy. Quý khách vừa lái vừa yên tâm về hàng. Đó mới là cái lợi trọn vẹn của việc tự lái.
+Đừng chất quá đầy che khuất tầm nhìn, vì tự lái mà không thấy phía sau là nguy hiểm. Chất vừa phải, cột chắc là an toàn nhất.
+
+Cuối cùng là mang theo dây ràng và bạt che. Gặp mưa dọc đường thì có cái đậy ngay, chuẩn bị dư một chút luôn tốt hơn thiếu.
+
+Làm kỹ khâu này thì cả chuyến trôi chảy. Quý khách vừa lái vừa yên tâm về hàng, đó mới là cái lợi trọn vẹn của việc tự lái.
 
 ## Lái an toàn trên đường để về nhà đủ hàng
 
 Tự lái thì an toàn nằm trong tay Quý khách. Vài thói quen nhỏ giúp cả chuyến trơn tru.
 
+### Nghỉ ngơi đầy đủ và giữ khoảng cách an toàn khi lái
+
 Trước khi đi, nên nghỉ ngơi cho tỉnh táo. Lái xe tải khác lái xe con, cần tập trung hơn. Buồn ngủ là kẻ thù lớn nhất trên đường.
 
-Đi đúng tốc độ và giữ khoảng cách an toàn. Xe chở hàng nặng thì phanh ăn chậm hơn. Chạy vừa phải mới kịp xử lý tình huống.
+Đi đúng tốc độ và giữ khoảng cách an toàn, vì xe chở hàng nặng thì phanh ăn chậm hơn. Chạy vừa phải mới kịp xử lý tình huống.
 
-Dừng nghỉ khi thấy mỏi, đừng cố. Chặng dài thì chia ra nghỉ vài lần. Người khỏe thì tay lái mới vững.
+### Dừng nghỉ đúng lúc và giảm tốc khi vào cua, xuống dốc
 
-Khi vào cua hay xuống dốc, hãy giảm tốc sớm. Xe nặng lấy đà nhanh nên khó ghì lại. Chủ động chậm trước là cách giữ an toàn tốt nhất.
+Dừng nghỉ khi thấy mỏi, đừng cố. Chặng dài thì chia ra nghỉ vài lần, người khỏe thì tay lái mới vững.
+
+Khi vào cua hay xuống dốc, hãy giảm tốc sớm vì xe nặng lấy đà nhanh nên khó ghì lại. Chủ động chậm trước giúp giữ an toàn hơn hẳn.
 
 ## Câu hỏi thường gặp
 

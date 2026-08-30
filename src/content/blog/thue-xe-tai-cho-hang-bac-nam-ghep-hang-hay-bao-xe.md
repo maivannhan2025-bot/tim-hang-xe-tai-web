@@ -18,25 +18,39 @@ Vấn đề không nằm ở việc tìm xe khó. Vấn đề là không biết 
 
 Xe tải chạy tuyến Bắc Nam chủ yếu nhận hàng theo hai kiểu. Một là ghép nhiều đơn hàng nhỏ lên cùng một xe. Hai là bao nguyên xe cho một chủ hàng duy nhất.
 
-Ghép hàng nghĩa là xe chạy tuyến cố định, gom hàng của nhiều chủ trên cùng chuyến. Mỗi người trả tiền theo khối lượng hoặc thể tích phần hàng của mình.
+### Ghép hàng nghĩa là gì
 
-Bao xe nguyên chuyến là thuê trọn thùng xe cho riêng mình. Xe chỉ chở hàng của một chủ, đi thẳng từ điểm lấy tới điểm giao, không dừng gom hàng dọc đường.
+Ghép hàng nghĩa là xe chạy tuyến cố định, gom hàng của nhiều chủ trên cùng chuyến. Mỗi người trả tiền theo khối lượng hoặc thể tích phần hàng của mình. Cách này giúp tiết kiệm cước vận chuyển khi hàng số lượng ít.
+
+### Bao xe nguyên chuyến nghĩa là gì
+
+Bao xe nguyên chuyến là thuê trọn thùng xe cho riêng mình. Xe chỉ chở hàng của một chủ, đi thẳng từ điểm lấy tới điểm giao. Xe không dừng gom hàng dọc đường.
 
 Hai cách này khác nhau về giá, về thời gian, và về mức chủ động của người thuê. Hiểu rõ khác biệt này trước sẽ giúp chọn đúng ngay từ đầu, đỡ mất công đổi ý giữa chừng.
 
 ## Vì sao giá thuê xe tải chở hàng Bắc Nam mỗi nơi mỗi khác
 
-Cước vận tải Bắc Nam thường đổi theo mùa, theo chiều hàng đi hay hàng về. Chiều nào ít hàng, xe chạy rỗng nhiều hơn, giá theo đó cũng khác.
+### Cước vận tải Bắc Nam thay đổi theo mùa và theo chiều hàng
 
-Vì vậy khó có một mức giá chung cho mọi chuyến. Mặt bằng giá cước thị trường chỉ để tham khảo. Giá thật do hai bên tự thoả thuận theo từng lô hàng.
+Cước vận tải Bắc Nam thường đổi theo mùa, theo chiều hàng đi hay hàng về, giống biến động giá chung khi [vận chuyển hàng hóa Bắc Nam](/blog/van-chuyen-hang-hoa-bac-nam/). Chiều nào ít hàng, xe chạy rỗng nhiều hơn, giá theo đó cũng khác.
 
-Người mới thuê xe hay sốc khi thấy hai nhà xe báo giá lệch nhau khá xa cho cùng một chặng. Phần lớn là do cách tính khác nhau, chứ không phải bên nào chặt chém.
+### Vì sao hai nhà xe báo giá chênh nhau khá xa cho cùng một chặng
+
+Vì vậy khó có một mức giá chung cho mọi chuyến, Quý khách có thể xem thêm [cách tính cước vận chuyển hàng hóa](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/) để ước lượng trước. Mặt bằng giá cước thị trường chỉ để tham khảo. Giá thật do hai bên tự thoả thuận theo từng lô hàng.
+
+Người mới thuê xe hay sốc khi thấy hai nhà xe báo giá lệch nhau xa cho cùng một chặng. Phần lớn là do cách tính khác nhau, chứ không phải bên nào chặt chém.
 
 ## Người trong nghề chọn ghép hàng hay bao xe dựa vào đâu
 
-Câu hỏi đầu tiên dân vận tải hay hỏi là hàng chiếm bao nhiêu phần thùng xe. Nếu hàng chỉ vài trăm ký hoặc vài khối, ghép hàng thường rẻ hơn hẳn so với bao nguyên chuyến.
+### Xem hàng chiếm bao nhiêu phần thùng xe và tải trọng xe
+
+Câu hỏi đầu tiên dân vận tải hay hỏi là hàng chiếm bao nhiêu phần thùng xe. Hàng có vừa tải trọng xe hay không cũng là điều cần xem, chưa chắc thì xem cách tính ở bài [xe tải mấy tấn chở được bao nhiêu hàng](/blog/xe-tai-may-tan-cho-duoc-bao-nhieu-hang/). Nếu hàng chỉ vài trăm ký hoặc vài khối, ghép hàng thường rẻ hơn hẳn so với bao nguyên chuyến.
+
+### Xem thời gian giao hàng có gấp không
 
 Câu hỏi thứ hai là thời gian có gấp không. Xe ghép phải chờ gom đủ hàng mới chạy, nên có thể chậm hơn vài giờ so với dự kiến. Xe bao nguyên chuyến thì chạy đúng giờ chủ hàng chốt.
+
+### Xem loại hàng có kén chọn khi đi ghép không
 
 Câu hỏi thứ ba là loại hàng có kén chọn không. Hàng cồng kềnh, có mùi, hoặc cần giữ nguyên vẹn tuyệt đối thường không hợp đi ghép. Lý do là dễ va chạm hay lẫn mùi với hàng khác.
 
@@ -47,17 +61,21 @@ Câu hỏi thứ ba là loại hàng có kén chọn không. Hàng cồng kềnh
 
 Trước khi gọi nhà xe, nên tự trả lời vài câu hỏi sau. Làm vậy giúp tránh chọn sai loại hình vận chuyển và tránh cãi cọ về giá sau này.
 
+### Chuẩn bị thông tin hàng hóa trước khi hỏi giá nhà xe
+
 - Cân hoặc đo hàng trước, ghi rõ khối lượng và kích thước từng kiện. Đây là căn cứ để nhà xe báo giá đúng, chứ không áng chừng theo cảm tính.
 
 - Xác định rõ thời điểm cần giao hàng xong. Sau đó hỏi ngược lại nhà xe khi nào xe chạy, khoảng mấy giờ tới nơi. Làm vậy để tránh hàng tới trễ so với kế hoạch.
 
 - Hỏi rõ cách tính cước là theo khối lượng, theo thể tích, hay trọn gói cả chuyến. Mỗi cách tính cho ra số tiền khác nhau dù cùng một lô hàng.
 
-- Với hàng dễ vỡ hoặc giá trị cao, hỏi thẳng nhà xe có xếp chung với hàng khác không. Nếu ghép hàng, nên hỏi luôn hàng đi cùng chuyến là loại hàng gì.
+### Kiểm tra xe và so sánh nhà xe uy tín trước khi chốt đơn
+
+- Với hàng dễ vỡ hoặc giá trị cao, hỏi thẳng nhà xe có xếp chung với hàng khác không, đồng thời nên xem qua [cách đóng gói hàng hóa khi gửi xe tải](/blog/cach-dong-goi-hang-hoa-khi-gui-xe-tai/) để hàng chắc chắn hơn. Nếu ghép hàng, nên hỏi luôn hàng đi cùng chuyến là loại hàng gì.
 
 - Lưu lại thông tin xe, biển số, số điện thoại tài xế trước khi hàng lên xe. Có gì cần liên lạc gấp thì không phải mất công đi tìm lại.
 
-- So sánh ít nhất hai, ba nhà xe trước khi chốt. Cùng một chặng đường nhưng cách báo giá và thái độ nhận hàng có thể chênh nhau khá nhiều.
+- So sánh ít nhất hai, ba nhà xe trước khi chốt, nhất là lần đầu nên đọc thêm [cách chọn nhà xe uy tín khi thuê lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/). Cùng một chặng đường nhưng cách báo giá và thái độ nhận hàng có thể chênh nhau khá nhiều.
 
 Làm đủ mấy bước trên, rủi ro báo giá mập mờ hay giao hàng trễ cũng giảm đi nhiều. Dù thuê qua quen biết hay qua ứng dụng cũng vậy.
 
@@ -78,4 +96,4 @@ Cách chắc nhất là hỏi giá vài nơi cho cùng lô hàng, cùng chặng 
 **Đi ghép hàng thì giờ giao có tính chính xác được không?**
 Khó chính xác tuyệt đối vì xe còn ghé lấy trả hàng cho nhiều chủ khác nhau. Nếu cần giao đúng giờ, nên hỏi kỹ nhà xe trước hoặc cân nhắc bao nguyên chuyến.
 
-Nếu ngại mất công gọi hỏi từng nhà xe một, Tìm Hàng Xe Tải là chỗ đăng nhu cầu thuê xe tải chở hàng Bắc Nam một lần. Nhà xe rảnh tuyến sẽ chủ động liên hệ lại, không phải tự đi gọi từng nơi. Cứ thử đăng tuyến đường, khối lượng và thời gian cần chuyển, xem có nhà xe nào hợp không.
+Nếu ngại mất công gọi hỏi từng nhà xe, Tìm Hàng Xe Tải là chỗ đăng nhu cầu một lần. Nhà xe rảnh tuyến vùng Bắc Nam sẽ chủ động liên hệ lại, không phải tự đi gọi từng nơi. Cứ thử đăng tuyến đường, khối lượng và thời gian cần chuyển, xem có nhà xe nào hợp không.

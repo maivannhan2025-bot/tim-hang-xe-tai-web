@@ -16,9 +16,13 @@ Bài này giúp Quý khách hiểu cái gì làm nên giá cước. Từ đó Qu
 
 ## Vì sao cùng một chuyến mà mỗi nơi báo một giá
 
-Nhiều người thấy lạ khi hỏi ba nơi ra ba giá. Thật ra điều này rất bình thường. Mỗi nơi tính theo cách khác nhau.
+Nhiều người thấy lạ khi hỏi ba nơi ra ba giá. Thật ra điều này rất bình thường trong thị trường vận tải. Mỗi nơi tính theo cách khác nhau.
+
+### Cách báo giá trọn gói và báo giá tách khoản
 
 Có nơi báo trọn gói gồm hết. Có nơi báo phần xe trước, phí khác tính sau. Nhìn con số đầu thì nơi sau có vẻ rẻ hơn.
+
+### Giá còn phụ thuộc vào tuyến xe đang chạy
 
 Có nơi xe đang chạy sẵn tuyến đó. Họ nhận thêm hàng của Quý khách nên báo mềm. Có nơi phải điều xe rỗng tới, giá đội lên.
 
@@ -28,15 +32,19 @@ Vậy nên đừng chỉ nhìn con số. Phải nhìn con số đó gồm nhữn
 
 ## Những gì làm nên giá cước một chuyến
 
-Hiểu các yếu tố này thì Quý khách không bị dẫn dắt. Giá cước thường gồm mấy phần chính.
+Hiểu các yếu tố này thì Quý khách không bị dẫn dắt. Giá cước vận chuyển thường gồm mấy phần chính.
+
+### Quãng đường và loại xe quyết định phần lớn giá
 
 Phần đầu là quãng đường. Đi càng xa thì dầu và thời gian càng nhiều. Đây là phần lớn nhất trong giá.
 
 Phần hai là khối lượng và loại xe. Hàng nhiều cần xe lớn hơn. Xe lớn thì chi phí mỗi chuyến cao hơn xe nhỏ.
 
+### Bốc xếp, chiều về và tính chất hàng ảnh hưởng thêm
+
 Phần ba là bốc xếp. Có cần người khiêng vác không, lên xuống mấy tầng. Việc này tốn công nên có tính thêm.
 
-Phần bốn là chiều về. Nếu xe về trống, phần rỗng đó cũng nằm trong giá. Chuyến nào ghép được hàng hai chiều thường mềm hơn.
+Phần bốn là chiều về. Nếu xe về trống, phần rỗng đó cũng nằm trong giá, đúng như lý do [vì sao xe chạy rỗng chiều về](/blog/vi-sao-xe-chay-rong-chieu-ve/) hay bị tính thêm. Chuyến nào ghép được hàng hai chiều thường mềm hơn.
 
 Phần năm là tính chất hàng. Hàng dễ vỡ, hàng cồng kềnh cần cẩn thận hơn. Cẩn thận hơn thì chi phí khác đi.
 
@@ -52,7 +60,7 @@ Bước hai là hỏi phần nào có thể phát sinh. Chờ lâu có tính th�
 
 Bước ba là so cùng một điều kiện. Cùng loại xe, cùng tuyến, cùng có bốc xếp hay không. So như vậy mới ra nơi rẻ thật. So lệch điều kiện là so sai.
 
-Bước bốn là xem cách họ trả lời. Nơi báo rõ ràng, kiên nhẫn thường làm ăn nghiêm túc. Nơi nói vòng vo, giục chốt gấp thì nên cẩn thận.
+Bước bốn là xem cách họ trả lời, một trong những dấu hiệu ở bài [cách chọn nhà xe uy tín khi thuê lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/). Nơi báo rõ ràng, kiên nhẫn thường làm ăn nghiêm túc. Nơi nói vòng vo, giục chốt gấp thì nên cẩn thận.
 
 Bước năm là cảnh giác với giá thấp bất thường. Rẻ hơn hẳn mặt bằng thường có lý do. Có thể thiếu khoản nào đó, hoặc xe không đảm bảo. Rẻ mà hàng hư thì mất nhiều hơn khoản tiết kiệm.
 
@@ -70,6 +78,8 @@ Muốn cân nhắc ghép hàng hay bao trọn xe, Quý khách xem bài [ghép h�
 
 ## Rẻ thật khác rẻ ảo thế nào
 
+### Phân biệt rẻ thật và rẻ ảo
+
 Rẻ thật là tổng tiền cuối cùng thấp mà hàng vẫn an toàn. Xe đúng loại, tài xế cẩn thận, giao đủ đúng hẹn.
 
 Rẻ ảo là con số ban đầu thấp để hút khách. Sau đó cộng thêm đủ khoản. Hoặc xe cũ, người thiếu kinh nghiệm, rủi ro cao.
@@ -78,27 +88,37 @@ Hàng hư một lần có khi bằng tiền thuê xe mấy chuyến. Nên đừn
 
 <figure><img src="/anh/dich-vu-xe-tai-cho-hang-an-toan-tai-ca-nuoc.jpg" alt="Xe tải chở hàng giá rẻ vẫn phải bảo đảm hàng an toàn"><figcaption>Rẻ thật là tổng chi phí thấp mà hàng vẫn tới nơi nguyên vẹn.</figcaption></figure>
 
+### Cách chắc ăn để chọn đúng giá rẻ thật
+
 Cách chắc ăn là so nhiều báo giá cùng lúc. Đăng chuyến trên nền tảng thì nhiều nhà xe cùng nhận. Quý khách xem mặt bằng chung rồi chọn. Muốn tìm hiểu dịch vụ chung, xem thêm bài [thuê xe tải chở hàng](/blog/thue-xe-tai-cho-hang/).
 
 ## Vì sao nên đăng chuyến để so giá
+
+### Đăng chuyến nhanh hơn gọi hỏi từng nơi
 
 Hỏi từng nơi một rất mất thời gian. Gọi điện, chờ báo lại, rồi ghi ra so. Làm thủ công vậy dễ nản và dễ sót.
 
 Đăng chuyến lên nền tảng thì nhanh hơn nhiều. Quý khách mô tả hàng và tuyến một lần. Nhiều nhà xe cùng thấy và cùng báo giá.
 
-Cách này giúp Quý khách thấy rõ mặt bằng. Giá nào quá cao, giá nào quá thấp đều lộ ra. Nhìn nhiều báo giá cạnh nhau thì dễ chọn.
+### Nhiều báo giá cạnh nhau giúp Quý khách chủ động
+
+Cách này giúp Quý khách thấy rõ mặt bằng chung. Giá nào quá cao, giá nào quá thấp đều lộ ra. Nhìn nhiều báo giá cạnh nhau thì dễ chọn.
 
 Quý khách còn xem được thông tin nhà xe. Loại xe, tuyến quen, đánh giá của khách trước. Chọn xe tải chở hàng giá rẻ mà vẫn tin được là nhờ vậy.
 
-Điều này có nghĩa là Quý khách chủ động. Không bị một nơi dẫn giá. Có nhiều lựa chọn thì luôn có thế thương lượng.
+Điều này có nghĩa là Quý khách chủ động, không bị một nơi dẫn giá. Có nhiều lựa chọn thì Quý khách luôn có lợi thế khi thương lượng.
 
 ## Đừng chỉ nhìn giá, hãy nhìn tổng chi phí
 
 Nhiều người quen so mỗi con số thuê xe. Nhưng tổng chi phí mới là thứ đáng nhìn. Có những khoản ẩn không nằm trong báo giá đầu.
 
+### Hai khoản ẩn dễ khiến chi phí đội lên
+
 Ví dụ hàng hư hỏng vì xe không phù hợp. Tiền đền bù hoặc mất khách còn lớn hơn khoản tiết kiệm. Rẻ mà hư là đắt.
 
 Ví dụ khác là trễ hẹn làm lỡ việc. Hàng tới muộn khiến Quý khách mất mối, mất đơn. Thiệt hại đó không con số thuê nào bù nổi.
+
+### Cộng cả an toàn và đúng hẹn vào khi so giá
 
 Vì vậy hãy cộng cả độ an toàn và đúng hẹn vào. Một nhà xe nhỉnh giá chút mà chắc chắn thường lợi hơn. Tổng chi phí thấp mới là rẻ thật sự.
 
@@ -108,9 +128,13 @@ Quý khách cân nhắc kỹ loại xe và cách gửi. Hàng ít thì ghép, h�
 
 Ít người để ý rằng thời điểm cũng làm giá đổi. Gửi đúng lúc thì mềm hơn, gửi sai lúc thì đội lên.
 
+### Mùa cao điểm và ngày trong tuần ảnh hưởng thế nào
+
 Gần lễ Tết là lúc xe khan hàng nhiều. Nhu cầu cao thì giá nhích lên là bình thường. Gửi được sớm trước cao điểm sẽ nhẹ hơn.
 
 Ngày thường trong tuần cũng dễ thở hơn cuối tuần. Xe rảnh nhiều thì Quý khách có thêm lựa chọn. Nhiều lựa chọn thì dễ tìm mức hợp lý.
+
+### Linh động ngày gửi để có giá tốt hơn
 
 Vì vậy nếu hàng không quá gấp, hãy linh động ngày gửi. Chờ đúng lúc xe sẵn tuyến của mình. Xe đang chạy tuyến đó thường báo giá tốt hơn.
 

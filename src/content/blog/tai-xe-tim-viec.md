@@ -16,21 +16,31 @@ Tài xế tìm việc không nên chỉ trông vào người quen. Có cách ch�
 
 Cách cũ là chờ nhà xe hoặc mối quen gọi. Ai gọi thì chạy, không gọi thì nghỉ. Anh không nắm được ngày mai có việc hay không.
 
-Việc này khiến thu nhập lên xuống thất thường. Tháng cao điểm thì chạy mệt. Tháng thấp điểm thì xe nằm nhà. Chi phí thì vẫn đều, không chờ ai.
+### Thu nhập thất thường vì phải chờ người quen gọi
 
-Một lý do khác là chủ hàng không biết anh. Họ cần xe nhưng không có số của anh. Anh cần việc nhưng không biết ai đang cần chở. Hai bên lỡ nhau vì thiếu chỗ gặp.
+Việc này khiến thu nhập lên xuống thất thường. Tháng cao điểm thì chạy mệt, tháng thấp điểm thì xe nằm nhà. Chi phí thì vẫn đều, không chờ ai.
 
-Tài xế tìm việc theo kiểu truyền miệng vì thế rất chậm. Mối này giới thiệu mối kia. Đến lúc có việc thì đã qua chuyến. Anh mất cơ hội mà không hay.
+### Chủ hàng và tài xế khó tìm thấy nhau
 
-Nghề lái xe lại cạnh tranh hơn trước nhiều. Xe ngày một đông, ai cũng cần chuyến. Chỉ ngồi chờ thì phần việc dễ rơi vào tay người nhanh hơn. Chủ động tìm việc vì thế không còn là lựa chọn, mà là điều bắt buộc để đủ chuyến.
+Một lý do khác là chủ hàng không biết anh. Họ cần xe nhưng không có số của anh, còn anh cần việc nhưng không biết ai đang cần chở, không biết [tìm nguồn hàng cho xe tải](/blog/tim-nguon-hang-cho-xe-tai/) ở đâu. Hai bên lỡ nhau vì thiếu chỗ gặp.
+
+Tài xế tìm việc theo kiểu truyền miệng hay qua chành xe quen vì thế rất chậm. Mối này giới thiệu mối kia, đến lúc có việc thì đã qua chuyến. Anh mất cơ hội mà không hay.
+
+### Cạnh tranh nghề lái xe ngày càng cao
+
+Nghề lái xe lại cạnh tranh hơn trước nhiều, xe ngày một đông và ai cũng cần chuyến. Chỉ ngồi chờ thì phần việc dễ rơi vào tay người nhanh hơn. Chủ động tìm việc vì thế không còn là lựa chọn, mà là điều bắt buộc để đủ chuyến.
 
 ## Nền tảng kết nối giúp tài xế tìm việc chủ động
 
-Cách mới là đưa tài xế lên nơi chủ hàng đang tìm xe. Chủ hàng đăng chuyến. Tài xế thấy chuyến hợp thì nhận. Không cần chờ ai giới thiệu.
+Cách mới là đưa tài xế lên nơi chủ hàng đang tìm xe. Chủ hàng đăng chuyến, tài xế thấy hợp thì nhận ngay. Không cần chờ ai giới thiệu.
 
-Nền tảng timhangxetai.com làm đúng việc kết nối này. Tài xế có xe xem được các chuyến đang cần theo tuyến mình chạy. Thấy đơn hợp thì liên hệ nhận.
+### Cách timhangxetai.com kết nối tài xế với chủ hàng cần vận chuyển hàng hóa
+
+Nền tảng timhangxetai.com làm đúng việc kết nối này, hoạt động qua [app tìm hàng xe tải](/blog/app-tim-hang-xe-tai/) ngay trên điện thoại. Tài xế có xe xem được các chuyến đang cần theo tuyến mình chạy. Thấy đơn hợp thì liên hệ nhận.
 
 Điều này giúp anh chủ động chọn việc. Anh xem chuyến nào hợp giờ, hợp tuyến, hợp loại xe. Xe đỡ nằm không, thu nhập đều hơn từng tuần.
+
+### Cơ hội công bằng cho cả tài xế mới lẫn tài xế lâu năm
 
 Tài xế mới vào nghề cũng có cơ hội như người lâu năm. Chỉ cần hồ sơ rõ ràng và giữ uy tín. Chủ hàng chọn theo thông tin và đánh giá, không chỉ theo quen biết.
 
@@ -40,23 +50,27 @@ Tài xế mới vào nghề cũng có cơ hội như người lâu năm. Chỉ c
 
 Đây là phần anh làm được ngay hôm nay. Hồ sơ tốt là thứ giúp anh khác biệt với người kế bên.
 
-Việc đầu tiên là ghi rõ thông tin xe. Loại xe, tải trọng, kích thước thùng, thùng kín hay bạt. Chủ hàng cần biết xe anh chở được gì. Thông tin càng rõ, họ càng yên tâm gọi.
+### Ghi rõ thông tin xe và để ảnh thật để chủ hàng yên tâm
 
-Việc thứ hai là để ảnh xe thật, chụp rõ ràng. Ảnh chụp ban ngày, thấy rõ thùng xe và biển số. Ảnh thật cho thấy xe có sẵn, sạch sẽ. Điều này tạo tin tưởng ngay từ cái nhìn đầu.
+Việc đầu tiên là ghi rõ thông tin xe: loại xe, tải trọng, kích thước thùng, thùng kín hay bạt. Chủ hàng cần biết xe anh chở được gì, thông tin càng rõ họ càng yên tâm gọi.
 
-Việc thứ ba là ghi tuyến anh hay chạy. Nếu anh quen cung đường nào, hãy nêu ra. Chủ hàng cần đúng tuyến đó sẽ thấy anh phù hợp. Anh cũng đỡ nhận chuyến lệch đường, tốn xăng.
+Việc thứ hai là để ảnh xe thật, chụp rõ vào ban ngày, thấy rõ thùng xe và biển số. Ảnh thật cho thấy xe có sẵn, sạch sẽ, tạo tin tưởng ngay từ cái nhìn đầu.
 
-Việc thứ tư là nêu kinh nghiệm và loại hàng từng chở. Anh từng chở hàng dễ vỡ, hàng nặng, hay hàng kho. Nêu ra để chủ hàng biết anh có kinh nghiệm với hàng của họ. Đây là điểm cộng lớn khi họ cân nhắc.
+### Nêu rõ tuyến quen chạy và kinh nghiệm chở từng loại hàng
+
+Việc thứ ba là ghi rõ tuyến anh hay chạy, nếu quen cung đường nào thì nêu ra. Chủ hàng cần đúng tuyến đó sẽ thấy anh phù hợp, anh cũng đỡ nhận chuyến lệch đường tốn xăng.
+
+Việc thứ tư là nêu kinh nghiệm và loại hàng từng chở: hàng dễ vỡ, hàng nặng, hàng kho. Chủ hàng biết anh có kinh nghiệm với loại hàng của họ sẽ dễ cân nhắc hơn.
 
 ### Mẹo giữ khách quay lại cho tài xế
 
-Mẹo đầu là giao đúng giờ đã hẹn. Chủ hàng nhớ nhất chuyện xe tới đúng lúc. Trễ giờ một lần là mất tin lâu dài. Đúng giờ là cách quảng cáo tốt nhất, lại không tốn tiền.
+Mẹo đầu là giao đúng giờ đã hẹn, vì chủ hàng nhớ nhất chuyện xe tới đúng lúc. Trễ giờ một lần là mất tin lâu dài. Đúng giờ là cách giữ khách hiệu quả mà không tốn tiền quảng cáo.
 
-Mẹo thứ hai là giữ hàng cẩn thận. Chằng buộc chắc, che chắn khi trời mưa. Hàng về nguyên vẹn thì khách còn gọi lại. Hàng hư một lần là mất luôn mối đó.
+Mẹo thứ hai là giữ hàng cẩn thận: chằng buộc chắc, che chắn khi trời mưa. Hàng về nguyên vẹn thì khách còn gọi lại, hàng hư một lần là mất luôn mối đó.
 
-Mẹo thứ ba là nói năng rõ ràng, báo tình hình dọc đường. Xe tới đâu, khi nào giao, anh nhắn cho khách biết. Chủ hàng thích tài xế chịu báo tin. Họ yên tâm và sẽ tìm lại anh lần sau.
+Mẹo thứ ba là nói năng rõ ràng, báo tình hình dọc đường. Xe tới đâu, khi nào giao, anh nhắn cho khách biết. Chủ hàng thích tài xế chịu báo tin, sẽ yên tâm và tìm lại anh lần sau.
 
-Muốn hiểu rõ giấy tờ cần mang theo khi nhận chuyến, anh xem thêm [vận chuyển hàng hóa cần giấy tờ gì](/blog/van-chuyen-hang-hoa-can-giay-to-gi/). Đủ giấy tờ giúp anh chạy đường dài không lo bị giữ.
+Muốn hiểu rõ giấy tờ cần mang theo, anh xem thêm [vận chuyển hàng hóa cần giấy tờ gì](/blog/van-chuyen-hang-hoa-can-giay-to-gi/). Đủ giấy tờ giúp anh chạy đường dài không lo bị giữ.
 
 <figure><img src="/anh/thue-xe-tai-van-1-25-tan-tai-bac-trung-nam.jpg" alt="Tài xế tìm việc lái xe tải van 1,25 tấn chạy tuyến Bắc Trung Nam"><figcaption>Ghi rõ tuyến hay chạy giúp tài xế nhận đúng chuyến, đỡ chạy lệch đường.</figcaption></figure>
 
@@ -64,25 +78,35 @@ Muốn hiểu rõ giấy tờ cần mang theo khi nhận chuyến, anh xem thêm
 
 Không phải chuyến nào cũng đáng nhận. Tài xế tìm việc khôn ngoan biết chọn đơn hợp. Chọn đúng thì công sức đổi được tiền.
 
-Trước hết, xem chuyến có hợp tuyến quen không. Chạy đường mình rành thì nhanh và an toàn hơn. Anh cũng dễ tìm hàng chiều về trên cung đó.
+### Ưu tiên chuyến hợp tuyến quen và hợp loại xe đang chạy
 
-Tiếp theo, xem loại hàng có hợp xe không. Xe bạt thì tránh hàng sợ mưa. Xe nhỏ thì tránh hàng quá khổ. Nhận đúng sức xe giúp anh giao êm, không hỏng hàng.
+Trước hết, xem chuyến có hợp tuyến quen không. Chạy đường mình rành thì nhanh và an toàn hơn, anh cũng dễ [tìm hàng chiều về](/blog/vi-sao-xe-chay-rong-chieu-ve/) trên cung đó.
 
-Cuối cùng, để ý giờ giao nhận. Sắp các chuyến gần nhau đi liền một mạch. Tránh chạy tới chạy lui mất cả buổi. Sắp lịch gọn giúp anh chạy nhiều chuyến hơn trong ngày.
+Tiếp theo, xem loại hàng có hợp xe không. Xe bạt tránh hàng sợ mưa, xe nhỏ tránh hàng quá khổ. Nhận đúng sức xe giúp anh giao êm, không hỏng hàng.
 
-Nếu anh mới nhận chuyến đi tỉnh lần đầu, hãy đọc [thuê xe tải chở hàng đi tỉnh cần lưu ý gì](/blog/thue-xe-tai-cho-hang-di-tinh-can-luu-y-gi/). Nhiều điều nhỏ trên đường dài dễ bị bỏ sót.
+### Sắp lịch giờ giao nhận để chạy được nhiều chuyến hơn trong ngày
+
+Cuối cùng, để ý giờ giao nhận và sắp các chuyến gần nhau đi liền một mạch. Tránh chạy tới chạy lui mất cả buổi. Sắp lịch gọn giúp anh chạy nhiều chuyến hơn, tăng thêm cước vận chuyển thu về mỗi ngày.
+
+Nếu anh mới nhận chuyến đi tỉnh, hãy đọc [thuê xe tải chở hàng đi tỉnh cần lưu ý gì](/blog/thue-xe-tai-cho-hang-di-tinh-can-luu-y-gi/). Nhiều điều nhỏ trên đường dài dễ bị bỏ sót.
 
 ## Nghề lái xe cần sức khỏe và cái đầu tỉnh
 
-Lái xe tải là nghề vất vả, đi sớm về khuya. Muốn theo lâu, tài xế cần giữ sức và giữ sự tỉnh táo. Chuyện này quan trọng ngang với tay nghề.
+Lái xe tải là nghề vất vả, đi sớm về khuya. Muốn theo lâu, tài xế cần giữ sức và giữ sự tỉnh táo. Chuyện này quan trọng ngang với tay nghề vận tải.
+
+### Ngủ đủ giấc và ăn uống điều độ để giữ sức trên mỗi chuyến
 
 Ngủ đủ trước mỗi chuyến dài là điều đầu tiên. Buồn ngủ khi lái là nguy hiểm cho cả người và hàng. Mệt thì nên dừng nghỉ, đừng cố chạy thâu đêm.
 
 Ăn uống điều độ dọc đường cũng giúp giữ sức. Uống đủ nước, tránh chất kích thích quá đà. Cơ thể khỏe thì phản xạ nhanh, xử lý đường tốt hơn.
 
+### Giữ đầu óc tỉnh táo để tính đường và tránh nguy hiểm
+
 Cái đầu tỉnh còn giúp tài xế tính đường khôn. Chọn giờ tránh kẹt, chọn chỗ nghỉ an toàn. Biết tính toán thì chuyến đi nhẹ nhàng và an toàn hơn.
 
 Tài xế tìm việc lâu dài nên xem sức khỏe là vốn. Giữ sức tốt thì chạy được đều, thu nhập mới bền. Đây là điều ít người nói nhưng rất thật với nghề.
+
+### Bảo dưỡng xe đúng kỳ cũng là cách giữ nghề lâu dài
 
 Giữ xe sạch và bảo dưỡng đúng kỳ cũng là giữ nghề. Xe tốt thì ít hỏng dọc đường, đỡ lỡ chuyến. Chủ hàng cũng an tâm hơn khi thấy xe được chăm kỹ.
 
@@ -90,9 +114,13 @@ Giữ xe sạch và bảo dưỡng đúng kỳ cũng là giữ nghề. Xe tốt 
 
 Uy tín là thứ giúp tài xế nhận được chuyến tốt hơn. Chủ hàng sẵn sàng chọn người họ tin, dù đông xe. Xây uy tín là đầu tư dài hạn cho nghề.
 
-Hãy bắt đầu từ những chuyến nhỏ, làm cho tử tế. Giao đúng, giữ hàng, cư xử đàng hoàng. Mỗi chuyến tốt là một viên gạch cho tên tuổi của anh.
+### Làm tốt từng chuyến nhỏ và xin đánh giá thật từ khách hàng
+
+Hãy bắt đầu từ những chuyến nhỏ, làm cho tử tế: giao đúng, giữ hàng, cư xử đàng hoàng. Mỗi chuyến tốt là một viên gạch cho tên tuổi của anh.
 
 Xin đánh giá của khách sau mỗi chuyến ổn. Lời khen thật của người từng thuê là bằng chứng mạnh. Người sau nhìn vào đó sẽ yên tâm giao chuyến lớn hơn.
+
+### Giữ đúng lời hứa để chuyến việc tự tìm đến
 
 Giữ lời hứa về giờ và về mức đã chốt. Không đòi thêm giữa đường, không bỏ chuyến ngang. Tài xế giữ chữ tín thì việc tự tìm đến, không phải chạy đôn đáo.
 
@@ -112,7 +140,7 @@ Hãy chủ động xem chuyến mỗi ngày thay vì chờ gọi. Giữ đánh g
 
 Nhận chuyến lệch tuyến có nên không?
 
-Nên cân nhắc kỹ. Chuyến lệch đường tốn xăng và khó tìm hàng chiều về. Ưu tiên tuyến quen thường có lời hơn.
+Nên cân nhắc kỹ. Chuyến lệch đường tốn xăng và khó tìm hàng chiều về. Ưu tiên tuyến vận tải quen thường có lời hơn.
 
 ## Chủ động tìm việc, đừng ngồi chờ
 

@@ -14,21 +14,29 @@ Xe tải tìm hàng đúng cách sẽ đổi khác hẳn. Xe lấp đầy chuy�
 
 ## Vì sao xe tải tìm hàng lại khó đến vậy
 
+### Phụ thuộc mối quen khiến xe bị động
+
 Nhiều chủ xe quen chờ mối quen gọi. Mối quen thì có hạn. Hôm có hàng, hôm không. Xe cứ phụ thuộc vào vài số điện thoại cũ.
 
 Cách này khiến xe bị động. Anh không biết mai có chuyến hay không. Chi phí thì vẫn chạy đều mỗi ngày: xăng, khấu hao, phí đường.
+
+### Thông tin lệch nhau giữa chủ hàng và chủ xe
 
 Một khó khăn khác là thông tin lệch nhau. Chủ hàng cần xe thì không biết xe nào đang rảnh. Chủ xe rảnh thì không biết ai đang cần chở. Hai bên ở gần nhau mà vẫn không gặp được.
 
 Xe tải tìm hàng vì thế mất nhiều thời gian gọi điện, hỏi han. Có khi chạy đến nơi mới biết hàng đã có xe khác nhận. Công sức bỏ ra không đổi được chuyến nào.
 
-Thêm vào đó, giá dầu và phí đường mỗi năm một khác. Xe chạy rỗng nhiều thì chi phí đội lên nhanh. Chủ xe nào cũng thấy áp lực này rõ hơn từng năm. Vì vậy tìm hàng hiệu quả không còn là chuyện phụ. Nó quyết định xe có lời hay chỉ đủ bù xăng.
+Thêm vào đó, giá dầu và phí đường mỗi năm một khác, khiến xe chạy rỗng càng lúc càng tốn. Chủ xe nào cũng thấy áp lực này rõ hơn từng năm. Vì vậy tìm hàng hiệu quả không còn là chuyện phụ, mà quyết định xe có lời hay chỉ đủ bù xăng.
 
 ## Nền tảng kết nối giúp xe tải tìm hàng nhanh hơn
 
+### Cách nền tảng kết nối chủ xe với chủ hàng
+
 Cách làm mới là đưa chủ xe và chủ hàng lên cùng một chỗ. Chủ hàng đăng chuyến cần chở. Chủ xe thấy chuyến hợp tuyến thì nhận. Không phải chờ ai gọi.
 
-Nền tảng timhangxetai.com sinh ra để làm việc đó. Chủ xe xem được các chuyến đang cần xe theo tuyến mình chạy. Thấy đơn phù hợp thì liên hệ nhận ngay.
+Nền tảng timhangxetai.com sinh ra để làm việc đó, anh xem cách dùng cụ thể trong bài [app tìm hàng xe tải](/blog/app-tim-hang-xe-tai/). Chủ xe xem được các chuyến đang cần xe theo tuyến liên tỉnh mình chạy. Thấy đơn phù hợp thì liên hệ nhận ngay.
+
+### Chủ xe chủ động chọn chuyến, kể cả người mới
 
 Điều này có nghĩa là xe của anh chủ động hơn nhiều. Anh tự chọn chuyến hợp với loại xe và tuyến đường. Xe đỡ nằm không, thu nhập đều hơn.
 
@@ -64,9 +72,13 @@ Nếu anh muốn hiểu sâu hơn vì sao lượt về hay bị bỏ trống, h�
 
 Nhiều chủ xe nghĩ chỉ xe lớn mới đắt hàng. Thực tế không phải vậy. Mỗi loại xe có nhóm chủ hàng riêng.
 
-Xe tải nhỏ hợp chở hàng trong phố, ngõ hẹp. Loại này luôn có việc vì hàng lẻ rất nhiều. Chủ hàng cần giao nhanh trong nội thành thường tìm xe nhỏ.
+### Xe nhỏ, xe tầm trung và xe lớn đều có việc
+
+[Xe tải nhỏ chở hàng](/blog/xe-tai-nho-cho-hang/) hợp trong phố, ngõ hẹp. Loại này luôn có việc vì hàng lẻ rất nhiều. Chủ hàng cần giao nhanh trong nội thành thường tìm xe nhỏ.
 
 Xe tầm trung hợp đi liên tỉnh, chở khối lượng vừa. Xe lớn hợp hàng công trình, hàng nặng. Vấn đề chỉ là anh có gặp đúng chủ hàng cần loại xe của mình hay không.
+
+### Cơ hội nằm ở chỗ tìm, không ở kích cỡ xe
 
 Vì vậy việc xe tải tìm hàng không phụ thuộc vào xe to hay nhỏ. Nó phụ thuộc vào chỗ anh tìm. Ở nơi tập trung nhiều chủ hàng, xe nào cũng có phần.
 
@@ -76,19 +88,27 @@ Nếu anh chưa chắc xe mình chở được bao nhiêu để nhận đúng đ
 
 Anh không cần chờ mùa cao điểm mới có việc. Chủ hàng cần chở quanh năm. Điều anh cần là hiện diện ở nơi họ tìm xe.
 
+### Đăng ký thông tin xe đầy đủ
+
 Trước hết, hãy đăng ký thông tin xe đầy đủ. Ghi rõ loại thùng, tải trọng, tuyến hay chạy. Thông tin càng rõ, chủ hàng càng dễ chọn đúng anh.
+
+### Chủ động xem chuyến mỗi ngày, đừng ngồi chờ
 
 Sau đó, chủ động xem các chuyến đang cần xe mỗi ngày. Đừng chờ hàng tới. Hãy đi tìm hàng. Thói quen này giúp xe anh ít khi trống thùng.
 
-Chủ xe muốn tìm nguồn hàng đều đặn có thể tham khảo cách các nhà xe khác đang làm trong bài [nhà xe tìm hàng ở đâu](/blog/nha-xe-tim-hang-o-dau/). Có nhiều cách kết hợp để không bao giờ thiếu chuyến.
+Chủ xe muốn tìm nguồn hàng đều đặn có thể tham khảo cách các nhà xe khác đang làm. Xem thêm trong bài [nhà xe tìm hàng ở đâu](/blog/nha-xe-tim-hang-o-dau/) để có nhiều cách kết hợp, không bao giờ thiếu chuyến.
 
 ## Giữ nguồn hàng đều để bám nghề lâu dài
 
 Chạy xe là nghề đường dài, không phải chuyện một hai chuyến. Muốn bám nghề bền, xe phải có việc đều quanh năm. Nguồn hàng ổn định là cái gốc của điều đó.
 
+### Thu nhập ổn định và giữ chân tài xế phụ
+
 Khi xe tải tìm hàng đều đặn, anh tính được thu nhập theo tháng. Có kế hoạch trả góp xe, lo tiền dầu, lo cho gia đình. Xe không còn phụ thuộc vào vài cú điện thoại may rủi.
 
 Nguồn hàng đều cũng giúp anh giữ được tài xế phụ nếu có. Người làm cùng thấy việc ổn định thì gắn bó. Xe chạy liên tục thì máy móc cũng đỡ hỏng vặt hơn nằm lâu.
+
+### Kết hợp nhiều cách tìm hàng để không trống lịch
 
 Để có việc đều, anh nên kết hợp nhiều cách tìm hàng. Vừa giữ mối quen, vừa nhận chuyến trên nền tảng. Hai nguồn bù nhau thì hiếm khi trống lịch.
 
