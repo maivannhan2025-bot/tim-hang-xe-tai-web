@@ -13,5 +13,11 @@
   "contactForm": false,
   "contactFormTitle": "Để lại số điện thoại, chúng tôi liên hệ ngay",
   "contactFormDelay": 8,
-  "apiKeys": []
+  "apiKeys": [
+    {
+      "ten": "claude-code-seo",
+      "hash": "4e81250e7070e7705332a3ec350175ce9657b6ef757d87e165cc58c09e147eac",
+      "ngayTao": "2026-09-01"
+    }
+  ]
 }
