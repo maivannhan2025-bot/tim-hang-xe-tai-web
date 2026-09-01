@@ -10,9 +10,9 @@
   "fbPixelId": "",
   "gaId": "",
   "aiWebhook": "",
-  "contactForm": false,
+  "contactForm": "",
   "contactFormTitle": "Để lại số điện thoại, chúng tôi liên hệ ngay",
-  "contactFormDelay": 8,
+  "contactFormDelay": "8",
   "apiKeys": [
     {
       "ten": "claude-code-seo",
