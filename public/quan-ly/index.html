@@ -166,7 +166,10 @@ const app = document.getElementById('app');
 /* ---------- tiện ích ---------- */
 const b64enc = (str) => btoa(unescape(encodeURIComponent(str)));
 const b64dec = (b64) => decodeURIComponent(escape(atob(b64.replace(/\n/g, ''))));
-const esc = (s) => (s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+// String() ép mọi kiểu (số/boolean/null…) về chữ an toàn — trước đây (s||'') gặp SỐ/boolean
+// (VD contactFormDelay lưu nhầm thành số 8 thay vì "8") sẽ ".replace is not a function" → vỡ
+// NGANG XƯƠNG lúc dựng trang, làm cả trang đứng hình ở "Đang tải…" (xem v2.9).
+const esc = (s) => String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 function toast(msg, ms) { const t=document.createElement('div'); t.className='toast'; t.innerHTML=msg; document.body.appendChild(t); setTimeout(()=>t.remove(), ms||2500); }
 // Dựng mã nhúng video (giống index.astro) để xem trước NGAY trong trình sửa
 function veVideoEmbed(u){
