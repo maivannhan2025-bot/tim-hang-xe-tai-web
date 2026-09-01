@@ -169,7 +169,37 @@ const b64dec = (b64) => decodeURIComponent(escape(atob(b64.replace(/\n/g, ''))))
 // String() ép mọi kiểu (số/boolean/null…) về chữ an toàn — trước đây (s||'') gặp SỐ/boolean
 // (VD contactFormDelay lưu nhầm thành số 8 thay vì "8") sẽ ".replace is not a function" → vỡ
 // NGANG XƯƠNG lúc dựng trang, làm cả trang đứng hình ở "Đang tải…" (xem v2.9).
-const esc = (s) => String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+// PHẢI escape cả " và ' — esc() được nhét vào GIỮA dấu nhay của ~20 thuộc tính (value="…",
+// src="…", title="…", data-name="…"). Giá trị có dấu " (VD dán nguyên đoạn mã Facebook Pixel có
+// height="1" style="display:none") sẽ ĐÓNG SỚM thuộc tính, phần còn lại bị hiểu nhầm thành thuộc
+// tính khác — kéo theo cả style="display:none" → ô nhập BIẾN MẤT khỏi màn hình và giá trị đọc lại
+// bị cắt cụt (bấm Lưu lần nữa là ghi đè mất dữ liệu tốt). Xem v3.0.
+const esc = (s) => String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+
+/* Bóc lấy đúng MÃ từ đoạn mã dán vào ---------------------------------------------------------
+   Facebook/Google đưa NGUYÊN một đoạn mã (có cả thẻ script) để dán, nhưng web chỉ cần đúng dãy mã
+   (VD 850111651207622 / G-XXXXXXX). Dán nguyên đoạn vào thì web nhét cả đoạn đó vào chỗ đáng lẽ
+   chỉ để dãy số → Pixel/Analytics KHÔNG chạy mà cũng không báo lỗi gì. Hàm này tự bóc lấy mã, nên
+   anh dán kiểu nào (cả đoạn, hay chỉ dãy mã) cũng đúng. Không nhận ra thì giữ nguyên, không phá. */
+function chuanHoaMaDo(key, val) {
+  const v = String(val == null ? '' : val).trim();
+  if (!v) return '';
+  if (key === 'fbPixelId') {
+    const m = v.match(/fbq\s*\(\s*['"]init['"]\s*,\s*['"](\d{6,})['"]/i)  // dán cả đoạn mã Meta Pixel
+           || v.match(/[?&]id=(\d{6,})/)                                   // dán link ảnh trong <noscript>
+           || v.match(/^(\d{6,})$/);                                       // dán đúng dãy số
+    return m ? m[1] : v;
+  }
+  if (key === 'gaId') {
+    const m = v.match(/\b((?:G|GT|AW|UA)-[A-Z0-9]+(?:-[A-Z0-9]+)?)\b/i);   // G- / GT- / AW- / UA-
+    return m ? m[1].toUpperCase() : v;
+  }
+  if (key === 'gscVerify' || key === 'bingVerify') {
+    const m = v.match(/content\s*=\s*["']([^"']+)["']/i);                  // dán cả thẻ <meta …>
+    return m ? m[1] : v;
+  }
+  return v;
+}
 function toast(msg, ms) { const t=document.createElement('div'); t.className='toast'; t.innerHTML=msg; document.body.appendChild(t); setTimeout(()=>t.remove(), ms||2500); }
 // Dựng mã nhúng video (giống index.astro) để xem trước NGAY trong trình sửa
 function veVideoEmbed(u){
@@ -739,8 +769,8 @@ async function renderSettings() {
   const F=[
     ['gscVerify','Mã xác minh Google Search Console (SEO)','Giúp <b>Google nhận web của anh</b> để đưa lên kết quả tìm. Vào Google Search Console → chọn cách "Thẻ HTML" → nó cho 1 dòng; dán <b>nguyên dòng đó</b> vào đây (dán cả thẻ &lt;meta ...&gt; hay chỉ dãy mã đều được). Để trống nếu chưa có.','input'],
     ['bingVerify','Mã xác minh Bing Webmaster (SEO)','Giống Search Console nhưng của <b>Bing (Microsoft)</b> — trợ lý AI như Copilot cũng lấy dữ liệu từ đây. Vào Bing Webmaster Tools lấy mã, dán vào đây (cả thẻ &lt;meta ...&gt; hay dãy mã đều được). Để trống nếu chưa có.','input'],
-    ['fbPixelId','Mã Facebook Pixel','Dán dãy số Pixel ID để chạy quảng cáo Facebook; để trống nếu chưa chạy.','input'],
-    ['gaId','Mã Google Analytics (đo lượt xem)','VD: G-XXXXXXX; để trống nếu chưa dùng.','input'],
+    ['fbPixelId','Mã Facebook Pixel','Để chạy quảng cáo Facebook. <b>Dán cả đoạn mã Facebook đưa cũng được</b> (web tự bóc lấy dãy số), hoặc chỉ dán dãy số Pixel ID. Để trống nếu chưa chạy.','input'],
+    ['gaId','Mã Google Analytics (đo lượt xem)','VD: G-XXXXXXX. <b>Dán cả đoạn mã Google đưa cũng được</b> (web tự bóc lấy mã). Để trống nếu chưa dùng.','input'],
     ['aiWebhook','Địa chỉ API / Webhook cho AI viết bài & chỉnh web','Dán link webhook (n8n, Zapier…) để hệ thống/AI tự đăng bài. Để trống nếu chưa dùng.','input'],
     ['contactFormTitle','Tiêu đề bảng Form nổi','Chữ hiện trên đầu bảng form. VD: Nhận tư vấn & báo giá.','input'],
     ['contactFormDelay','Sau mấy GIÂY thì Form tự nổi lên','VD: gõ 6 = sau 6 giây khách vào web, form nổi lên. Để trống = 6 giây.','input'],
@@ -750,7 +780,7 @@ async function renderSettings() {
     <div class="toolbar"><button class="btn" id="saveSet">💾 Lưu</button></div>
     <h2 class="page">Cài đặt</h2><p class="sub">SEO Google, quảng cáo, đo lường, Form liên hệ &amp; khoá API. Sửa xong bấm Lưu — web tự cập nhật sau ~1 phút.</p>
     <div class="form">
-      ${F.map(([k,l,h,ty])=>`<div class="field"><label>${l}</label>${h?`<div class="hint" style="margin-bottom:6px">${h}</div>`:''}${ty==='textarea'?`<textarea id="s_${k}" rows="4" style="font-family:ui-monospace,monospace;font-size:13px">${esc(data[k]||'')}</textarea>`:`<input id="s_${k}" value="${esc(data[k]||'')}">`}</div>`).join('')}
+      ${F.map(([k,l,h,ty])=>`<div class="field"><label>${l}</label>${h?`<div class="hint" style="margin-bottom:6px">${h}</div>`:''}${ty==='textarea'?`<textarea id="s_${k}" rows="4" style="font-family:ui-monospace,monospace;font-size:13px">${esc(data[k]||'')}</textarea>`:`<input id="s_${k}" value="${esc(chuanHoaMaDo(k, data[k]))}">`}</div>`).join('')}
       <div class="field" style="border-top:1px dashed var(--line);padding-top:16px">
         <label>🔎 Dữ liệu doanh nghiệp cho Google (Schema) — tự chạy</label>
         <div class="hint">Web <b>tự khai báo</b> tên công ty, số điện thoại, địa chỉ (lấy ở mục <b>📞 Liên hệ</b>) cho Google — giúp web hiện đẹp hơn trên kết quả tìm (kèm SĐT, khu vực chạy). Anh <b>không phải nhập gì</b> ở đây; muốn đổi thì sửa ở mục Liên hệ.</div>
@@ -764,7 +794,10 @@ async function renderSettings() {
     </div>
   </div>`;
   document.getElementById('saveSet').onclick=async()=>{
-    const nd=Object.assign({},data); F.forEach(([k])=>nd[k]=document.getElementById('s_'+k).value.trim());
+    // Thiếu ô nào thì GIỮ NGUYÊN giá trị cũ, không ghi đè bằng rỗng (phòng khi 1 ô lỗi hiển thị
+    // sẽ kéo theo xoá mất dữ liệu tốt của ô đó — đúng bẫy đã dính ở v3.0).
+    const nd=Object.assign({},data);
+    F.forEach(([k])=>{ const el=document.getElementById('s_'+k); if(el) nd[k]=chuanHoaMaDo(k, el.value); });
     const btn=document.getElementById('saveSet'); btn.innerHTML='<span class="spin"></span> Đang lưu…'; btn.disabled=true;
     try{ const resp=await ghPut('src/data/chung.json',()=>({message:'Sửa cài đặt (pixel/analytics/AI/form/CRM)',content:b64enc(JSON.stringify(nd,null,2)+'\n')})); toast('✅ Đã lưu! Web cập nhật sau ~1 phút.'); btn.innerHTML='💾 Lưu'; btn.disabled=false; sha=resp.content.sha; data=nd; }
     catch(e){ toast('❌ '+esc(e.message)); btn.innerHTML='💾 Lưu'; btn.disabled=false; }
