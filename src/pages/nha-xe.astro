@@ -13,7 +13,7 @@ const hotlineDep = '0707 707 115';
 
 <header class="nx-bar">
   <a class="nx-brand" href="/"><span aria-hidden="true">🚚</span><span>Tìm hàng<span class="nx-cam"> xe tải</span></span></a>
-  <a class="nx-nut nx-nho" href={appUrl}>Mở app</a>
+  <a class="nx-nut nx-nho" href={appUrl}>Trải nghiệm miễn phí</a>
 </header>
 
 <!-- ===== Tiếp cận ===== -->
@@ -24,7 +24,7 @@ const hotlineDep = '0707 707 115';
     <p class="nx-lede">Chở được một chuyến đi, rồi ngồi bãi gọi khắp nơi xin hàng chiều về. Xin không ra thì chạy rỗng, đốt dầu bằng tiền túi. Nằm chờ thì mỗi ngày đứng yên vẫn tốn.</p>
     <p class="nx-lede"><b>Tìm Hàng Xe Tải</b> làm đúng một việc: đem đơn của chủ hàng tới trước mặt anh, để anh <b>chọn</b> — thay vì đi xin.</p>
     <div class="nx-hang-nut">
-      <a class="nx-nut" href={appUrl}>Mở app xem đơn</a>
+      <a class="nx-nut" href={appUrl}>Trải nghiệm miễn phí — nhận đơn ngay</a>
       <a class="nx-nut nx-phu" href="#tinh-dau">Tính thử tiền dầu chiều về</a>
     </div>
   </div>
@@ -160,8 +160,8 @@ const hotlineDep = '0707 707 115';
     <h2>Mấy câu anh đang định hỏi</h2>
     <div class="nx-hoi">
       <details open>
-        <summary>Dùng có mất tiền không?</summary>
-        <div class="nx-tl"><p>Không. Nhà xe dùng <b>miễn phí toàn bộ tính năng</b> — xem đơn, gọi, báo giá, rao xe rỗng, nhận thông báo, tất cả đều không mất đồng nào.</p><p>Anh cứ vào khai tuyến rồi để đó. Có đơn hợp tuyến thì máy kêu, không tốn gì của anh cả.</p></div>
+        <summary>Vào dùng thử có mất gì không?</summary>
+        <div class="nx-tl"><p>Không. Anh vào là <b>trải nghiệm miễn phí</b> — không trả trước đồng nào, không để lại thẻ, không đặt cọc gì hết. Xem đơn, gọi, báo giá, rao xe rỗng, nhận thông báo, anh cứ dùng thoải mái.</p><p>Cứ vào khai tuyến rồi để đó. Có đơn hợp tuyến thì máy kêu. Anh nhận được cái gì rồi hãy tính tiếp.</p></div>
       </details>
       <details>
         <summary>Có ăn phần trăm cước của tôi không?</summary>
@@ -193,7 +193,7 @@ const hotlineDep = '0707 707 115';
       <li><b>Chọn “Tôi có XE” rồi đăng nhập bằng Google</b><span>Không phải nghĩ mật khẩu mới.</span></li>
       <li><b>Khai tuyến hay chạy và bật thông báo</b><span>Từ lúc này, có đơn hợp tuyến là máy anh kêu.</span></li>
     </ol>
-    <a class="nx-nut" href={appUrl}>Vào xem đơn ngay</a>
+    <a class="nx-nut" href={appUrl}>Trải nghiệm miễn phí — nhận đơn ngay</a>
     <p class="nx-nho">Chưa muốn đăng nhập cũng vào xem đơn đang mở được trước, thấy hợp rồi hãy tính.</p>
   </div>
 </section>
@@ -236,7 +236,7 @@ const hotlineDep = '0707 707 115';
 
 <div class="nx-thanh">
   <span>Khai tuyến một lần — đơn tự báo về máy</span>
-  <a class="nx-nut nx-nho" href={appUrl}>Mở app</a>
+  <a class="nx-nut nx-nho" href={appUrl}>Trải nghiệm miễn phí</a>
 </div>
 
 <style>
@@ -268,7 +268,11 @@ const hotlineDep = '0707 707 115';
     display:flex; align-items:center; justify-content:space-between; gap:1rem;
     max-width:1120px; margin:0 auto; padding:14px 20px;
   }
-  .nx-brand{display:inline-flex; align-items:center; gap:.5rem; font-weight:800; font-size:1.08rem; text-decoration:none}
+  .nx-brand{
+    display:inline-flex; align-items:center; gap:.5rem; min-width:0;
+    font-weight:800; font-size:1.08rem; text-decoration:none;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+  }
   .nx-cam{color:var(--accent)}
 
   /* nút */
@@ -276,6 +280,7 @@ const hotlineDep = '0707 707 115';
     display:inline-flex; align-items:center; justify-content:center;
     background:var(--accent); color:#fff; text-decoration:none;
     font-weight:800; font-size:1.06rem; padding:.78rem 1.5rem;
+    text-align:center; line-height:1.3;
     border-radius:var(--radius); border:2px solid transparent;
     box-shadow:var(--shadow); transition:background .12s ease, transform .12s ease;
   }
