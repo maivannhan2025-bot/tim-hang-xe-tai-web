@@ -178,7 +178,7 @@ const esc = (s) => String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g
 
 /* Bóc lấy đúng MÃ từ đoạn mã dán vào ---------------------------------------------------------
    Facebook/Google đưa NGUYÊN một đoạn mã (có cả thẻ script) để dán, nhưng web chỉ cần đúng dãy mã
-   (VD 850111651207622 / G-XXXXXXX). Dán nguyên đoạn vào thì web nhét cả đoạn đó vào chỗ đáng lẽ
+   (VD 123456789012345 / G-XXXXXXX). Dán nguyên đoạn vào thì web nhét cả đoạn đó vào chỗ đáng lẽ
    chỉ để dãy số → Pixel/Analytics KHÔNG chạy mà cũng không báo lỗi gì. Hàm này tự bóc lấy mã, nên
    anh dán kiểu nào (cả đoạn, hay chỉ dãy mã) cũng đúng. Không nhận ra thì giữ nguyên, không phá. */
 function chuanHoaMaDo(key, val) {
