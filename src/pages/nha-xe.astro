@@ -1,0 +1,477 @@
+---
+import Layout from '../layouts/Layout.astro';
+import t from '../data/trangchu.json';
+
+const appUrl = t.appUrl || 'https://app.timhangxetai.com/';
+const hotline = '0707707115';
+const hotlineDep = '0707 707 115';
+---
+<Layout
+  title="Nhà xe tìm hàng — hết cảnh đi xin hàng, bớt chạy rỗng chiều về"
+  description="Khai tuyến hay chạy một lần, có đơn hợp tuyến app báo ngay. Tự báo giá, làm việc thẳng với chủ hàng, sàn không cắt phần trăm cước. Miễn phí toàn bộ tính năng."
+  path="/nha-xe/">
+
+<header class="nx-bar">
+  <a class="nx-brand" href="/"><span aria-hidden="true">🚚</span><span>Tìm hàng<span class="nx-cam"> xe tải</span></span></a>
+  <a class="nx-nut nx-nho" href={appUrl}>Trải nghiệm miễn phí</a>
+</header>
+
+<!-- ===== Tiếp cận ===== -->
+<section class="nx-hero">
+  <div class="nx-cot">
+    <p class="nx-nhan">Dành cho anh em chủ xe tải</p>
+    <h1>Đi thì có hàng.<br>Về mới là chuyện.</h1>
+    <p class="nx-lede">Chở được một chuyến đi, rồi ngồi bãi gọi khắp nơi xin hàng chiều về. Xin không ra thì chạy rỗng, đốt dầu bằng tiền túi. Nằm chờ thì mỗi ngày đứng yên vẫn tốn.</p>
+    <p class="nx-lede"><b>Tìm Hàng Xe Tải</b> làm đúng một việc: đem đơn của chủ hàng tới trước mặt anh, để anh <b>chọn</b> — thay vì đi xin.</p>
+    <div class="nx-hang-nut">
+      <a class="nx-nut" href={appUrl}>Trải nghiệm miễn phí — nhận đơn ngay</a>
+      <a class="nx-nut nx-phu" href="#tinh-dau">Tính thử tiền dầu chiều về</a>
+    </div>
+  </div>
+</section>
+
+<div class="nx-soc" role="presentation"></div>
+
+<!-- ===== Tin cậy + nhu cầu ===== -->
+<section>
+  <div class="nx-cot">
+    <p class="nx-nhan">Chuyện quen thuộc</p>
+    <h2>Xe anh không thiếu sức chạy. Nó thiếu chỗ để chọn đơn.</h2>
+    <p>Anh có mối quen, có vài đầu mối, có mấy nhóm Zalo. Nhưng nguồn hàng không nằm trong tay anh — nó nằm trong tay người khác. Nên tháng nào mối đều thì xe chạy đều, mối hụt một cái là xe nằm.</p>
+    <p class="nx-trich">Cái mệt nhất không phải là lái xe. Là ngồi chờ điện thoại reo.</p>
+    <p>Xe nằm bãi thùng trống thì ngày nào đứng cũng là ngày phải trả tiền cho nó. Còn khi có người gọi, anh cũng ít khi ở thế được chọn: giá người ta đưa ra, giờ bốc người ta hẹn, qua một hai cầu trung gian mỗi cầu ăn một khúc. Chuyến vẫn chạy, nhưng phần còn lại của anh mỏng đi.</p>
+
+    <figure class="nx-hinh">
+      <img src="/anh/xe-ranh-chua-co-don-lo-moi-ngay.jpg" width="337" height="450" loading="lazy" decoding="async"
+           alt="Chủ xe tải ngồi bên xe, lo lắng nhìn điện thoại: xe đang rảnh phải tìm đơn gấp, không có hàng là lỗ mỗi ngày, tìm ở đâu bây giờ">
+      <figcaption>Xe rảnh mà chưa có đơn — mỗi ngày đứng là một ngày lỗ. <i>(Ảnh minh hoạ)</i></figcaption>
+    </figure>
+  </div>
+</section>
+
+<!-- ===== Máy tính dầu ===== -->
+<section id="tinh-dau" class="nx-lien">
+  <div class="nx-cot">
+    <p class="nx-nhan">Số của anh, không phải số của tôi</p>
+    <h2>Một chiều về rỗng đốt hết bao nhiêu dầu?</h2>
+    <p class="nx-lede">Tôi không biết xe anh ăn bao nhiêu, cũng không biết anh đang đổ dầu giá nào. Anh sửa lại mấy ô dưới đây theo xe của anh, con số sẽ tự chạy.</p>
+
+    <div class="nx-may">
+      <div class="nx-may-dau">
+        <b>Chiều về không hàng</b>
+        <span>Anh tự điền</span>
+      </div>
+      <div class="nx-o-nhap">
+        <label>
+          <span class="nx-ten">Chiều về dài bao nhiêu km?</span>
+          <input id="nxKm" type="number" inputmode="numeric" min="0" step="10" value="1700">
+          <span class="nx-goi">Ví dụ TP.HCM → Hà Nội khoảng 1.700 km.</span>
+        </label>
+        <label>
+          <span class="nx-ten">Xe ăn bao nhiêu lít / 100 km?</span>
+          <input id="nxTieuHao" type="number" inputmode="decimal" min="0" step="0.5" value="30">
+          <span class="nx-goi">Xe anh chạy thật ăn bao nhiêu thì điền bấy nhiêu.</span>
+        </label>
+        <label>
+          <span class="nx-ten">Giá dầu anh đang đổ (đ/lít)</span>
+          <input id="nxGia" type="number" inputmode="numeric" min="0" step="100" placeholder="giá ở cây anh hay đổ">
+          <span class="nx-goi">Để trống cũng được — phần lít vẫn tính ra.</span>
+        </label>
+        <label>
+          <span class="nx-ten">Một tháng mấy chuyến về rỗng?</span>
+          <input id="nxChuyen" type="number" inputmode="numeric" min="0" step="1" value="2">
+          <span class="nx-goi">Đếm theo tháng gần nhất cho sát.</span>
+        </label>
+      </div>
+      <div class="nx-ket-qua">
+        <div class="nx-dong">
+          <span>Một chiều về rỗng đốt hết</span>
+          <b class="nx-so" id="nxKqLit">510 lít dầu</b>
+        </div>
+        <div class="nx-dong">
+          <span>Một tháng như vậy là</span>
+          <b class="nx-so nx-so-nhat" id="nxKqThang">1.020 lít dầu</b>
+        </div>
+        <div class="nx-dong" id="nxDongTien" hidden>
+          <span>Quy ra tiền, một tháng</span>
+          <b class="nx-so" id="nxKqTien">—</b>
+        </div>
+      </div>
+      <p class="nx-ghi">Đây mới chỉ là tiền dầu. Chưa tính lương tài xế cho quãng đường không ra tiền, chưa tính hao mòn, chưa tính những ngày xe nằm bãi chờ mối. Ghép được hàng chiều về, dù chỉ vừa đủ bù dầu, thì bằng đó tiền anh không mất.</p>
+    </div>
+  </div>
+</section>
+
+<div class="nx-soc" role="presentation"></div>
+
+<!-- ===== Tính năng → lợi ích ===== -->
+<section>
+  <div class="nx-cot">
+    <p class="nx-nhan">Sàn làm gì cho anh</p>
+    <h2>Đơn tự tìm tới. Anh chỉ việc chọn.</h2>
+    <p class="nx-lede">Không phải phần mềm quản lý rườm rà. Chỉ là chỗ để chủ hàng đăng chuyến và anh nhìn thấy nó trước khi người khác nhặt mất.</p>
+
+    <div class="nx-loi">
+      <article>
+        <h3>Khai tuyến hay chạy một lần, sau đó đơn tự báo về máy</h3>
+        <p>Anh vào app khai hai đầu tuyến mình hay chạy. Từ đó có đơn nào rơi vào tuyến ấy, điện thoại anh nhận thông báo ngay — kể cả lúc anh đang cầm vô lăng, đang ăn cơm, đang ngủ ở bãi. Không phải canh nhóm.</p>
+        <p class="nx-trong-app">Trong app: mục “Tuyến hay chạy” + bật Thông báo</p>
+      </article>
+      <article>
+        <h3>Hợp tuyến tính theo cả hai đầu — nên nó bắt được hàng chiều về</h3>
+        <p>Đơn chỉ cần khớp <b>một trong hai đầu</b> tuyến của anh là app đã coi là hợp và báo cho anh. Nghĩa là hàng đi lẫn hàng về đều lọt lưới, chứ không phải chỉ đúng chiều đi mới hiện.</p>
+        <p class="nx-trong-app">Đúng cách sàn đang lọc đơn cho nhà xe</p>
+      </article>
+      <article>
+        <h3>Anh tự báo giá, tự nói chuyện với chủ hàng</h3>
+        <p>Thấy đơn ưng thì gọi thẳng cho chủ hàng, hoặc bấm báo giá. Giá bao nhiêu, mấy giờ bốc, mấy giờ hạ — anh và người ta thoả với nhau, không qua ai ở giữa. Báo giá của anh là <b>báo giá kín</b>: chỉ chủ hàng đọc được, nhà xe khác không nhìn thấy để phá giá.</p>
+        <p class="nx-trong-app">Trong app: nút Gọi và nút Báo giá trên từng đơn</p>
+      </article>
+      <article>
+        <h3>Xe đang trống thì rao lên, để chủ hàng tìm ngược lại anh</h3>
+        <p>Không đợi có đơn mới được nói. Xe rảnh ngày nào, đang nằm ở đâu, sắp trả hàng ở tỉnh nào — rao vào mục Xe rỗng, chủ hàng thấy sẽ gọi trực tiếp cho anh.</p>
+        <p class="nx-trong-app">Trong app: mục “Xe rỗng — xe đang trống tìm hàng”</p>
+      </article>
+      <article>
+        <h3>Muốn dò tuyến khác cũng được, không phải xoá tuyến cũ</h3>
+        <p>Hôm nào xe lỡ nằm ở tỉnh lạ, anh dò thử đơn tuyến khác để bắt hàng về. Dò xong tắt đi, tuyến hay chạy của anh vẫn nguyên như cũ.</p>
+        <p class="nx-trong-app">Trong app: “Tìm đơn theo tuyến khác”</p>
+      </article>
+      <article>
+        <h3>Sàn không cắt phần trăm cước của anh</h3>
+        <p>Anh chốt với chủ hàng bao nhiêu thì anh cầm bấy nhiêu. Sàn không đứng giữa cầm tiền, không ăn hoa hồng trên mỗi chuyến, không bắt anh chia lại phần trăm cho phần mềm.</p>
+        <p class="nx-trong-app">Tiền cước đi thẳng giữa anh và chủ hàng</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Chăm sóc sau khi chốt ===== -->
+<section class="nx-lien">
+  <div class="nx-cot">
+    <p class="nx-nhan">Chốt xong rồi thì sao</p>
+    <h2>Chuyến xong, sàn vẫn còn việc phải làm</h2>
+    <p><b>Đánh giá hai chiều.</b> Chạy xong, chủ hàng đánh giá anh, anh cũng đánh giá chủ hàng. Nhà xe làm ăn đàng hoàng thì sao tích lại thành cái tên — lần sau chủ hàng nhìn vào đó mà chọn.</p>
+    <p><b>Đơn ảo thì báo cáo.</b> Gặp tin rác, tin ma, người đăng cho vui — anh bấm báo cáo ngay trên đơn đó. Người bị báo cáo nhiều lần sẽ bị sàn xử lý, không để làm phiền anh em mãi.</p>
+    <p><b>Có người nghe máy.</b> Kẹt chỗ nào, app lỗi chỗ nào, gọi hoặc nhắn Zalo vào số cuối trang. Gọi là gặp người, không phải tổng đài bấm phím.</p>
+  </div>
+</section>
+
+<div class="nx-soc" role="presentation"></div>
+
+<!-- ===== Xử lý từ chối ===== -->
+<section>
+  <div class="nx-cot">
+    <p class="nx-nhan">Anh em hay hỏi</p>
+    <h2>Mấy câu anh đang định hỏi</h2>
+    <div class="nx-hoi">
+      <details open>
+        <summary>Vào dùng thử có mất gì không?</summary>
+        <div class="nx-tl"><p>Không. Anh vào là <b>trải nghiệm miễn phí</b> — không trả trước đồng nào, không để lại thẻ, không đặt cọc gì hết. Xem đơn, gọi, báo giá, rao xe rỗng, nhận thông báo, anh cứ dùng thoải mái.</p><p>Cứ vào khai tuyến rồi để đó. Có đơn hợp tuyến thì máy kêu. Anh nhận được cái gì rồi hãy tính tiếp.</p></div>
+      </details>
+      <details>
+        <summary>Có ăn phần trăm cước của tôi không?</summary>
+        <div class="nx-tl"><p>Không. Sàn không cầm tiền cước, không ăn hoa hồng theo chuyến. Anh và chủ hàng thoả giá với nhau rồi thanh toán thẳng với nhau. Đây là chỗ khác hẳn với việc qua cò: cò ăn theo mỗi chuyến anh chạy, sàn thì không.</p></div>
+      </details>
+      <details>
+        <summary>Sàn có tự chạy xe, có tranh hàng với tôi không?</summary>
+        <div class="nx-tl"><p>Không. Tìm Hàng Xe Tải là <b>sàn trung lập</b> — không sở hữu xe, không nhận chở hàng, không đứng tên nhà xe nào. Sàn sống được là nhờ anh em nhà xe và chủ hàng gặp được nhau, nên không có lý do gì đi giành đơn của anh.</p></div>
+      </details>
+      <details>
+        <summary>Gặp đơn ảo, chủ hàng ma thì sao?</summary>
+        <div class="nx-tl"><p>Có ba lớp: người dùng khai số điện thoại thật mới hoạt động được; mỗi đơn có nút <b>báo cáo đơn ảo</b> ngay trên đó; và sau mỗi chuyến hai bên chấm sao cho nhau. Người bị báo cáo tới ngưỡng sẽ bị sàn xử lý.</p><p>Sàn cũng không giấu anh chuyện này: không có nền tảng nào diệt sạch được tin rác. Cái sàn làm được là để anh báo cáo nhanh và loại nhanh.</p></div>
+      </details>
+      <details>
+        <summary>Tôi không rành điện thoại, có dùng nổi không?</summary>
+        <div class="nx-tl"><p>Được. Mở trình duyệt trên điện thoại, vào <b>app.timhangxetai.com</b>, bấm đăng nhập bằng Google — không phải nhớ mật khẩu. Sau đó chỉ có hai ô cần điền: tuyến anh hay chạy đi từ đâu, về đâu. Xong. Từ đó đơn tự báo về.</p><p>Không phải tải từ chợ ứng dụng. Muốn cho gọn thì bấm “thêm vào màn hình chính”, nó nằm cạnh Zalo như một cái app bình thường.</p></div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<section class="nx-khung-hinh">
+  <div class="nx-cot">
+    <figure class="nx-hinh">
+      <img src="/anh/co-don-hang-moi-tren-app-timhangxetai.jpg" width="335" height="451" loading="lazy" decoding="async"
+           alt="Chủ xe tải vui mừng khi app.timhangxetai.com báo có đơn hàng mới chở hàng Bắc Ninh đi TP.HCM — xe quay đầu ngay, không lo rảnh xe">
+      <figcaption>Có đơn hợp tuyến báo về máy là quay đầu xe được ngay. <i>(Ảnh minh hoạ)</i></figcaption>
+    </figure>
+  </div>
+</section>
+
+<!-- ===== Chốt ===== -->
+<section class="nx-chot">
+  <div class="nx-cot">
+    <p class="nx-nhan">Bắt đầu</p>
+    <h2>Ba bước, hết chừng hai phút</h2>
+    <ol class="nx-buoc">
+      <li><b>Mở app.timhangxetai.com</b><span>Bằng trình duyệt trên điện thoại, không cần tải ở chợ ứng dụng.</span></li>
+      <li><b>Chọn “Tôi có XE” rồi đăng nhập bằng Google</b><span>Không phải nghĩ mật khẩu mới.</span></li>
+      <li><b>Khai tuyến hay chạy và bật thông báo</b><span>Từ lúc này, có đơn hợp tuyến là máy anh kêu.</span></li>
+    </ol>
+    <a class="nx-nut" href={appUrl}>Trải nghiệm miễn phí — nhận đơn ngay</a>
+    <p class="nx-nho">Chưa muốn đăng nhập cũng vào xem đơn đang mở được trước, thấy hợp rồi hãy tính.</p>
+  </div>
+</section>
+
+<!-- ===== Xác thực ===== -->
+<section>
+  <div class="nx-cot">
+    <p class="nx-nhan">Kiểm chứng trước khi tin</p>
+    <h2>Anh cứ kiểm rồi hãy dùng</h2>
+    <p class="nx-lede">Đừng tin vì trang này viết hay. Gọi thử số dưới đây, hoặc mở app xem đơn thật đang chạy — mất vài phút thôi.</p>
+    <div class="nx-kiem">
+      <dl>
+        <dt>App nhà xe</dt><dd><a href={appUrl}>app.timhangxetai.com</a></dd>
+        <dt>Gọi trực tiếp</dt><dd><a href={`tel:${hotline}`}>{hotlineDep}</a></dd>
+        <dt>Nhắn Zalo</dt><dd><a href={`https://zalo.me/${hotline}`} target="_blank" rel="noopener">zalo.me/{hotline}</a></dd>
+        <dt>Phạm vi</dt><dd>63 tỉnh thành</dd>
+      </dl>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Xin giới thiệu ===== -->
+<section class="nx-cuoi">
+  <div class="nx-cot">
+    <div class="nx-ru">
+      <h3>Một việc nhỏ nhờ anh</h3>
+      <p>Sàn càng đông nhà xe và chủ hàng thì đơn càng dày, anh càng dễ ghép chiều về. Nếu thấy dùng được, anh gửi link cho vài anh em cùng bãi, cùng tuyến.</p>
+      <p class="nx-nho">Trong app có sẵn <b>mã giới thiệu riêng của anh</b> — bấm chép link hoặc gửi thẳng qua Zalo, không giới hạn số người mời.</p>
+    </div>
+  </div>
+</section>
+
+<footer class="nx-chan">
+  <div class="nx-cot">
+    <p><b>Tìm Hàng Xe Tải</b> — sàn kết nối chủ hàng và nhà xe tải, hoạt động trên cả 63 tỉnh thành.</p>
+    <p>Sàn trung lập: không sở hữu xe, không nhận chở hàng, không ăn phần trăm cước.</p>
+    <p><a href="/">Trang chủ</a> · <a href="/blog/">Bài viết</a> · <a href={appUrl}>Mở app</a></p>
+  </div>
+</footer>
+
+<div class="nx-thanh">
+  <span>Khai tuyến một lần — đơn tự báo về máy</span>
+  <a class="nx-nut nx-nho" href={appUrl}>Trải nghiệm miễn phí</a>
+</div>
+
+<style>
+  /* Trang bán hàng cho nhà xe. Dùng lại bộ biến màu của Layout (--bg, --text, --accent...)
+     nên tự động đúng cả nền sáng lẫn nền tối, không cần khai báo :root ở đây. */
+  .nx-cot{max-width:44rem; margin:0 auto; padding:0 20px}
+  section{padding:3rem 0}
+  .nx-lien{background:var(--panel); border-block:1px solid var(--line)}
+  .nx-cuoi{padding-top:0}
+
+  h1,h2,h3{margin:0; line-height:1.15; text-wrap:balance; letter-spacing:-.015em}
+  h1{font-size:clamp(2.15rem,7.6vw,3.3rem); font-weight:800}
+  h2{font-size:clamp(1.65rem,5vw,2.25rem); font-weight:800}
+  h3{font-size:1.2rem; font-weight:700; line-height:1.3}
+  section p{margin:0 0 1em; color:var(--text-soft)}
+  .nx-lede{font-size:1.12rem}
+  .nx-nho{font-size:.94rem; color:var(--muted)}
+  .nx-nhan{
+    font-size:.82rem; font-weight:800; letter-spacing:.14em; text-transform:uppercase;
+    color:var(--accent); margin:0 0 .6rem;
+  }
+  .nx-trich{
+    border-left:4px solid var(--accent); padding-left:1rem; margin:1.4rem 0;
+    font-size:1.18rem; font-weight:600; color:var(--text); line-height:1.45;
+  }
+
+  /* thanh đầu trang */
+  .nx-bar{
+    display:flex; align-items:center; justify-content:space-between; gap:1rem;
+    max-width:1120px; margin:0 auto; padding:14px 20px;
+  }
+  .nx-brand{
+    display:inline-flex; align-items:center; gap:.5rem; min-width:0;
+    font-weight:800; font-size:1.08rem; text-decoration:none;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+  }
+  .nx-cam{color:var(--accent)}
+
+  /* nút */
+  .nx-nut{
+    display:inline-flex; align-items:center; justify-content:center;
+    background:var(--accent); color:#fff; text-decoration:none;
+    font-weight:800; font-size:1.06rem; padding:.78rem 1.5rem;
+    text-align:center; line-height:1.3;
+    border-radius:var(--radius); border:2px solid transparent;
+    box-shadow:var(--shadow); transition:background .12s ease, transform .12s ease;
+  }
+  .nx-nut:hover{background:var(--accent-dark); transform:translateY(-1px)}
+  .nx-nut:active{transform:translateY(1px)}
+  .nx-nut.nx-nho{font-size:.95rem; padding:.55rem 1rem; box-shadow:none}
+  .nx-nut.nx-phu{
+    background:transparent; color:var(--text); border-color:var(--line); box-shadow:none;
+  }
+  .nx-nut.nx-phu:hover{background:transparent; border-color:var(--muted)}
+  .nx-hang-nut{display:flex; flex-wrap:wrap; gap:.7rem; margin-top:1.5rem}
+
+  .nx-hero{padding-top:1.5rem}
+  .nx-hero h1{margin-bottom:.9rem}
+
+  /* dải sọc chéo như bậc lên xe tải */
+  .nx-soc{
+    height:10px; background-color:var(--navy);
+    background-image:repeating-linear-gradient(-45deg, var(--amber-line) 0 12px, transparent 12px 24px);
+  }
+
+  /* máy tính dầu */
+  .nx-may{
+    background:var(--card); border:1px solid var(--line); border-radius:var(--radius);
+    box-shadow:var(--shadow); overflow:hidden; margin-top:1.4rem;
+  }
+  .nx-may-dau{
+    background:var(--navy); color:#fff; padding:.95rem 1.2rem;
+    display:flex; align-items:baseline; justify-content:space-between; gap:1rem; flex-wrap:wrap;
+  }
+  .nx-may-dau b{font-size:1.14rem}
+  .nx-may-dau span{font-size:.8rem; letter-spacing:.12em; text-transform:uppercase; opacity:.7}
+  .nx-o-nhap{display:grid; gap:1rem; padding:1.2rem}
+  @media(min-width:34rem){.nx-o-nhap{grid-template-columns:1fr 1fr}}
+  .nx-o-nhap label{display:flex; flex-direction:column; gap:.3rem}
+  .nx-ten{font-size:.92rem; font-weight:700; color:var(--text)}
+  .nx-goi{font-size:.82rem; color:var(--muted); line-height:1.45}
+  .nx-o-nhap input{
+    font:inherit; font-size:1.1rem; font-weight:700; font-variant-numeric:tabular-nums;
+    padding:.55rem .7rem; border:1px solid var(--line); border-radius:10px;
+    background:var(--bg); color:var(--text); width:100%;
+  }
+  .nx-ket-qua{
+    border-top:1px solid var(--line); background:var(--amber-tint);
+    padding:1.15rem 1.2rem; display:grid; gap:.85rem;
+  }
+  .nx-dong{display:flex; align-items:baseline; justify-content:space-between; gap:1rem}
+  .nx-dong span{font-size:.98rem; color:var(--text-soft)}
+  .nx-so{
+    font-size:1.85rem; font-weight:800; line-height:1.1; white-space:nowrap;
+    font-variant-numeric:tabular-nums; color:var(--accent);
+  }
+  .nx-so-nhat{font-size:1.35rem; color:var(--text)}
+  .nx-ghi{padding:0 1.2rem 1.1rem; font-size:.88rem; color:var(--muted); margin:0; line-height:1.55}
+
+  /* lợi ích */
+  .nx-loi{margin-top:1.5rem; border-top:1px solid var(--line)}
+  .nx-loi article{padding:1.3rem 0; border-bottom:1px solid var(--line)}
+  .nx-loi h3{margin-bottom:.4rem}
+  .nx-loi p{margin:0; color:var(--text-soft)}
+  .nx-trong-app{
+    margin-top:.5rem; font-size:.86rem; font-weight:600; color:var(--muted);
+  }
+
+  /* ảnh minh hoạ dạng dọc — không phóng to quá cỡ gốc kẻo chữ trong ảnh nhoè */
+  .nx-hinh{margin:1.75rem auto 0; max-width:340px}
+  .nx-hinh img{
+    display:block; width:100%; height:auto;
+    border:1px solid var(--line); border-radius:var(--radius);
+  }
+  .nx-hinh figcaption{margin-top:.6rem; font-size:.88rem; color:var(--muted); line-height:1.5; text-align:center}
+  .nx-hinh figcaption i{font-style:normal; opacity:.75}
+  .nx-khung-hinh{padding:0 0 3rem}
+
+  /* hỏi đáp */
+  .nx-hoi{margin-top:1.3rem; border-top:1px solid var(--line)}
+  .nx-hoi details{border-bottom:1px solid var(--line)}
+  .nx-hoi summary{
+    cursor:pointer; list-style:none; position:relative;
+    padding:1rem 2.2rem 1rem 0; font-weight:700; font-size:1.05rem; line-height:1.4;
+  }
+  .nx-hoi summary::-webkit-details-marker{display:none}
+  .nx-hoi summary::after{
+    content:"+"; position:absolute; right:.2rem; top:.75rem;
+    font-size:1.6rem; font-weight:700; color:var(--accent); line-height:1;
+  }
+  .nx-hoi details[open] summary::after{content:"–"}
+  .nx-tl{padding-bottom:1.1rem}
+  .nx-tl p{margin:0 0 .8em}
+  .nx-tl p:last-child{margin-bottom:0}
+
+  /* chốt */
+  .nx-chot{background:var(--navy); color:#fff}
+  .nx-chot h2{color:#fff}
+  .nx-chot p{color:rgba(255,255,255,.76)}
+  .nx-chot .nx-nhan{color:var(--amber-line)}
+  .nx-buoc{list-style:none; margin:1.4rem 0 1.6rem; padding:0; counter-reset:b; display:grid; gap:.85rem}
+  .nx-buoc li{
+    counter-increment:b; position:relative; padding:0 0 .85rem 2.6rem;
+    border-bottom:1px solid rgba(255,255,255,.18);
+  }
+  .nx-buoc li:last-child{border-bottom:none; padding-bottom:0}
+  .nx-buoc li::before{
+    content:counter(b); position:absolute; left:0; top:-.1rem;
+    font-size:1.6rem; font-weight:800; line-height:1; color:var(--amber-line);
+  }
+  .nx-buoc b{display:block; font-size:1.08rem}
+  .nx-buoc span{display:block; margin-top:.15rem; font-size:.94rem; color:rgba(255,255,255,.72)}
+
+  /* kiểm chứng */
+  .nx-kiem{
+    background:var(--card); border:1px solid var(--line); border-left:4px solid var(--green);
+    border-radius:var(--radius); padding:1.25rem 1.3rem; margin-top:1.3rem;
+  }
+  .nx-kiem dl{margin:0; display:grid; gap:.65rem}
+  @media(min-width:34rem){.nx-kiem dl{grid-template-columns:9rem 1fr; gap:.65rem 1rem; align-items:baseline}}
+  .nx-kiem dt{font-size:.82rem; font-weight:800; letter-spacing:.1em; text-transform:uppercase; color:var(--muted)}
+  .nx-kiem dd{margin:0; font-weight:700; font-variant-numeric:tabular-nums}
+
+  /* rủ anh em */
+  .nx-ru{background:var(--green-tint); border:1px solid var(--line); border-radius:var(--radius); padding:1.3rem}
+  .nx-ru h3{color:var(--green); margin-bottom:.5rem}
+  .nx-ru p:last-child{margin-bottom:0}
+
+  /* chừa sẵn chỗ cho thanh dính đáy, không cần :has() */
+  .nx-chan{padding:2.2rem 0 5.6rem; color:var(--muted); font-size:.92rem}
+  .nx-chan p{margin:0 0 .45rem}
+
+  /* thanh dính đáy */
+  .nx-thanh{
+    position:fixed; left:0; right:0; bottom:0; z-index:20;
+    background:var(--panel); border-top:1px solid var(--line);
+    box-shadow:0 -6px 22px rgba(10,22,66,.14);
+    padding:.65rem 20px calc(.65rem + env(safe-area-inset-bottom));
+    display:flex; align-items:center; justify-content:space-between; gap:1rem;
+  }
+  .nx-thanh span{font-weight:700; font-size:.98rem; line-height:1.25; color:var(--text-soft)}
+  @media(max-width:29rem){
+    .nx-thanh span{display:none}
+    .nx-thanh{justify-content:center}
+    .nx-thanh .nx-nut{width:100%}
+  }
+
+  @media (prefers-reduced-motion: reduce){ *{transition:none !important} }
+</style>
+
+<script is:inline>
+  (function(){
+    var g = function(id){ return document.getElementById(id); };
+    var oKm = g('nxKm'), oTh = g('nxTieuHao'), oGia = g('nxGia'), oCh = g('nxChuyen');
+    if (!oKm) return;
+    var kqLit = g('nxKqLit'), kqThang = g('nxKqThang'), kqTien = g('nxKqTien'), dongTien = g('nxDongTien');
+
+    function dinhDang(n){ return n.toLocaleString('vi-VN'); }
+    function lay(el){ var v = parseFloat(el.value); return isFinite(v) && v > 0 ? v : 0; }
+
+    function tinh(){
+      var lit = lay(oKm) * lay(oTh) / 100;
+      var litThang = lit * lay(oCh);
+      var gia = lay(oGia);
+
+      kqLit.textContent = lit > 0 ? dinhDang(Math.round(lit)) + ' lít dầu' : '—';
+      kqThang.textContent = litThang > 0 ? dinhDang(Math.round(litThang)) + ' lít dầu' : '—';
+
+      if (gia > 0 && litThang > 0) {
+        dongTien.hidden = false;
+        kqTien.textContent = dinhDang(Math.round(litThang * gia)) + ' đ';
+      } else {
+        dongTien.hidden = true;
+      }
+    }
+
+    [oKm, oTh, oGia, oCh].forEach(function(el){ el.addEventListener('input', tinh); });
+    tinh();
+  })();
+</script>
+
+</Layout>
