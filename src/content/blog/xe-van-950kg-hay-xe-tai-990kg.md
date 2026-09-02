@@ -18,7 +18,7 @@ Theo Quyết định 23/2019/QĐ-UBND của TP.HCM, xe bán tải và xe tải v
 | Nhóm xe | Khung giờ bị hạn chế |
 |---|---|
 | Xe tải nhẹ dưới 2,5 tấn | 6h tới 9h và 16h tới 20h |
-| Xe tải từ 2,5 tấn trở lên | 6h tới 22h |
+| Xe tải trên 2,5 tấn | 6h tới 22h |
 | Xe van, bán tải chở dưới 950 kg | không bị hạn chế |
 
 Chiếc 990kg vượt mốc đúng 40 kg. Bốn mươi ký đó đổi lấy bảy tiếng mỗi ngày.
