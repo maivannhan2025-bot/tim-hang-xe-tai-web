@@ -76,7 +76,9 @@ const appUrl = t.appUrl || 'https://app.timhangxetai.com/';
             <div class="r-ico" data-edit={`t:roleCards.${i}.ico`}>{rc.ico}</div>
             <h2 data-edit={`t:roleCards.${i}.title`}>{rc.title}</h2>
             <p data-edit={`t:roleCards.${i}.desc`}>{rc.desc}</p>
-            <a class="btn-lg primary" href={appUrl} data-edit={`t:roleCards.${i}.btn`}>{rc.btn}</a>
+            {/* Thẻ nhà xe (i=1) dẫn sang trang bán hàng /nha-xe trước khi vào app;
+               thẻ chủ hàng (i=0) vẫn vào thẳng app như cũ. */}
+            <a class="btn-lg primary" href={i === 1 ? "/nha-xe/" : appUrl} data-edit={`t:roleCards.${i}.btn`}>{rc.btn}</a>
           </div>
         ))}
       </div>
