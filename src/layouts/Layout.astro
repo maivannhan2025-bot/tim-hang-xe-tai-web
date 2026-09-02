@@ -119,6 +119,15 @@ const ogImage = siteUrl + (image || '/anh/6.png');
 </style>
 </head>
 <body>
+  {/* Mảnh cuối của đoạn mã Meta Pixel: đếm cả khách TẮT JavaScript (đoạn script ở <head> lo phần
+     còn lại). Facebook đặt thẻ này ngay sau script, nhưng <img> không hợp lệ trong <head> nên đặt
+     đầu <body> — tác dụng y hệt. */}
+  {chung.fbPixelId && (
+    <noscript>
+      <img height="1" width="1" style="display:none" alt=""
+        src={`https://www.facebook.com/tr?id=${chung.fbPixelId}&ev=PageView&noscript=1`} />
+    </noscript>
+  )}
   <slot />
   {chung.contactForm && (
     <div id="popupLienHe" style="display:none"></div>
