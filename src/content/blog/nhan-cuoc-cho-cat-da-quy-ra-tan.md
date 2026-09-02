@@ -81,7 +81,7 @@ Nếu anh chạy xe thùng, phần xúc dỡ là chỗ tính thêm tiền. Nói 
 
 ## Giờ chạy và một ngày làm được mấy cuốc
 
-Xe từ 2,5 tấn trở lên bị hạn chế vào nội đô TP.HCM từ 6h tới 22h. Cỡ xe chở vật liệu luôn nằm trong nhóm này.
+Xe trên 2,5 tấn bị hạn chế vào nội đô TP.HCM từ 6h tới 22h. Cỡ xe chở vật liệu luôn nằm trong nhóm này.
 
 Nghĩa là cuốc vật liệu vào nội đô gần như chỉ chạy được ban đêm. Đó vừa là hạn chế vừa là cơ hội: ít xe nhận chạy đêm nên giá tốt hơn.
 
