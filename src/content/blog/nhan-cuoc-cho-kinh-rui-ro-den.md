@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Chở Kính: Giá Tốt Nhưng Rủi Ro Đền Lớn"
 description: "Tính ký trước khi báo giá, vì sao phải có giá chữ A, năm bước xếp kính và cách chốt trách nhiệm trước khi chạy."
-ngayDang: 2026-09-12T03:00:00+07:00
+ngayDang: 2026-09-12T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-cho-kinh-nha-xe.jpg"
 tuKhoa: "chở kính"

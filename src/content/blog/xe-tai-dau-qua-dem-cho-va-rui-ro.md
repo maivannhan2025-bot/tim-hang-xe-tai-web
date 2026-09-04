@@ -1,7 +1,7 @@
 ---
 title: "Xe Tải Đậu Qua Đêm Ở Đâu: Chỗ Đậu Và Rủi Ro"
 description: "Bốn chỗ đậu và cái giá của từng chỗ, cách chọn bãi, nghỉ đêm dọc đường khi đi tỉnh, và chuyện đậu xe trong giờ cấm."
-ngayDang: 2026-09-25T03:00:00+07:00
+ngayDang: 2026-09-25T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-tai-dau-qua-dem.jpg"
 tuKhoa: "bãi đỗ xe tải"

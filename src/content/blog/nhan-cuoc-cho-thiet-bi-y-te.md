@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Chở Thiết Bị Y Tế: Đo Cửa Trước Khi Nhận"
 description: "Cuốc thiết bị y tế ít món mà dễ hỏng cuốc nhất. Cách đo lối vào, nhóm nào phải từ chối, chằng buộc máy, và nhóm này đáng nhận với xe nào."
-ngayDang: 2026-12-04T03:00:00+07:00
+ngayDang: 2026-12-04T06:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-thiet-bi-y-te.jpg"
 tuKhoa: "chở thiết bị y tế"

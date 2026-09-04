@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt"
 description: "Chở thuốc tây là hàng nhẹ, giá trị cao, giao nhiều điểm nhỏ. Cách chốt giờ giao, giữ mát, đếm và ký nhận, và nhóm này đáng nhận với nhà xe nào."
-ngayDang: 2026-09-05T03:00:00+07:00
+ngayDang: 2026-09-05T06:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-thuoc-tay-nha-thuoc.jpg"
 tuKhoa: "chở thuốc tây"

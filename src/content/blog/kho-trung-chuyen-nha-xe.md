@@ -1,7 +1,7 @@
 ---
 title: "Kho Trung Chuyển: Khi Nào Nhà Xe Cần Một Chỗ Tập Kết"
 description: "Chỗ tập kết giải quyết chuyện gì, ba mức từ nhỏ tới lớn, chọn chỗ xem gì và cách tính chi phí kho vào giá thành."
-ngayDang: 2026-09-27T03:00:00+07:00
+ngayDang: 2026-09-27T06:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/kho-trung-chuyen-nha-xe.jpg"
 tuKhoa: "kho trung chuyển"

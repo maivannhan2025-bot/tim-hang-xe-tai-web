@@ -1,7 +1,7 @@
 ---
 title: "Chủ Hàng Khiếu Nại Sau Chuyến: Xử Lý Sao Cho Đúng"
 description: "Nhà xe xử lý khiếu nại sau chuyến: ba việc trong nửa tiếng đầu, bảng phân loại lỗi của ai, ba cách bù và cách đứng vững khi không phải lỗi mình."
-ngayDang: 2026-11-10T03:00:00+07:00
+ngayDang: 2026-11-10T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/chu-hang-khieu-nai-sau-chuyen.jpg"
 tuKhoa: "chủ hàng khiếu nại"

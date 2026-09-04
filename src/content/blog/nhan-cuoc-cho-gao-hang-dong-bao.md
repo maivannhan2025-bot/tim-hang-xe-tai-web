@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Chở Gạo Và Hàng Đóng Bao: Đếm Dễ, Bê Nặng"
 description: "Hàng bao là nhóm dễ đếm nhất mà cũng bào xe nhất. Cách quy bao ra tấn trước khi nhận, xếp tránh lệch trục, tính công vác bao, và nhóm này hợp xe nào."
-ngayDang: 2026-12-02T03:00:00+07:00
+ngayDang: 2026-12-02T06:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-gao-hang-dong-bao.jpg"
 tuKhoa: "chở gạo hàng đóng bao"

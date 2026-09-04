@@ -1,7 +1,7 @@
 ---
 title: "Bán Lại Xe Tải: Chuẩn Bị Gì Để Được Giá"
 description: "Bốn thứ làm nên giá xe cũ, rà giấy tờ trước khi rao, sửa gì và không sửa gì, cách định giá có căn cứ và phần chuyển giao sau khi bán."
-ngayDang: 2026-10-19T03:00:00+07:00
+ngayDang: 2026-10-19T06:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/ban-lai-xe-tai-duoc-gia.jpg"
 tuKhoa: "bán xe tải cũ"

@@ -1,7 +1,7 @@
 ---
 title: "Cuốc Chuyển Đồ Sinh Viên Mùa Nhập Học: Có Đáng Nhận"
 description: "Cuốc nhỏ, khách trẻ, hay trả giá. Nhóm này đáng nhận khi nào và không đáng khi nào, kèm bảng khối đồ, cỡ xe và thời gian mỗi cuốc."
-ngayDang: 2026-11-24T03:00:00+07:00
+ngayDang: 2026-11-24T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/cuoc-chuyen-do-sinh-vien-nhap-hoc.jpg"
 tuKhoa: "chuyển đồ sinh viên"

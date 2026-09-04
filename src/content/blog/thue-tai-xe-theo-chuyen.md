@@ -1,7 +1,7 @@
 ---
 title: "Thuê Tài Xế Theo Chuyến: Dùng Sao Cho Yên Tâm"
 description: "Kiểm gì trước khi giao xe, bốn thứ chốt trước, phần bảo hiểm dễ bị loại trừ, cách bàn giao xe và khi nào thì đừng giao."
-ngayDang: 2026-10-29T03:00:00+07:00
+ngayDang: 2026-10-29T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/thue-tai-xe-theo-chuyen.jpg"
 tuKhoa: "thuê tài xế theo chuyến"

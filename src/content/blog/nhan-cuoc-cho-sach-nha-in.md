@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Chở Sách: Đầy Tải Khi Thùng Còn Trống"
 description: "Cuốc sách nhìn nhẹ mà nặng nhất. Cách ước cân trước khi nhận, rủi ro quá tải, tiền công bốc xếp tính theo lượt bê, và nhóm này đáng nhận với xe nào."
-ngayDang: 2026-12-01T03:00:00+07:00
+ngayDang: 2026-12-01T06:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-sach-nha-in.jpg"
 tuKhoa: "chở sách"

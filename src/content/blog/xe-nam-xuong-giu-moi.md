@@ -1,7 +1,7 @@
 ---
 title: "Xe Nằm Xưởng Mấy Ngày: Giữ Mối Thế Nào"
 description: "Xe vào xưởng vài ngày: hỏi thợ ba điều để có ngày chắc chắn, báo khách sớm kèm phương án, gửi cuốc cho ai, và khi nào nên thuê xe ngoài."
-ngayDang: 2026-11-21T03:00:00+07:00
+ngayDang: 2026-11-21T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-nam-xuong-giu-moi.jpg"
 tuKhoa: "xe nằm xưởng"

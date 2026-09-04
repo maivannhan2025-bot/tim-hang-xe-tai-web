@@ -1,7 +1,7 @@
 ---
 title: "Xe Tải 1.25 Tấn Dễ Kiếm Hàng Nhất Có Đúng Không"
 description: "Cỡ này nhiều cuốc nhưng cũng đông xe nhất. Bốn chỗ giữ được giá, cách ước một ngày chạy, và nên mua cỡ nào cho hợp mối hàng."
-ngayDang: 2026-09-07T03:00:00+07:00
+ngayDang: 2026-09-07T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-tai-1-25-tan-nha-xe-tim-hang.jpg"
 tuKhoa: "xe tải 1.25 tấn"

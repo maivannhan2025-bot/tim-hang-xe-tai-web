@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Tính Theo Giờ: Khi Nào Lợi Cho Nhà Xe"
 description: "Nhà xe nhận cuốc tính theo giờ: khi nào có lợi, ba con số phải chốt trước, cách bấm giờ minh bạch và so với cách tính theo chuyến."
-ngayDang: 2026-11-11T03:00:00+07:00
+ngayDang: 2026-11-11T06:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-tinh-theo-gio.jpg"
 tuKhoa: "nhận cuốc tính theo giờ"

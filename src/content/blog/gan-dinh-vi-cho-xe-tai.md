@@ -1,7 +1,7 @@
 ---
 title: "Gắn Định Vị Cho Xe: Quy Định, Chi Phí Và Cách Dùng Để Bán"
 description: "Xe nào phải lắp gì, mốc 1/1/2028, bảng chi phí, và cách dùng dữ liệu hành trình để bán hàng chứ không chỉ tuân thủ."
-ngayDang: 2026-09-22T03:00:00+07:00
+ngayDang: 2026-09-22T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/gan-dinh-vi-cho-xe-tai.jpg"
 tuKhoa: "định vị xe tải"

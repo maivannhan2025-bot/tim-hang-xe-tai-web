@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Chở Phế Liệu: Bẩn Xe Nhưng Đều Việc"
 description: "Nhà xe nhận cuốc phế liệu: ba kiểu cuốc, cách lót bạt bảo vệ sàn, bốn nhóm phế liệu, chuyện cân và tính tiền, và nhóm nào phải từ chối."
-ngayDang: 2026-11-19T03:00:00+07:00
+ngayDang: 2026-11-19T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-cho-phe-lieu.jpg"
 tuKhoa: "chở phế liệu"

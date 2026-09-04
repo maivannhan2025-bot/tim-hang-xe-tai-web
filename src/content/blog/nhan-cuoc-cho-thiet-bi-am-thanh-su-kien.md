@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Chở Thiết Bị Âm Thanh Cho Sự Kiện"
 description: "Cuốc sự kiện trả khá mà giờ giấc rất gắt. Cách tính hai chiều đi và về, chốt giờ chết, xếp loa và đèn, và nhóm này đáng nhận với xe nào."
-ngayDang: 2026-12-06T03:00:00+07:00
+ngayDang: 2026-12-06T06:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-thiet-bi-am-thanh-su-kien.jpg"
 tuKhoa: "chở thiết bị âm thanh"

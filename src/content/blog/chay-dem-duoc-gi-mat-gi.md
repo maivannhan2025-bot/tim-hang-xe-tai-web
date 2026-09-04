@@ -1,7 +1,7 @@
 ---
 title: "Chạy Đêm: Được Gì Mất Gì"
 description: "Chạy đêm được gì mất gì với nhà xe: ba con số để so, kiểu việc nào hợp, cách sắp lịch cho an toàn và bốn thứ chốt với chủ hàng trước chuyến đêm."
-ngayDang: 2026-10-11T03:00:00+07:00
+ngayDang: 2026-10-11T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/chay-dem-xe-tai.jpg"
 tuKhoa: "chạy đêm xe tải"

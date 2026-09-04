@@ -1,7 +1,7 @@
 ---
 title: "Mua Xe Van Dưới 950kg Hay Xe Tải 990kg: Nhà Xe Chọn Sao"
 description: "Bốn mươi ký chênh lệch làm hai chiếc xe thành hai nghề khác nhau. Bảng so, nguồn hàng của xe van và cách lấy giá cho cuốc giờ cao điểm."
-ngayDang: 2026-09-08T03:00:00+07:00
+ngayDang: 2026-09-08T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-van-950kg-hay-xe-tai-990kg.jpg"
 tuKhoa: "xe tải van"

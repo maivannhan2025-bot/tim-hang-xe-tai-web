@@ -1,7 +1,7 @@
 ---
 title: "Tự Đo Định Mức Dầu Xe Mình, Đừng Tin Bảng Chung"
 description: "Cách đo mức tiêu hao thật của xe mình, bảy thói quen ăn dầu, và cách đưa dầu vào giá thành cho đúng."
-ngayDang: 2026-09-21T03:00:00+07:00
+ngayDang: 2026-09-21T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/tu-do-dinh-muc-dau-nha-xe.jpg"
 tuKhoa: "định mức dầu xe tải"

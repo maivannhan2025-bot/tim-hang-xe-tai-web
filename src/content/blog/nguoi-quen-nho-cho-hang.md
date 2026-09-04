@@ -1,7 +1,7 @@
 ---
 title: "Người Quen Nhờ Chở Hàng: Tính Tiền Sao Cho Khỏi Ngại"
 description: "Người quen nhờ chở hàng: ba loại nhờ và cách trả lời, ba mức giá nên có sẵn, cách từ chối cho nhẹ và mấy tình huống dễ mất lòng."
-ngayDang: 2026-11-20T03:00:00+07:00
+ngayDang: 2026-11-20T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nguoi-quen-nho-cho-hang.jpg"
 tuKhoa: "người quen nhờ chở hàng"

@@ -1,7 +1,7 @@
 ---
 title: "Chạy Tuyến Cho Bưu Cục Và Kho Giao Nhận"
 description: "Nhà xe chạy tuyến cho bưu cục: khác cuốc thường ở bốn chỗ, nhận theo bao niêm phong, cách tính xem tuyến có nuôi được xe và chuyện chạy đêm."
-ngayDang: 2026-11-18T03:00:00+07:00
+ngayDang: 2026-11-18T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/chay-tuyen-cho-buu-cuc.jpg"
 tuKhoa: "chạy tuyến cho bưu cục"

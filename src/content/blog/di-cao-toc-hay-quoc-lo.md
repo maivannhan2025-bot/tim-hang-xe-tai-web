@@ -1,7 +1,7 @@
 ---
 title: "Đi Cao Tốc Hay Quốc Lộ: Tính Sao Cho Lời"
 description: "Bốn con số phải có trước khi so cao tốc với quốc lộ, phép tính một dòng, khi nào cao tốc chắc lời và khi nào quốc lộ hợp hơn."
-ngayDang: 2026-10-08T03:00:00+07:00
+ngayDang: 2026-10-08T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/di-cao-toc-hay-quoc-lo.jpg"
 tuKhoa: "đi cao tốc hay quốc lộ"

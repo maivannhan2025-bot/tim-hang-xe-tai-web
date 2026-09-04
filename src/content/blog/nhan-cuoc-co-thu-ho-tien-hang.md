@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Có Thu Hộ Tiền Hàng: Rủi Ro Ở Đâu"
 description: "Cuốc có thu hộ thì rủi ro là hàng cộng tiền. Bốn rủi ro thật, năm thứ phải chốt trước khi nhận và cách ghi sổ để không lệch với chủ hàng."
-ngayDang: 2026-10-06T03:00:00+07:00
+ngayDang: 2026-10-06T06:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-co-thu-ho-tien-hang.jpg"
 tuKhoa: "thu hộ tiền hàng"

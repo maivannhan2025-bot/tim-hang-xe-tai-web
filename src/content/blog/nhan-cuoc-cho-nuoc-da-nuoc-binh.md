@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Chở Nước Đá Và Nước Bình: Chạy Sớm"
 description: "Đá tan theo giờ, bình 20 lít nặng và phải thu vỏ. Cách chốt hao đá trước khi nhận, bảng số bình theo cỡ xe, và nhóm này đáng nhận khi nào."
-ngayDang: 2026-11-27T03:00:00+07:00
+ngayDang: 2026-11-27T06:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-nuoc-da-nuoc-binh.jpg"
 tuKhoa: "chở nước đá nước bình"

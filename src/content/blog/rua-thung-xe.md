@@ -1,7 +1,7 @@
 ---
 title: "Rửa Thùng Xe: Khi Nào Bắt Buộc, Tốn Bao Lâu"
 description: "Khi nào bắt buộc rửa thùng xe, rửa mất bao lâu theo cỡ xe, cách xử lý mùi bám, và vì sao lót bạt rẻ hơn rửa."
-ngayDang: 2026-11-14T03:00:00+07:00
+ngayDang: 2026-11-14T06:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/rua-thung-xe.jpg"
 tuKhoa: "rửa thùng xe tải"
