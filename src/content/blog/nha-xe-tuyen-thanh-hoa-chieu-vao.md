@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Thanh Hóa: tuyến đông chuyến thì cạnh tranh bằng gì"
 description: "Tuyến Thanh Hóa 1.406km, 2-3 chuyến mỗi ngày nên cạnh tranh cao. Đặc điểm hàng cá nhân, nhịp mùa sau Tết và cách có chỗ đứng."
-ngayDang: 2026-09-14
+ngayDang: 2026-09-14T03:00:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/nha-xe-tuyen-thanh-hoa-chieu-vao.jpg"
 tuKhoa: "nhà xe tuyến Thanh Hóa"

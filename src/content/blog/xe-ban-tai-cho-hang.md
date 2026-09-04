@@ -1,7 +1,7 @@
 ---
 title: "Xe bán tải chở hàng: nhóm xe không bán chỗ chở, bán khả năng tới nơi"
 description: "Van hợp nhóm khách nào, bán tải hợp nhóm nào, cách báo giá cho đúng, cự ly nào nên từ chối, và ba nhóm khách cho việc đều."
-ngayDang: 2026-11-09
+ngayDang: 2026-11-09T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-ban-tai-cho-hang.jpg"
 tuKhoa: "xe bán tải chở hàng"

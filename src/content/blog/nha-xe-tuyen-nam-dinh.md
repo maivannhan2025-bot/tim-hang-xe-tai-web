@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Nam Định: biết xếp xe đáng giá hơn có xe to"
 description: "Ba nhóm hàng của vùng ghép được trong một chuyến nếu biết xếp tầng. Lấy hàng ở làng nghề khác lấy ở nhà máy, và nhịp mùa của hàng thủ công."
-ngayDang: 2026-09-30
+ngayDang: 2026-09-30T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-nam-dinh.jpg"
 tuKhoa: "nhà xe tuyến Nam Định"

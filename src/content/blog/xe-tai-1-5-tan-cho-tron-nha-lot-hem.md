@@ -1,7 +1,7 @@
 ---
 title: "Xe Tải 1,5 Tấn: Cỡ Duy Nhất Vừa Chở Trọn Nhà Vừa Lọt Hẻm"
 description: "Chỗ đứng riêng của cỡ 1,5 tấn, cuốc chuyển nhà khác cuốc giao hàng thế nào, bốn thứ hỏi khách và cách tính giá cho đúng."
-ngayDang: 2026-09-14
+ngayDang: 2026-09-14T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-tai-1-5-tan-chuyen-nha-nha-xe.jpg"
 tuKhoa: "xe tải 1.5 tấn"

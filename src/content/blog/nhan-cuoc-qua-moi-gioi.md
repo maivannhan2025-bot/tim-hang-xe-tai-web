@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Qua Môi Giới: Tính Kỹ Trước Khi Ừ"
 description: "Nhà xe nhận cuốc qua môi giới cần hỏi 4 câu trước khi gật: hàng gì mấy tấn, xếp dỡ ai lo, tiền ai trả sau bao nhiêu ngày, hàng hỏng ai chịu."
-ngayDang: 2026-10-02
+ngayDang: 2026-10-02T03:00:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/nhan-cuoc-qua-moi-gioi.jpg"
 tuKhoa: "nhận cuốc qua môi giới"

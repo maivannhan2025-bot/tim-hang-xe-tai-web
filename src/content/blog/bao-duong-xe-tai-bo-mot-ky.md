@@ -1,7 +1,7 @@
 ---
 title: "Bảo Dưỡng Xe Tải: Bỏ Một Kỳ Mất Bao Nhiêu Cuốc"
 description: "Mốc bảo dưỡng theo km, mấy thứ hỏng ngầm, kiểm xe năm phút mỗi ngày, và cách đưa chi phí bảo dưỡng vào giá thành."
-ngayDang: 2026-09-20
+ngayDang: 2026-09-20T03:00:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/bao-duong-xe-tai-nha-xe.jpg"
 tuKhoa: "bảo dưỡng xe tải"

@@ -1,7 +1,7 @@
 ---
 title: "Phù Hiệu Xe Tải: Xe Nào Bắt Buộc Phải Có"
 description: "Phù hiệu xe tải theo Nghị định 158/2024: xe nào bắt buộc, phải có giấy phép kinh doanh vận tải trước, dán ở đâu và mức phạt khi không có."
-ngayDang: 2026-10-05
+ngayDang: 2026-10-05T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/phu-hieu-xe-tai-bat-buoc.jpg"
 tuKhoa: "phù hiệu xe tải"

@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Tiền Giang: giữ đúng giờ quan trọng hơn giữ giá"
 description: "Chặng chỉ hơn một tiếng nên thời gian bốc xếp quyết định số chuyến, không phải thời gian chạy. Và vì sao sầu riêng là lựa chọn dứt khoát."
-ngayDang: 2026-10-13
+ngayDang: 2026-10-13T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-tien-giang.jpg"
 tuKhoa: "nhà xe tuyến Tiền Giang"

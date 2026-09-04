@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe chạy tuyến Bắc Nam: tìm hàng chiều vào đừng chạy rỗng"
 description: "Chặng Hà Nội vào TPHCM 1.700km, chạy rỗng là mất trắng tiền dầu và phí đường. Cách chủ động tìm hàng chiều vào và tính cả vòng đi về."
-ngayDang: 2026-09-08
+ngayDang: 2026-09-08T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tim-hang-chieu-vao-nam.jpg"
 tuKhoa: "nhà xe chạy tuyến Bắc Nam"

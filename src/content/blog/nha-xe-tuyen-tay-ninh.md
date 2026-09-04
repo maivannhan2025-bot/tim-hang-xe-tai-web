@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Tây Ninh: chặng ngắn nhất nhưng đừng tính lời theo cây số"
 description: "Hơn 80% xe qua Mộc Bài là xe quá cảnh nên một chuyến chiếm nhiều giờ hơn 100km gợi ý. Ba nguồn hàng gốc và vì sao xe lớn có lý ở tuyến ngắn này."
-ngayDang: 2026-09-25
+ngayDang: 2026-09-25T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-tay-ninh.jpg"
 tuKhoa: "nhà xe tuyến Tây Ninh"

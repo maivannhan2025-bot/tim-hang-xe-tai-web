@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Vĩnh Long: hàng nặng mà giòn, nhóm khó tính tiền nhất"
 description: "Xe chở gạch không đầy thùng mà cũng không đầy tải, nên đơn giá phải khác hàng bao. Vì sao sàn phẳng quan trọng hơn cỡ xe."
-ngayDang: 2026-10-12
+ngayDang: 2026-10-12T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-vinh-long.jpg"
 tuKhoa: "nhà xe tuyến Vĩnh Long"

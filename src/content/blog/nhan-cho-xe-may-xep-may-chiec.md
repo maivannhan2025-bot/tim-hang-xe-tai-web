@@ -1,7 +1,7 @@
 ---
 title: "Nhận Chở Xe Máy: Xếp Mấy Chiếc Và Tránh Đền Vết Trầy"
 description: "Xe máy hết chỗ trước khi hết tải nên tính theo thùng chứ không theo tấn. Cách xếp, ba bước chụp ảnh tự bảo vệ và loại cuốc nào đáng nhận."
-ngayDang: 2026-09-11
+ngayDang: 2026-09-11T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cho-xe-may-nha-xe.jpg"
 tuKhoa: "chở xe máy"

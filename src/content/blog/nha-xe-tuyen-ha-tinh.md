@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Hà Tĩnh: hai loại nhà xe không cạnh tranh với nhau"
 description: "Bên nhà máy khó vào nhưng đều, bên hàng dân sinh dễ vào nhưng phải tự tìm việc. Và vì sao 125km quốc lộ 1A trong tỉnh là một nghề riêng."
-ngayDang: 2026-10-09
+ngayDang: 2026-10-09T03:00:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/nha-xe-tuyen-ha-tinh.jpg"
 tuKhoa: "nhà xe tuyến Hà Tĩnh"

@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Đắk Nông: một con đường, hai dòng hàng ngược nhau"
 description: "Đắk Nông có 3,4 tỷ tấn bô xít và 142.000 ha cà phê chạy chung quốc lộ 14. Nhà xe phải chọn một dòng, và 225 km là lợi thế quay vòng ít ai tính kỹ."
-ngayDang: 2026-10-15
+ngayDang: 2026-10-15T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-dak-nong.jpg"
 tuKhoa: "nhà xe tuyến Đắk Nông"

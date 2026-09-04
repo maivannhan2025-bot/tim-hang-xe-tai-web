@@ -1,7 +1,7 @@
 ---
 title: "Mốc 2.500kg Trong Đăng Kiểm Quyết Định Xe Chạy Mấy Tiếng"
 description: "Vượt mốc 2.500 kg là mất chín tiếng chạy ban ngày. Cách sắp chuyến quanh hai khung cấm, đường vành đai, và xe nhóm nặng sống bằng gì."
-ngayDang: 2026-09-15
+ngayDang: 2026-09-15T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/moc-2500kg-dang-kiem-nha-xe.jpg"
 tuKhoa: "xe tải 2.5 tấn"

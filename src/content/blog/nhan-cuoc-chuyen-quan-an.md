@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Chuyển Quán Ăn: Tủ Đông Và Bếp Nặng"
 description: "Khác chuyển nhà ở bốn chỗ, và mỗi ngày quán đóng cửa là mất tiền. Sáu câu hỏi trước khi báo giá, cách xử tủ đông, và cỡ xe theo quy mô quán."
-ngayDang: 2026-12-06
+ngayDang: 2026-12-06T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-chuyen-quan-an.jpg"
 tuKhoa: "chuyển quán ăn"

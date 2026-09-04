@@ -1,7 +1,7 @@
 ---
 title: "Danh sách chành xe: chọn chành nào để chạy thuê cho đều"
 description: "Chọn chành để chạy thuê: đừng hỏi có nhiều hàng không, hỏi ba câu khác. Bảng nhịp mùa bốn vùng và bốn điều chốt trước khi ký."
-ngayDang: 2026-11-27
+ngayDang: 2026-11-27T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/danh-sach-chanh-xe-chon-chanh-nao.jpg"
 tuKhoa: "danh sách chành xe"

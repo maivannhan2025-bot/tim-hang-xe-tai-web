@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Chở Hàng Điện Tử: Chống Sốc, Chống Ẩm"
 description: "Nhà xe nhận cuốc chở hàng điện tử: hàng sợ rung và sợ ẩm thế nào, cách lót sàn và chèn kiện, cỡ xe theo khối, và những gì cần chốt trước khi gật."
-ngayDang: 2026-10-30
+ngayDang: 2026-10-30T03:00:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/nhan-cuoc-cho-hang-dien-tu.jpg"
 tuKhoa: "chở hàng điện tử"

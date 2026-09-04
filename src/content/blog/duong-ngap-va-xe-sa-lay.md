@@ -1,7 +1,7 @@
 ---
 title: "Đường Ngập Và Xe Sa Lầy: Nhà Xe Xử Lý Thế Nào"
 description: "Đường ngập và xe sa lầy: cách nhìn đường trước khi vào, nước tới đâu thì dừng, đã lún rồi thì làm gì, đồ nên có sẵn trên xe và cách chốt với chủ hàng."
-ngayDang: 2026-12-23
+ngayDang: 2026-12-23T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/duong-ngap-va-xe-sa-lay.jpg"
 tuKhoa: "xe tải sa lầy đường ngập"

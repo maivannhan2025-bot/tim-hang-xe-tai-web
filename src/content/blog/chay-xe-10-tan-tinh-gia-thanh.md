@@ -1,7 +1,7 @@
 ---
 title: "Chạy Xe 10 Tấn: Tính Đủ Giá Thành Một Chuyến"
 description: "Khoản theo chuyến và khoản chia đều, mốc 180 kg mỗi khối, lối đi vành đai và cách hỏi trước khi nhận cuốc."
-ngayDang: 2026-09-17
+ngayDang: 2026-09-17T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/chay-xe-10-tan-nha-xe.jpg"
 tuKhoa: "xe tải 10 tấn"

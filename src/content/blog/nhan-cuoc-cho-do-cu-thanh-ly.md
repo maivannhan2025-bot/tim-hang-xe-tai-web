@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Chở Đồ Cũ Thanh Lý: Gom Mới Có Lời"
 description: "Hàng cũ vốn đã có vết nên phải chụp ảnh trước khi bốc. Cách gom điểm, ba cách tính giá, chuyện đồ bẩn và cách xử hàng không rõ nguồn gốc."
-ngayDang: 2026-12-09
+ngayDang: 2026-12-09T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-do-cu-thanh-ly.jpg"
 tuKhoa: "chở đồ cũ thanh lý"

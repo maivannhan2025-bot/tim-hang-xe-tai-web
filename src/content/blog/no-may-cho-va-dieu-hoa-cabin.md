@@ -1,7 +1,7 @@
 ---
 title: "Nổ Máy Chờ Và Điều Hoà Cabin: Tốn Bao Nhiêu Mỗi Tháng"
 description: "Nổ máy chờ và điều hoà cabin tốn bao nhiêu: cách tự đo mức tiêu hao mỗi giờ, ngoài dầu còn mất gì, cách giảm mà vẫn chịu được nóng và đưa giờ chờ vào giá."
-ngayDang: 2026-12-29
+ngayDang: 2026-12-29T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/no-may-cho-va-dieu-hoa-cabin.jpg"
 tuKhoa: "nổ máy chờ tốn dầu"

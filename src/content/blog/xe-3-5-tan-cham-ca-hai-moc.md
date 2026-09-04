@@ -1,7 +1,7 @@
 ---
 title: "Xe 3,5 Tấn Chạm Cả Hai Mốc: Bằng C1 Và Giờ Cấm Nhóm Nặng"
 description: "Cỡ xe vượt cả hai mốc pháp lý cùng lúc. Hai dòng khác nhau trong đăng kiểm, nguồn hàng hợp, và lối thoát qua đường vành đai."
-ngayDang: 2026-09-16
+ngayDang: 2026-09-16T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-3-5-tan-nha-xe-tim-hang.jpg"
 tuKhoa: "xe tải 3.5 tấn"

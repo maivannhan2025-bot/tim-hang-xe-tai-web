@@ -1,7 +1,7 @@
 ---
 title: "Xe Tải Chạy Ứng Dụng Gọi Xe: Nhà Xe Có Nên Tham Gia"
 description: "Xe tải chạy ứng dụng gọi xe: được gì mất gì, cỡ xe nào hợp, cách tính xem một cuốc có đáng nhận không, và cách dùng ứng dụng như nguồn hàng phụ."
-ngayDang: 2026-12-27
+ngayDang: 2026-12-27T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-tai-chay-ung-dung-goi-xe.jpg"
 tuKhoa: "xe tải chạy ứng dụng gọi xe"

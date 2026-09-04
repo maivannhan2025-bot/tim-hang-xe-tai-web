@@ -1,7 +1,7 @@
 ---
 title: "Đăng Tin Tìm Hàng Sao Cho Có Người Gọi"
 description: "Chủ hàng lướt và loại rất nhanh. Sáu dòng cho một tin đăng đủ, ba thứ làm tin mất giá, và cách viết khác nhau cho từng nhóm hàng."
-ngayDang: 2026-12-02
+ngayDang: 2026-12-02T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/cach-dang-tin-tim-hang.jpg"
 tuKhoa: "đăng tin tìm hàng cho xe tải"

@@ -1,7 +1,7 @@
 ---
 title: "Chở Suất Ăn Công Nghiệp: Cuốc Đều Nhưng Khó"
 description: "Cuốc suất ăn có giờ giao cứng, chạy đều cả tuần và yêu cầu vệ sinh cao. Bốn câu tự hỏi trước khi nhận và cách tính giờ ngược từ giờ ăn."
-ngayDang: 2026-10-20
+ngayDang: 2026-10-20T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/cho-suat-an-cong-nghiep.jpg"
 tuKhoa: "chở suất ăn công nghiệp"

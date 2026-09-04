@@ -1,7 +1,7 @@
 ---
 title: "Nhận Khiêng Đồ Lên Lầu: Tính Sao Cho Có Lời"
 description: "Cùng số khối mà lầu 4 tốn gấp đôi công. Bốn câu hỏi trước khi gật, bảng thời gian theo tầng, ba cách tính giá và khi nào nên từ chối."
-ngayDang: 2026-12-05
+ngayDang: 2026-12-05T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-khieng-len-lau.jpg"
 tuKhoa: "nhận khiêng đồ lên lầu"

@@ -1,7 +1,7 @@
 ---
 title: "Khách Cần Hoá Đơn: Nhà Xe Xử Lý Thế Nào"
 description: "Khách công ty gần như luôn cần chứng từ hợp lệ. Ba cách xử và cái giá của từng cách, cách báo giá cho khỏi cãi, và chuyện tiền về chậm."
-ngayDang: 2026-11-30
+ngayDang: 2026-11-30T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/khach-can-hoa-don-vat.jpg"
 tuKhoa: "nhà xe xuất hoá đơn"

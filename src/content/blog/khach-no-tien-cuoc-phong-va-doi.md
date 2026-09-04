@@ -1,7 +1,7 @@
 ---
 title: "Khách Nợ Tiền Cuốc: Phòng Trước Và Đòi Sau"
 description: "Bốn việc phòng trước khi chạy, dấu hiệu khách đáng ngại, sáu bước đòi có thứ tự và cách đặt hạn mức công nợ."
-ngayDang: 2026-09-28
+ngayDang: 2026-09-28T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/khach-no-tien-cuoc.jpg"
 tuKhoa: "khách nợ tiền cước"

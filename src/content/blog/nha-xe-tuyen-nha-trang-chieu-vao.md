@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Nha Trang: vòng quay nhanh nhất, đừng chạy rỗng"
 description: "Tuyến Nha Trang 440km, chạy 8-10 giờ, vòng quay 2 ngày nhanh nhất trong các tuyến dài. Gom hàng chiều về ở Ninh Thuận, Bình Thuận."
-ngayDang: 2026-09-10
+ngayDang: 2026-09-10T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-nha-trang-chieu-vao.jpg"
 tuKhoa: "nhà xe tuyến Nha Trang"

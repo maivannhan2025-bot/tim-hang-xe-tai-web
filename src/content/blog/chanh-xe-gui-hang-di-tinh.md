@@ -1,7 +1,7 @@
 ---
 title: "Chành xe gửi hàng đi tỉnh: chành gom hàng, nhà xe chạy, hai vai khác nhau"
 description: "Ba cách nhà xe tham gia chuỗi gửi hàng lẻ, bốn điều nên chốt khi chạy thuê cho chành, và vì sao đừng nhận giá theo tấn với hàng lẻ."
-ngayDang: 2026-11-08
+ngayDang: 2026-11-08T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/chanh-xe-gui-hang-di-tinh.jpg"
 tuKhoa: "chành xe gửi hàng đi tỉnh"

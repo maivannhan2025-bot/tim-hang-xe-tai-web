@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Phan Thiết: tuyến duy nhất chạy được hai chuyến một ngày"
 description: "Cao tốc 99km giúp xe quay đầu trong ngày. Bảng tính cao tốc so quốc lộ 1, ba nguồn hàng của vùng, và vì sao xe nhỏ vẫn sống được ở tuyến này."
-ngayDang: 2026-09-20
+ngayDang: 2026-09-20T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-phan-thiet.jpg"
 tuKhoa: "nhà xe tuyến Phan Thiết"

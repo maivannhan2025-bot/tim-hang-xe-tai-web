@@ -1,7 +1,7 @@
 ---
 title: "Chở Người Trên Thùng Xe: Vì Sao Nên Từ Chối"
 description: "Số chỗ ngồi ghi trong giấy kiểm định là con số duy nhất chắc chắn. Vì sao ngồi thùng nguy hiểm, ba tình huống hay bị nài, và câu từ chối gọn."
-ngayDang: 2026-12-01
+ngayDang: 2026-12-01T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/cho-nguoi-tren-thung-xe.jpg"
 tuKhoa: "xe tải chở người"

@@ -1,7 +1,7 @@
 ---
 title: "Phạt Nguội: Tra Trước Kẻo Vướng Đăng Kiểm"
 description: "Phạt nguội chưa nộp thì chặn ở khâu đăng kiểm. Cách tra định kỳ, cơ chế trừ và phục hồi 12 điểm bằng lái theo Nghị định 168/2024, và lỗi xe tải hay dính."
-ngayDang: 2026-10-17
+ngayDang: 2026-10-17T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/phat-nguoi-tra-truoc.jpg"
 tuKhoa: "phạt nguội xe tải"

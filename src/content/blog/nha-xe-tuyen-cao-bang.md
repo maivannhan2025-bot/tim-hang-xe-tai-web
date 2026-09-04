@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Cao Bằng: câu hứa đền tất khiến mình không thể thắng"
 description: "Ba mức bảo vệ nên giải thích cho khách, bộ hồ sơ tự bảo vệ mất năm phút mỗi chuyến, và vì sao chủ động lập biên bản lại có lợi cho nhà xe."
-ngayDang: 2026-11-01
+ngayDang: 2026-11-01T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-cao-bang.jpg"
 tuKhoa: "nhà xe tuyến Cao Bằng"

@@ -1,7 +1,7 @@
 ---
 title: "Chở Hàng Cho Cửa Hàng Vật Liệu: Giao Tận Công Trình"
 description: "Nhà xe nhận mối cửa hàng vật liệu: bốn nhóm hàng và cách xếp, giao vào nhà đang xây, chốt ai xuống hàng, tính giờ và cỡ xe hợp."
-ngayDang: 2026-11-15
+ngayDang: 2026-11-15T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/cho-hang-cho-cua-hang-vat-lieu.jpg"
 tuKhoa: "chở hàng cho cửa hàng vật liệu"

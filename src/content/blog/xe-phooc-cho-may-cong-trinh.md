@@ -1,7 +1,7 @@
 ---
 title: "Xe phooc chở máy công trình: đầu tư xe chuyên dụng có đáng không"
 description: "Xe phooc chở máy công trình, xe cẩu, xe đông lạnh: mua xe chuyên dụng là tự khóa vào một nhóm hàng hẹp. Phép kiểm trước khi xuống tiền."
-ngayDang: 2026-11-10
+ngayDang: 2026-11-10T03:00:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/xe-phooc-cho-may-cong-trinh.jpg"
 tuKhoa: "xe phooc chở máy công trình"

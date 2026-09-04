@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe chạy tuyến TPHCM Buôn Ma Thuột: hàng chiều về có gì"
 description: "Tuyến Buôn Ma Thuột 340km, chạy 7h30, vòng quay hai ngày. Chiều về có nông sản Tây Nguyên theo mùa, và cách tính để cả vòng có lời."
-ngayDang: 2026-09-07
+ngayDang: 2026-09-07T03:00:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/nha-xe-chay-tuyen-buon-ma-thuot.jpg"
 tuKhoa: "nhà xe chạy tuyến Buôn Ma Thuột"

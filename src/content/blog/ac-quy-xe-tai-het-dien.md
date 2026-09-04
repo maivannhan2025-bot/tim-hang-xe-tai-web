@@ -1,7 +1,7 @@
 ---
 title: "Ắc Quy Xe Tải Hết Điện: Sáng Đề Không Nổ Thì Làm Gì"
 description: "Ắc quy xe tải hết điện: dấu hiệu bình sắp chết, vì sao bình chết sớm, cách câu bình đúng thứ tự, giữ bình bền và xử lý khi sáng sớm xe không nổ máy."
-ngayDang: 2026-12-20
+ngayDang: 2026-12-20T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/ac-quy-xe-tai-het-dien.jpg"
 tuKhoa: "ắc quy xe tải hết điện"

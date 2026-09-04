@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Quá Khổ: Khảo Sát Tuyến Trước Khi Báo Giá"
 description: "Xác định cuốc có quá khổ không, ai xin giấy phép, khảo sát tuyến, chằng buộc, và bảng khi nào nên từ chối."
-ngayDang: 2026-09-19
+ngayDang: 2026-09-19T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-qua-kho-nha-xe.jpg"
 tuKhoa: "chở hàng quá khổ"

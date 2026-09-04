@@ -1,7 +1,7 @@
 ---
 title: "Chạy xe chở hàng mùa cao điểm: nhận gì, từ chối gì"
 description: "Chạy xe chở hàng mùa cao điểm: nhu cầu tăng 40,4% dịp Tết nên ai cũng có việc. Ba nhóm việc nên nhận, ba nhóm nên từ chối kể cả khi đang đói việc."
-ngayDang: 2026-11-16
+ngayDang: 2026-11-16T03:00:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/chay-xe-cho-hang-mua-cao-diem.jpg"
 tuKhoa: "chạy xe chở hàng"

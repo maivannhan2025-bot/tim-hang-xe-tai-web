@@ -1,7 +1,7 @@
 ---
 title: "Xe Chết Máy Giữa Chuyến: Mười Phút Đầu Làm Gì"
 description: "Thứ tự đúng là an toàn, báo tin, rồi mới tới chuyện sửa. Ba mức hỏng ba cách xử, khi nào nên sang hàng, và ai chịu chi phí xe thay thế."
-ngayDang: 2026-11-28
+ngayDang: 2026-11-28T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-chet-may-giua-chuyen.jpg"
 tuKhoa: "xe tải chết máy giữa đường"

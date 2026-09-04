@@ -1,7 +1,7 @@
 ---
 title: "Cần thuê xe bán tải theo tháng: hợp đồng nên sửa gì"
 description: "Khách cần thuê xe bán tải theo tháng: bảy điều phải có trong hợp đồng, và bốn quy định vừa đổi chạm thẳng vào loại hợp đồng dài hạn này."
-ngayDang: 2026-11-24
+ngayDang: 2026-11-24T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/can-thue-xe-ban-tai-theo-thang.jpg"
 tuKhoa: "cần thuê xe bán tải theo tháng"

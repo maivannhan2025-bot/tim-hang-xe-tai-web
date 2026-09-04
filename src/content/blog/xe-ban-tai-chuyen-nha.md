@@ -1,7 +1,7 @@
 ---
 title: "Xe bán tải chuyển nhà: nhận việc nào, từ chối việc nào"
 description: "Xe bán tải chuyển nhà làm được nhưng chỉ với một nhóm việc hẹp. Ba câu lọc việc trong ba mươi giây và cách báo giá tách ba phần."
-ngayDang: 2026-11-19
+ngayDang: 2026-11-19T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-ban-tai-chuyen-nha.jpg"
 tuKhoa: "xe bán tải chuyển nhà"

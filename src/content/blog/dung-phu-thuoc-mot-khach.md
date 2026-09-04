@@ -1,7 +1,7 @@
 ---
 title: "Đừng Để Một Khách Chiếm Hết Lịch Xe"
 description: "Một khách chiếm hơn nửa doanh thu là vùng cần chú ý. Cách tính tỷ trọng, dấu hiệu đang phụ thuộc, và cách rải khách mà vẫn giữ khách lớn."
-ngayDang: 2026-12-18
+ngayDang: 2026-12-18T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/dung-phu-thuoc-mot-khach.jpg"
 tuKhoa: "phụ thuộc một khách"

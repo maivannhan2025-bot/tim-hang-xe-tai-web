@@ -1,7 +1,7 @@
 ---
 title: "Quản Lý Đội Nhiều Xe: Chia Cuốc Và Theo Dõi"
 description: "Ba thứ rối khi có xe thứ hai, cách chia cuốc theo nguyên tắc, sổ theo dõi sáu cột và cách tính giá thành riêng từng xe."
-ngayDang: 2026-09-24
+ngayDang: 2026-09-24T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/quan-ly-doi-nhieu-xe.jpg"
 tuKhoa: "quản lý đội xe tải"

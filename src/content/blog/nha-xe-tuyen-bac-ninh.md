@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Bắc Ninh: hàng trả cao nhất cũng là hàng khó vào nhất"
 description: "Chủ hàng điện tử chọn theo hồ sơ và khóa thùng chứ không theo giá. Nhánh hàng phụ trợ là cửa vào, và vì sao xe nhỏ ở đây không hề kém giá trị."
-ngayDang: 2026-09-29
+ngayDang: 2026-09-29T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nha-xe-tuyen-bac-ninh.jpg"
 tuKhoa: "nhà xe tuyến Bắc Ninh"

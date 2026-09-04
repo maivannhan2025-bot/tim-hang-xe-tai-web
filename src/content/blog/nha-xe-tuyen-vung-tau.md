@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Vũng Tàu: cao tốc mới đổi bài toán thế nào"
 description: "Cao tốc Biên Hòa - Vũng Tàu thông xe, tuyến còn 95km chạy 1h20. Vòng quay nhanh hơn, hẹn giờ chắc hơn, nhưng giờ cấm tải vẫn không đổi."
-ngayDang: 2026-09-15
+ngayDang: 2026-09-15T03:00:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/nha-xe-tuyen-vung-tau.jpg"
 tuKhoa: "nhà xe tuyến Vũng Tàu"

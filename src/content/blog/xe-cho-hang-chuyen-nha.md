@@ -1,7 +1,7 @@
 ---
 title: "Xe chở hàng chuyển nhà: sắp lịch một ngày cho khỏi vỡ"
 description: "Nhận chuyển nhà thì lịch bị chặn bởi ba đồng hồ: ban quản lý, giờ cấm tải, và thời gian thật từng công đoạn. Ba câu hỏi trước khi chốt giờ."
-ngayDang: 2026-11-28
+ngayDang: 2026-11-28T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-cho-hang-chuyen-nha.jpg"
 tuKhoa: "xe chở hàng chuyển nhà"

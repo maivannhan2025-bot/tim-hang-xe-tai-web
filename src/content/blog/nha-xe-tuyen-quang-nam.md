@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Quảng Nam: hàng trả cước tốt nhất là hàng khó nhận nhất"
 description: "Linh kiện ô tô ở Chu Lai trả cước tốt nhưng đòi hỏi riêng: tính theo khối, chống xước, hóa đơn. Cách xếp hàng sợ xước và bài toán ghép hai chiều trên chặng 900 km."
-ngayDang: 2026-10-17
+ngayDang: 2026-10-17T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-quang-nam.jpg"
 tuKhoa: "nhà xe tuyến Quảng Nam"

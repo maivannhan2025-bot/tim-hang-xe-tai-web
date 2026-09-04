@@ -1,7 +1,7 @@
 ---
 title: "Tiền Mặt Trên Đường: Quản Cho Khỏi Rối Sổ"
 description: "Nhà xe quản tiền mặt trên đường: tách ba loại tiền, cách ghi hai phút mỗi lần, ba cách ứng cho tài xế và bốn quy tắc cứng với tiền thu hộ."
-ngayDang: 2026-11-02
+ngayDang: 2026-11-02T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/tien-mat-tren-duong.jpg"
 tuKhoa: "tiền mặt trên đường"

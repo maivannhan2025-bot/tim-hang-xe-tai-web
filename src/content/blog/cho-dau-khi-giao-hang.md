@@ -1,7 +1,7 @@
 ---
 title: "Chỗ Đậu Khi Giao Hàng Trong Phố: Hỏi Trước Cho Nhanh"
 description: "Hỏi chỗ đậu ngay lúc nhận cuốc, cùng lúc hỏi tầng và hàng. Bốn chỗ đậu theo thứ tự ưu tiên, cách hạ hàng nhanh, và giờ nào dễ đậu nhất."
-ngayDang: 2026-12-10
+ngayDang: 2026-12-10T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/cho-dau-khi-giao-hang.jpg"
 tuKhoa: "chỗ đậu khi giao hàng"

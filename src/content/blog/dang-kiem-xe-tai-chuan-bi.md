@@ -1,7 +1,7 @@
 ---
 title: "Đăng Kiểm Xe Tải: Chuẩn Bị Gì Cho Đỡ Rớt"
 description: "Danh sách 10 thứ kiểm trước khi đi đăng kiểm, mấy lỗi làm rớt nhiều nhất, chu kỳ kiểm định theo Thông tư 30/2026 và cách ghép lịch với bảo dưỡng."
-ngayDang: 2026-10-15
+ngayDang: 2026-10-15T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/dang-kiem-xe-tai-chuan-bi.jpg"
 tuKhoa: "đăng kiểm xe tải"

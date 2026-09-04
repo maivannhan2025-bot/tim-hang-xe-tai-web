@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Chở Nông Sản: Rủi Ro Nằm Ở Đâu"
 description: "Nông sản khác hàng khô ở ba điểm. Bốn thứ chốt trước khi nhận cuốc, cách xếp riêng cho hàng tươi và ba cách bị mất tiền hay gặp."
-ngayDang: 2026-10-16
+ngayDang: 2026-10-16T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-nong-san.jpg"
 tuKhoa: "chở nông sản"

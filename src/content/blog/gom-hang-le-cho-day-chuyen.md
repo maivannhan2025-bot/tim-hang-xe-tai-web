@@ -1,7 +1,7 @@
 ---
 title: "Gom Hàng Lẻ Cho Đầy Chuyến: Nhận Sao Cho Đỡ Rối"
 description: "Gom hàng lẻ lấp chỗ trống thì lời, nhưng phải có quy tắc. Nhận bao nhiêu lô là vừa, ghi gì cho từng lô, xếp theo thứ tự giao và cách tính cước."
-ngayDang: 2026-10-12
+ngayDang: 2026-10-12T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/gom-hang-le-cho-day-chuyen.jpg"
 tuKhoa: "gom hàng lẻ"

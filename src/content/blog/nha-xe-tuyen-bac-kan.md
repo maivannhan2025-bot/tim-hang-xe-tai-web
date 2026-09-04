@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Bắc Kạn: khách không giấu, họ chỉ không biết"
 description: "Bộ năm câu hỏi trong một phút để phát hiện hàng phải khai, cách ghi lại câu trả lời để tự bảo vệ, và vì sao đừng vội từ chối khi khách khai có."
-ngayDang: 2026-11-03
+ngayDang: 2026-11-03T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-bac-kan.jpg"
 tuKhoa: "nhà xe tuyến Bắc Kạn"

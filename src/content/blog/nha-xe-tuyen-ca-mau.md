@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Cà Mau: điểm cuối bản đồ, và câu hỏi có nên mua xe lạnh"
 description: "Chạy tới Cà Mau là hết đường, nên tranh hàng chiều lên gắt hơn tỉnh giữa. Bảng cỡ xe, vì sao xe lạnh chở ít hơn xe thường cùng cỡ, và bốn chỗ giữ chuỗi lạnh."
-ngayDang: 2026-09-22
+ngayDang: 2026-09-22T03:00:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/nha-xe-tuyen-ca-mau.jpg"
 tuKhoa: "nhà xe tuyến Cà Mau"

@@ -1,7 +1,7 @@
 ---
 title: "Xe tải 500kg chở thuê: đóng thùng gì là chọn khách nào"
 description: "Xe tải 500kg chở thuê: kiểu thùng mới là thứ khóa nhà xe vào một nhóm khách, không phải con số tấn. Bảng so ba kiểu thùng và bậc cỡ xe đáng nâng."
-ngayDang: 2026-11-12
+ngayDang: 2026-11-12T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-tai-500kg-cho-thue.jpg"
 tuKhoa: "xe tải 500kg chở thuê"

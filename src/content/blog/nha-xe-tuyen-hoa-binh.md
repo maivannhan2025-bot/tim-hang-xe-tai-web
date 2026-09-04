@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Hòa Bình: chuyến lớn hiếm hoi, dòng tiền nằm chỗ khác"
 description: "Siêu trường siêu trọng có rào cản cao thật, nhà xe nhỏ không nên nhắm. Nhưng dòng vật tư quanh công trình mới là phần nuôi xe, và kiện dài là vùng ít ai tranh."
-ngayDang: 2026-10-27
+ngayDang: 2026-10-27T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-hoa-binh.jpg"
 tuKhoa: "nhà xe tuyến Hòa Bình"

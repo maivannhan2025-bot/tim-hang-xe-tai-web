@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Yên Bái: một tuyến đường, hai chất lượng khác nhau"
 description: "Cao tốc đổi từ 4 làn 100 km/h xuống 2 làn 80 km/h ngay tại Yên Bái nên hai hướng cần hai bảng giá. Cách ghép chuyến có chọn với hàng mùi mạnh."
-ngayDang: 2026-10-26
+ngayDang: 2026-10-26T03:00:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/nha-xe-tuyen-yen-bai.jpg"
 tuKhoa: "nhà xe tuyến Yên Bái"

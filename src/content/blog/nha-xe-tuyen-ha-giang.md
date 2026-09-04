@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Hà Giang: nhóm hàng ít ai nhận, cũng là nhóm ít ai tranh"
 description: "Hàng sống cần kiểm dịch, sàn chống trượt và cách lái khác. Rào cản phần lớn là hiểu biết chứ không phải tiền, nên nhóm này vẫn còn chỗ cho nhà xe nhỏ."
-ngayDang: 2026-10-25
+ngayDang: 2026-10-25T03:00:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/nha-xe-tuyen-ha-giang.jpg"
 tuKhoa: "nhà xe tuyến Hà Giang"

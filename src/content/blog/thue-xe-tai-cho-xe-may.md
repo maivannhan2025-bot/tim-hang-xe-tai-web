@@ -1,7 +1,7 @@
 ---
 title: "Thuê xe tải chở xe máy: ba chỗ chằng dây mà không được chằng"
 description: "Chằng qua tay lái hay ống phuộc là hỏng. Cách xếp và chằng đúng, chuyện xe máy điện phải hỏi kỹ, và ba việc tự bảo vệ mất năm phút."
-ngayDang: 2026-11-07
+ngayDang: 2026-11-07T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/thue-xe-tai-cho-xe-may.jpg"
 tuKhoa: "thuê xe tải chở xe máy"

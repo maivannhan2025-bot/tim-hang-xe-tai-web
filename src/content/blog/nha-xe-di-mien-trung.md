@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe đi miền Trung: chọn đoạn nào để chạy cho đều"
 description: "Nhà xe đi miền Trung: dải này chia ba cụm, mỗi cụm là một nghề khác nhau. Chạy cả dải là không thuộc đoạn nào và luôn phải cạnh tranh bằng giá."
-ngayDang: 2026-11-20
+ngayDang: 2026-11-20T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-di-mien-trung.jpg"
 tuKhoa: "nhà xe đi miền Trung"

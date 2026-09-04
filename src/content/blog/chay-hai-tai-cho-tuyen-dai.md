@@ -1,7 +1,7 @@
 ---
 title: "Chạy Hai Tài Cho Tuyến Dài: Khi Nào Đáng, Khi Nào Không"
 description: "Chạy hai tài cho tuyến dài: khi nào đáng và khi nào một tài lại hơn, cách chia ca để cả hai đều ngủ được, tính tiền thế nào và chuẩn bị trước chuyến."
-ngayDang: 2026-12-26
+ngayDang: 2026-12-26T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/chay-hai-tai-cho-tuyen-dai.jpg"
 tuKhoa: "chạy hai tài xe tải"

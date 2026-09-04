@@ -1,7 +1,7 @@
 ---
 title: "Chạy Hợp Đồng Tháng Hay Chạy Chuyến Lẻ"
 description: "Nhà xe so hợp đồng tháng với chuyến lẻ bằng mức thu mỗi ngày xe lăn bánh. Bảy điều phải chốt trước khi ký và dấu hiệu hợp đồng không nên ký."
-ngayDang: 2026-10-04
+ngayDang: 2026-10-04T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/chay-hop-dong-thang-hay-chuyen-le.jpg"
 tuKhoa: "chạy hợp đồng tháng"

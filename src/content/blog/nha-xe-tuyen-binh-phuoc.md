@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Bình Phước: hiếm tuyến nào hàng đi đều cả hai chiều"
 description: "Điều thô nhập khẩu chở lên, thành phẩm chở xuống nên xe ít chạy rỗng. Vì sao hơn 1.400 cơ sở khiến gom là bài toán chính, và điều nhân kỵ mủ cao su."
-ngayDang: 2026-10-01
+ngayDang: 2026-10-01T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-binh-phuoc.jpg"
 tuKhoa: "nhà xe tuyến Bình Phước"

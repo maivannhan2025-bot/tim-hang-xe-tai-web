@@ -1,7 +1,7 @@
 ---
 title: "Chạy Xe Mùa Nắng: Lốp, Máy Và Hàng"
 description: "Nhà xe chạy mùa nắng: đo áp suất lốp lúc nguội, kiểm nước làm mát và ắc quy, hàng nào sợ nóng, và cách sắp lịch tránh khung giữa trưa."
-ngayDang: 2026-11-09
+ngayDang: 2026-11-09T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/chay-xe-mua-nang.jpg"
 tuKhoa: "chạy xe mùa nắng"

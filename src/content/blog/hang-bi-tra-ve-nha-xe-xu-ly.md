@@ -1,7 +1,7 @@
 ---
 title: "Hàng Bị Trả Về: Nhà Xe Xử Lý Thế Nào"
 description: "Ba kiểu bị trả hàng, việc phải làm ngay tại chỗ, hàng chở về ai giữ và chuyến về ai trả tiền. Bốn câu chốt trước khi nhận cuốc."
-ngayDang: 2026-10-07
+ngayDang: 2026-10-07T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/hang-bi-tra-ve-nha-xe.jpg"
 tuKhoa: "hàng bị trả về"

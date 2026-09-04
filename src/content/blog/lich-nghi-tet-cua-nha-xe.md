@@ -1,7 +1,7 @@
 ---
 title: "Lịch Nghỉ Tết Của Nhà Xe: Nghỉ Ngày Nào, Chạy Lại Mùng Mấy"
 description: "Nhịp mấy tuần cuối năm, ba câu hỏi để chọn ngày nghỉ, bảy việc làm trước khi về quê, và cách chuẩn bị cho xe nằm dài ngày."
-ngayDang: 2026-12-15
+ngayDang: 2026-12-15T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/lich-nghi-tet-cua-nha-xe.jpg"
 tuKhoa: "lịch nghỉ Tết nhà xe"

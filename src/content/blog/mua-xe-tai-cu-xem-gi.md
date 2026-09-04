@@ -1,7 +1,7 @@
 ---
 title: "Mua Xe Tải Cũ: Xem Gì Trước Khi Xuống Tiền"
 description: "Xem giấy tờ trước rồi mới xem xe. Bốn cách kiểm máy dễ làm, xem khung gầm và thùng, chạy thử bao nhiêu là đủ và cách tính tổng tiền."
-ngayDang: 2026-10-14
+ngayDang: 2026-10-14T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/mua-xe-tai-cu-xem-gi.jpg"
 tuKhoa: "mua xe tải cũ"

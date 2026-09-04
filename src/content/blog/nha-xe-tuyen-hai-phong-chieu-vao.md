@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Hải Phòng: hàng cảng và khu công nghiệp chiều về"
 description: "Tuyến Hải Phòng 1.680km, vòng quay 5-7 ngày. Chiều về có hàng cảng và khu công nghiệp, cước cao hơn nhưng cần biết thủ tục."
-ngayDang: 2026-09-12
+ngayDang: 2026-09-12T03:00:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/nha-xe-tuyen-hai-phong-chieu-vao.jpg"
 tuKhoa: "nhà xe tuyến Hải Phòng"

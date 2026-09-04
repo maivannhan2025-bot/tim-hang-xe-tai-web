@@ -1,7 +1,7 @@
 ---
 title: "Hợp Tác Với Nhà Xe Khác: Gửi Cuốc Và Chia Phần"
 description: "Ba cách hợp tác với ba mức ràng buộc, rủi ro mất khách và cách giảm, tiêu chí chọn người gửi cuốc."
-ngayDang: 2026-09-29
+ngayDang: 2026-09-29T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/hop-tac-nha-xe-khac.jpg"
 tuKhoa: "hợp tác nhà xe"

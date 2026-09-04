@@ -1,7 +1,7 @@
 ---
 title: "Thuê xe bán tải chở xe máy: nhận việc chở phương tiện"
 description: "Nhận chở xe máy hay ô tô: phần giấy tờ là để tự bảo vệ, không phải làm khó khách. Bảng so bán tải với thùng kín và cách chở xe kèm đồ đạc."
-ngayDang: 2026-11-26
+ngayDang: 2026-11-26T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/thue-xe-ban-tai-cho-xe-may.jpg"
 tuKhoa: "thuê xe bán tải chở xe máy"

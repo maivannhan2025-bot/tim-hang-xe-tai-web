@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Chở Giỏ Quà Tết: Đừng Chồng Lên Nhau"
 description: "Hàng biếu nên móp một góc là mất giá trị. Cách xếp một lớp và làm kệ tầng, cỡ xe theo số giỏ, tính giá mùa Tết và khi nào nên từ chối."
-ngayDang: 2026-12-14
+ngayDang: 2026-12-14T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-gio-qua-tet.jpg"
 tuKhoa: "chở giỏ quà Tết"

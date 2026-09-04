@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Đà Nẵng: tìm hàng chiều vào Nam đừng chạy rỗng"
 description: "Tuyến Đà Nẵng 930km, vòng quay 2-3 ngày, nhanh gấp đôi tuyến Hà Nội. Cách gom hàng chiều về dọc các tỉnh miền Trung và tính cả vòng."
-ngayDang: 2026-09-09
+ngayDang: 2026-09-09T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-da-nang-chieu-vao.jpg"
 tuKhoa: "nhà xe tuyến Đà Nẵng"

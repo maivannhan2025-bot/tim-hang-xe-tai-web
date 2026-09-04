@@ -1,7 +1,7 @@
 ---
 title: "Nhận chở hàng xe tải nhỏ: 17 tiếng so với 8 tiếng"
 description: "Nhận chở hàng xe tải nhỏ ở nội đô: xe dưới 2,5 tấn bán được khoảng 17 tiếng mỗi ngày, xe lớn chỉ 8 tiếng. Cách tính vòng quay và ba cách tăng số lượt."
-ngayDang: 2026-11-18
+ngayDang: 2026-11-18T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cho-hang-xe-tai-nho.jpg"
 tuKhoa: "nhận chở hàng xe tải nhỏ"

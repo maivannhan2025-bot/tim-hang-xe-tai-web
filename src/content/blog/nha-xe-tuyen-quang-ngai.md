@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Quảng Ngãi: nguồn hàng là nhà máy, không phải chủ hàng lẻ"
 description: "Doanh nghiệp Dung Quất đóng 70% ngân sách địa phương. Bốn nguồn hàng của vùng, khoảng trống cho xe nhỏ, và việc cần biết về hàng quá khổ."
-ngayDang: 2026-09-19
+ngayDang: 2026-09-19T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-quang-ngai.jpg"
 tuKhoa: "nhà xe tuyến Quảng Ngãi"

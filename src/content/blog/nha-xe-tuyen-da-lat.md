@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Đà Lạt: bán giờ giao, không bán chỗ trên thùng xe"
 description: "Rau và hoa xuống chất lượng theo giờ nên tuyến Đà Lạt đua bằng lịch chứ không đua bằng giá. Nhịp chạy đêm, chuyện chênh áp 1.500 m và bài toán chiều lên."
-ngayDang: 2026-10-18
+ngayDang: 2026-10-18T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-da-lat.jpg"
 tuKhoa: "nhà xe tuyến Đà Lạt"

@@ -1,7 +1,7 @@
 ---
 title: "Nhà xe tuyến Long Xuyên: sà lan lấy mất phần nào, còn lại phần nào cho xe"
 description: "Đường thủy rẻ bằng một phần ba đường bộ, nhưng không với tới bốn nhóm hàng. Vì sao xe lạnh có lý ở tuyến 200km, và cách biến sà lan thành nguồn hàng."
-ngayDang: 2026-09-24
+ngayDang: 2026-09-24T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-long-xuyen.jpg"
 tuKhoa: "nhà xe tuyến Long Xuyên"

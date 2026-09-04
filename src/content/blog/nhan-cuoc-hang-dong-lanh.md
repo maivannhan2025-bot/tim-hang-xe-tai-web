@@ -1,7 +1,7 @@
 ---
 title: "Nhận Cuốc Hàng Đông Lạnh: Có Nên Đầu Tư Xe"
 description: "Xe đông lạnh chở ít khối hơn và tốn hơn khi chạy. Bốn con số tính trước khi mua, dải nhiệt từng nhóm hàng, và khi nào chưa nên đầu tư."
-ngayDang: 2026-10-26
+ngayDang: 2026-10-26T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-hang-dong-lanh.jpg"
 tuKhoa: "xe đông lạnh chở hàng"

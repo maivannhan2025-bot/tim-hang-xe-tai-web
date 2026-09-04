@@ -1,7 +1,7 @@
 ---
 title: "Chi Phí Dọc Đường Chuyến Liên Tỉnh: Ăn, Ngủ, Trạm Dừng"
 description: "Chi phí dọc đường chuyến liên tỉnh: bốn khoản phải tính, cách tự đo một lần dùng cả năm, ngủ trên xe hay nhà nghỉ, và cách đưa vào giá cho đúng."
-ngayDang: 2026-12-25
+ngayDang: 2026-12-25T03:00:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/chi-phi-doc-duong-chuyen-lien-tinh.jpg"
 tuKhoa: "chi phí dọc đường xe tải"

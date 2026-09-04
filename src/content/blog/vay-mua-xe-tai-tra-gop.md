@@ -1,7 +1,7 @@
 ---
 title: "Vay Mua Xe Tải Trả Góp: Mỗi Tháng Gánh Bao Nhiêu"
 description: "Vay mua xe tải trả góp: cần sẵn 20-30% giá xe, kỳ hạn 36-84 tháng. Cách phân biệt dư nợ giảm dần với dư nợ gốc và cách tính ngưỡng mỗi tháng."
-ngayDang: 2026-10-03
+ngayDang: 2026-10-03T03:00:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/vay-mua-xe-tai-tra-gop.jpg"
 tuKhoa: "vay mua xe tải trả góp"
