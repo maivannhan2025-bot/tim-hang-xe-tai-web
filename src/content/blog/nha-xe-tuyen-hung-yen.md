@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Hưng Yên: chạy về Hà Nội hay chạy ra Hải Phòng"
 description: "Hưng Yên kẹp giữa hai đầu mối lớn nhất miền Bắc. So hai hướng chạy, vì sao chặng nối là chỗ nhà xe địa phương sống được, và cách tính lại bài toán chặng ngắn."
 ngayDang: 2026-10-16T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-hung-yen.jpg"
 tuKhoa: "nhà xe tuyến Hưng Yên"

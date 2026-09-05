@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Bếp Nhà Hàng: Chờ Thợ Là Chờ Không Công"
 description: "Cuốc bếp nhà hàng phụ thuộc lịch thợ, có tủ đông phải đi đứng và chụp hút dài chọn cỡ xe. Cách chốt lịch, và nhóm này hợp xe nào."
 ngayDang: 2026-12-25T06:00:00+07:00
+ngayCapNhat: 2026-09-04T23:04:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-thiet-bi-bep-nha-hang.jpg"
 tuKhoa: "chở bếp nhà hàng"

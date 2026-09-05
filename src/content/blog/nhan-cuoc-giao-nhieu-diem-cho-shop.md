@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Giao Nhiều Điểm Cho Shop: Tính Theo Điểm"
 description: "Cuốc giao nhiều điểm tính bằng số lần dừng, không bằng khối. Cách báo giá, sắp vòng, và chốt chuyện thu hộ tiền."
 ngayDang: 2026-09-18T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/nhan-cuoc-giao-nhieu-diem-nha-xe.jpg"
 tuKhoa: "giao hàng nhiều điểm"

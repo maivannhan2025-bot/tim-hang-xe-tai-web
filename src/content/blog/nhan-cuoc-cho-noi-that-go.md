@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Nội Thất Gỗ: Dễ Hư Ở Đâu"
 description: "Ba loại gỗ ba mức rủi ro, bốn chỗ hư nhiều nhất, cách bọc và xếp trên thùng, và chọn xe theo chiều dài thùng chứ đừng theo số tấn."
 ngayDang: 2026-10-24T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-cho-noi-that-go.jpg"
 tuKhoa: "chở nội thất gỗ"

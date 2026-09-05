@@ -2,6 +2,7 @@
 title: "Cách đóng gói hàng hóa an toàn khi gửi xe tải"
 description: "Cách đóng gói hàng hóa an toàn khi gửi xe tải: chọn vật liệu đúng, gói theo từng loại hàng và chằng buộc chắc để hàng không hư, không móp trên đường."
 ngayDang: 2026-08-18T11:30:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 5
 anhDaiDien: "/anh/xe-tai-cho-hang-10-tan-uy-tin.jpg"
 doiTuong: chu-hang

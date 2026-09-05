@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Long An: chặng hơn một giờ chạy, tiền không nằm ở đường"
 description: "Ở cự ly 30-50 km, bốc xếp và thời gian chờ mới là phần lớn chi phí. Cách tính theo lượt, lợi thế cạnh tranh không tốn tiền, và chuyện mọt nhà xe hay bị đổ oan."
 ngayDang: 2026-10-23T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-long-an.jpg"
 tuKhoa: "nhà xe tuyến Long An"

@@ -2,6 +2,7 @@
 title: "Làm Thầu Phụ Cho Công Ty Logistics: Được Và Mất"
 description: "Nhà xe làm thầu phụ cho công ty logistics: được việc đều nhưng công nợ dài. Bốn con số phải hỏi trước khi ký và cách tính dòng tiền cho một chu kỳ."
 ngayDang: 2026-11-06T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/lam-thau-phu-cho-cong-ty-logistics.jpg"
 tuKhoa: "làm thầu phụ vận tải"

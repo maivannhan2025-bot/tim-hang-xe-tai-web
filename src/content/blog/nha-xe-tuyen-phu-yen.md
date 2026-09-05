@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Phú Yên: nghề chạy hàng biển, sống theo giờ của tàu"
 description: "Tàu xa bờ không có lịch nên không sắp trước được, chỉ có xác suất và mối quan hệ. Ba cách xử lý thời gian chờ, và vì sao xe lạnh cỡ vừa linh hoạt hơn cỡ lớn."
 ngayDang: 2026-10-05T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-phu-yen.jpg"
 tuKhoa: "nhà xe tuyến Phú Yên"

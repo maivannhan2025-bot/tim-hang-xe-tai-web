@@ -2,6 +2,7 @@
 title: "Xe Tải Cần Tìm Hàng 2026: Cách Kết Nối Chủ Hàng Nhanh Nhất"
 description: "Xe tải cần tìm hàng nên làm gì để có đơn nhanh trong 2026? Hướng dẫn chủ xe cách đăng xe rỗng, chọn chủ hàng uy tín, chốt đơn an toàn và giữ mối lâu dài."
 ngayDang: 2026-08-31T09:20:00+07:00
+ngayCapNhat: 2026-08-31T09:00:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/dich-vu-xe-tai-nho-uy-tin-tai-ca-nuoc.jpg"
 doiTuong: nha-xe

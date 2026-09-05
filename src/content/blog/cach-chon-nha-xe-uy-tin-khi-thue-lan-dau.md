@@ -2,6 +2,7 @@
 title: "Cách chọn nhà xe uy tín khi thuê xe tải lần đầu"
 description: "Cách chọn nhà xe uy tín khi thuê xe tải lần đầu: dấu hiệu cần kiểm tra, kinh nghiệm người trong nghề và cẩm nang xác minh nhà xe trước khi gửi hàng."
 ngayDang: 2026-08-17T07:30:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 4
 anhDaiDien: "/anh/dich-vu-xe-tai-cho-hang-an-toan-tai-ca-nuoc.jpg"
 doiTuong: chu-hang

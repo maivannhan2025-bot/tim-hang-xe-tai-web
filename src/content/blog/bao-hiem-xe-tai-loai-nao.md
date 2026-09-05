@@ -2,6 +2,7 @@
 title: "Bảo Hiểm Xe Tải: Loại Nào Bắt Buộc Loại Nào Nên Có"
 description: "Bốn loại bảo hiểm liên quan tới xe tải và phạm vi từng loại. Nghị định 67/2023, mức giảm phí tối đa 15% và những điểm loại trừ hay gặp."
 ngayDang: 2026-10-10T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/bao-hiem-xe-tai-loai-nao.jpg"
 tuKhoa: "bảo hiểm xe tải"

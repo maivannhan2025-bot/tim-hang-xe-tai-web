@@ -2,6 +2,7 @@
 title: "Mùa Thấp Điểm: Xe Rảnh Thì Làm Gì"
 description: "Việc làm trong mùa rảnh quyết định mùa bận chạy thế nào. Bảo dưỡng và giấy tờ, đi tìm khách cho mùa sau, thử mảng mới và giữ tài xế."
 ngayDang: 2026-10-27T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/mua-thap-diem-xe-ranh.jpg"
 tuKhoa: "mùa thấp điểm nhà xe"

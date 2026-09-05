@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Quảng Trị: biết hai đường quan trọng hơn có xe tốt"
 description: "QL1 và đường Hồ Chí Minh ít khi tê liệt cùng lúc, nên thuộc cả hai là lợi thế thật. Chỗ kẹt thật là cống tràn đường nhánh, không phải quốc lộ."
 ngayDang: 2026-10-04T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-quang-tri.jpg"
 tuKhoa: "nhà xe tuyến Quảng Trị"

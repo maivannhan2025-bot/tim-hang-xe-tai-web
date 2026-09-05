@@ -2,6 +2,7 @@
 title: "Xe tải mấy tấn chở được bao nhiêu hàng, chọn sao cho đúng"
 description: "Xe tải mấy tấn chở được bao nhiêu hàng còn tuỳ tải trọng và kích thước thùng xe, không chỉ số tấn ghi trên xe. Cách tính nhanh, chọn đúng xe cho từng loại hàng."
 ngayDang: 2026-08-16T16:00:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 5
 anhDaiDien: "/anh/dich-vu-xe-tai-lon-15-tan-tan-noi.jpg"
 doiTuong: chu-hang

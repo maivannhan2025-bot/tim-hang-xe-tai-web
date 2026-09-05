@@ -2,6 +2,7 @@
 title: "Đang Lái Mà Khách Gọi: Trực Điện Thoại Sao Cho Đúng"
 description: "Nhà xe tự nhận cuốc: ba cách nghe máy không cầm tay, ba loại cuộc gọi vẫn phải dừng lại, cách không mất cuốc vì lỡ máy và bốn dòng cần lấy đủ."
 ngayDang: 2026-11-16T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/truc-dien-thoai-khi-lai.jpg"
 tuKhoa: "nghe điện thoại khi lái xe tải"

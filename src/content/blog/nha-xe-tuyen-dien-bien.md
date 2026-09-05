@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Điện Biên: sân bay mở ra lại tạo thêm việc cho ô tô"
 description: "Máy bay chỉ nhận nhóm hàng rất hẹp, còn chặng nối hai đầu luôn cần ô tô. Cách bám dòng việc mới, tính một vòng chuyến 478 km và phần nghề chạy Tây Bắc."
 ngayDang: 2026-10-28T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-dien-bien.jpg"
 tuKhoa: "nhà xe tuyến Điện Biên"

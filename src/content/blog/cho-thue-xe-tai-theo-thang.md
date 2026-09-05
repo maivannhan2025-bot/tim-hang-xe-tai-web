@@ -2,6 +2,7 @@
 title: "Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không"
 description: "Hợp đồng tháng khác chạy chuyến ở chỗ nào, bốn con số phải chốt trước khi ký, và cách tính giá tháng cho khỏi hụt dầu hụt khấu hao."
 ngayDang: 2026-09-04
+ngayCapNhat: 2026-09-02T18:27:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/cho-thue-xe-tai-theo-thang-hop-dong-kho.jpg"
 tuKhoa: "cho thuê xe tải theo tháng"

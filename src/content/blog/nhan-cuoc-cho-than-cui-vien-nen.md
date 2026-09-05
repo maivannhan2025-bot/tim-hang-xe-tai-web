@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Than Củi Và Viên Nén: Bụi Đổi Lấy Tuyến Đều"
 description: "Than củi và viên nén nén là hàng bụi, nặng, chạy đều quanh năm. Cách quy bao ra tấn, chống bụi và cháy, và nhóm này hợp xe nào."
 ngayDang: 2026-12-24T06:00:00+07:00
+ngayCapNhat: 2026-09-04T22:58:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-than-cui-vien-nen.jpg"
 tuKhoa: "chở than củi"

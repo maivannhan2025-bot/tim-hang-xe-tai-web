@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Kệ Và Quầy Cho Cửa Hàng Mở Mới"
 description: "Cuốc setup cửa hàng nhẹ mà nhiều lượt, lại phải làm ngoài giờ. Cách đếm món trước khi báo giá, xếp kệ và quầy, và nhóm này hợp xe nào."
 ngayDang: 2026-12-07T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-ke-va-quay-sieu-thi.jpg"
 tuKhoa: "chở kệ siêu thị"

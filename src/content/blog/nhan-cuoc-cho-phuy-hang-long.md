@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Phuy: Hỏi Phuy Có Đầy Không Trước Đã"
 description: "Sóng sánh làm quãng đường phanh dài ra, đó là thứ khác biệt của cuốc hàng lỏng. Tính ký, xếp chằng, và loại nào phải từ chối."
 ngayDang: 2026-09-13T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-cho-phuy-nha-xe.jpg"
 tuKhoa: "chở hàng lỏng"

@@ -2,6 +2,7 @@
 title: "Nhà xe tìm hàng ở đâu để xe ít chạy rỗng"
 description: "Nhà xe tìm hàng ở đâu cho hiệu quả: so sánh mối quen, nhóm Zalo, hội nhóm Facebook và ứng dụng tìm hàng, kèm cách chọn kênh hợp với tuyến xe đang chạy."
 ngayDang: 2026-08-18T19:30:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 5
 anhDaiDien: "/anh/dich-vu-xe-tai-lon-15-tan-tan-noi.jpg"
 doiTuong: nha-xe

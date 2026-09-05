@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Gia Súc Gia Cầm: Xe Phải Khác"
 description: "Hàng sống khác hàng hoá ở bốn điểm. Xe phải thoáng, chạy đêm, chốt hao hụt bằng chữ, và hỏi cơ quan thú y về giấy tờ trước khi nhận."
 ngayDang: 2026-12-12T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-cho-gia-suc-gia-cam.jpg"
 tuKhoa: "chở gia súc gia cầm"

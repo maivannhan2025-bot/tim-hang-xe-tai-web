@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Phú Thọ: mở ra hàng cước cao không cần mua xe to"
 description: "Rào cản của hàng cuộn nằm ở nêm chặn và hiểu biết, không ở vốn mua xe. Cách xếp hàng tròn, bảo vệ mép giấy và tận dụng 5 nút giao cao tốc trong tỉnh."
 ngayDang: 2026-10-21T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/nha-xe-tuyen-phu-tho.jpg"
 tuKhoa: "nhà xe tuyến Phú Thọ"

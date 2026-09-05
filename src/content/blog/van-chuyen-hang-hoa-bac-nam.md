@@ -2,6 +2,7 @@
 title: "Vận chuyển hàng hóa Bắc Nam 2026: Gửi hàng đường dài an toàn"
 description: "Vận chuyển hàng hóa Bắc Nam an toàn, tiết kiệm. Đăng chuyến trên timhangxetai.com để nhà xe tuyến Bắc Nam báo giá, so sánh giá và tìm xe nhanh, dễ dàng."
 ngayDang: 2026-08-22T11:10:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 10
 anhDaiDien: "/anh/xe-keo-container-24-tan-tron-goi.jpg"
 doiTuong: chu-hang

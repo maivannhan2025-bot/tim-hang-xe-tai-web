@@ -2,6 +2,7 @@
 title: "Cuốc Có Cam Kết Giờ Giao: Nhận Hay Không"
 description: "Nhóm cuốc dễ kiếm tiền và cũng dễ mất tiền nhất. Bốn câu hỏi trước khi gật, cách cộng giờ dự phòng, và vì sao giá phải khác giá thường."
 ngayDang: 2026-12-03T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/cuoc-co-cam-ket-gio.jpg"
 tuKhoa: "cuốc cam kết giờ giao"

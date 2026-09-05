@@ -2,6 +2,7 @@
 title: "Chạy Tuyến Ngắn Nội Thành: Sống Được Không"
 description: "Tuyến ngắn phải tính theo ngày chứ đừng tính theo cuốc. Số cuốc mỗi ngày phụ thuộc gì, giờ cấm cắt bao nhiêu và ba cách tăng số cuốc."
 ngayDang: 2026-10-22T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/chay-tuyen-ngan-noi-thanh.jpg"
 tuKhoa: "chạy tuyến ngắn nội thành"

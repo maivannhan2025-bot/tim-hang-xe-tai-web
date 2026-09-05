@@ -2,6 +2,7 @@
 title: "Taxi tải chở hàng hóa: làm gì để khách dám gọi lại"
 description: "Nghề taxi tải là vào tận nhà khách. Bốn việc miễn phí làm khách yên tâm, bộ giấy tờ khách công ty hỏi trước cả giá, và cách báo giá tách ba phần."
 ngayDang: 2026-11-30T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/taxi-tai-cho-hang-hoa.jpg"
 tuKhoa: "taxi tải chở hàng hóa"

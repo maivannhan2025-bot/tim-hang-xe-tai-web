@@ -2,6 +2,7 @@
 title: "Xe tải tìm hàng: cách lấp đầy chuyến, bớt chạy rỗng chiều về 2026"
 description: "Xe tải tìm hàng hiệu quả giúp chủ xe lấp đầy chuyến, giảm chạy rỗng và tăng thu nhập. Hướng dẫn cách gom đơn, chọn tuyến và nhận hàng hai chiều mỗi ngày."
 ngayDang: 2026-08-29T07:10:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/dich-vu-xe-tai-cho-hang-an-toan-tai-ca-nuoc.jpg"
 doiTuong: nha-xe

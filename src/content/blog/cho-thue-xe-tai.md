@@ -2,6 +2,7 @@
 title: "Cho thuê xe tải chở hàng: chọn đúng loại xe, đỡ tốn chi phí 2026"
 description: "Cho thuê xe tải chở hàng theo nhu cầu giúp bạn chọn đúng loại thùng và tải trọng. Hướng dẫn chọn xe theo loại hàng cùng mẹo tiết kiệm khi thuê xe chở hàng."
 ngayDang: 2026-08-29T11:15:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/cho-thue-xe-cho-hang-tai-ca-nuoc.jpg"
 doiTuong: chu-hang

@@ -2,6 +2,7 @@
 title: "Thuê xe tải chở hàng Bắc Nam, ghép hàng hay bao xe nguyên chuyến"
 description: "Thuê xe tải chở hàng Bắc Nam: khi nào nên ghép hàng, khi nào nên bao nguyên chuyến, và cách chọn nhà xe không bị báo giá mập mờ."
 ngayDang: 2026-08-17T19:30:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 5
 anhDaiDien: "/anh/thue-xe-tai-van-1-25-tan-tai-bac-trung-nam.jpg"
 doiTuong: chu-hang

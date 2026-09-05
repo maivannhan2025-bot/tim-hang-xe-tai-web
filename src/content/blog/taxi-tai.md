@@ -2,6 +2,7 @@
 title: "Taxi tải chở hàng tận nơi: gọi nhanh, bốc xếp gọn trong phố 2026"
 description: "Taxi tải chở hàng phù hợp hàng lẻ và chuyển đồ trong phố. Hướng dẫn chuẩn bị hàng để bốc xếp nhanh, đỡ phí chờ cùng mẹo gọi taxi tải tiết kiệm trong ngày."
 ngayDang: 2026-08-29T19:05:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/taxi-tai-1-25-tan-boc-xep-tan-noi-tai-ca-nuoc.jpg"
 doiTuong: chu-hang

@@ -2,6 +2,7 @@
 title: "Nhà xe chạy tuyến Bắc Nam: một tài xế hay hai tài xế"
 description: "Nhà xe chạy tuyến Bắc Nam nên chạy một tài hay hai tài: bài toán tính theo số vòng trong tháng, kèm quy định giờ lái vừa đổi từ 1/7/2026."
 ngayDang: 2026-11-14T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-chay-tuyen-bac-nam.jpg"
 tuKhoa: "nhà xe chạy tuyến Bắc Nam"

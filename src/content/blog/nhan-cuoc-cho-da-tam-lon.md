@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Đá Tấm Khổ Lớn: Luôn Chở Đứng"
 description: "Đá chịu nén tốt nhưng chịu uốn kém, nên luôn chở đứng. Giá chữ A, cách chằng, chuyện lệch trục, và chốt người phụ ở đầu nhận trước khi gật."
 ngayDang: 2026-12-07T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-da-tam-lon.jpg"
 tuKhoa: "chở đá tấm"

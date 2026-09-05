@@ -2,6 +2,7 @@
 title: "Vào Cổng Kho: Thủ Tục Và Chờ Đợi"
 description: "Thời gian chờ ở cổng là khoản mất ít ai tính vào giá. Bộ giấy tờ mang theo, bốn câu hỏi trước khi nhận cuốc và cách rút ngắn thời gian chờ."
 ngayDang: 2026-10-21T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/vao-cong-kho-thu-tuc.jpg"
 tuKhoa: "vào cổng kho giao hàng"

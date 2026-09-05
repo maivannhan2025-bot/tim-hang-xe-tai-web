@@ -2,6 +2,7 @@
 title: "Nhận chở hàng bằng xe bán tải: lợi thế mới từ 1/7"
 description: "Từ 1/7/2026 xe bán tải cabin kép và xe van dưới 3.500 kg được tổ chức giao thông như ô tô con. Nhà xe nhóm này nay đi được giờ cao điểm, và nên chào bằng điều đó."
 ngayDang: 2026-11-29T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cho-hang-bang-xe-ban-tai.jpg"
 tuKhoa: "nhận chở hàng bằng xe bán tải"

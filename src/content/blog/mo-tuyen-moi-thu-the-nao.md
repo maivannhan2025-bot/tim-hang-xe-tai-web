@@ -2,6 +2,7 @@
 title: "Mở Tuyến Mới: Thử Thế Nào Cho Đỡ Lỗ"
 description: "Nhà xe mở tuyến mới nên chạy thử mười chuyến thay vì bỏ tuyến cũ. Bốn con số đo trước, bảng theo dõi, và cách đặt mốc dừng trước khi bắt đầu."
 ngayDang: 2026-10-01T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/mo-tuyen-moi-nha-xe.jpg"
 tuKhoa: "mở tuyến mới"

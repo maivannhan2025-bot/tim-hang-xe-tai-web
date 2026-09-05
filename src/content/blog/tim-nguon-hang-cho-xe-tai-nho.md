@@ -2,6 +2,7 @@
 title: "Tìm Nguồn Hàng Cho Xe Tải Nhỏ: Cách Chạy Đều 2026"
 description: "Tìm nguồn hàng cho xe tải nhỏ không khó nếu biết chọn đúng tuyến và gom đơn. Hướng dẫn nhà xe nhỏ nhận chuyến đều, giảm chạy rỗng trong năm 2026."
 ngayDang: 2026-08-30T08:20:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/dich-vu-xe-tai-nho-uy-tin-tai-ca-nuoc.jpg"
 doiTuong: nha-xe

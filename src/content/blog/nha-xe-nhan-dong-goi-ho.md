@@ -2,6 +2,7 @@
 title: "Nhà Xe Nhận Đóng Gói Hộ: Có Nên Làm Thêm"
 description: "Nhà xe mở rộng sang dịch vụ đóng gói: ba mức nhận, cách tính giá theo giờ công, vật tư cần trữ và cách thử ba tháng trước khi đầu tư."
 ngayDang: 2026-11-13T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nha-xe-nhan-dong-goi-ho.jpg"
 tuKhoa: "nhà xe nhận đóng gói"

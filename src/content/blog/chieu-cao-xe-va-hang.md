@@ -2,6 +2,7 @@
 title: "Chiều Cao Xe Và Hàng: Chỗ Nào Hay Vướng"
 description: "Đo chiều cao thật của xe rồi dán trong cabin. Sáu chỗ hay vướng, nhóm hàng làm xe cao thêm, và cách xử khi biết chắc không vào được."
 ngayDang: 2026-11-29T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/chieu-cao-xe-va-hang.jpg"
 tuKhoa: "chiều cao xe tải"

@@ -2,6 +2,7 @@
 title: "Thuê xe tải chở hàng đi tỉnh cần lưu ý gì"
 description: "Thuê xe tải chở hàng đi tỉnh cần lưu ý gì để không lo mất hàng, sai giá. Cẩm nang từng bước, áp dụng được ngay cả khi không dùng app."
 ngayDang: 2026-08-16T19:30:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 5
 anhDaiDien: "/anh/thue-xe-van-chuyen-hang-hoa-tai-toan-quoc.jpg"
 doiTuong: chu-hang

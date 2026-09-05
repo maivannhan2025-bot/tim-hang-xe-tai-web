@@ -2,6 +2,7 @@
 title: "Hộ Kinh Doanh Hay Công Ty: Nhà Xe Nên Chọn Hình Thức Nào"
 description: "Hộ kinh doanh hay công ty vận tải: hình thức đăng ký ảnh hưởng tới nguồn hàng ra sao, nhìn theo số xe và kiểu khách, được gì mất gì và nên đi hỏi những đâu."
 ngayDang: 2026-12-28T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/ho-kinh-doanh-hay-cong-ty-van-tai.jpg"
 tuKhoa: "hộ kinh doanh vận tải"

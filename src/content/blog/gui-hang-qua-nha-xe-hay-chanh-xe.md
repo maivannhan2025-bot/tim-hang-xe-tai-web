@@ -2,6 +2,7 @@
 title: "Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào"
 description: "Gửi hàng qua nhà xe hay chành xe: so sánh chi phí, tốc độ, độ an toàn và loại hàng phù hợp, kèm cẩm nang chọn đúng cách gửi cho từng chuyến hàng."
 ngayDang: 2026-08-19T07:30:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 5
 anhDaiDien: "/anh/dich-vu-xe-tai-cho-hang-an-toan-tai-ca-nuoc.jpg"
 doiTuong: chu-hang

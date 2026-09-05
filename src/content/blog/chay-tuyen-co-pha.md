@@ -2,6 +2,7 @@
 title: "Chạy Tuyến Có Phà: Tính Giờ Và Tính Tiền Sao"
 description: "Nhà xe chạy tuyến có phà: bốn khoản của phần phà, cách tính giờ cho hai kịch bản, ba cách đưa phí phà vào giá và cách ghi sổ bến."
 ngayDang: 2026-11-07T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/chay-tuyen-co-pha.jpg"
 tuKhoa: "chạy tuyến có phà"

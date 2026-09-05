@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Kéo Container Về Kho: Sáu Câu Hỏi Trước Khi Báo Giá"
 description: "Sáu câu phải hỏi để không dính cuốc hỏng, cách tính giá theo thời gian xe bị chiếm dụng, và mấy chỗ dễ mất tiền."
 ngayDang: 2026-09-09T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-keo-container-ve-kho.jpg"
 tuKhoa: "kéo container về kho"

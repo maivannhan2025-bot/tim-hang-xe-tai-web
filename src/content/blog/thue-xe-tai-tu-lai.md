@@ -2,6 +2,7 @@
 title: "Thuê Xe Tải Tự Lái: Kinh Nghiệm Và Checklist 2026"
 description: "Thuê xe tải tự lái giúp chủ động giờ giấc và tiết kiệm khi tự chở. Checklist kiểm tra xe, giấy tờ và mẹo chọn xe đúng tải cho người thuê năm 2026."
 ngayDang: 2026-08-30T19:10:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/dich-vu-xe-tai-nho-uy-tin-tai-ca-nuoc.jpg"
 doiTuong: chu-hang

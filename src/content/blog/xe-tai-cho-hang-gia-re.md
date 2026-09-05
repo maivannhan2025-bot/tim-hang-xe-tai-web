@@ -2,6 +2,7 @@
 title: "Xe Tải Chở Hàng Giá Rẻ: Cách So Báo Giá Đúng 2026"
 description: "Xe tải chở hàng giá rẻ chưa chắc là rẻ thật. Hướng dẫn chủ hàng đọc và so báo giá đúng cách để tiết kiệm mà vẫn an toàn hàng trong năm 2026."
 ngayDang: 2026-08-30T11:25:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/xe-tai-cho-hang-100.jpg"
 doiTuong: chu-hang

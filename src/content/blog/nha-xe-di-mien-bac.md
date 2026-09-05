@@ -2,6 +2,7 @@
 title: "Nhà xe đi miền Bắc: mùa nồm và chuyện nói trước"
 description: "Nhà xe đi miền Bắc: mùa nồm tháng 2 tới tháng 4 làm hàng đọng nước, và cách duy nhất tránh cãi nhau là nói trước rồi ghi vào giấy giao nhận."
 ngayDang: 2026-11-22T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-di-mien-bac.jpg"
 tuKhoa: "nhà xe đi miền Bắc"

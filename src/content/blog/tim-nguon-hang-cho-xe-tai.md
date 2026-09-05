@@ -2,6 +2,7 @@
 title: "Tìm Nguồn Hàng Cho Xe Tải 2026: Cách Chạy Đều Không Lo Xe Rỗng"
 description: "Tìm nguồn hàng cho xe tải sao cho đều chuyến, ít chạy rỗng? Hướng dẫn chủ xe cách nhận chuyến, nối chiều về, giữ chủ hàng quay lại và chạy ổn định năm 2026."
 ngayDang: 2026-08-22T14:30:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/xe-tai-cho-hang-10-tan-uy-tin.jpg"
 doiTuong: nha-xe

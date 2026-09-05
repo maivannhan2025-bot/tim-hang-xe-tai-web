@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Hàng Cứu Trợ Từ Thiện: Nói Rõ Từ Đầu"
 description: "Nhận cuốc chở hàng cứu trợ từ thiện: nói rõ tiền ngay từ đầu, làm bảng kê theo nhóm, tính tải cho đúng, đường vào vùng lũ và chốt hàng chiều về."
 ngayDang: 2026-12-24T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-cho-hang-cuu-tro-tu-thien.jpg"
 tuKhoa: "chở hàng cứu trợ từ thiện"

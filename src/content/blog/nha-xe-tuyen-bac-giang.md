@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Bắc Giang: hai tháng mùa vải không nuôi được cả năm"
 description: "Bắc Giang có 29.700 ha vải, 165.000 tấn dồn vào hai cửa sổ ngắn. Nhà xe nên coi mùa vải là phần thưởng, còn nền nằm ở chặng Bắc Giang - Hà Nội 61,7 km."
 ngayDang: 2026-10-14T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-bac-giang.jpg"
 tuKhoa: "nhà xe tuyến Bắc Giang"

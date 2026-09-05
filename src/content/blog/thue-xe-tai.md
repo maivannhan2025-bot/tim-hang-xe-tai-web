@@ -2,6 +2,7 @@
 title: "Thuê Xe Tải 2026: Cách Chọn Đúng Xe, Đúng Giá, Không Lo Phát Sinh"
 description: "Hướng dẫn thuê xe tải 2026 cho chủ hàng: cách chọn tải trọng phù hợp, hiểu yếu tố tạo nên giá cước, tránh phát sinh và đặt xe nhanh qua app một cách an toàn."
 ngayDang: 2026-08-31T10:30:00+07:00
+ngayCapNhat: 2026-08-31T08:50:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/cho-thue-xe-cho-hang-tai-ca-nuoc.jpg"
 doiTuong: chu-hang

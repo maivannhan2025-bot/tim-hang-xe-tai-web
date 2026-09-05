@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Bia Nước Ngọt: Nặng, Vỡ, Và Thu Vỏ"
 description: "Hàng đồ uống đầy tải rất nhanh, két thuỷ tinh dễ vỡ, và luôn có vỏ phải thu. Cách tính, cách xếp, và nhóm này hợp xe nào."
 ngayDang: 2026-12-21T06:00:00+07:00
+ngayCapNhat: 2026-09-04T22:42:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-do-uong-ruou-bia.jpg"
 tuKhoa: "chở bia nước ngọt"

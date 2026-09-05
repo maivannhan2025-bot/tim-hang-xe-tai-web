@@ -2,6 +2,7 @@
 title: "Tổng Kết Năm Của Nhà Xe: Bảy Con Số Nên Tính"
 description: "Bảy con số lấy ra trong một buổi tối, ba phép chia đáng làm, và cách nhìn lại xe, nhóm hàng và khách để quyết năm sau nên làm gì khác."
 ngayDang: 2026-12-13T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/tong-ket-nam-cua-nha-xe.jpg"
 tuKhoa: "tổng kết năm nhà xe"

@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Thái Nguyên: chở chè là giữ thùng xe sạch mãi mãi"
 description: "Nhận chè nghĩa là từ chối hẳn nhóm hàng có mùi, không phải chỉ tránh chở chung một chuyến. Vì sao thùng dài quan trọng hơn tải trọng ở tuyến này."
 ngayDang: 2026-10-10T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-thai-nguyen.jpg"
 tuKhoa: "nhà xe tuyến Thái Nguyên"

@@ -2,6 +2,7 @@
 title: "Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số"
 description: "Cỡ xe 750kg bán cái gì, loại hàng nào nên nhận nào nên từ chối, tiêu hao dầu và cách sắp vòng cho đỡ chạy rỗng."
 ngayDang: 2026-09-05T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/chay-xe-tai-750kg-nha-xe-tim-hang.jpg"
 tuKhoa: "xe tải 750kg"

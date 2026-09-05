@@ -2,6 +2,7 @@
 title: "Xe chở đồ: nhận lấy hàng hộ thì giới hạn ở đâu"
 description: "Xe chở đồ nhận việc lấy hàng hộ: ba câu nói rõ giới hạn ngay lúc nhận việc, bảng kiểm được gì và không kiểm được gì, cách gom nhiều điểm lấy một chuyến."
 ngayDang: 2026-11-25T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-cho-do-lay-hang-ho.jpg"
 tuKhoa: "xe chở đồ"

@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Đồng Nai: ba nhánh việc, chọn nhánh nào cho xe mình"
 description: "Tuyến Đồng Nai có ba nhánh khác hẳn nhau: về nội đô, ra cảng chỉ 4km, và đi tỉnh. Bảng so ba nhánh về mặt kiếm tiền."
 ngayDang: 2026-09-16T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nha-xe-tuyen-dong-nai.jpg"
 tuKhoa: "nhà xe tuyến Đồng Nai"

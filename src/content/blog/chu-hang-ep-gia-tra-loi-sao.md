@@ -2,6 +2,7 @@
 title: "Chủ Hàng Ép Giá: Trả Lời Sao Cho Giữ Mối"
 description: "Biết ngưỡng trước khi nghe giá, ba kiểu ép giá và cách trả lời, đổi điều kiện thay vì giảm giá, và khi nào nên buông mối."
 ngayDang: 2026-10-13T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/chu-hang-ep-gia-nha-xe.jpg"
 tuKhoa: "chủ hàng ép giá"

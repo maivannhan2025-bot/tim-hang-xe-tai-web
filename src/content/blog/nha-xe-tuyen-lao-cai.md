@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Lào Cai: việc đều không nằm ở chuyến dài vào Nam"
 description: "Chặng 265km về Hà Nội quay đầu trong ngày và có nguồn hàng đều hơn. Bảng so cửa khẩu Bắc với cửa khẩu Nam, và rủi ro nằm chờ với xe lạnh."
 ngayDang: 2026-09-27T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-lao-cai.jpg"
 tuKhoa: "nhà xe tuyến Lào Cai"

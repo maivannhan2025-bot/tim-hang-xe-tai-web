@@ -2,6 +2,7 @@
 title: "Chuyển Đồ Liên Tỉnh: Chuẩn Bị Đúng Để Đồ Về An Toàn 2026"
 description: "Kinh nghiệm chuyển đồ liên tỉnh an toàn: cách chuẩn bị, đóng gói cho đường dài, chọn xe đúng cỡ và giấy tờ cần có để đồ về đủ, không hư hại."
 ngayDang: 2026-09-02T19:30:00+07:00
+ngayCapNhat: 2026-09-02T08:40:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/thue-xe-tai-cho-hang-lien-tinh-5-tan.jpg"
 doiTuong: chu-hang

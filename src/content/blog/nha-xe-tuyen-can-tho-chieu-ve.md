@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Cần Thơ: chạy hai vòng một ngày có được không"
 description: "Cao tốc Cần Thơ 120km chạy 2 tiếng, tuyến duy nhất chạy được hai vòng một ngày. Giờ cấm tải chi phối lịch, và cách gom hàng chiều về."
 ngayDang: 2026-09-11T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/nha-xe-tuyen-can-tho-chieu-ve.jpg"
 tuKhoa: "nhà xe tuyến Cần Thơ"

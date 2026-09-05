@@ -2,6 +2,7 @@
 title: "Tăng Giá Với Khách Quen: Nói Lúc Nào, Nói Sao"
 description: "Tăng vì con số chứ đừng vì cảm giác. Cách tính lại một tuyến, bốn lý do khách dễ chấp nhận, ba cách tăng ít mất khách, và khi nào nên giữ giá."
 ngayDang: 2026-12-08T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/tang-gia-voi-khach-quen.jpg"
 tuKhoa: "tăng giá cước với khách quen"

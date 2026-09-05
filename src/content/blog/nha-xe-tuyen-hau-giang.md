@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Hậu Giang: chở hàng là chuyến, chuyển xưởng là dự án"
 description: "Ở loại việc này thứ bán được là khả năng tổ chức chứ không phải chiếc xe. Cách báo giá theo gói, nguyên tắc xếp ngược, và phần nên từ chối."
 ngayDang: 2026-10-31T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-hau-giang.jpg"
 tuKhoa: "nhà xe tuyến Hậu Giang"

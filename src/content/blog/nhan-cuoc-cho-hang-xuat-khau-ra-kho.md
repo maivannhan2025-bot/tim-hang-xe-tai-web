@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Hàng Xuất Khẩu Ra Kho: Giờ Là Giờ Chết"
 description: "Nhận cuốc chở hàng xuất khẩu ra kho: sáu câu hỏi trước khi nhận, cách kiểm chứng từ, quy cách pallet kho có thể từ chối và cách tính ngược từ mốc giờ cuối."
 ngayDang: 2026-12-30T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-cho-hang-xuat-khau-ra-kho.jpg"
 tuKhoa: "chở hàng xuất khẩu ra kho"

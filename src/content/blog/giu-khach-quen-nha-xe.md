@@ -2,6 +2,7 @@
 title: "Giữ Khách Quen: Vì Sao Khách Bỏ Đi Và Cách Giữ"
 description: "Bốn lý do khách bỏ đi, bốn thứ giữ khách mà không tốn tiền, cách xử lý khi khách đòi giảm giá và sau một chuyến hỏng."
 ngayDang: 2026-09-30T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/giu-khach-quen-nha-xe.jpg"
 tuKhoa: "giữ khách quen"

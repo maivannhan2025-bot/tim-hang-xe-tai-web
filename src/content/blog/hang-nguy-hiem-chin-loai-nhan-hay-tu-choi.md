@@ -2,6 +2,7 @@
 title: "Hàng Nguy Hiểm Chín Loại: Nhận Cuốc Nào, Từ Chối Cuốc Nào"
 description: "Chín loại hàng nguy hiểm theo NĐ 34/2024, ai cấp giấy phép, câu hỏi nhận diện sớm và khi nào phải từ chối dứt khoát."
 ngayDang: 2026-09-23T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/hang-nguy-hiem-nha-xe.jpg"
 tuKhoa: "hàng nguy hiểm"

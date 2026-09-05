@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Đồ Cưới: Luôn Là Hai Chiều, Đừng Quên"
 description: "Cuốc đồ cưới trả khá nhưng chiều trả rơi vào đêm. Cách báo giá trọn gói hai chiều, xếp rạp và bàn ghế, đếm khi nhận lại, và nhóm này hợp xe nào."
 ngayDang: 2026-12-09T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-do-cuoi-rap-cuoi.jpg"
 tuKhoa: "chở đồ cưới"

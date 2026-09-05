@@ -2,6 +2,7 @@
 title: "Taxi tải chở hàng: xe nhỏ tính bằng lượt, không tính bằng chuyến"
 description: "Vì sao rút ngắn thời gian ở hai đầu giá trị hơn chạy nhanh trên đường. Cách báo giá bốn phần, ba cách cắt giờ chết, và ba nhóm khách cho việc đều."
 ngayDang: 2026-11-06T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/taxi-tai-cho-hang.jpg"
 tuKhoa: "taxi tải chở hàng"

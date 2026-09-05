@@ -2,6 +2,7 @@
 title: "Qua Trạm Cân: Xếp Hàng Sao Cho Không Lệch Trục"
 description: "Tổng tải đủ mà trục vẫn vượt là lỗi hay gặp nhất. Cách xếp hàng nặng, tự cân trước khi chạy, và hỏi cân nặng thay vì hỏi số khối."
 ngayDang: 2026-11-26T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/qua-tram-can-xep-hang.jpg"
 tuKhoa: "xếp hàng không lệch trục"

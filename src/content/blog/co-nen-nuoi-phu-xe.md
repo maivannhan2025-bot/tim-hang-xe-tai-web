@@ -2,6 +2,7 @@
 title: "Có Nên Nuôi Phụ Xe: Tính Trước Rồi Hãy Quyết"
 description: "Nhà xe có nên nuôi phụ xe: khi nào có lời rõ, ba cách trả công, bốn việc phải chốt trước khi nhận người và cách xoay khi việc chưa đủ."
 ngayDang: 2026-11-01T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/co-nen-nuoi-phu-xe.jpg"
 tuKhoa: "nuôi phụ xe"

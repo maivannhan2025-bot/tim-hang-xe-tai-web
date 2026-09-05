@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Quần Áo: Nhẹ Nhất Mà Khó Báo Giá Nhất"
 description: "Hàng thời trang nhẹ tới mức cân không nói lên gì. Cách báo giá theo khối và theo điểm, chở hàng treo khác hàng gấp, và nhóm này hợp xe nào."
 ngayDang: 2026-12-03T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-quan-ao-thoi-trang.jpg"
 tuKhoa: "chở quần áo"

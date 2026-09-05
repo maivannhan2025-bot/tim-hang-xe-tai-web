@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Tủ Sắt Và Nội Thất Văn Phòng"
 description: "Tủ sắt nặng, cạnh sắc, dễ móp. Cách hỏi số món trước khi báo giá, tính công khiêng theo lượt, xử lý toà nhà văn phòng, và nhóm này hợp xe nào."
 ngayDang: 2026-12-05T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-tu-sat-noi-that-van-phong.jpg"
 tuKhoa: "chở tủ sắt"

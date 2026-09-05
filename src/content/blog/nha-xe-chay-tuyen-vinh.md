@@ -2,6 +2,7 @@
 title: "Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào"
 description: "Tuyến TPHCM đi Vinh 1.500km, chạy 32-38 giờ. Chiều về Sài Gòn có hàng gì, tìm ở đâu, và tính thế nào để cả vòng đi về không lỗ."
 ngayDang: 2026-09-06T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/nha-xe-chay-tuyen-vinh.jpg"
 tuKhoa: "nhà xe chạy tuyến Vinh"

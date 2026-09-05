@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Trà Vinh: cầu đã xong nhưng thói quen thì chưa"
 description: "Cầu Cổ Chiên rút đường từ 170km xuống 100km mà vẫn có xe đi lối cũ. Tính thử một ngày làm việc, và vì sao cầu Đại Ngãi sắp đổi bản đồ tuyến miền Tây."
 ngayDang: 2026-10-07T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nha-xe-tuyen-tra-vinh.jpg"
 tuKhoa: "nhà xe tuyến Trà Vinh"

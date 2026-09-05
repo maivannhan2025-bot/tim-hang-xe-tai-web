@@ -2,6 +2,7 @@
 title: "Tìm Hàng Chạy Xe Tải 2026: Bí Quyết Có Đơn Đều, Giảm Chạy Rỗng"
 description: "Hướng dẫn tìm hàng chạy xe tải 2026 cho chủ xe: cách chủ động nhận đơn hai chiều, giảm chạy rỗng, chọn tuyến hiệu quả và dùng app để có nguồn hàng đều đặn."
 ngayDang: 2026-08-31T08:10:00+07:00
+ngayCapNhat: 2026-08-31T08:30:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/xe-tai-cho-hang-100.jpg"
 doiTuong: nha-xe

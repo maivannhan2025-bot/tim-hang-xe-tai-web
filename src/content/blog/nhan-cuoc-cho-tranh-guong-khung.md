@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Tranh Và Gương: Nhẹ Mà Đền Nặng"
 description: "Tranh và gương nhẹ tênh nhưng vỡ là đền theo giá tác phẩm. Cách chốt trách nhiệm trước, xếp đứng, và nhóm này hợp xe nào."
 ngayDang: 2026-12-30T06:00:00+07:00
+ngayCapNhat: 2026-09-04T23:30:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-tranh-guong-khung.jpg"
 tuKhoa: "chở tranh và gương"

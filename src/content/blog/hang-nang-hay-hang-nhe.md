@@ -2,6 +2,7 @@
 title: "Chở Hàng Nặng Hay Hàng Nhẹ: Cái Nào Lời Hơn"
 description: "So hàng nặng với hàng nhẹ cho nhà xe: bốn khoản chi phí khác nhau, báo giá theo tấn hay theo khối, và bảng giới hạn nào tới trước theo cỡ xe."
 ngayDang: 2026-11-08T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/hang-nang-hay-hang-nhe.jpg"
 tuKhoa: "chở hàng nặng hay hàng nhẹ"

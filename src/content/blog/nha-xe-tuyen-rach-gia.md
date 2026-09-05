@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Rạch Giá: nghề chạy nối cảng, xe chờ tàu chứ tàu không chờ xe"
 description: "Nhóm việc nối cảng có nhịp riêng theo lịch tàu. Vì sao xe vừa và nhỏ lợi hơn xe lớn ở việc này, và bốn lần bốc dỡ phải nói trước với chủ hàng."
 ngayDang: 2026-09-23T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-rach-gia.jpg"
 tuKhoa: "nhà xe tuyến Rạch Giá"

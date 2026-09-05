@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Hoa Và Cây Cảnh Tết"
 description: "Vì sao cước chở hoa Tết cao hơn, cách tính chỗ theo diện tích sàn thùng, năm dòng phải hỏi trước khi gật và cách xếp hoa cây cho đỡ dập."
 ngayDang: 2026-10-25T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-cho-hoa-cay-canh-tet.jpg"
 tuKhoa: "chở hoa cây cảnh Tết"

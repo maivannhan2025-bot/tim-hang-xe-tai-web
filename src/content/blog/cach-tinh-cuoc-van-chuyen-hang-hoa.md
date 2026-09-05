@@ -2,6 +2,7 @@
 title: "Cách tính cước vận chuyển hàng hóa bằng xe tải"
 description: "Cách tính cước vận chuyển hàng hóa bằng xe tải: các yếu tố quyết định giá, cách tự ước lượng trước và mẹo hỏi báo giá đúng để không bị hớ khi thuê xe."
 ngayDang: 2026-08-18T07:30:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 5
 anhDaiDien: "/anh/cho-thue-xe-cho-hang-tai-ca-nuoc.jpg"
 doiTuong: chu-hang

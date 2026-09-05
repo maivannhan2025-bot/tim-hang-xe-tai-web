@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Đồng Tháp: một năm phải chạy theo hai chế độ"
 description: "Mùa nước nổi đổi cách chạy ở đoạn cuối chứ không đổi chặng trục 145 km. Vì sao xe nhỏ mới là thứ kiếm tiền nửa năm, và cách nhận hàng đi ghe cho đúng."
 ngayDang: 2026-10-19T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-dong-thap.jpg"
 tuKhoa: "nhà xe tuyến Đồng Tháp"

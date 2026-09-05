@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Máy Tập Gym: Nặng Và Cồng Kềnh"
 description: "Nhà xe nhận cuốc chở máy tập: tạ chạm tải rất sớm, tháo hay không tháo, bảng số người theo cân nặng máy, và ba rủi ro riêng của nhóm này."
 ngayDang: 2026-11-23T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-cho-may-tap-gym.jpg"
 tuKhoa: "chở máy tập gym"

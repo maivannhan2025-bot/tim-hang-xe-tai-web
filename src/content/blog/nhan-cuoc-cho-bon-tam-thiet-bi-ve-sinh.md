@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Thiết Bị Vệ Sinh: Sứ Nứt Là Đền Nguyên"
 description: "Sứ vệ sinh nặng, giòn, và phải đưa vào phòng khó vào nhất. Cách đòi số đo trước khi báo giá, xếp cho khỏi nứt, và nhóm này hợp xe nào."
 ngayDang: 2026-12-20T06:00:00+07:00
+ngayCapNhat: 2026-09-04T22:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-bon-tam-thiet-bi-ve-sinh.jpg"
 tuKhoa: "chở thiết bị vệ sinh"

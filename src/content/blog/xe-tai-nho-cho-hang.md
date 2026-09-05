@@ -2,6 +2,7 @@
 title: "Xe Tải Nhỏ Chở Hàng 2026: Thuê Nhanh, Gọn Nhẹ, Tiết Kiệm Chi Phí"
 description: "Xe tải nhỏ chở hàng gọn nhẹ cho hàng ít, đường hẹp, giao trong phố. Đăng chuyến trên timhangxetai.com để nhiều nhà xe báo giá và so sánh nhanh, miễn phí."
 ngayDang: 2026-08-22T10:10:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/dich-vu-xe-tai-nho-uy-tin-tai-ca-nuoc.jpg"
 doiTuong: chu-hang

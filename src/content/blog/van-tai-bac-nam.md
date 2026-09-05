@@ -2,6 +2,7 @@
 title: "Vận Tải Bắc Nam: Cách Gửi Hàng Đường Dài An Toàn 2026"
 description: "Vận tải Bắc Nam cần chọn đúng xe, sắp lịch khéo và theo dõi hành trình. Hướng dẫn chủ hàng gửi hàng đường dài an toàn, tiết kiệm trong năm 2026."
 ngayDang: 2026-08-30T20:40:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/thue-xe-tai-van-1-25-tan-tai-bac-trung-nam.jpg"
 doiTuong: chu-hang

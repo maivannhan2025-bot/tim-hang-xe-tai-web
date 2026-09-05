@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Pallet Và Vỏ Thùng: Cuốc Rỗng Có Đáng"
 description: "Chở pallet và vỏ thùng rỗng là cuốc ai cũng chê, nhưng nó giải được bài toán chiều về. Cách tính, cách xếp, và khi nào nên nhận."
 ngayDang: 2026-12-19T06:00:00+07:00
+ngayCapNhat: 2026-09-04T22:31:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-pallet-va-vo-thung.jpg"
 tuKhoa: "chở pallet"

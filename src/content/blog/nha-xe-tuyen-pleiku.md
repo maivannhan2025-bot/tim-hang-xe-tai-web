@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Pleiku: 506 km mà ăn trọn một ngày, tính lại giá đi"
 description: "Trục quốc lộ 14 thưa xe hơn quốc lộ 1 nên giữ mối lâu hơn. Ba khoản đường đèo ăn thêm, cửa khẩu Lệ Thanh, và vì sao xe lớn không phải lúc nào cũng lợi."
 ngayDang: 2026-09-21T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-pleiku.jpg"
 tuKhoa: "nhà xe tuyến Pleiku"

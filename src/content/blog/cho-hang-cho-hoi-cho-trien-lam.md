@@ -2,6 +2,7 @@
 title: "Chở Hàng Cho Hội Chợ Triển Lãm: Cuốc Này Khác Gì"
 description: "Cuốc hội chợ là hai chuyến cách nhau vài ngày, chờ lâu và khung giờ do ban tổ chức xếp. Cách tính giá cho đủ hai đầu và bốn dòng phải ghi vào thoả thuận."
 ngayDang: 2026-10-18T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/cho-hang-cho-hoi-cho-trien-lam.jpg"
 tuKhoa: "chở hàng hội chợ"

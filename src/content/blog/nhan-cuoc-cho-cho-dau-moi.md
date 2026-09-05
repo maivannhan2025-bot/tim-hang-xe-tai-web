@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Hàng Cho Chợ Đầu Mối: Giờ Và Mối"
 description: "Nhà xe nhận cuốc chợ đầu mối: nhịp một đêm ở chợ, hai nhóm việc và cỡ xe hợp, cách tính tiền ở chợ, chỗ đậu và cách tìm mối."
 ngayDang: 2026-11-04T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-cho-cho-dau-moi.jpg"
 tuKhoa: "chở hàng chợ đầu mối"

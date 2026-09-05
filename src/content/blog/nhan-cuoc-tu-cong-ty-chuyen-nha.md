@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Từ Công Ty Chuyển Nhà: Khác Gì Cuốc Thường"
 description: "Cuốc chuyển nhà không phải chỉ chở. Chốt trước phạm vi công việc, tính theo buổi chứ đừng theo quãng đường, và bốn thứ hỏi trước mỗi chuyến."
 ngayDang: 2026-10-23T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nhan-cuoc-tu-cong-ty-chuyen-nha.jpg"
 tuKhoa: "nhận cuốc chuyển nhà"

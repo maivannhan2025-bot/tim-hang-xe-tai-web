@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Tuyên Quang: làm hỏng lô hàng mà không chạm vào nó"
 description: "89.094 ha rừng FSC nghĩa là phần lớn gỗ ở đây đi kèm hồ sơ. Bốn việc bắt buộc khi nhận, chuyện gỗ tươi đánh lừa tải trọng, và cao tốc 40,2 km nối vào IC9."
 ngayDang: 2026-10-30T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-tuyen-quang.jpg"
 tuKhoa: "nhà xe tuyến Tuyên Quang"

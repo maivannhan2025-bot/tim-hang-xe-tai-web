@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Hà Nam: đường sắt là đối thủ thật, nhưng chỉ ở một sân"
 description: "Khác máy bay, tàu hỏa lấy thật một nhóm hàng của ô tô. Bảng nhóm thua và nhóm thắng, cách chào hàng khi khách đang cân nhắc đi tàu, và cách tự tính mình mất ở đâu."
 ngayDang: 2026-10-29T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-ha-nam.jpg"
 tuKhoa: "nhà xe tuyến Hà Nam"

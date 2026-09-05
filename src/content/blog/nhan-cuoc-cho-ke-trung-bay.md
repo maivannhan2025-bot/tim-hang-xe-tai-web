@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Kệ Trưng Bày Và Standee"
 description: "Hàng nhẹ mà nhiều điểm, cong một cạnh là cửa hàng không dựng được. Cách xếp, soạn theo từng điểm, tính giá đơn nhiều điểm và phần thu hồi sau chiến dịch."
 ngayDang: 2026-12-16T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-ke-trung-bay.jpg"
 tuKhoa: "chở kệ trưng bày"

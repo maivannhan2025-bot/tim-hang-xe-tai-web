@@ -2,6 +2,7 @@
 title: "Tới Nơi Hàng Nhiều Hơn Thoả Thuận: Xử Lý Sao"
 description: "Tới kho mà hàng nhiều hơn đã chốt: bốn lý do, mười phút đầu làm gì, bốn phương án, phân biệt vượt thùng với vượt tải và cách ngăn từ lúc nhận cuốc."
 ngayDang: 2026-11-05T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/hang-nhieu-hon-thoa-thuan.jpg"
 tuKhoa: "hàng nhiều hơn thoả thuận"

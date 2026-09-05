@@ -2,6 +2,7 @@
 title: "Xe Nằm Chờ Bốc Xếp: Tính Tiền Chờ Thế Nào"
 description: "Giờ chờ là chi phí thật của nhà xe. Cách tự tính giá sàn mỗi giờ, bốn câu phải chốt lúc nhận cuốc, cách ghi giờ làm bằng chứng và lúc nào nên bỏ chuyến."
 ngayDang: 2026-11-25T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-nam-cho-boc-xep.jpg"
 tuKhoa: "tiền chờ bốc xếp"

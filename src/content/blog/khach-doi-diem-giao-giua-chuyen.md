@@ -2,6 +2,7 @@
 title: "Khách Đổi Điểm Giao Giữa Chuyến: Tính Sao"
 description: "Chốt cách tính ngay lúc nhận cuốc, hỏi bốn câu khi nhận cuộc gọi đổi điểm, ba khoản để cộng phát sinh, và khi nào nên từ chối."
 ngayDang: 2026-12-17T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/khach-doi-diem-giao-giua-chuyen.jpg"
 tuKhoa: "khách đổi điểm giao"

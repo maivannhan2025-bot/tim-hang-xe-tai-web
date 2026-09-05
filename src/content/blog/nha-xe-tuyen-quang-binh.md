@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Quảng Bình: tỉnh hẹp nhất nước là một lợi thế có thật"
 description: "Gom nhanh, ít trung chuyển, xe lớn vào được phần lớn điểm lấy hàng. Tính thử một ngày làm việc và ba sai lầm của nhà xe mới vào tuyến."
 ngayDang: 2026-10-11T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nha-xe-tuyen-quang-binh.jpg"
 tuKhoa: "nhà xe tuyến Quảng Bình"

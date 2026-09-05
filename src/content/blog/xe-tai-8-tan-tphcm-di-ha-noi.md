@@ -2,6 +2,7 @@
 title: "Xe tải chở hàng 8 tấn TPHCM đi Hà Nội: chọn đúng xe, tính đúng chuyến"
 description: "Xe tải chở hàng 8 tấn TPHCM đi Hà Nội cần tính đúng tải trọng, thời gian và tuyến đường. Hướng dẫn chọn xe, ước lượng chuyến và tránh phát sinh khi đi xa."
 ngayDang: 2026-08-31T07:30:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/xe-tai-cho-hang-10-tan-uy-tin.jpg"
 doiTuong: chu-hang

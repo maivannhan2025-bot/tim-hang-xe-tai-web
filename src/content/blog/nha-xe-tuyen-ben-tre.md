@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Bến Tre: một cây dừa ra hai cực, xe nào cũng phải chọn phía"
 description: "Dừa trái đầy tải, chỉ xơ dừa đầy thùng. Vì sao thùng dài quan trọng hơn tải trọng ở nhóm này, và vì sao than gáo dừa phải quyết dứt khoát."
 ngayDang: 2026-09-26T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-ben-tre.jpg"
 tuKhoa: "nhà xe tuyến Bến Tre"

@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Hàng Cho Quán Cafe Và Trà Sữa"
 description: "Chuỗi trà sữa giao hàng theo lịch cố định, nhiều điểm nhỏ, có hàng lạnh. Cách chốt giờ, xếp ba nhóm hàng, và nhóm cuốc này hợp xe nào."
 ngayDang: 2026-12-08T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-hang-quan-cafe-tra-sua.jpg"
 tuKhoa: "chở hàng quán cafe"

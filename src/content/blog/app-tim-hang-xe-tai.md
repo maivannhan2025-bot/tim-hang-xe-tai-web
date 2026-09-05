@@ -2,6 +2,7 @@
 title: "App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng"
 description: "App tìm hàng xe tải giúp chủ xe xem chuyến gần tuyến, liên hệ chủ hàng, nhận chuyến nhanh và bớt chạy rỗng chiều về, chủ động chọn hàng ngay trên điện thoại."
 ngayDang: 2026-08-22T08:10:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 10
 anhDaiDien: "/anh/xe-tai-cho-hang-10-tan-uy-tin.jpg"
 doiTuong: nha-xe

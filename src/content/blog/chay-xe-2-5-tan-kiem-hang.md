@@ -2,6 +2,7 @@
 title: "Chạy Xe 2,5 Tấn Kiếm Hàng: Nhiều Cuốc Nhưng Cũng Đông Xe"
 description: "Chạy xe 2,5 tấn kiếm hàng: vì sao cỡ này nhiều cuốc, bốn nhóm cuốc đáng theo, hàng nào vừa xe, cách tính chi phí một giờ và nên giữ xe hay lên cỡ lớn hơn."
 ngayDang: 2026-12-31T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/chay-xe-2-5-tan-kiem-hang.jpg"
 tuKhoa: "chạy xe 2,5 tấn kiếm hàng"

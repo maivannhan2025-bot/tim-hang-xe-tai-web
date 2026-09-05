@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Huế: hầm Hải Vân quyết định xe mình nhận được hàng gì"
 description: "Hầm Hải Vân 6,28km có quy định riêng về loại hàng. Bảng cỡ xe theo khối, ba nhóm việc trên tuyến, và cách tính chiều về trên chặng 1.100km."
 ngayDang: 2026-09-17T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nha-xe-tuyen-hue-chieu-vao.jpg"
 tuKhoa: "nhà xe tuyến Huế"

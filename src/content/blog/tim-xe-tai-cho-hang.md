@@ -2,6 +2,7 @@
 title: "Tìm Xe Tải Chở Hàng: Cách Nhà Xe Nhận Chuyến Đều 2026"
 description: "Tìm xe tải chở hàng ngày càng dễ khi nhà xe biết cách hiện diện đúng chỗ. Hướng dẫn nhà xe dựng hồ sơ, nhận chuyến đều và giảm chạy rỗng năm 2026."
 ngayDang: 2026-08-30T07:30:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/xe-tai-cho-hang-10-tan-uy-tin.jpg"
 doiTuong: nha-xe

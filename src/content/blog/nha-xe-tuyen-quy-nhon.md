@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Quy Nhơn: đọc bốn con số của cảng để chọn việc"
 description: "Cảng Quy Nhơn xuất 3,8 triệu tấn dăm gỗ mỗi năm. Bốn nguồn hàng gốc của vùng, bảng cỡ xe theo khối, và chỗ dễ tính sai với hàng nông sản."
 ngayDang: 2026-09-18T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-quy-nhon.jpg"
 tuKhoa: "nhà xe tuyến Quy Nhơn"

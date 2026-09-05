@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Bạc Liêu: phần chênh của cước xe lạnh đi đâu mất"
 description: "Bốn chi phí ẩn của xe lạnh, cách báo giá cho đúng, ba việc quyết định lô hàng mà gần như không tốn tiền, và điều nên tính trước khi đầu tư xe lạnh."
 ngayDang: 2026-11-04T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-bac-lieu.jpg"
 tuKhoa: "nhà xe tuyến Bạc Liêu"

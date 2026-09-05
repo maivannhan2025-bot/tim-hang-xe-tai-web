@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Gấp: Chuẩn Bị Sao Để Ăn Được"
 description: "Cuốc gấp thuộc về người trả lời được ngay. Bốn thứ chuẩn bị sẵn, sáu câu hỏi trong cuộc gọi đầu, cách tính có kịp không và cách định giá."
 ngayDang: 2026-12-11T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-gap.jpg"
 tuKhoa: "nhận cuốc gấp"

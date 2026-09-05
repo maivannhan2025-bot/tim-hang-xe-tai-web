@@ -2,6 +2,7 @@
 title: "Chủ Hàng Huỷ Chuyến Phút Chót: Nhà Xe Làm Gì"
 description: "Chủ hàng huỷ chuyến phút chót: bốn lý do hay gặp, ba câu hỏi lọc cuốc lỏng, cách nói chuyện phí huỷ mà không mất khách và cách lấp buổi trống."
 ngayDang: 2026-10-31T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/chu-hang-huy-chuyen-phut-chot.jpg"
 tuKhoa: "chủ hàng huỷ chuyến"

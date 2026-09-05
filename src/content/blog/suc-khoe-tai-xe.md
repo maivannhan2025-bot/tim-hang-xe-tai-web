@@ -2,6 +2,7 @@
 title: "Sức Khoẻ Tài Xế: Ngồi Lâu, Ăn Vội, Ngủ Thiếu"
 description: "Ba thứ nghề lái xe bào mòn và cách giữ: chỉnh ghế và nghỉ mỗi hai giờ, ăn uống trên đường, giấc ngủ, và mấy dấu hiệu nên đi khám sớm."
 ngayDang: 2026-11-22T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/suc-khoe-tai-xe.jpg"
 tuKhoa: "sức khoẻ tài xế xe tải"

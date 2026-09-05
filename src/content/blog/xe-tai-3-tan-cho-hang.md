@@ -2,6 +2,7 @@
 title: "Xe tải 3 tấn chở hàng: cỡ xe dễ sống nhất hay dễ kẹt nhất"
 description: "Xe tải 3 tấn chở hàng là cỡ đông xe nhất nên dễ bị so giá. Cách chọn cỡ xe theo nguồn việc và theo tỷ trọng hàng, kèm quy định tải trọng trục."
 ngayDang: 2026-11-11T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-tai-3-tan-cho-hang.jpg"
 tuKhoa: "xe tải 3 tấn"

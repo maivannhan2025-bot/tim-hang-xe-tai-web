@@ -2,6 +2,7 @@
 title: "Nhà xe miền Bắc đi TPHCM: gom hàng chiều về thế nào"
 description: "Nhà xe miền Bắc đi TPHCM: cái bán ở chiều về không phải giá rẻ mà là một lịch chuyến rõ ràng. Ba cách lo hàng chiều về và bốn việc làm trước khi ra tới nơi."
 ngayDang: 2026-11-23T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-mien-bac-di-tphcm.jpg"
 tuKhoa: "nhà xe miền Bắc đi TPHCM"

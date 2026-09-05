@@ -2,6 +2,7 @@
 title: "Xe tải chở đồ chuyển nhà: vì sao báo giá theo chuyến là lỗ"
 description: "Chuyển nhà tính bằng khối cộng công người, không tính bằng chuyến. Ba câu khảo sát quyết định lãi lỗ, nhóm đồ gây tranh chấp nhiều nhất và cách tránh."
 ngayDang: 2026-11-05T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-tai-cho-do-chuyen-nha.jpg"
 tuKhoa: "xe tải chở đồ chuyển nhà"

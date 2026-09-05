@@ -2,6 +2,7 @@
 title: "Lốp Xe Tải: Thay Khi Nào Cho Đỡ Tốn"
 description: "Ba cách biết lốp đã tới lúc thay, mòn lệch nói lên xe đang hỏng chỗ nào, mốc đảo lốp và cách tính chi phí lốp vào giá thành chuyến."
 ngayDang: 2026-10-09T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/lop-xe-tai-thay-khi-nao.jpg"
 tuKhoa: "lốp xe tải"

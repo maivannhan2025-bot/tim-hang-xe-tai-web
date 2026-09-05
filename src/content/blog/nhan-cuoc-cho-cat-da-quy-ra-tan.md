@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Cát Đá: Quy Ra Tấn Trước Khi Báo Giá"
 description: "Khách nói khối, anh chở theo tấn. Phép nhân trước khi báo giá, chừa dư bao nhiêu, và bẫy tải trọng trục của hàng rời."
 ngayDang: 2026-09-10T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/nhan-cuoc-cho-cat-da-nha-xe.jpg"
 tuKhoa: "chở cát đá"

@@ -2,6 +2,7 @@
 title: "Dịch vụ vận chuyển hàng hóa: chọn đúng xe, giao an toàn 2026"
 description: "Dịch vụ vận chuyển hàng hóa uy tín giúp hàng đi đúng giờ, an toàn. Hướng dẫn chọn xe hợp và cách kiểm hàng khi giao nhận để tránh mất mát, hư hỏng dọc đường."
 ngayDang: 2026-08-29T20:30:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 10
 anhDaiDien: "/anh/xe-tai-cho-container-24-tan-di-khap-ca-nuoc.jpg"
 doiTuong: chu-hang

@@ -2,6 +2,7 @@
 title: "Tìm Hàng Xe Tải: Cách Nhận Chuyến Đều Cho Nhà Xe 2026"
 description: "Hướng dẫn tìm hàng xe tải hiệu quả cho nhà xe: kênh kết nối chủ hàng, cách lập hồ sơ xe và mẹo nhận chuyến đều mỗi ngày, giảm chạy rỗng."
 ngayDang: 2026-09-03T08:05:00+07:00
+ngayCapNhat: 2026-09-03T09:00:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/xe-tai-cho-hang-10-tan-uy-tin.jpg"
 doiTuong: nha-xe

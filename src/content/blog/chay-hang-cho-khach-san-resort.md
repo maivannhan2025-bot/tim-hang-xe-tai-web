@@ -2,6 +2,7 @@
 title: "Chạy Hàng Cho Khách Sạn Và Resort: Giờ Và Lối Vào"
 description: "Nhà xe nhận mối khách sạn và resort: bốn nhóm hàng, cổng và khung giờ phải hỏi trước, tác phong, cách lấp chiều về và cỡ xe hợp."
 ngayDang: 2026-11-17T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/chay-hang-cho-khach-san-resort.jpg"
 tuKhoa: "chạy hàng cho khách sạn"

@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Lai Châu: hàng lẻ vùng cao phải tính bằng công thức khác"
 description: "Báo giá hàng lẻ theo cây số là sai từ gốc. Bảng so hai công thức, vì sao mật độ đơn là thứ phải xây, và ba dòng hàng chiều về ít ai tính."
 ngayDang: 2026-11-02T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/nha-xe-tuyen-lai-chau.jpg"
 tuKhoa: "nhà xe tuyến Lai Châu"

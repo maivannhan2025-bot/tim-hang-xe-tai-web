@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Hải Dương: nhóm hàng mà che kín là làm hỏng"
 description: "Hàng củ hỏng vì hơi của chính nó chứ không vì thời tiết. Cách xếp có khe thoáng, chọn QL5 hay cao tốc theo loại hàng, và điều nên nói thẳng với chủ hàng."
 ngayDang: 2026-10-22T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/nha-xe-tuyen-hai-duong.jpg"
 tuKhoa: "nhà xe tuyến Hải Dương"

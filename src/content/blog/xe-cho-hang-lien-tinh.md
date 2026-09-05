@@ -2,6 +2,7 @@
 title: "Xe chở hàng liên tỉnh: giấy tờ bắt buộc để nhận hàng"
 description: "Xe chở hàng liên tỉnh cần giấy phép kinh doanh vận tải, phù hiệu và giám sát hành trình. Bộ giấy tờ đó là tấm vé vào nhóm khách công ty trả cao."
 ngayDang: 2026-11-15T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-cho-hang-lien-tinh.jpg"
 tuKhoa: "xe chở hàng liên tỉnh"

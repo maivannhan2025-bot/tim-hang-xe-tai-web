@@ -2,6 +2,7 @@
 title: "Nhà xe đi Tây Nguyên: một năm hai nhịp, sắp thế nào"
 description: "Nhà xe đi Tây Nguyên: mùa cà phê tháng 10 tới tháng 1 làm chiều nào là chiều ngon thay đổi theo mùa. Cách sắp hai nhịp và cỡ xe hợp tuyến đèo."
 ngayDang: 2026-11-21T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nha-xe-di-tay-nguyen.jpg"
 tuKhoa: "nhà xe đi Tây Nguyên"

@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Ninh Bình: chạy vật liệu thì đừng tính chi phí theo cây số"
 description: "Xe chở xi măng luôn chạm tải mà thùng còn trống, nên chi phí thật nằm ở lốp nhíp phanh chứ không ở dầu. Cách tính theo tấn-km và cách kiếm thêm từ phần thùng trống."
 ngayDang: 2026-10-20T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-ninh-binh.jpg"
 tuKhoa: "nhà xe tuyến Ninh Bình"

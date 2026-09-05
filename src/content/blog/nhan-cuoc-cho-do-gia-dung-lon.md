@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Điện Máy: Tiền Nằm Ở Bậc Thang"
 description: "Cuốc điện máy quãng ngắn, hàng nhẹ, nhưng đưa lên lầu mới là phần ăn tiền. Cách đòi số đo, chở đứng, và nhóm này hợp xe nào."
 ngayDang: 2026-12-23T06:00:00+07:00
+ngayCapNhat: 2026-09-04T22:53:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-do-gia-dung-lon.jpg"
 tuKhoa: "chở điện máy"

@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Kon Tum: một cửa khẩu ăn được hai nước, nhưng đóng lúc 19h30"
 description: "Bờ Y nối cả Lào lẫn Campuchia, lợi thế không cửa khẩu nào khác có. Nhưng giờ đóng là cứng, và mỗi hướng đòi giấy tờ riêng."
 ngayDang: 2026-10-02T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-kon-tum.jpg"
 tuKhoa: "nhà xe tuyến Kon Tum"

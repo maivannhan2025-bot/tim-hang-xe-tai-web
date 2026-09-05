@@ -2,6 +2,7 @@
 title: "Phí Đường Bộ Và Thu Phí Không Dừng: Nhà Xe Tính Vào Giá Sao"
 description: "Phí đường bộ và thu phí không dừng: ba khoản phí khác nhau, cách tự lập bảng phí theo tuyến, giữ nếp với thẻ thu phí và đưa khoản này vào giá cho đúng."
 ngayDang: 2026-12-21T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/phi-duong-bo-thu-phi-khong-dung.jpg"
 tuKhoa: "phí đường bộ xe tải"

@@ -2,6 +2,7 @@
 title: "Đối Chiếu Công Nợ Cuối Tháng: Nhà Xe Ghi Sổ Sao Cho Khỏi Lệch"
 description: "Cuối tháng số hai bên lệch nhau vì đâu, cách ghi sổ trong ngày, quy trình đối chiếu sáu bước và mốc thời gian trong tháng cho nhà xe chạy hàng."
 ngayDang: 2026-12-19T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/doi-chieu-cong-no-cuoi-thang.jpg"
 tuKhoa: "đối chiếu công nợ cuối tháng"

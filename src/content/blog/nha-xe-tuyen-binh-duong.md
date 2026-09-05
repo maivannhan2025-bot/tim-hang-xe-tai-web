@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến khu công nghiệp Bình Dương: chạy mấy chuyến một ngày"
 description: "Tuyến khu công nghiệp Bình Dương 20-35km nhưng phần lớn thời gian là chờ. Cách sắp để chạy 2-3 chuyến một ngày và chọn đúng cỡ xe."
 ngayDang: 2026-09-13T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-binh-duong.jpg"
 tuKhoa: "nhà xe tuyến Bình Dương"

@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Sơn La: hàng lỏng đổi cả cách lái xe"
 description: "QL6 dài 305 km mà chạy hơn 6 tiếng. Hàng lỏng làm quãng dừng dài hơn nên phải phanh sớm hơn. Thùng vơi nguy hiểm hơn thùng đầy, và nhóm can phuy ít ai tranh."
 ngayDang: 2026-10-24T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-son-la.jpg"
 tuKhoa: "nhà xe tuyến Sơn La"

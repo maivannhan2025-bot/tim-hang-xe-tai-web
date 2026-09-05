@@ -2,6 +2,7 @@
 title: "Thuê Xe Tải Chở Hàng Giá Tốt 2026: Đăng Chuyến Nhận Báo Giá Ngay"
 description: "Thuê xe tải chở hàng nhanh, đúng loại xe, không lo hớ giá. Đăng chuyến trên timhangxetai.com để nhiều nhà xe báo giá, so sánh rồi chọn xe uy tín ngay."
 ngayDang: 2026-08-22T09:10:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/dich-vu-xe-tai-lon-15-tan-tan-noi.jpg"
 doiTuong: chu-hang

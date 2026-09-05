@@ -2,6 +2,7 @@
 title: "Tài xế tìm việc lái xe tải: cách có chuyến đều mỗi tuần 2026"
 description: "Tài xế tìm việc lái xe tải chủ động hơn nhờ nền tảng kết nối chủ hàng. Hướng dẫn làm hồ sơ tài xế, chọn chuyến hợp tuyến và giữ khách quay lại đều đặn."
 ngayDang: 2026-08-29T08:20:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/thue-xe-van-chuyen-hang-hoa-tai-toan-quoc.jpg"
 doiTuong: nha-xe

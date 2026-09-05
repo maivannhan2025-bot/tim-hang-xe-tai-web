@@ -2,6 +2,7 @@
 title: "Thuê Xe Chở Đồ Chuyển Nhà Gọn Nhẹ, An Toàn, Tiết Kiệm 2026"
 description: "Kinh nghiệm thuê xe chở đồ chuyển nhà gọn nhẹ và an toàn. Checklist 3 ngày trước khi dọn, cách đóng gói đồ dễ vỡ và mẹo tiết kiệm khi đặt xe qua app."
 ngayDang: 2026-09-01T09:05:00+07:00
+ngayCapNhat: 2026-09-01T08:40:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/dich-vu-xe-tai-nho-uy-tin-tai-ca-nuoc.jpg"
 doiTuong: chu-hang

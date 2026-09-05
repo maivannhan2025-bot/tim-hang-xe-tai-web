@@ -2,6 +2,7 @@
 title: "Tài Xế Xe Tải Cần Kỹ Năng Gì Ngoài Bằng Lái"
 description: "Bốn kỹ năng khách nhận ra ngay, ba thứ nên dạy tuần đầu, kiểm xe năm phút mỗi ngày và cách giữ tài xế."
 ngayDang: 2026-09-26T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/tai-xe-xe-tai-ky-nang.jpg"
 tuKhoa: "tài xế xe tải"

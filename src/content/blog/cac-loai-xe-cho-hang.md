@@ -2,6 +2,7 @@
 title: "Các loại xe chở hàng: chọn loại nào cho năm năm tới"
 description: "Các loại xe chở hàng đang bị siết theo chuẩn khí thải chứ không theo nhiên liệu. Ba câu hỏi trước khi mua xe mới, và nghề chặng cuối đang mở ra."
 ngayDang: 2026-11-17T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/cac-loai-xe-cho-hang.jpg"
 tuKhoa: "các loại xe chở hàng"

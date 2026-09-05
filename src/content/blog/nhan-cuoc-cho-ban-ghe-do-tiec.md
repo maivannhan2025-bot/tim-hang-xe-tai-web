@@ -2,6 +2,7 @@
 title: "Nhận Cuốc Chở Bàn Ghế Và Đồ Cho Thuê Tiệc"
 description: "Một tiệc là hai lượt xe cộng khoảng chờ ở giữa. Cách xếp ghế và bàn, cách đếm cho khỏi thiếu, ba cách tính giá và cỡ xe theo quy mô tiệc."
 ngayDang: 2026-12-04T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-ban-ghe-do-tiec.jpg"
 tuKhoa: "chở bàn ghế đám tiệc"

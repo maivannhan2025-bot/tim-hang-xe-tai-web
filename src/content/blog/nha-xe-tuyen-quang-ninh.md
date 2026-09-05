@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Quảng Ninh: chọn phe sớm, xe than hay xe sạch"
 description: "Bụi than bám thùng không sạch hẳn được nên phải chọn dứt khoát. Được mất của từng phe, và vì sao chặng Hạ Long đi Hà Nội 1,5 tiếng là con số đáng nhìn."
 ngayDang: 2026-09-28T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 6
 anhDaiDien: "/anh/nha-xe-tuyen-quang-ninh.jpg"
 tuKhoa: "nhà xe tuyến Quảng Ninh"

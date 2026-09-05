@@ -2,6 +2,7 @@
 title: "Nguồn Hàng Xe Tải Ổn Định: Cách Tìm Và Giữ Chân 2026"
 description: "Hướng dẫn chủ xe xây nguồn hàng xe tải ổn định, phân biệt hàng thật hàng ảo và cách giữ mối chạy đều quanh năm để xe không nằm bãi."
 ngayDang: 2026-09-02T08:10:00+07:00
+ngayCapNhat: 2026-09-02T09:00:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/xe-tai-cho-hang-100.jpg"
 doiTuong: nha-xe

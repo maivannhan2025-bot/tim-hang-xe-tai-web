@@ -2,6 +2,7 @@
 title: "Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá"
 description: "Giới hạn trục mới từ 1/7/2026, cách xếp hàng khỏi dính phạt, loại hàng nào đáng chạy và cách tính lại giá cuốc cho đúng."
 ngayDang: 2026-09-06T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/chay-xe-tai-20-tan-nha-xe.jpg"
 tuKhoa: "xe tải 20 tấn"

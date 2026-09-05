@@ -2,6 +2,7 @@
 title: "Nâng Hạng Bằng Lái Xe Tải: Đếm Hàng Trước, Ghi Danh Sau"
 description: "Nâng hạng bằng lái xe tải có đáng không: kiểm nguồn hàng cho cỡ xe lớn, hỏi gì ở cơ sở đào tạo, sắp lịch học mà vẫn chạy và ba tháng đầu nên làm gì."
 ngayDang: 2026-12-22T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nang-hang-bang-lai-xe-tai.jpg"
 tuKhoa: "nâng hạng bằng lái xe tải"

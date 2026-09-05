@@ -2,6 +2,7 @@
 title: "Dán Số Điện Thoại Lên Thùng Xe: Có Ăn Thua Không"
 description: "Dán số điện thoại và tên lên thùng xe tải: dán gì thì có người gọi, chữ to tới mức nào, cỡ xe nào dán hiệu quả và cách đo xem có tác dụng thật không."
 ngayDang: 2026-11-03T06:00:00+07:00
+ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/dan-so-dien-thoai-len-thung-xe.jpg"
 tuKhoa: "dán số điện thoại lên xe tải"

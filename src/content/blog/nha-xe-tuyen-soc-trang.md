@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Sóc Trăng: nhiều xe chạy qua nhưng ít xe đóng đô"
 description: "Xe tỉnh khác chạy ngang ép giá hàng lẻ, nên nhà xe địa phương phải tìm ba phần họ không lấy được. Và nghề gom ra điểm đón cho chuyến ngang."
 ngayDang: 2026-10-03T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-soc-trang.jpg"
 tuKhoa: "nhà xe tuyến Sóc Trăng"

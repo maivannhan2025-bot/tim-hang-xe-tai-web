@@ -2,6 +2,7 @@
 title: "Vận chuyển hàng hoá cần giấy tờ gì"
 description: "Giấy tờ vận chuyển hàng hoá cần chuẩn bị gì trước mỗi chuyến, ai lo phần nào và cách tránh bị chặn xe giữa đường vì thiếu chứng từ."
 ngayDang: 2026-08-17T11:30:00+07:00
+ngayCapNhat: 2026-08-30T16:38:00+07:00
 thoiGianDoc: 4
 anhDaiDien: "/anh/xe-tai-cho-hang-10-tan-uy-tin.jpg"
 doiTuong: ca-hai

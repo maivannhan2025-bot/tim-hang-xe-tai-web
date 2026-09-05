@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Lạng Sơn: ba cửa khẩu là ba nghề khác nhau"
 description: "Hữu Nghị, Tân Thanh, Chi Ma là ba thị trường tách biệt với ba nhịp làm việc. Ba lớp việc trên tuyến, và vì sao cao tốc chưa nối tới biên giới lại là lợi thế hiện nay."
 ngayDang: 2026-10-08T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-lang-son.jpg"
 tuKhoa: "nhà xe tuyến Lạng Sơn"

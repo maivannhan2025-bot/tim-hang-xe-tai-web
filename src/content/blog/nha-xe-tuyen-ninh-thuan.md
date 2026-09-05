@@ -2,6 +2,7 @@
 title: "Nhà xe tuyến Ninh Thuận: chở muối là quyết định cả đời chiếc xe"
 description: "Muối ăn mòn kim loại nên nhận là mất luôn nhóm hàng sạch. Đầu bên kia là tấm pin và cấu kiện điện gió, hai nhóm ngược hẳn về cách xếp."
 ngayDang: 2026-10-06T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-ninh-thuan.jpg"
 tuKhoa: "nhà xe tuyến Ninh Thuận"

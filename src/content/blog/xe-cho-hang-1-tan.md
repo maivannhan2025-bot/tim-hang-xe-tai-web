@@ -2,6 +2,7 @@
 title: "Xe chở hàng 1 tấn: mốc 3,5 tấn đổi cả thị trường thế nào"
 description: "Xe chở hàng 1 tấn nằm ở dải ai cũng vào được vì bằng hạng B lái tới 3,5 tấn. Có nên học C1, và ở lại dải này thì thắng bằng gì."
 ngayDang: 2026-11-13T03:00:00+07:00
+ngayCapNhat: 2026-09-04T12:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/xe-cho-hang-1-tan.jpg"
 tuKhoa: "xe chở hàng 1 tấn"
