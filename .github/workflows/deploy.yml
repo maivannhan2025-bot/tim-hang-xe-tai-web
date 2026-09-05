@@ -16,7 +16,10 @@ jobs:
       contents: read
       deployments: write
     steps:
+      # fetch-depth: 0 = lấy đủ lịch sử, để web đọc được "lúc sửa gần nhất" của từng bài từ Git.
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 20

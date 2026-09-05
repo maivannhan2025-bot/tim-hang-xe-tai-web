@@ -1,6 +1,7 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
 import { getCollection, render } from 'astro:content';
+import { ngayGioVN, ngayVN, isoVN, coGio, duongDanBai, lucSuaGanNhat } from '../../../lib/ngay';
 
 export async function getStaticPaths() {
   const now = Date.now();
@@ -14,10 +15,18 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const slug = post.id.replace(/\.md$/, '');
 const { Content } = await render(post);
-const ngay = post.data.ngayDang.toLocaleDateString('vi-VN', { day: '2-digit', month: '2-digit', year: 'numeric' });
+// Ngày giờ ĐĂNG + lúc SỬA GẦN NHẤT, luôn in theo giờ Việt Nam (máy dựng web chạy giờ UTC).
+const dNgayDang = post.data.ngayDang;
+const dNgaySua = post.data.ngayCapNhat ?? lucSuaGanNhat(duongDanBai(post));
+const ngay = coGio(dNgayDang) ? ngayGioVN(dNgayDang) : ngayVN(dNgayDang);
+const ngayISO = isoVN(dNgayDang);
+// Chỉ hiện "Cập nhật" khi bài được sửa SAU khi đăng (chênh trên 1 phút).
+const coSua = !!(dNgaySua && dNgaySua.valueOf() - dNgayDang.valueOf() > 60000);
+const ngaySuaISO = dNgaySua ? isoVN(dNgaySua) : undefined;
+const chuNgaySua = coSua && dNgaySua ? ngayGioVN(dNgaySua) : '';
 const nhan = post.data.doiTuong === 'chu-hang' ? 'Dành cho chủ hàng' : post.data.doiTuong === 'nha-xe' ? 'Dành cho nhà xe' : 'Dành cho tất cả';
 ---
-<Layout title={post.data.title} description={post.data.description} path={`/blog/${slug}/`} image={post.data.anhDaiDien}>
+<Layout title={post.data.title} description={post.data.description} path={`/blog/${slug}/`} image={post.data.anhDaiDien} ngayDangISO={ngayISO} ngaySuaISO={ngaySuaISO}>
 
 <header class="site-head">
   <div class="wrap bar">
@@ -33,7 +42,11 @@ const nhan = post.data.doiTuong === 'chu-hang' ? 'Dành cho chủ hàng' : post.
   <article>
     <span class="cat">{nhan}</span>
     <h1>{post.data.title}</h1>
-    <div class="meta">{ngay}{post.data.thoiGianDoc ? ` · Đọc khoảng ${post.data.thoiGianDoc} phút` : ''}</div>
+    <div class="meta">
+      Đăng <time datetime={ngayISO}>{ngay}</time>
+      {coSua && <> · Cập nhật <time datetime={ngaySuaISO}>{chuNgaySua}</time></>}
+      {post.data.thoiGianDoc ? ` · Đọc khoảng ${post.data.thoiGianDoc} phút` : ''}
+    </div>
     <div class="body">
       <Content />
     </div>

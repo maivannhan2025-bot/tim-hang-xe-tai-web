@@ -1,7 +1,9 @@
 ---
 import chung from '../data/chung.json';
 
-const { title, description, path = '/', image } = Astro.props;
+// ngayDangISO / ngaySuaISO: trang bài blog truyền vào để khai báo ngày giờ đăng và
+// ngày giờ sửa gần nhất cho Google, Zalo, Facebook. Trang thường thì bỏ trống.
+const { title, description, path = '/', image, ngayDangISO, ngaySuaISO } = Astro.props;
 const siteUrl = 'https://timhangxetai.com';
 const fullTitle = title || 'Tìm Hàng Xe Tải — Sàn kết nối chủ hàng và nhà xe tải toàn quốc';
 const fullDesc = description || 'Chủ hàng đăng chuyến, nhà xe báo giá và nhận đơn — hai bên tự thoả thuận, tự thanh toán trực tiếp. Miễn phí cho chủ hàng, trải nghiệm ngay với đơn hàng thật.';
@@ -42,6 +44,21 @@ const ogImage = siteUrl + (image || '/anh/6.png');
 <meta name="twitter:title" content={fullTitle}>
 <meta name="twitter:description" content={fullDesc}>
 <meta name="twitter:image" content={ogImage}>
+{ngayDangISO && <meta property="article:published_time" content={ngayDangISO} />}
+{ngaySuaISO && <meta property="article:modified_time" content={ngaySuaISO} />}
+{ngayDangISO && (
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: fullTitle,
+    description: fullDesc,
+    image: ogImage,
+    datePublished: ngayDangISO,
+    dateModified: ngaySuaISO || ngayDangISO,
+    publisher: { '@type': 'Organization', name: 'Tìm Hàng Xe Tải', url: siteUrl },
+    mainEntityOfPage: siteUrl + path,
+  })} />
+)}
 <script type="application/ld+json" set:html={JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'Organization',
