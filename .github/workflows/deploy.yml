@@ -28,3 +28,27 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: e9e88ac586803b53ffff66350dd0e375
           command: pages deploy dist --project-name=tim-hang-xe-tai-web
+
+      # Báo cho Bing/Yandex... biết web vừa có bài mới, để họ mò lại sớm hơn
+      # (IndexNow — không phục vụ Google, Google đi theo sitemap + Search Console).
+      # Khoá này vốn phải công khai qua file .txt nên để thẳng đây, không phải bí mật.
+      # Astro sinh sitemap-index.xml + sitemap-0.xml (không có sitemap.xml) nên đọc gộp
+      # tất cả file sitemap-*.xml, trừ file index.
+      - name: Báo IndexNow (Bing/Yandex)
+        run: |
+          node -e "
+            const fs = require('fs');
+            const KEY = 'e876b328ebf50b9edea4ecb671cfbf34ec7fa119';
+            const HOST = 'timhangxetai.com';
+            const files = fs.readdirSync('dist').filter(f => /^sitemap-\d+\.xml\$/.test(f));
+            const urls = [...new Set(files.flatMap(f =>
+              [...fs.readFileSync('dist/' + f, 'utf8').matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1])
+            ))];
+            if (!urls.length) { console.log('Khong doc duoc URL nao trong dist/sitemap-*.xml - bo qua'); process.exit(0); }
+            fetch('https://api.indexnow.org/indexnow', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json; charset=utf-8' },
+              body: JSON.stringify({ host: HOST, key: KEY, keyLocation: 'https://' + HOST + '/' + KEY + '.txt', urlList: urls }),
+            }).then(r => console.log('IndexNow trả về status:', r.status, '- số URL đã gửi:', urls.length))
+              .catch(e => console.log('IndexNow lỗi (bỏ qua, không chặn deploy):', e.message));
+          "
