@@ -298,6 +298,7 @@ function buildMd(fm, body) {
   if (fm.thoiGianDoc) out += 'thoiGianDoc: ' + fm.thoiGianDoc + '\n';
   if (fm.anhDaiDien) out += 'anhDaiDien: ' + JSON.stringify(fm.anhDaiDien) + '\n';
   if (fm.tuKhoa) out += 'tuKhoa: ' + JSON.stringify(fm.tuKhoa) + '\n';
+  if (fm.ngayCapNhat) out += 'ngayCapNhat: ' + fm.ngayCapNhat + '\n';   // lúc sửa gần nhất (giờ VN)
   out += '---\n\n' + (body||'');
   return out;
 }
@@ -443,9 +444,13 @@ async function renderBlogList() {
     document.getElementById('bl').innerHTML = items.map(it => {
       const img = it.fm.anhDaiDien ? CFG.site + it.fm.anhDaiDien : '';
       const isScheduled = it.fm.ngayDang && it.fm.ngayDang > today;
-      const dateLabel = !it.fm.ngayDang ? '' : isScheduled
-        ? `<span style="color:var(--ok);font-weight:800">📅 Lên lịch ${esc(it.fm.ngayDang)}</span>`
-        : `<span>Ngày đăng ${esc(it.fm.ngayDang)}</span>`;
+      // Lúc sửa gần nhất (ghi trong bài). Chưa có thì thôi, không bịa.
+      const suaLabel = it.fm.ngayCapNhat
+        ? ` · <span style="color:var(--muted)">✏️ Sửa lúc ${esc(ngayGioGon(it.fm.ngayCapNhat))}</span>`
+        : '';
+      const dateLabel = (!it.fm.ngayDang ? '' : isScheduled
+        ? `<span style="color:var(--ok);font-weight:800">📅 Lên lịch ${esc(ngayGioGon(it.fm.ngayDang))}</span>`
+        : `<span>Ngày đăng ${esc(ngayGioGon(it.fm.ngayDang))}</span>`) + suaLabel;
       return `<div class="list-item">
         ${img ? `<img src="${esc(img)}" onerror="this.style.visibility='hidden'">` : `<img src="" style="visibility:hidden">`}
         <div><div class="t">${esc(it.fm.title || it.name)}</div><div class="d">${dateLabel}${dateLabel ? ' — ' : ''}${esc((it.fm.description||'').slice(0,70))}</div></div>
@@ -460,6 +465,21 @@ async function renderBlogList() {
 
 // ngayDang luu dang "2026-08-17" hoac "2026-08-17T07:30:00+07:00" (gio VN) -> doi qua/lai voi
 // input type="datetime-local" (can dang "YYYY-MM-DDTHH:mm", khong duoc co giay/mui gio).
+// "2026-09-07T14:30:00+07:00" -> "07/09/2026 14:30" ; "2026-09-07" -> "07/09/2026"
+function ngayGioGon(nd) {
+  const m = String(nd || '').match(/^(\d{4})-(\d{2})-(\d{2})(?:[T ](\d{2}):(\d{2}))?/);
+  if (!m) return '';
+  return m[3] + '/' + m[2] + '/' + m[1] + (m[4] ? ' ' + m[4] + ':' + m[5] : '');
+}
+// Thời điểm HIỆN TẠI theo giờ Việt Nam, dạng "2026-09-07T14:30:00+07:00".
+function bayGioVN() {
+  const p = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Ho_Chi_Minh', year: 'numeric',
+    month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hour12: false, hourCycle: 'h23' })
+    .formatToParts(new Date());
+  const g = (t) => (p.find((x) => x.type === t) || {}).value || '';
+  const gio = g('hour') === '24' ? '00' : g('hour');
+  return g('year') + '-' + g('month') + '-' + g('day') + 'T' + gio + ':' + g('minute') + ':00+07:00';
+}
 function ngayDangToInput(nd) {
   const m = String(nd || '').match(/^(\d{4}-\d{2}-\d{2})(?:[T ](\d{2}:\d{2}))?/);
   if (!m) return '';
@@ -586,7 +606,8 @@ async function renderBlogEdit(nameEnc) {
     let ngay;
     if(mode==='publish'){ ngay=today; }                        // Đăng ngay = hôm nay
     else { ngay=inputToNgayDang($('f_date').value)||today; }   // Lên lịch = dùng đúng ngày giờ trong ô "Ngày giờ đăng"
-    const nfm={ title, description:$('f_desc').value.trim(), ngayDang:ngay, thoiGianDoc:$('f_read').value.trim(), anhDaiDien:$('f_img').value.trim(), tuKhoa:$('f_kw').value.trim() };
+    // Sửa bài đã có -> đóng dấu "lúc sửa gần nhất". Bài mới thì chưa sửa lần nào, để trống.
+    const nfm={ title, description:$('f_desc').value.trim(), ngayDang:ngay, thoiGianDoc:$('f_read').value.trim(), anhDaiDien:$('f_img').value.trim(), tuKhoa:$('f_kw').value.trim(), ngayCapNhat: isNew ? '' : bayGioVN() };
     const md=buildMd(nfm, getContent());
     let path;
     if(isNew){ fileName = slugify(title)+'.md'; path='src/content/blog/'+fileName; }
