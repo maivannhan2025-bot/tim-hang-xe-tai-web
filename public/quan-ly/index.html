@@ -506,7 +506,8 @@ async function renderBlogEdit(nameEnc) {
   app.innerHTML = topBar('blog') + `<div class="wrap">
     <div class="toolbar">
       <button class="btn ghost" onclick="route('blogList')">← Danh sách</button>
-      <button class="btn" id="publish" style="background:var(--good)">✅ Đăng ngay</button>
+      ${isNew ? '' : '<button class="btn" id="save" style="background:var(--good)">💾 Lưu</button>'}
+      <button class="btn${isNew ? '' : ' ghost'}" id="publish"${isNew ? ' style="background:var(--good)"' : ''}>✅ Đăng ngay</button>
       <button class="btn ghost" id="schedule">📅 Lên lịch</button>
       ${isNew ? '' : '<button class="btn danger" id="del">🗑️ Xoá bài</button>'}
     </div>
@@ -516,7 +517,7 @@ async function renderBlogEdit(nameEnc) {
         <div class="field"><label>Tiêu đề bài <span class="hint">(nên có từ khoá)</span></label><input id="f_title" value="${esc(fm.title)}"></div>
         <div class="field"><label>Mô tả ngắn (hiện trên Google) <span class="hint">120–160 ký tự</span></label><textarea id="f_desc" rows="2">${esc(fm.description)}</textarea></div>
         <div class="field" style="display:flex;gap:14px;flex-wrap:wrap">
-          <div style="flex:1;min-width:200px"><label>Ngày giờ đăng <span class="hint">(giờ Việt Nam — bấm "Lên lịch" là dùng đúng ngày giờ này)</span></label><input id="f_date" type="datetime-local" value="${esc(ngayDangToInput(fm.ngayDang))}"></div>
+          <div style="flex:1;min-width:200px"><label>Ngày giờ đăng <span class="hint">(giờ Việt Nam — bấm "Lên lịch" mới dùng ô này; bấm "Lưu" thì giữ nguyên ngày cũ)</span></label><input id="f_date" type="datetime-local" value="${esc(ngayDangToInput(fm.ngayDang))}"></div>
           <div style="width:150px"><label>Phút đọc</label><input id="f_read" type="number" value="${esc(fm.thoiGianDoc)}"></div>
         </div>
         <div class="field"><label>Ảnh đại diện</label>
@@ -604,7 +605,8 @@ async function renderBlogEdit(nameEnc) {
     const today=new Date().toISOString().slice(0,10);
     // Đăng ngay = ngày HÔM NAY (hiện liền, không cần giờ). Lên lịch = dùng đúng ngày GIỜ trong ô (chọn tương lai để hẹn).
     let ngay;
-    if(mode==='publish'){ ngay=today; }                        // Đăng ngay = hôm nay
+    if(mode==='save'){ ngay=fm.ngayDang||inputToNgayDang($('f_date').value)||today; } // Lưu = GIỮ NGUYÊN ngày đăng cũ
+    else if(mode==='publish'){ ngay=today; }                   // Đăng ngay = hôm nay
     else { ngay=inputToNgayDang($('f_date').value)||today; }   // Lên lịch = dùng đúng ngày giờ trong ô "Ngày giờ đăng"
     // Sửa bài đã có -> đóng dấu "lúc sửa gần nhất". Bài mới thì chưa sửa lần nào, để trống.
     const nfm={ title, description:$('f_desc').value.trim(), ngayDang:ngay, thoiGianDoc:$('f_read').value.trim(), anhDaiDien:$('f_img').value.trim(), tuKhoa:$('f_kw').value.trim(), ngayCapNhat: isNew ? '' : bayGioVN() };
@@ -612,14 +614,19 @@ async function renderBlogEdit(nameEnc) {
     let path;
     if(isNew){ fileName = slugify(title)+'.md'; path='src/content/blog/'+fileName; }
     else path='src/content/blog/'+fileName;
-    const pubBtn=$('publish'), schBtn=$('schedule'), busy=(mode==='publish'?pubBtn:schBtn), old=busy.innerHTML;
-    busy.innerHTML='<span class="spin"></span> Đang lưu…'; pubBtn.disabled=true; schBtn.disabled=true;
+    const pubBtn=$('publish'), schBtn=$('schedule'), savBtn=$('save');
+    const busy=(mode==='save'&&savBtn)?savBtn:(mode==='publish'?pubBtn:schBtn), old=busy.innerHTML;
+    busy.innerHTML='<span class="spin"></span> Đang lưu…';
+    pubBtn.disabled=true; schBtn.disabled=true; if(savBtn) savBtn.disabled=true;
     try {
       await ghPut(path, () => ({ message:(isNew?'Viết bài: ':'Sửa bài: ')+title, content:b64enc(md) }));
-      toast(mode==='schedule' && ngay>today ? ('✅ Đã lên lịch đăng vào '+ngay+'! Bài tự hiện đúng ngày đó.') : '✅ Đã đăng! Web cập nhật sau ~1 phút.');
+      toast(mode==='save' ? '✅ Đã lưu! Giữ nguyên ngày đăng cũ, web cập nhật sau ~1 phút.'
+        : (mode==='schedule' && ngay>today ? ('✅ Đã lên lịch đăng vào '+ngayGioGon(ngay)+'! Bài tự hiện đúng lúc đó.')
+        : '✅ Đã đăng! Web cập nhật sau ~1 phút.'));
       setTimeout(()=>route('blogList'),1300);
-    } catch(e){ toast('❌ '+esc(e.message)); busy.innerHTML=old; pubBtn.disabled=false; schBtn.disabled=false; }
+    } catch(e){ toast('❌ '+esc(e.message)); busy.innerHTML=old; pubBtn.disabled=false; schBtn.disabled=false; if(savBtn) savBtn.disabled=false; }
   }
+  if($('save')) $('save').addEventListener('click',()=>saveBlog('save'));
   $('publish').addEventListener('click',()=>saveBlog('publish'));
   $('schedule').addEventListener('click',()=>saveBlog('schedule'));
 
