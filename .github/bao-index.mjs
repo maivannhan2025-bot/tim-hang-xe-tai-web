@@ -21,7 +21,10 @@ const CH = {
   HOST: 'timhangxetai.com',
   KEY: 'e876b328ebf50b9edea4ecb671cfbf34ec7fa119',
   KEY_LOCATION: 'https://timhangxetai.com/e876b328ebf50b9edea4ecb671cfbf34ec7fa119.txt',
-  SITEMAP_LIVE: 'https://timhangxetai.com/sitemap-index.xml',
+  // Thu lan luot: ten mien that truoc, ban *.pages.dev sau. Vi sao can ban du phong:
+  // may cua GitHub la may trung tam du lieu, Cloudflare cua chuxetai.com chan thang
+  // (403) — con *.pages.dev thi khong chan.
+  SITEMAP_LIVE: ['https://timhangxetai.com/sitemap-index.xml', 'https://tim-hang-xe-tai-web.pages.dev/sitemap-index.xml'],
   DIST_DIR: 'dist',
   DIST_KHOP: /^sitemap-\d+\.xml$/,
   // IndexNow chi cho bao URL nam CUNG thu muc voi file khoa. De trong = ca ten mien.
@@ -29,7 +32,8 @@ const CH = {
 };
 
 const FILE_TAM = '/tmp/sitemap-truoc-deploy.json';
-const UA = 'Mozilla/5.0 (compatible; bao-index/1.0)';
+// Phai la UA trinh duyet that: Cloudflare chan UA la (403) khi goi tu may GitHub.
+const UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
 
 function docXml(xml) {
   const map = new Map();
@@ -67,14 +71,20 @@ function docSitemapVuaBuild() {
 }
 
 async function ghiNho() {
-  try {
-    const cu = await taiSitemap(CH.SITEMAP_LIVE);
-    fs.writeFileSync(FILE_TAM, JSON.stringify({ ok: true, urls: [...cu] }));
-    console.log('Da chup sitemap dang live:', cu.size, 'URL');
-  } catch (e) {
-    fs.writeFileSync(FILE_TAM, JSON.stringify({ ok: false, ly_do: e.message }));
-    console.log('Khong chup duoc sitemap live (' + e.message + ') — lan nay se bao ca sitemap.');
+  const loi = [];
+  for (const dia_chi of CH.SITEMAP_LIVE) {
+    try {
+      const cu = await taiSitemap(dia_chi);
+      fs.writeFileSync(FILE_TAM, JSON.stringify({ ok: true, urls: [...cu] }));
+      console.log('Da chup sitemap dang live:', cu.size, 'URL — tu', dia_chi);
+      return;
+    } catch (e) {
+      loi.push(dia_chi + ': ' + e.message);
+      console.log('Khong lay duoc ' + dia_chi + ' (' + e.message + ') — thu dia chi khac.');
+    }
   }
+  fs.writeFileSync(FILE_TAM, JSON.stringify({ ok: false, ly_do: loi.join(' | ') }));
+  console.log('Khong chup duoc sitemap live o dia chi nao — lan nay se bao ca sitemap.');
 }
 
 async function bao() {
