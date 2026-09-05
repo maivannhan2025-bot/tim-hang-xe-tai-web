@@ -2,7 +2,6 @@
 title: "Nhận Cuốc Chở Bàn Ghế Học Sinh Cho Trường"
 description: "Cuốc trường học nhiều món nhẹ, phải làm trong dịp nghỉ và giờ rất gắt. Cách đếm bộ trước khi báo giá, xếp bàn ghế, và nhóm này hợp xe nào."
 ngayDang: 2026-12-11T06:00:00+07:00
-ngayCapNhat: 2026-09-04T19:44:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-ban-ghe-hoc-sinh.jpg"
 tuKhoa: "chở bàn ghế học sinh"

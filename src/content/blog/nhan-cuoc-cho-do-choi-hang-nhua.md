@@ -2,7 +2,6 @@
 title: "Nhận Cuốc Chở Đồ Chơi Và Hàng Nhựa: Đầy Thùng, Nhẹ Tênh"
 description: "Hàng nhựa hết thùng khi tải còn dư ba phần tư. Cách báo giá theo khối, hỏi số kiện thay vì số cân, xếp cho khỏi móp, và nhóm này hợp xe nào."
 ngayDang: 2026-12-13T06:00:00+07:00
-ngayCapNhat: 2026-09-04T19:56:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-do-choi-hang-nhua.jpg"
 tuKhoa: "chở đồ chơi"

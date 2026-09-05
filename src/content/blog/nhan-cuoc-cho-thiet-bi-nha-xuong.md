@@ -2,7 +2,6 @@
 title: "Nhận Cuốc Chở Thiết Bị Nhà Xưởng: Một Món Định Cả Chuyến"
 description: "Cuốc di dời xưởng ít món mà máy nặng lệch, cần xe nâng và khảo sát. Cách hỏi trước khi nhận, chằng buộc, và khi nào nên từ chối."
 ngayDang: 2026-12-28T06:00:00+07:00
-ngayCapNhat: 2026-09-04T23:20:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-thiet-bi-nha-xuong.jpg"
 tuKhoa: "chở thiết bị nhà xưởng"

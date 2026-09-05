@@ -2,7 +2,6 @@
 title: "Gửi Hàng Bắc Nam: Cách Gửi Nhanh, An Toàn, Đúng Hẹn 2026"
 description: "Gửi hàng bắc nam thế nào cho an toàn và đúng hẹn? Cách chuẩn bị, ghi nhãn, chọn xe và theo dõi. Đăng chuyến trên timhangxetai.com để nhận báo giá."
 ngayDang: 2026-09-04T11:20:00+07:00
-ngayCapNhat: 2026-09-04T08:30:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/thue-xe-tai-van-1-25-tan-tai-bac-trung-nam.jpg"
 doiTuong: chu-hang

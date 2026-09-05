@@ -2,7 +2,6 @@
 title: "Chạy Xe Cẩu Và Xe Ben: Hai Nhánh Việc Rất Khác Nhau"
 description: "Xe cẩu ăn tiền theo giờ và tầm với, xe ben ăn theo chuyến và cự ly. So hai nhánh, chi phí phải tính, và nhà xe nên chọn hướng nào."
 ngayDang: 2026-12-18T06:00:00+07:00
-ngayCapNhat: 2026-09-04T20:22:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-chay-xe-cau-xe-ben.jpg"
 tuKhoa: "chạy xe cẩu xe ben"

@@ -2,7 +2,6 @@
 title: "Nhận Chở Hàng: Cách Nhà Xe Nhận Chuyến An Toàn 2026"
 description: "Hướng dẫn nhận chở hàng an toàn cho nhà xe: xác minh chủ hàng, thỏa thuận rõ trước khi nhận chuyến và giữ uy tín để có khách đều, giảm rủi ro."
 ngayDang: 2026-09-03T11:50:00+07:00
-ngayCapNhat: 2026-09-03T08:40:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/dich-vu-xe-tai-cho-hang-an-toan-tai-ca-nuoc.jpg"
 doiTuong: chu-hang

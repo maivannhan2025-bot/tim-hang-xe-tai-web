@@ -2,7 +2,6 @@
 title: "Nhận Cuốc Chở Chai Lọ Thuỷ Tinh: Vỡ Là Mất Cả Lô"
 description: "Chai lọ thuỷ tinh nặng, giòn, và vỡ một thùng là bẩn cả xe. Cách chốt mức vỡ trước khi nhận, xếp pallet, và nhóm này hợp xe nào."
 ngayDang: 2026-12-12T06:00:00+07:00
-ngayCapNhat: 2026-09-04T19:49:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-chai-lo-thuy-tinh.jpg"
 tuKhoa: "chở chai lọ thuỷ tinh"

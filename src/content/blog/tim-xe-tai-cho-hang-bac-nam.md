@@ -2,7 +2,6 @@
 title: "Tìm Xe Tải Chở Hàng Bắc Nam Nhanh, Ghép Chuyến 2 Chiều 2026"
 description: "Cách tìm xe tải chở hàng Bắc Nam nhanh, ghép chuyến 2 chiều để giảm chạy rỗng. Hướng dẫn tính thời gian chạy tuyến và chốt hàng an toàn qua app."
 ngayDang: 2026-09-01T08:35:00+07:00
-ngayCapNhat: 2026-09-01T09:10:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/xe-ro-mooc-18-tan-di-khap-ca-nuoc.jpg"
 doiTuong: nha-xe

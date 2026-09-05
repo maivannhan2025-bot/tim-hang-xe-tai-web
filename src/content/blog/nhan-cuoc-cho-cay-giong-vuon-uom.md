@@ -2,7 +2,6 @@
 title: "Nhận Cuốc Chở Cây Giống: Hàng Sống, Tính Theo Giờ"
 description: "Cây giống là hàng sống, chậm một buổi là xuống chất lượng. Mẹo khay và giá tầng chở gấp ba, cách che gió, và nhóm này hợp xe nào."
 ngayDang: 2026-12-22T06:00:00+07:00
-ngayCapNhat: 2026-09-04T22:48:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-cay-giong-vuon-uom.jpg"
 tuKhoa: "chở cây giống"

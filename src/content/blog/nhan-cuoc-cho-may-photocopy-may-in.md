@@ -2,7 +2,6 @@
 title: "Nhận Cuốc Chở Máy Photocopy: Nghiêng Một Cái Là Đền"
 description: "Máy photo nặng, trọng tâm cao, mực bột tràn nếu chở nghiêng. Cách hỏi máy thuê hay máy mua, đo thang máy, chằng buộc, và nhóm này hợp xe nào."
 ngayDang: 2026-12-15T06:00:00+07:00
-ngayCapNhat: 2026-09-04T20:05:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-may-photocopy-may-in.jpg"
 tuKhoa: "chở máy photocopy"

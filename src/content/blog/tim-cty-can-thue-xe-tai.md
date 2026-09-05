@@ -2,7 +2,6 @@
 title: "Tìm Công Ty Cần Thuê Xe Tải: Cách Nhà Xe Chốt Khách 2026"
 description: "Hướng dẫn nhà xe tìm công ty cần thuê xe tải chạy đều, chốt hợp đồng cố định và giảm chạy rỗng. Cách tiếp cận kho xưởng, đăng xe lên app đúng cách."
 ngayDang: 2026-09-01T08:10:00+07:00
-ngayCapNhat: 2026-09-01T09:00:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/thue-xe-van-chuyen-hang-hoa-tai-toan-quoc.jpg"
 doiTuong: nha-xe

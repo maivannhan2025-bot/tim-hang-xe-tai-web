@@ -2,7 +2,6 @@
 title: "Thuê Xe Chở Hàng 2026: Quy Trình Đặt Xe Gọn, Chốt Đơn An Tâm"
 description: "Thuê xe chở hàng 2026 thế nào cho gọn và an tâm? Hướng dẫn chủ hàng quy trình đặt xe từng bước, cách xác nhận thỏa thuận, kiểm tra xe và kết nối tài xế qua app."
 ngayDang: 2026-08-31T13:40:00+07:00
-ngayCapNhat: 2026-08-31T08:40:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/thue-xe-van-chuyen-hang-hoa-tai-toan-quoc.jpg"
 doiTuong: chu-hang

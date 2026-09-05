@@ -2,7 +2,6 @@
 title: "Nhận Cuốc Chở Cám: Tuyến Đều Nhưng Xe Xuống Nhanh"
 description: "Cám chạy đều quanh năm, tiền tươi, nhưng bụi và vác nặng. Cách quy bao ra tấn, tránh lệch trục, luật phòng dịch của trại, và nhóm này hợp xe nào."
 ngayDang: 2026-12-16T06:00:00+07:00
-ngayCapNhat: 2026-09-04T20:11:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-thuc-an-chan-nuoi.jpg"
 tuKhoa: "chở cám chăn nuôi"

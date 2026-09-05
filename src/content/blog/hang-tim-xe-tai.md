@@ -2,7 +2,6 @@
 title: "Hàng Tìm Xe Tải: Cách Đọc Tin Và Chốt Chuyến Chuẩn 2026"
 description: "Chủ xe học cách đọc tin hàng tìm xe tải, báo giá đúng và tránh kèo ảo để bắt được chuyến tốt, chạy đều mà không mất thời gian chạy oan."
 ngayDang: 2026-09-02T08:45:00+07:00
-ngayCapNhat: 2026-09-02T08:30:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/thue-xe-van-chuyen-hang-hoa-tai-toan-quoc.jpg"
 doiTuong: nha-xe

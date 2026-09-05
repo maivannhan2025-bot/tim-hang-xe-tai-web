@@ -2,7 +2,6 @@
 title: "Nhận Cuốc Chở Đồ Y Tế Gia Đình: Ít Món, Nhiều Điểm"
 description: "Giường y tế, xe lăn, máy tạo oxy là nhóm nhẹ mà giao lẻ nhiều nhà. Cách đòi số đo, nhóm phải từ chối, và tuyến này hợp xe nào."
 ngayDang: 2026-12-29T06:00:00+07:00
-ngayCapNhat: 2026-09-04T23:25:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-do-y-te-gia-dinh.jpg"
 tuKhoa: "chở giường y tế"

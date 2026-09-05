@@ -2,7 +2,6 @@
 title: "Nhận Cuốc Chở Thiết Bị Dạy Học: Mùa Hè Là Mùa Vàng"
 description: "Bảng, máy chiếu, tủ thiết bị và bàn ghế đi cùng một lô, giao trong dịp nghỉ. Cách hỏi trước, xếp bảng khổ lớn, và nhóm này hợp xe nào."
 ngayDang: 2026-12-31T06:00:00+07:00
-ngayCapNhat: 2026-09-04T23:35:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-thiet-bi-day-hoc.jpg"
 tuKhoa: "chở thiết bị dạy học"

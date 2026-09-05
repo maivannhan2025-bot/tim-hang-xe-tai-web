@@ -2,7 +2,6 @@
 title: "Xe Tải 5 Tạ Chở Được Bao Nhiêu, Thuê Sao Cho Đúng 2026"
 description: "Xe tải 5 tạ chở được bao nhiêu và hợp loại hàng nào? Cách tự ước lượng đồ có vừa xe 5 tạ, mẹo tiết kiệm và cách đặt xe nhanh qua app timhangxetai.com."
 ngayDang: 2026-09-01T09:40:00+07:00
-ngayCapNhat: 2026-09-01T09:20:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/dich-vu-xe-tai-nho-uy-tin-tai-ca-nuoc.jpg"
 doiTuong: chu-hang

@@ -2,7 +2,6 @@
 title: "Nhận Cuốc Chở Xi Măng Và Vật Liệu Lẻ: Bụi Và Tải"
 description: "Cuốc VLXD lẻ nặng, bụi, đường vào công trình xấu. Cách quy bao ra tấn, tránh vượt tải trục, tính công vác, và nhóm này đáng nhận với xe nào."
 ngayDang: 2026-12-10T06:00:00+07:00
-ngayCapNhat: 2026-09-04T19:38:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-xi-mang-va-vlxd-le.jpg"
 tuKhoa: "chở xi măng"

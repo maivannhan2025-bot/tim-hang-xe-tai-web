@@ -2,7 +2,6 @@
 title: "Nhận Cuốc Chở Ống Nhựa: Dài Là Vấn Đề, Nặng Thì Không"
 description: "Ống nhựa nhẹ tênh mà kén xe nhất vì cây 4 tới 6 mét. Cách chốt chiều dài trước khi nhận, chống bẹp, và nhóm này hợp xe nào."
 ngayDang: 2026-12-26T06:00:00+07:00
-ngayCapNhat: 2026-09-04T23:09:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-ong-nhua-vat-tu-nganh-nuoc.jpg"
 tuKhoa: "chở ống nhựa"

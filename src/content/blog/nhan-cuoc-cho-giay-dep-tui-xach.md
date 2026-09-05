@@ -2,7 +2,6 @@
 title: "Nhận Cuốc Chở Giày Dép: Hỏi Số Thùng, Đừng Hỏi Số Đôi"
 description: "Hàng giày dép nhẹ, nhiều điểm, hộp móp là bị trả. Cách quy số đôi ra số thùng, xếp cho khỏi bẹp nắp, và nhóm này hợp xe nào."
 ngayDang: 2026-12-14T06:00:00+07:00
-ngayCapNhat: 2026-09-04T20:01:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-giay-dep-tui-xach.jpg"
 tuKhoa: "chở giày dép"

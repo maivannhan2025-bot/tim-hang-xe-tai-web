@@ -2,7 +2,6 @@
 title: "Công Ty Vận Chuyển Hàng Hóa: Cách Chọn Đối Tác Đúng 2026"
 description: "Cách chọn công ty vận chuyển hàng hóa phù hợp cho doanh nghiệp: tiêu chí đánh giá, giấy tờ cần có, biên bản giao nhận và cách tìm nhiều nhà xe nhanh qua app."
 ngayDang: 2026-09-01T10:15:00+07:00
-ngayCapNhat: 2026-09-01T08:50:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/dich-vu-xe-tai-lon-15-tan-tan-noi.jpg"
 doiTuong: chu-hang

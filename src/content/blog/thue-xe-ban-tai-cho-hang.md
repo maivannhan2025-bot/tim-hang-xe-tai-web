@@ -2,7 +2,6 @@
 title: "Thuê Xe Bán Tải Chở Hàng: Khi Nào Nên Chọn Loại Xe Này 2026"
 description: "Kinh nghiệm thuê xe bán tải chở hàng: khi nào nên chọn, cách đo hàng cho vừa xe và mẹo đặt chuyến để nhận báo giá, so sánh nhanh chóng, hợp lý."
 ngayDang: 2026-09-03T13:05:00+07:00
-ngayCapNhat: 2026-09-03T08:50:00+07:00
 thoiGianDoc: 9
 anhDaiDien: "/anh/thue-xe-tai-van-1-25-tan-tai-bac-trung-nam.jpg"
 doiTuong: chu-hang

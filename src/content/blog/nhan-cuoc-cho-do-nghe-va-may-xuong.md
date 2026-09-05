@@ -2,7 +2,6 @@
 title: "Nhận Cuốc Chở Đồ Nghề Và Máy Xưởng: Hỏi Máy Nặng Nhất"
 description: "Cuốc chuyển xưởng ít món mà nặng lệch, có máy phải xả bình trước. Cách hỏi trước khi nhận, chằng buộc, và nhóm này hợp xe nào."
 ngayDang: 2026-12-17T06:00:00+07:00
-ngayCapNhat: 2026-09-04T20:16:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-do-nghe-va-may-xuong.jpg"
 tuKhoa: "chở máy xưởng"

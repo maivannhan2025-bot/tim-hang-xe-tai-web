@@ -2,7 +2,6 @@
 title: "Thuê Xe Tải Nhỏ: Chọn Đúng Cỡ, Đi Được Hẻm Sâu 2026"
 description: "Hướng dẫn thuê xe tải nhỏ đúng nhu cầu: chọn tải trọng phù hợp, đường hẻm nào xe nhỏ đi được và cách đặt xe nhanh, tránh phát sinh khi chở hàng."
 ngayDang: 2026-09-02T11:20:00+07:00
-ngayCapNhat: 2026-09-02T09:10:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/dich-vu-xe-tai-nho-uy-tin-tai-ca-nuoc.jpg"
 doiTuong: chu-hang

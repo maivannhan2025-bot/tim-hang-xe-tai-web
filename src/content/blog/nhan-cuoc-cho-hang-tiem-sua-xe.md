@@ -2,7 +2,6 @@
 title: "Nhận Cuốc Chở Hàng Cho Tiệm Sửa Xe: Nhỏ Mà Nặng"
 description: "Phụ tùng, nhớt và lốp là ba nhóm ngược nhau đi chung một chuyến. Cách tính, cách xếp, và vì sao nhóm này chạy đều quanh năm."
 ngayDang: 2026-12-27T06:00:00+07:00
-ngayCapNhat: 2026-09-04T23:15:00+07:00
 thoiGianDoc: 8
 anhDaiDien: "/anh/nhan-cuoc-cho-hang-tiem-sua-xe.jpg"
 tuKhoa: "chở phụ tùng xe máy"
