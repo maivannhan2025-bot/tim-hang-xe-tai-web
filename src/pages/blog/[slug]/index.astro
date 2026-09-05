@@ -21,8 +21,10 @@ const dNgaySua = post.data.ngayCapNhat ?? lucSuaGanNhat(duongDanBai(post));
 const ngay = coGio(dNgayDang) ? ngayGioVN(dNgayDang) : ngayVN(dNgayDang);
 const ngayISO = isoVN(dNgayDang);
 // Chỉ hiện "Cập nhật" khi bài được sửa SAU khi đăng (chênh trên 1 phút).
+// Bài viết sẵn từ lâu rồi mới hẹn ngày đăng thì giờ sửa NẰM TRƯỚC giờ đăng — không khai ra,
+// vì dateModified sớm hơn datePublished là dữ liệu vô lý với Google.
 const coSua = !!(dNgaySua && dNgaySua.valueOf() - dNgayDang.valueOf() > 60000);
-const ngaySuaISO = dNgaySua ? isoVN(dNgaySua) : undefined;
+const ngaySuaISO = coSua && dNgaySua ? isoVN(dNgaySua) : undefined;
 const chuNgaySua = coSua && dNgaySua ? ngayGioVN(dNgaySua) : '';
 const nhan = post.data.doiTuong === 'chu-hang' ? 'Dành cho chủ hàng' : post.data.doiTuong === 'nha-xe' ? 'Dành cho nhà xe' : 'Dành cho tất cả';
 ---
