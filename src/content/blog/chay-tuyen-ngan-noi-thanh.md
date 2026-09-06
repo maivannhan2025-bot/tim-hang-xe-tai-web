@@ -148,3 +148,10 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Đăng
 Ghi cụ thể khu vực thay vì ghi chung chung. Chủ hàng ở đúng khu đó tìm được thì cuốc kế tiếp gần chỗ mình vừa giao.
 
 Anh em nào đang chạy nội thành mà thấy cuối tháng hụt thì gửi bài này cho người cùng chạy. Ghi sổ hai tuần là biết vấn đề nằm ở giá cuốc hay ở thời gian chờ.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Tìm Nguồn Hàng Cho Xe Tải 2026: Cách Chạy Đều Không Lo Xe Rỗng](/blog/tim-nguon-hang-cho-xe-tai/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

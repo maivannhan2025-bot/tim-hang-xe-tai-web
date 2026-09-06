@@ -76,3 +76,5 @@ Nên hỏi rõ xe có chở ghép hàng khác không. Giữ lại đầy đủ t
 Chọn nhà xe uy tín là việc quan trọng nhất khi thuê xe tải lần đầu, quan trọng hơn cả giá rẻ hay có xe ngay. Bỏ vài phút kiểm tra thông tin trước khi chốt chuyến, sau này đỡ mất công xử lý sự cố với dịch vụ xe tải không rõ ràng.
 
 Nếu ngại tự tìm và xác minh từng nhà xe, có thể thử [Tìm Hàng Xe Tải](/blog/app-tim-hang-xe-tai/). Ở đó có thông tin nhà xe đã đăng ký sẵn, chủ hàng xem hồ sơ trước khi liên hệ. Không qua bên thứ ba giữ tiền cước.
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

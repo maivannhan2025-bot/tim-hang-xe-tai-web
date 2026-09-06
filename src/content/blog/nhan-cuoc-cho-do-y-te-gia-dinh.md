@@ -163,3 +163,10 @@ Chủ hàng đăng rõ số đơn, món dài nhất của từng đơn, tầng c
 Nhà xe đăng rõ cỡ xe, chiều dài lòng thùng, số người đi theo và có nhận đưa lên lầu không. Với nhóm này, số người là thứ cửa hàng hỏi trước tiên.
 
 Anh em nào có xe van thì gửi bài này cho người cùng chạy. Phân biệt được máy tạo oxy với bình oxy là chi tiết nhỏ mà cửa hàng nhớ rất lâu.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Thuê Xe Tải Chở Hàng Giá Tốt 2026: Đăng Chuyến Nhận Báo Giá Ngay](/blog/thue-xe-tai-cho-hang/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

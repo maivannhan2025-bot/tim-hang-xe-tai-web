@@ -133,3 +133,11 @@ Vào timhangxetai.com đăng thông tin xe. Với xe chở vật liệu, ghi rõ
 Mấy dòng đó lọc đúng loại cuốc anh làm được. Khách cần đổ vào sâu trong công trình sẽ không gọi xe ben, và ngược lại.
 
 Bài này có ích thì gửi cho anh em chạy vật liệu. Phép nhân 1,5 ở đầu bài đáng nhớ, quy sai đơn vị là hỏng cả cuốc.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Thuê Xe Tải Chở Hàng Giá Tốt 2026: Đăng Chuyến Nhận Báo Giá Ngay](/blog/thue-xe-tai-cho-hang/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

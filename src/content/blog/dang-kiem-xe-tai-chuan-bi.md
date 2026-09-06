@@ -162,3 +162,11 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Đăng
 Chiều về trống thì tìm trên sàn theo chặng ngược lại. Xe chạy đều thì mấy khoản theo năm chia ra mỗi chuyến đều nhẹ.
 
 Anh em nào hay bị rớt vì lỗi vặt thì gửi bài này cho người cùng chạy. Một tiếng kiểm ở nhà đổi được một ngày xe nằm.
+
+## Bài viết liên quan
+
+- [Hàng Tìm Xe Tải: Cách Đọc Tin Và Chốt Chuyến Chuẩn 2026](/blog/hang-tim-xe-tai/)
+- [Tài xế tìm việc lái xe tải: cách có chuyến đều mỗi tuần 2026](/blog/tai-xe-tim-viec/)
+- [Thuê xe tải chở hàng đi tỉnh cần lưu ý gì](/blog/thue-xe-tai-cho-hang-di-tinh-can-luu-y-gi/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

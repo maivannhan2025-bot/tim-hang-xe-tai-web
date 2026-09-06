@@ -173,3 +173,10 @@ Tiệm thu mua đăng rõ số điểm, tầng, món nặng nhất và ai bốc.
 Nhà xe đăng rõ cỡ xe, khu vực chạy và có nhận bốc xếp không. Với nhóm này thì dòng cuối là dòng khách hỏi trước tiên.
 
 Anh em nào muốn lấp buổi sáng bằng nhóm này thì gửi bài này cho người cùng chạy. Chụp ảnh từng món trước khi bốc là thói quen giữ được nhiều tiền nhất.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Tài xế tìm việc lái xe tải: cách có chuyến đều mỗi tuần 2026](/blog/tai-xe-tim-viec/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

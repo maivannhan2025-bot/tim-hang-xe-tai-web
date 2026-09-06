@@ -193,3 +193,11 @@ Chủ hàng đăng rõ tuyến, loại hàng và cách tính tiền. Nhà xe đ�
 Thông tin rõ từ lúc nhận cuốc thì cuối tháng đối chiếu nhẹ hẳn, vì không có khoản nào mập mờ để cãi.
 
 Anh em nào hay bị lệch sổ thì gửi bài này cho người cùng chạy. Ghi ngay trong ngày là việc nhỏ nhất mà đỡ mệt nhất.
+
+## Bài viết liên quan
+
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

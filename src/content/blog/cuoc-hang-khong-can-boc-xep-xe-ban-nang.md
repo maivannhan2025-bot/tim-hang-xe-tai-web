@@ -138,3 +138,11 @@ Giao hàng cồng kềnh tận nhà là nhóm cuốc trả tốt mà ít ngườ
 Xe thùng 6m gắn bàn nâng, thêm xe đẩy có dây đai và vài tấm chăn lót, là đủ đồ nghề vào nhóm này. Phần còn lại là thói quen làm sạch sẽ và giữ đúng giờ.
 
 Anh em đang chạy tuyến này thì ghi rõ trong thông tin xe: có bàn nâng, nhận giao tận nhà, có phụ xe. Cửa hàng tìm nhà xe thường lọc đúng ba thứ đó.
+
+## Bài viết liên quan
+
+- [Taxi tải chở hàng tận nơi: gọi nhanh, bốc xếp gọn trong phố 2026](/blog/taxi-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Thuê xe tải chở hàng đi tỉnh cần lưu ý gì](/blog/thue-xe-tai-cho-hang-di-tinh-can-luu-y-gi/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

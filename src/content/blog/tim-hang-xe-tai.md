@@ -107,3 +107,5 @@ Có. Nhu cầu chở hàng lẻ và nội thành rất lớn. Anh tham khảo th
 Tìm hàng xe tải sẽ nhẹ nhàng hơn khi anh có kênh chủ động và hồ sơ tốt. Kết hợp mối quen với nền tảng kết nối là hướng đi bền vững. Xe lăn bánh đều thì thu nhập mới ổn định.
 
 Anh hãy tải ứng dụng và đăng ký tài khoản nhà xe tại timhangxetai.com. Cập nhật thông tin xe, xem tin hàng theo tuyến và nhận chuyến phù hợp. Chủ động ngay hôm nay để không còn ngày chạy rỗng.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

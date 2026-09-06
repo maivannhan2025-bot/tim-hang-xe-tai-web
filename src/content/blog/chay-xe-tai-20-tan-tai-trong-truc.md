@@ -130,3 +130,11 @@ Vào timhangxetai.com đăng thông tin xe. Ghi rõ số chân, khối lượng 
 Ghi đúng con số trong đăng kiểm thì chủ hàng tự biết xe anh chở được gì, đỡ mất thời gian hai bên hỏi qua hỏi lại.
 
 Bài này có ích thì gửi cho anh em chạy xe lớn. Quy định trục mới áp từ 1/7/2026, ai chưa tính lại giá thì nên tính sớm.
+
+## Bài viết liên quan
+
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

@@ -147,3 +147,10 @@ Nhà xe đăng rõ cỡ xe, thể tích thùng và sức chở. Ghi cả hai con
 Chủ hàng đăng rõ loại hàng, số khối và số ký. Có đủ hai số đó thì nhà xe báo giá đúng ngay lần đầu, không phải hỏi lại.
 
 Anh em nào đang phân vân giữa hai nhóm thì gửi bài này cho người cùng chạy. Ghi mười chuyến rồi tính, đó là cách chắc nhất.
+
+## Bài viết liên quan
+
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

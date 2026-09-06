@@ -150,3 +150,5 @@ Vào timhangxetai.com đăng thông tin xe. Ghi rõ **cách thanh toán mình nh
 Ghi trước thì lọc được ngay từ cuộc gọi đầu, đỡ mất công chạy rồi mới bàn chuyện tiền.
 
 Bài này có ích thì gửi cho anh em cùng chạy. Bốn việc phòng ở đầu bài đáng làm thành thói quen với mọi khách mới.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

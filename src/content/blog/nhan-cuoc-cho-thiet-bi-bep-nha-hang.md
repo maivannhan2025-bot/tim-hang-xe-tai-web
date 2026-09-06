@@ -148,3 +148,11 @@ Chủ hàng đăng rõ danh sách thiết bị, chụp hút dài bao nhiêu, đ�
 Nhà xe đăng rõ cỡ xe, lòng thùng dài bao nhiêu, số người đi theo và có ván trượt không. Với nhóm này, chiều dài lòng thùng là con số chủ hàng cần biết.
 
 Anh em nào nhận cuốc bếp thì gửi bài này cho người cùng chạy. Bắt chủ hàng chốt lịch thợ trước khi nhận giờ hẹn là việc cứu được nhiều buổi nhất.
+
+## Bài viết liên quan
+
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+- [Nhận Chở Hàng: Cách Nhà Xe Nhận Chuyến An Toàn 2026](/blog/nhan-cho-hang/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

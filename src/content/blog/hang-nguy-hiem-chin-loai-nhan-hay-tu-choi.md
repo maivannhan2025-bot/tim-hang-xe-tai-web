@@ -155,3 +155,11 @@ Vào timhangxetai.com đăng thông tin xe. Ghi rõ **loại hàng nhận chở*
 Dòng thứ hai ít ai ghi mà lại tiết kiệm thời gian cho cả hai bên. Khách có hàng đặc thù sẽ không gọi nhầm, còn anh không phải nghe rồi từ chối.
 
 Bài này có ích thì gửi cho anh em cùng chạy. Bảng chín loại ở đầu bài đáng lưu để nhận diện nhanh khi khách mô tả hàng.
+
+## Bài viết liên quan
+
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

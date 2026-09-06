@@ -107,3 +107,5 @@ An toàn hơn khi thông tin được trình bày rõ theo tuyến và tải tr�
 Nhận chở hàng an toàn là kết quả của quy trình rõ ràng. Xác minh chủ hàng, chọn đúng chuyến và làm việc chuyên nghiệp. Ba yếu tố này giúp anh nhận chuyến nhiều mà ít rủi ro.
 
 Anh hãy tải ứng dụng và đăng ký nhà xe tại timhangxetai.com. Xem tin hàng theo tuyến, chọn chuyến phù hợp và xây tập khách quen. Chủ động ngay hôm nay để xe luôn có việc.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

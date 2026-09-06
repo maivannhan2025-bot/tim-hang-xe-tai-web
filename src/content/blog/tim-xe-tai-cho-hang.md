@@ -176,3 +176,5 @@ Tính theo quãng đường, khối lượng và loại hàng. Báo minh bạch 
 Người tìm xe tải chở hàng luôn có mỗi ngày. Việc của nhà xe là hiện diện đúng chỗ, đúng lúc, rõ ràng.
 
 Anh em tải app và đăng ký nhà xe tại timhangxetai.com. Điền đủ thông tin xe, nhận chuyến hợp tuyến và giảm ngày nằm bãi. Xe lăn bánh đều thì thu nhập mới đều.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

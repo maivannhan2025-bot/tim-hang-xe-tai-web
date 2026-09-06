@@ -115,3 +115,5 @@ Tùy hiệu quả tổng thể sau khi trừ chi phí. Chuyến ghép được h
 Tìm nguồn hàng chạy xe tải ổn định là kết quả của nhiều thói quen tốt. Chủ động mở rộng kênh, lập lịch quay vòng và giữ chữ tín. Ba yếu tố đó giúp xe anh không còn ngày nằm bãi.
 
 Anh hãy tải ứng dụng và đăng ký nhà xe tại timhangxetai.com. Xem tin hàng theo tuyến, ghép chuyến hai chiều và xây tập khách lặp lại. Bắt đầu ngay từ hôm nay để giữ xe luôn có việc.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

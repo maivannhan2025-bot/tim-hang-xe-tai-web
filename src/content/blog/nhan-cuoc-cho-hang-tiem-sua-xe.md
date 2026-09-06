@@ -147,3 +147,11 @@ Chủ hàng đăng rõ bao nhiêu thùng phụ tùng, bao nhiêu thùng nhớt, 
 Nhà xe đăng rõ cỡ xe, có lót sàn chống dầu không, có nhận thu hồi hàng cũ không. Với nhóm này, chuyện lót sàn là thứ nhà phân phối để ý.
 
 Anh em nào chạy vòng nội thành thì gửi bài này cho người cùng chạy. Lót sàn chống dầu và để nhớt một khu riêng là việc giữ được cả xe lẫn mối.
+
+## Bài viết liên quan
+
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

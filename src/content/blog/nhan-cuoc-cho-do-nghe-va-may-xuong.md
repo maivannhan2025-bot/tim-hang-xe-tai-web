@@ -143,3 +143,10 @@ Chủ hàng đăng rõ danh sách máy, cân của máy nặng nhất, lối ra 
 Nhà xe đăng rõ cỡ xe, số người đi theo, có ván trượt và xe nâng tay không. Với nhóm này, số người và thiết bị là thứ chủ xưởng hỏi trước tiên.
 
 Anh em nào nhận được cuốc xưởng thì gửi bài này cho người cùng chạy. Bảo chủ xưởng xả bình máy nén trước khi xe tới là việc vừa an toàn vừa tiết kiệm nửa tiếng.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Xe Tải Chở Đồ 2026: Chọn Xe, Sắp Xếp Và Giao Nhận Đúng Cách](/blog/xe-tai-cho-do/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

@@ -143,3 +143,5 @@ Hãy báo rõ số tầng khi đặt xe. Bốc xếp lầu cao tốn sức và t
 Chuyển nhà không cần phải là một ngày cực nhọc. Chuẩn bị kỹ, chọn đúng xe, mọi thứ sẽ trôi chảy.
 
 Hãy tải app và đăng nhu cầu trên timhangxetai.com. Ghi rõ lượng đồ và địa chỉ hai đầu. Việc thuê xe chở đồ chuyển nhà sẽ nhanh gọn, và bạn được chọn nhà xe phù hợp nhất thay vì phải gọi hỏi khắp nơi.
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

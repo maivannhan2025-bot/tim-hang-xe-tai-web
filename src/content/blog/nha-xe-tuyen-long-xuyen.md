@@ -113,3 +113,11 @@ Nhà xe chạy tuyến này có thể đăng tuyến và loại hàng nhận lê
 Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đứng về bên nào.
 
 **Đăng tin nên ghi rõ:** có xe lạnh không và giữ mức nào, cỡ xe, có nhận nối bến sà lan không, có nhận hàng gấp trong ngày không, và tần suất chuyến. Ở tuyến này, **ghi rõ mình nhận hàng gấp và hàng lạnh** là cách tự tách mình khỏi cuộc đua giá với đường thủy.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

@@ -165,3 +165,5 @@ Có thêm nguồn khách thì nói chuyện giá cũng nhẹ hơn, vì mình kh�
 Nhà xe đăng rõ cỡ xe, tuyến quen và khung giờ rảnh. Chủ hàng đăng rõ hàng, tuyến và hạn giao.
 
 Anh em nào đang có khách chạy giá cũ nhiều năm thì tính lại chi phí tuyến đó ngay tuần này. Có con số rồi mới quyết được nên tăng hay nên giữ.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

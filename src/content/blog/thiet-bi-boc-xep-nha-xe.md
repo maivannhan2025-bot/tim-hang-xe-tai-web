@@ -161,3 +161,11 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Đăng
 Chủ hàng có kiện nặng hoặc hàng pallet thường hỏi ngay câu có bửng nâng không. Ghi sẵn thì đỡ một vòng hỏi đáp.
 
 Anh em nào đang tính sắm thiết bị thì gửi bài này cho người cùng chạy. Đếm số cuốc ba tháng qua trước khi quyết là bước đúng.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

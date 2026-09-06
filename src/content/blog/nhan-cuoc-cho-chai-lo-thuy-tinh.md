@@ -143,3 +143,10 @@ Chủ hàng đăng rõ chai rỗng hay chai đầy, đi pallet hay đi rời, ha
 Nhà xe đăng rõ cỡ xe, loại thùng, có nhận hàng dễ vỡ không và có xe nâng tay không. Với nhóm này, chuyện chốt mức vỡ là câu chủ hàng nghiêm túc nào cũng muốn bàn.
 
 Anh em nào chạy hàng dễ vỡ thì gửi bài này cho người cùng chạy. Ghi mức vỡ vào giấy trước khi xe lăn bánh là việc giữ được mối lâu nhất.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

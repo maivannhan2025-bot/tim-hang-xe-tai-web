@@ -126,3 +126,11 @@ Nhà xe chạy tuyến này có thể đăng tuyến và loại hàng nhận lê
 Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đứng về bên nào.
 
 **Đăng tin nên ghi rõ:** cỡ xe và tải trọng thật, thùng kín hay bạt, có chở mủ cao su không, có nhận hàng cần chứng từ không, và giờ chạy trong ngày. Ở tuyến này, **ghi rõ có chở cao su hay không** giúp cả hai bên đỡ mất thời gian, vì đó là câu hỏi phân loại đầu tiên của nhiều chủ hàng.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Xe tải chở hàng 8 tấn TPHCM đi Hà Nội: chọn đúng xe, tính đúng chuyến](/blog/xe-tai-8-tan-tphcm-di-ha-noi/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

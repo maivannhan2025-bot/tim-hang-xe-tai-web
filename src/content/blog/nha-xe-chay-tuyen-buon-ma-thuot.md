@@ -144,3 +144,11 @@ Quý nhà xe mở ứng dụng, lọc chuyến từ Đắk Lắk về TPHCM đú
 Chủ hàng có nông sản hay hàng hóa từ Tây Nguyên vào Nam thì đăng chuyến lên, nhà xe đang chạy đúng tuyến sẽ liên hệ.
 
 Thấy bài này có ích thì gửi cho anh em cùng chạy tuyến Tây Nguyên.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

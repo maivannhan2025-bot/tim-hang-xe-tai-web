@@ -133,3 +133,11 @@ Nhà xe chạy tuyến này có thể đăng tuyến và loại hàng nhận lê
 Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đứng về bên nào.
 
 **Đăng tin nên ghi rõ:** cỡ xe và loại thùng, có khóa thùng và định vị không, có nhận khai giá trị không, có xuất hóa đơn không, chạy chặng nội vùng hay chuyến dài vào Nam. Ở tuyến này, **ghi rõ chuyện hóa đơn và khóa thùng** quan trọng hơn ghi giá, vì đó là hai thứ chủ hàng lọc trước tiên.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

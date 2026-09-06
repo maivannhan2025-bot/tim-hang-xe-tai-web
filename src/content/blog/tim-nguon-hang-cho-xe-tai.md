@@ -122,3 +122,5 @@ Bạn lọc chuyến theo đúng loại xe và loại hàng mình chở được
 Tìm nguồn hàng cho xe tải là việc phải làm chủ động mỗi ngày, không thể trông vào may rủi. Giữ mối quen làm gốc, dùng nền tảng để lấp chỗ trống và nối chiều về. Đó là cách chạy đều, ít xe rỗng và giữ thu nhập ổn định.
 
 Đừng để xe nằm bãi thêm ngày nào nữa. Hãy tải và đăng ký ứng dụng miễn phí của [nền tảng timhangxetai.com](https://timhangxetai.com/) để xem chuyến đang cần xe. Chọn chuyến hợp tuyến, liên hệ chủ hàng và tự chốt giá ngay hôm nay.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

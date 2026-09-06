@@ -147,3 +147,11 @@ Nhà xe đăng rõ cỡ xe, khu vực chạy và hình thức nhận: theo chuy�
 Chủ hàng đăng rõ số điểm dự kiến, khu vực và khoảng thời gian cần xe. Đủ thông tin thì nhà xe báo được ngay nên tính giờ hay tính chuyến.
 
 Anh em nào sắp nhận buổi đầu tiên tính theo giờ thì gửi bài này cho người cùng chạy. Chốt mức tối thiểu và phạm vi di chuyển trước là hai việc quan trọng nhất.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

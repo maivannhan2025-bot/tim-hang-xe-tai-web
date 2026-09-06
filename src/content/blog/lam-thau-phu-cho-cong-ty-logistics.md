@@ -139,3 +139,11 @@ Nhà xe đăng rõ cỡ xe, tuyến hay chạy và ngày rảnh. Giữ được 
 Chủ hàng đăng rõ tuyến, số khối, ngày giờ giao. Đăng đủ thì nhà xe báo giá được ngay lần đầu.
 
 Anh em nào sắp ký làm thầu phụ thì gửi bài này cho người cùng chạy. Hỏi kỳ thanh toán trước khi hỏi giá cước là thứ tự đúng.
+
+## Bài viết liên quan
+
+- [Công Ty Vận Chuyển Hàng Hóa: Cách Chọn Đối Tác Đúng 2026](/blog/cong-ty-van-chuyen-hang-hoa/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

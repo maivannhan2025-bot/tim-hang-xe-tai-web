@@ -144,3 +144,5 @@ Nhà xe đăng rõ cỡ xe, tuyến hay chạy và ngày rảnh. Khi báo giá c
 Chủ hàng đăng rõ tuyến, số khối và thời gian giao. Thông tin đủ thì nhà xe tính được ngay, khỏi hỏi lại nhiều vòng.
 
 Anh em nào tháng nào cũng thấy tiền đi đâu mất thì gửi bài này cho người cùng chạy. Ba cái phong bì tách ba loại tiền là bước đầu tiên, làm được ngay hôm nay.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

@@ -139,3 +139,11 @@ Hàng máy móc là nhóm trả cước tốt nhưng đòi chuẩn bị. Hỏi �
 Làm được vậy thì nhóm khách xưởng và công ty lắp đặt sẽ gọi lại đều, vì họ rất ngại đổi nhà xe cho loại hàng này.
 
 Anh em có xe thùng 6m gắn bàn nâng thì nói rõ sức nâng khi đăng xe lên sàn. Chủ hàng máy móc luôn hỏi con số đó đầu tiên.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

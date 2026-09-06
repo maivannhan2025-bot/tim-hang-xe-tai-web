@@ -139,3 +139,11 @@ Nhà xe đăng rõ cỡ xe, tuyến hay chạy và khung giờ nhận. Mùa nắ
 Chủ hàng đăng rõ loại hàng và yêu cầu về nhiệt nếu có. Hàng nhạy cảm với nắng thì nói trước, nhà xe mới sắp giờ cho đúng.
 
 Anh em nào sắp vào mùa nắng thì gửi bài này cho tài xế chạy tuyến dài. Đo áp suất lốp lúc nguội là việc quan trọng nhất trong cả bài.
+
+## Bài viết liên quan
+
+- [Vì sao xe chạy rỗng chiều về, và cách tìm hàng 2 chiều để đỡ lỗ dầu](/blog/vi-sao-xe-chay-rong-chieu-ve/)
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

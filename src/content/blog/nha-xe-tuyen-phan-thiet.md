@@ -115,3 +115,11 @@ Nhà xe chạy tuyến này có thể đăng tuyến và loại hàng nhận lê
 Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đứng về bên nào.
 
 **Đăng tin nên ghi rõ:** tuyến chạy, cỡ xe, có đi cao tốc không, giờ chạy trong ngày, có xe lạnh không, có nhận hàng có mùi không. Ở tuyến này, ghi rõ **giờ chạy** là thứ khiến tin của mình khác tin người khác, vì chủ hàng chọn theo giờ nhiều hơn chọn theo giá.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

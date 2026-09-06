@@ -150,3 +150,11 @@ Quý nhà xe mở ứng dụng, lọc chuyến từ Hà Nội và các tỉnh ph
 Chủ hàng ngoài Bắc cần gửi vào Nam thì đăng chuyến lên, nhà xe đang quay đầu sẽ liên hệ.
 
 Thấy bài này có ích thì gửi cho anh em cùng chạy tuyến Bắc Nam.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+- [Tìm Xe Tải Chở Hàng Bắc Nam Nhanh, Ghép Chuyến 2 Chiều 2026](/blog/tim-xe-tai-cho-hang-bac-nam/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

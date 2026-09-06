@@ -117,3 +117,11 @@ Nhà xe chạy tuyến này có thể đăng tuyến và loại hàng nhận lê
 Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đứng về bên nào.
 
 **Đăng tin nên ghi rõ:** xe có chở than hay không, cỡ xe và loại thùng, có xe lạnh không, chạy chặng nội vùng hay chuyến dài vào Nam, và tần suất. Ở tuyến này, **ghi rõ xe sạch hay xe than** là dòng quan trọng nhất, vì đó là thứ chủ hàng lọc trước tiên.
+
+## Bài viết liên quan
+
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

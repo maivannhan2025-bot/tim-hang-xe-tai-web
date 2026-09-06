@@ -143,3 +143,11 @@ Quý nhà xe mở ứng dụng, lọc chuyến từ Cần Thơ và miền Tây v
 Chủ hàng ở miền Tây cần gửi lên Sài Gòn thì đăng chuyến lên, nhà xe đang chạy đúng tuyến sẽ liên hệ.
 
 Thấy bài này có ích thì gửi cho anh em cùng chạy tuyến miền Tây.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

@@ -149,3 +149,11 @@ Quý nhà xe mở ứng dụng, lọc chuyến từ Thanh Hóa và các tỉnh B
 Chủ hàng ở Thanh Hóa cần gửi vào Nam thì đăng chuyến lên, nhà xe đang quay đầu sẽ liên hệ.
 
 Thấy bài này có ích thì gửi cho anh em cùng chạy tuyến Bắc Trung Bộ.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Cách đóng gói hàng hóa an toàn khi gửi xe tải](/blog/cach-dong-goi-hang-hoa-khi-gui-xe-tai/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

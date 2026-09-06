@@ -131,3 +131,5 @@ Giai đoạn đầu nên tập trung một nhóm hợp với loại xe của mì
 Xe của bạn xứng đáng chạy đều thay vì nằm bãi. Việc cần làm là xuất hiện đúng chỗ và cho chủ hàng thấy mình đáng tin.
 
 Hãy tải app và đăng ký trên timhangxetai.com để đăng thông tin xe. Chủ hàng đang cần thuê xe tải sẽ thấy bạn và liên hệ khi có chuyến. Vừa đăng app, vừa đi khảo sát khu gần nhà, cơ hội có hàng đều sẽ đến sớm hơn bạn nghĩ.
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

@@ -141,3 +141,10 @@ Chủ hàng đăng rõ số tấm, kích thước tấm lớn nhất, có món g
 Nhà xe đăng rõ cỡ xe, loại thùng, có xốp lót và giá kê không, và có nhận hàng dễ vỡ không. Với nhóm này, chuyện có đồ lót và chịu đi chậm là thứ chủ hàng để ý.
 
 Anh em nào có xe van thùng kín sạch thì gửi bài này cho người cùng chạy. Ghi rõ trách nhiệm khi vỡ vào giấy trước khi xếp hàng là việc giữ mình chắc nhất.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Xe Tải Chở Đồ 2026: Chọn Xe, Sắp Xếp Và Giao Nhận Đúng Cách](/blog/xe-tai-cho-do/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

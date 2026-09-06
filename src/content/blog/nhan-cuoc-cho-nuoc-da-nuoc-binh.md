@@ -162,3 +162,11 @@ Chủ hàng đăng rõ số điểm giao, số bình hoặc số cây đá mỗi
 Nhà xe đăng rõ cỡ xe, khu vực chạy, có phụ xe hay không và có xe đẩy tay không. Với nhóm hàng này, hai chi tiết cuối là thứ khách hỏi trước tiên.
 
 Anh em nào đang tìm tuyến chạy đều thì gửi bài này cho người cùng chạy. Chốt cách tính hao đá trước khi nhận là việc quan trọng nhất.
+
+## Bài viết liên quan
+
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

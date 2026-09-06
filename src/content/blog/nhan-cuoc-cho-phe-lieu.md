@@ -143,3 +143,11 @@ Nhà xe đăng rõ cỡ xe, loại thùng và nhóm hàng mình nhận. Ghi rõ 
 Chủ hàng và vựa đăng rõ loại phế liệu, khối lượng ước tính, số điểm gom và điều kiện đường vào. Đủ vậy thì nhà xe báo giá chắc.
 
 Anh em nào định thử nhóm này thì gửi bài này cho người cùng chạy. Mua một tấm bạt riêng cho phế liệu là việc đầu tiên nên làm.
+
+## Bài viết liên quan
+
+- [Tài xế tìm việc lái xe tải: cách có chuyến đều mỗi tuần 2026](/blog/tai-xe-tim-viec/)
+- [Tìm Hàng Xe Tải: Cách Nhận Chuyến Đều Cho Nhà Xe 2026](/blog/tim-hang-xe-tai/)
+- [Tìm Xe Tải Chở Hàng: Cách Nhà Xe Nhận Chuyến Đều 2026](/blog/tim-xe-tai-cho-hang/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

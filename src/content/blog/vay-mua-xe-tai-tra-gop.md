@@ -153,3 +153,11 @@ timhangxetai.com là nơi nhà xe đăng xe và chủ hàng đăng hàng. Đăng
 Chiều về trống là chỗ ăn mòn lợi nhuận nhanh nhất của xe đang trả góp. Bù được một chuyến rỗng mỗi tuần đã khác hẳn cả tháng.
 
 Anh em nào đang tính mua xe thì gửi bài này cho người sắp ký hợp đồng vay. Tính trước một buổi đỡ được mấy năm gánh nặng.
+
+## Bài viết liên quan
+
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+- [Tài xế tìm việc lái xe tải: cách có chuyến đều mỗi tuần 2026](/blog/tai-xe-tim-viec/)
+- [Xe tải mấy tấn chở được bao nhiêu hàng, chọn sao cho đúng](/blog/xe-tai-may-tan-cho-duoc-bao-nhieu-hang/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

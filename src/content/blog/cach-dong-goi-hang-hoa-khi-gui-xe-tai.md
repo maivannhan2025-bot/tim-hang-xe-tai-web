@@ -88,3 +88,5 @@ An toàn nếu gói kỹ và hỏi rõ chỗ để hàng. Nên tránh để hàn
 Cách đóng gói hàng hóa quyết định phần lớn việc hàng tới nơi có nguyên vẹn hay không. Bỏ chút công gói kỹ trước, đỡ nhiều rắc rối về sau.
 
 Khi cần tìm xe phù hợp với loại hàng của mình, Quý khách có thể thử ứng dụng [Tìm Hàng Xe Tải](/blog/app-tim-hang-xe-tai/). Đăng chuyến, chọn loại xe đúng với hàng, liên hệ thẳng nhà xe uy tín để dặn cách xếp hàng cho an toàn.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

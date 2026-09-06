@@ -169,3 +169,11 @@ Chủ hàng đăng rõ số bàn ghế, có khung rạp không, giờ giao và g
 Nhà xe đăng rõ cỡ xe, chiều dài thùng và có nhận chạy lượt khuya hay không. Với nhóm này thì dòng cuối là dòng khách đọc trước tiên.
 
 Anh em nào ở gần cụm kho đồ tiệc thì gửi bài này cho người cùng chạy. Chốt cách tính giờ chờ giữa hai lượt trước khi nhận là việc quan trọng nhất.
+
+## Bài viết liên quan
+
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Thuê Xe Bán Tải Chở Hàng: Khi Nào Nên Chọn Loại Xe Này 2026](/blog/thue-xe-ban-tai-cho-hang/)
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

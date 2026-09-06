@@ -178,3 +178,5 @@ Nên nhận cả hai và xếp xen kẽ. Chuyến hẹn giữ khung giờ chắc
 Tìm nguồn hàng cho xe tải nhỏ là chuyện làm mỗi ngày, không phải một lần. Có nguồn đều thì xe không nằm bãi.
 
 Anh em tải app và đăng ký nhà xe tại timhangxetai.com. Chọn tuyến hợp, gom đơn cùng khu và nhận thêm hàng chiều về. Xe nhỏ quay vòng nhanh thì thu nhập lên theo.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

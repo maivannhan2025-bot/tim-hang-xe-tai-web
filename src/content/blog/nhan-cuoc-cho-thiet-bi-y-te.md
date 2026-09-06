@@ -132,3 +132,9 @@ Chủ hàng đăng rõ danh mục thiết bị, kích thước thùng của món
 Nhà xe đăng rõ cỡ xe, loại thùng, có xe nâng tay không và có nhận khiêng lên lầu không. Với nhóm hàng này, hai chi tiết cuối là thứ chủ hàng hỏi trước tiên.
 
 Anh em nào có xe thùng kín sạch thì gửi bài này cho người cùng chạy. Đòi số đo cửa trước khi báo giá là việc cứu được nhiều cuốc nhất.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

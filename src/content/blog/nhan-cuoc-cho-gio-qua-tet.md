@@ -163,3 +163,10 @@ Chủ hàng đăng rõ số giỏ, số điểm giao và khung giờ. Nhà xe nh
 Nhà xe đăng rõ cỡ xe, có kệ tầng hay không, và nhận được bao nhiêu điểm một buổi. Mùa này khách chọn theo đúng hai dòng đó.
 
 Anh em nào định chạy mùa Tết năm nay thì chốt lịch với khách quen ngay tuần này, và làm khung kệ trước khi vào mùa. Vào mùa rồi thì chỉ còn thời gian để chạy.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Xe Tải Chở Đồ 2026: Chọn Xe, Sắp Xếp Và Giao Nhận Đúng Cách](/blog/xe-tai-cho-do/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

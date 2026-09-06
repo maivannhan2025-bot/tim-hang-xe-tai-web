@@ -127,3 +127,11 @@ Nhà xe chạy tuyến này có thể đăng tuyến và loại hàng nhận lê
 Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đứng về bên nào.
 
 **Đăng tin nên ghi rõ:** tuyến chạy, cỡ xe và tải trọng thật, có nhận hàng quá khổ không, có làm được giấy phép lưu hành không, có nhận hàng lẻ không, và tần suất chuyến. Ở tuyến này, ghi rõ tải trọng và tần suất quan trọng hơn ghi giá.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Tìm Nguồn Hàng Chạy Xe Tải Ổn Định Cho Nhà Xe 2026](/blog/tim-nguon-hang-chay-xe-tai/)
+- [Tìm Nguồn Hàng Cho Xe Tải 2026: Cách Chạy Đều Không Lo Xe Rỗng](/blog/tim-nguon-hang-cho-xe-tai/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

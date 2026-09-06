@@ -120,3 +120,11 @@ Nhà xe chạy trục Tây Nguyên có thể đăng tuyến và loại hàng nh�
 Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đứng về bên nào.
 
 **Đăng tin nên ghi rõ:** tuyến chạy trên trục 14, cỡ xe, có gom chung Đắk Lắk và Đắk Nông không, có nhận hàng cần chứng từ không, và giờ chạy thật. Ở tuyến này, **ghi số giờ thay vì ghi số cây số** là cách nhanh nhất để chủ hàng thấy mình hiểu tuyến.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

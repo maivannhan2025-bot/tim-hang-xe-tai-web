@@ -137,3 +137,10 @@ Chủ hàng đăng rõ số bàn, có rạp và cổng hoa không, địa chỉ 
 Nhà xe đăng rõ cỡ xe, khu vực chạy, có nhận chạy đêm không và có nhận chờ thu dọn không. Với nhóm này, chuyện chạy đêm là câu tiệm hỏi trước tiên.
 
 Anh em nào muốn kín lịch cuối tuần mùa cưới thì gửi bài này cho người cùng chạy. Báo giá trọn gói hai chiều ngay từ đầu là cách giữ được lời với nhóm cuốc này.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Xe Tải Chở Đồ 2026: Chọn Xe, Sắp Xếp Và Giao Nhận Đúng Cách](/blog/xe-tai-cho-do/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

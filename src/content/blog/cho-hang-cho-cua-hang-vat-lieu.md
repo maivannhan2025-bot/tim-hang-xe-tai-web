@@ -151,3 +151,11 @@ Nhà xe đăng rõ cỡ xe, chiều dài thùng và khu vực chạy. Với nhó
 Chủ hàng và cửa hàng đăng rõ loại vật liệu, số tấn, số điểm giao và có người bốc xếp hay không. Đủ vậy thì nhà xe báo giá đúng ngay lần đầu.
 
 Anh em nào sắp nhận mối vật liệu đầu tiên thì gửi bài này cho người cùng chạy. Chốt ai xuống hàng ở công trình là câu quan trọng nhất trước khi gật.
+
+## Bài viết liên quan
+
+- [Công Ty Vận Chuyển Hàng Hóa: Cách Chọn Đối Tác Đúng 2026](/blog/cong-ty-van-chuyen-hang-hoa/)
+- [Dịch vụ vận chuyển hàng hóa: chọn đúng xe, giao an toàn 2026](/blog/dich-vu-van-chuyen-hang-hoa/)
+- [Taxi tải chở hàng tận nơi: gọi nhanh, bốc xếp gọn trong phố 2026](/blog/taxi-tai/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

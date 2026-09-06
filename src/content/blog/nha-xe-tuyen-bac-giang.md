@@ -130,3 +130,11 @@ Nhà xe chạy tuyến này có thể đăng tuyến và loại hàng nhận lê
 Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đứng về bên nào.
 
 **Đăng tin nên ghi rõ:** chạy quanh năm hay chỉ trong vụ vải, có xe lạnh không, cỡ xe, chạy chặng Bắc Giang - Hà Nội hay chuyến dài vào Nam. Ở tỉnh này, **ghi rõ mình chạy quanh năm** là điểm cộng, vì chủ hàng biết mình không phải xe vãng lai chỉ tới trong vụ rồi đi.
+
+## Bài viết liên quan
+
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Tìm Xe Tải Chở Hàng Bắc Nam Nhanh, Ghép Chuyến 2 Chiều 2026](/blog/tim-xe-tai-cho-hang-bac-nam/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

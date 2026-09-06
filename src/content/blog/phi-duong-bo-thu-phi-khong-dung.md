@@ -180,3 +180,11 @@ Biết trước tuyến và điểm giao thì anh em tra được số trạm ph
 Nhà xe đăng rõ cỡ xe và khu vực chạy, chủ hàng đăng rõ tuyến và loại hàng.
 
 Anh em nào hay báo giá hụt khoản này thì gửi bài cho người cùng chạy. Lập bảng phí theo tuyến là việc làm một lần mà dùng được cả năm.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

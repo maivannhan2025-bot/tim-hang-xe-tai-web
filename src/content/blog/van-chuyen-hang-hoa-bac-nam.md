@@ -112,3 +112,5 @@ Hãy kiểm hàng trước khi ký, lập biên bản tại chỗ và chụp ả
 Gửi hàng đường dài không còn đáng lo nếu làm đúng cách. Chọn đúng kiểu gửi, đóng gói kỹ, giữ đủ bằng chứng và kiểm hàng cẩn thận khi nhận là đã yên tâm phần lớn. Phần còn lại là tìm được xe chạy đúng tuyến với giá hợp lý.
 
 Đó cũng là lúc nền tảng giúp Quý khách nhiều nhất. Việc vận chuyển hàng hóa Bắc Nam sẽ nhẹ nhàng hơn khi nhiều nhà xe cùng báo giá để anh chị so sánh. Hãy đăng chuyến hoặc tải app miễn phí trên timhangxetai.com để tìm xe đi Bắc Nam ngay hôm nay.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

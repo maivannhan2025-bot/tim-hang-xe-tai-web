@@ -167,3 +167,5 @@ Chủ hàng đăng rõ địa chỉ lấy và địa chỉ giao, kèm giờ. Nh�
 Nhà xe đăng rõ khu vực chạy và cỡ xe. Với cuốc trong khu quen thì đổi điểm cũng nhẹ, vì đường nào cũng biết.
 
 Anh em nào chưa có câu chốt về chuyện đổi điểm thì soạn sẵn một dòng, đưa vào tin nhắn báo giá. Một dòng đó tránh được nhiều cuộc gọi khó chịu giữa đường.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

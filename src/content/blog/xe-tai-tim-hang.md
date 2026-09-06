@@ -138,3 +138,5 @@ Không hẳn. Hàng lẻ trong phố rất nhiều nên xe nhỏ luôn có việ
 Mỗi ngày xe trống là một ngày mất thu nhập. Xe tải tìm hàng chủ động sẽ đổi khác điều đó. Anh tự chọn chuyến, tự sắp lịch, tự tăng thu nhập.
 
 Hãy tải ứng dụng và đăng ký xe của anh tại timhangxetai.com. Xem ngay các chuyến đang cần xe theo tuyến anh chạy. Lấp đầy chuyến hôm nay, đừng chờ mối quen gọi nữa.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

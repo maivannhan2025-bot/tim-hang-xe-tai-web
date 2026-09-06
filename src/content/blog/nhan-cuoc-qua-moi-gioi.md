@@ -167,3 +167,11 @@ Nhà xe đăng tuyến hay chạy, cỡ xe và sức chở, ngày rảnh. Chủ 
 Chiều về đang trống thì tìm trên sàn theo đúng chặng ngược lại, thay vì chờ điện thoại của môi giới.
 
 Nhà xe nào từng bị chậm tiền vì cuốc qua trung gian thì gửi bài này cho anh em cùng chạy. Bốn câu hỏi trước khi gật đỡ được kha khá chuyện về sau.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

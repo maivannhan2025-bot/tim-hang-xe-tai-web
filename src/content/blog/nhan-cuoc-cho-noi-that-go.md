@@ -159,3 +159,11 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Đăng
 Chiều về trống thì tìm trên sàn theo chặng ngược lại. Xưởng gỗ thường nằm ngoại thành, nên chiều về hay có hàng khác đi vào thành phố.
 
 Anh em nào mới nhận cuốc nội thất thì gửi bài này cho người cùng chạy. Dán cố định cửa tủ trước khi xếp là việc hai phút mà đỡ được cái bản lề lỏng.
+
+## Bài viết liên quan
+
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Vì sao xe chạy rỗng chiều về, và cách tìm hàng 2 chiều để đỡ lỗ dầu](/blog/vi-sao-xe-chay-rong-chieu-ve/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

@@ -158,3 +158,11 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Đăng
 Chiều về từ vườn thường trống, nhưng vùng trồng hoa cũng cần vật tư và hàng tiêu dùng đi vào. Tìm trên sàn theo chặng ngược lại.
 
 Anh em nào mới nhận cuốc hoa Tết thì gửi bài này cho người cùng chạy. Hỏi mức hao hụt trước khi chạy là câu đáng giá nhất.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Xe Tải Chở Đồ 2026: Chọn Xe, Sắp Xếp Và Giao Nhận Đúng Cách](/blog/xe-tai-cho-do/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

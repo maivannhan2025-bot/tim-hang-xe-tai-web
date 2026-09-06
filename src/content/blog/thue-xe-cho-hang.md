@@ -103,3 +103,5 @@ App giúp bạn so sánh nhiều lựa chọn và biết rõ thông tin bên xe,
 Thuê xe chở hàng sẽ nhẹ nhàng khi bạn có một quy trình rõ ràng: chuẩn bị kỹ, so sánh lựa chọn, xác nhận thỏa thuận và nghiệm thu cẩn thận. Vài thói quen nhỏ này giúp bạn tránh gần hết những rắc rối thường gặp.
 
 Hãy đăng chuyến hàng của bạn tại timhangxetai.com để kết nối với các chủ xe phù hợp, so sánh và đặt xe an tâm. Đó là cách gọn gàng để mỗi lần thuê xe chở hàng đều đúng hẹn và đúng ý.
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

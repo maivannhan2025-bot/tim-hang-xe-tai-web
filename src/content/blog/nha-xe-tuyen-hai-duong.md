@@ -120,3 +120,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** cỡ xe, thùng kín hay thùng bạt, có xe lạnh không, có nhận hàng nông sản theo vụ không, và **có chất hàng chừa khe thoáng không**.
 
 Câu cuối gần như không nhà xe nào ghi, mà lại đúng là thứ chủ hàng củ ở vùng này đang tìm.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

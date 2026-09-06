@@ -144,3 +144,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** cỡ xe và số khối chở được, **khu vực chạy chính**, có bốc xếp không và mấy người, có xe kéo tay không, và **hẻm nhỏ nhất vào được là bao nhiêu mét**.
 
 Câu cuối gần như không ai ghi, mà lại là thứ khách ở hẻm tìm đầu tiên. Ghi ra là lọc đúng người ngay từ cuộc gọi đầu.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Xe tải chở hàng 8 tấn TPHCM đi Hà Nội: chọn đúng xe, tính đúng chuyến](/blog/xe-tai-8-tan-tphcm-di-ha-noi/)
+- [Thuê xe tải chở hàng Bắc Nam, ghép hàng hay bao xe nguyên chuyến](/blog/thue-xe-tai-cho-hang-bac-nam-ghep-hang-hay-bao-xe/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

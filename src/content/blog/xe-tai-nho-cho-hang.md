@@ -126,3 +126,5 @@ Hỏi: Tôi cần chuẩn bị gì trước khi xe đến?
 Xe tải nhỏ chở hàng là bạn đồng hành lý tưởng cho hàng ít và đường hẹp trong bức tranh chung của [dịch vụ vận chuyển hàng hóa](/blog/dich-vu-van-chuyen-hang-hoa/). Nó gọn nhẹ, luồn hẻm dễ và chi phí hợp lý. Chọn đúng loại xe giúp anh chị đi hàng an toàn mà không lãng phí.
 
 Đừng mất công gọi hỏi từng nơi nữa. Hãy tải app hoặc vào nền tảng timhangxetai.com, đăng chuyến ngay hôm nay. Nhiều nhà xe sẽ báo giá để Quý khách so sánh và chọn nhanh, hoàn toàn miễn phí.
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

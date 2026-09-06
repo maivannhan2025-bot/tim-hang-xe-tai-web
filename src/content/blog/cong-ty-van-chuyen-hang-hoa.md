@@ -131,3 +131,5 @@ Phù hợp. Bạn mô tả nhu cầu một lần, nhiều nhà xe liên hệ đ�
 Một công ty vận chuyển hàng hóa phù hợp sẽ đồng hành cùng doanh nghiệp lâu dài. Chọn kỹ từ đầu giúp bạn đỡ mệt về sau.
 
 Hãy tải app và đăng nhu cầu trên timhangxetai.com. Ghi rõ loại hàng, khối lượng và tuyến đi. Bạn sẽ tiếp cận nhiều công ty vận chuyển hàng hóa cùng lúc để chọn đối tác đúng với nhu cầu thật của mình.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

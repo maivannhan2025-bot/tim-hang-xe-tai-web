@@ -149,3 +149,11 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Đăng
 Mấy ngày sự kiện diễn ra, xe rảnh thì nhận cuốc khác trong khu vực, rồi quay lại đúng ngày tháo dỡ.
 
 Anh em nào chưa chạy loại cuốc này thì gửi bài này cho người cùng chạy. Chốt cuốc về ngay lúc nhận cuốc đi là điều đáng nhớ nhất.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Thuê xe tải chở hàng đi tỉnh cần lưu ý gì](/blog/thue-xe-tai-cho-hang-di-tinh-can-luu-y-gi/)
+- [Vận chuyển hàng hoá cần giấy tờ gì](/blog/van-chuyen-hang-hoa-can-giay-to-gi/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

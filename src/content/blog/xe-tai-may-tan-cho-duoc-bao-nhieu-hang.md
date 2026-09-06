@@ -106,3 +106,5 @@ Biết xe tải mấy tấn chở được bao nhiêu hàng chỉ là bước đ
 Tìm Hàng Xe Tải là nơi chủ hàng đăng nhu cầu [tìm xe tải chở hàng](/blog/tim-xe-tai-cho-hang/) nhanh. Nhà xe ở gần có xe đúng loại sẽ liên hệ trực tiếp để bàn cước và lịch chạy.
 
 Sàn không giữ tiền cước, hai bên tự thoả thuận và làm việc trực tiếp với nhau. Nếu đang cần tìm xe cho lô hàng sắp tới, có thể đăng thử một tin xem sao.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

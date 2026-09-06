@@ -144,3 +144,11 @@ Quý nhà xe mở ứng dụng, lọc chuyến từ Hải Phòng và các tỉnh
 Chủ hàng ở Hải Phòng cần gửi vào Nam thì đăng chuyến lên, nhà xe đang quay đầu sẽ liên hệ.
 
 Thấy bài này có ích thì gửi cho anh em cùng chạy tuyến Bắc Nam.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Vì sao xe chạy rỗng chiều về, và cách tìm hàng 2 chiều để đỡ lỗ dầu](/blog/vi-sao-xe-chay-rong-chieu-ve/)
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

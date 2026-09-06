@@ -101,3 +101,5 @@ Không có đáp án chung. Hãy quy về hiệu quả trên mỗi ngày xe ho�
 Xe của bạn chỉ sinh lời khi lăn bánh có hàng. Càng chủ động, bạn càng ít lệ thuộc vào mùa vụ và mối quen. Hãy tập tính hiệu quả từng chuyến và mở rộng nguồn đơn ngay từ bây giờ.
 
 Tải và đăng ký app tại timhangxetai.com để xem các chuyến hàng đang cần xe, đăng thông tin xe rỗng và nhận đơn phù hợp với tuyến của bạn. Đây là cách đơn giản để việc tìm hàng chạy xe tải trở nên đều đặn và bớt vất vả hơn mỗi ngày.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

@@ -122,3 +122,5 @@ Chạy rỗng là mất tiền, mà mất tiền thì ai cũng xót. Có công c
 Quan trọng là dùng cho khôn ngoan và an toàn: hồ sơ đầy đủ, phản hồi nhanh, giữ đánh giá tốt. Luôn kiểm tra kỹ chủ hàng và không chuyển cọc cho người lạ, làm đúng vậy thì mỗi chuyến đều yên tâm.
 
 Anh em tài xế hãy tải và đăng ký app miễn phí tại timhangxetai.com. Bắt đầu xem chuyến và nhận hàng ngay hôm nay. Chúc bác tài đường dài bình an, xe luôn đầy hàng.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

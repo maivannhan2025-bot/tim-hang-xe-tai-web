@@ -175,3 +175,11 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Đăng
 Chiều về trống thì tìm trên sàn theo chặng ngược lại. Với xe cũ thì mỗi chuyến có hàng đều quan trọng hơn, vì phần khấu hao còn lại ngắn.
 
 Anh em nào sắp đi xem xe thì gửi bài này cho người cùng đi. Xem giấy trước khi xem xe là thứ tự đỡ mất công nhất.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Thuê xe tải chở hàng đi tỉnh cần lưu ý gì](/blog/thue-xe-tai-cho-hang-di-tinh-can-luu-y-gi/)
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

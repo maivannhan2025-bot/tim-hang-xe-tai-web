@@ -148,3 +148,11 @@ Nhà xe đăng rõ cỡ xe, tuyến, ngày rảnh và cách liên hệ. Ghi thê
 Chủ hàng đăng rõ tuyến, số khối và thời gian giao. Tin đăng đủ thì nhà xe xem lúc dừng nghỉ rồi gọi lại, không cần bắt máy giữa đường.
 
 Anh em nào hay bị gọi lúc đang chạy thì gửi bài này cho người cùng chạy. Soạn sẵn một tin nhắn trả lời tự động là việc làm mất hai phút.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+- [Cho thuê xe tải chở hàng: chọn đúng loại xe, đỡ tốn chi phí 2026](/blog/cho-thue-xe-tai/)
+- [Tài xế tìm việc lái xe tải: cách có chuyến đều mỗi tuần 2026](/blog/tai-xe-tim-viec/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

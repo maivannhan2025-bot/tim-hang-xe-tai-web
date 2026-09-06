@@ -156,3 +156,11 @@ Ra Tết thì cập nhật lại ngay hôm chạy lại. Mấy ngày đầu năm
 Chủ hàng đăng rõ hàng, tuyến và ngày cần xe. Nhà xe nhìn là chốt được ngay.
 
 Anh em nào chưa chốt ngày nghỉ thì hỏi khách quen tuần này, rồi nhắn cho họ mốc cụ thể. Chốt sớm thì mình chủ động, mà khách cũng đỡ phải đoán.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

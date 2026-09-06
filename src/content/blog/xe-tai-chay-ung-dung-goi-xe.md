@@ -173,3 +173,11 @@ Khác với ứng dụng gọi xe, ở đây anh em thấy hàng theo tuyến v�
 Nhà xe đăng rõ cỡ xe, khu vực chạy và tuyến hay đi. Chủ hàng cần đúng cỡ đó sẽ gọi.
 
 Anh em nào đang tính đăng ký chạy ứng dụng thì gửi bài cho người cùng chạy. Tính tiền mỗi giờ trước khi bấm nhận cuốc, đó là việc đáng làm nhất.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

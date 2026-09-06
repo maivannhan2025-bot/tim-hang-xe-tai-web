@@ -137,3 +137,11 @@ Chủ hàng đăng rõ số điểm giao, cách đếm khi bàn giao, có hàng 
 Nhà xe đăng rõ cỡ xe, khu vực chạy, có xe đẩy tay không và có nhận thu hộ tiền hàng không. Với nhóm hàng này, hai chi tiết cuối là thứ chủ hàng hỏi trước tiên.
 
 Anh em nào đang tìm tuyến chạy đều trong nội thành thì gửi bài này cho người cùng chạy. Chốt cách đếm khi bàn giao trước khi nhận cuốc là việc quan trọng nhất.
+
+## Bài viết liên quan
+
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+- [Nhận Chở Hàng: Cách Nhà Xe Nhận Chuyến An Toàn 2026](/blog/nhan-cho-hang/)
+- [Tìm Hàng Xe Tải: Cách Nhận Chuyến Đều Cho Nhà Xe 2026](/blog/tim-hang-xe-tai/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

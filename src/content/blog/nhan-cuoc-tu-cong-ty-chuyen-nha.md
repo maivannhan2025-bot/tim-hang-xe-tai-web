@@ -162,3 +162,11 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Đăng
 Có nhiều nguồn thì không phải phụ thuộc một bên, và lúc thương lượng cũng thoải mái hơn.
 
 Anh em nào đang được mời chạy phụ cho công ty chuyển nhà thì gửi bài này cho người cùng chạy. Chốt phạm vi công việc trước là dòng quan trọng nhất.
+
+## Bài viết liên quan
+
+- [Công Ty Vận Chuyển Hàng Hóa: Cách Chọn Đối Tác Đúng 2026](/blog/cong-ty-van-chuyen-hang-hoa/)
+- [Nhận Chở Hàng: Cách Nhà Xe Nhận Chuyến An Toàn 2026](/blog/nhan-cho-hang/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

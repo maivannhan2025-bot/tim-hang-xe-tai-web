@@ -119,3 +119,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** cỡ xe, thùng kín hay bạt, **vào được tới đâu trong tỉnh**, chạy dòng nông sản hay dòng công nghiệp, và có nhận trung chuyển đoạn cuối không.
 
 Ở tỉnh này, ghi rõ **"vào được đường rẫy"** hoặc **"chỉ nhận giao tại Gia Nghĩa"** giúp cả hai bên đỡ mất thời gian. Chủ hàng biết ngay có gọi được hay không, còn nhà xe đỡ nhận chuyến rồi mới phát hiện xe không tới nơi được.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Cách đóng gói hàng hóa an toàn khi gửi xe tải](/blog/cach-dong-goi-hang-hoa-khi-gui-xe-tai/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

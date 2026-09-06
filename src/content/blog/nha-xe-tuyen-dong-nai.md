@@ -179,3 +179,11 @@ Quý nhà xe mở ứng dụng, lọc chuyến trong khu vực Đồng Nai và l
 Chủ hàng ở Đồng Nai cần chở về nội đô, ra cảng hay đi tỉnh thì đăng chuyến lên, nhà xe gần đó sẽ liên hệ.
 
 Thấy bài này có ích thì gửi cho anh em cùng chạy tuyến Đồng Nai.
+
+## Bài viết liên quan
+
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

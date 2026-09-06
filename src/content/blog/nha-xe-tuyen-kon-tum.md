@@ -116,3 +116,11 @@ Nhà xe chạy tuyến này có thể đăng tuyến và loại hàng nhận lê
 Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đứng về bên nào.
 
 **Đăng tin nên ghi rõ:** có làm được thủ tục cửa khẩu Bờ Y không và hướng nào, cỡ xe và loại thùng, có nhận hàng giá trị cao và khai giá trị không, và giờ chạy thật. Ở tuyến này, **ghi rõ mình làm được hướng Lào hay hướng Campuchia** là thứ tách tin của mình khỏi phần còn lại, vì đó là chuyện không cửa khẩu nào khác có.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Cách đóng gói hàng hóa an toàn khi gửi xe tải](/blog/cach-dong-goi-hang-hoa-khi-gui-xe-tai/)
+- [Nhận Chở Hàng: Cách Nhà Xe Nhận Chuyến An Toàn 2026](/blog/nhan-cho-hang/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

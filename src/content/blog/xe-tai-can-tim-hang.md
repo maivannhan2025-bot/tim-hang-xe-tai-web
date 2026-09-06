@@ -105,3 +105,5 @@ Xác nhận thông tin bằng tin nhắn, làm rõ chi phí phát sinh và chu�
 Một chiếc xe tải cần tìm hàng không nên ngồi chờ chuông reo. Càng chủ động đăng xe và lọc đơn, bạn càng nhanh có việc và ít bị ép giá. Quan trọng nhất là làm ăn tử tế để mỗi đơn thành một mối lâu dài.
 
 Hãy tải và đăng ký app tại timhangxetai.com để đăng thông tin xe rỗng, xem các chuyến đang cần xe và kết nối trực tiếp với chủ hàng. Đó là cách nhanh gọn để xe của bạn luôn có hàng để chạy.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

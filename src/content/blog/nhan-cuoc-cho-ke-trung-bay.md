@@ -163,3 +163,10 @@ Chủ hàng đăng rõ số điểm, khu vực, loại hàng và khung giờ. Nh
 Nhà xe đăng rõ cỡ xe, khu vực quen và có nhận giao nhiều điểm hay không. Với nhóm này thì dòng cuối là dòng khách đọc trước tiên.
 
 Anh em nào muốn nhận đơn chiến dịch thì hỏi lịch của khách từ đầu tháng và giữ sẵn vài ngày trống. Nhóm này gọi gấp, nhưng lịch của họ thì có từ lâu.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Xe Tải Chở Đồ 2026: Chọn Xe, Sắp Xếp Và Giao Nhận Đúng Cách](/blog/xe-tai-cho-do/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

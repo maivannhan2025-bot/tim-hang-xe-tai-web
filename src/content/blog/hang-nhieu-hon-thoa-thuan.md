@@ -151,3 +151,9 @@ Chủ hàng đăng rõ số kiện, số khối ước tính, khối lượng v�
 Nhà xe đăng rõ cỡ xe, thể tích thùng và sức chở. Ghi cả hai con số đó thì chủ hàng tự biết hàng mình có vừa hay không.
 
 Anh em nào tuần rồi vừa gặp cảnh này thì gửi bài này cho người cùng chạy. Xin một tấm ảnh trước khi nhận cuốc là việc đơn giản nhất mà đỡ nhất.
+
+## Bài viết liên quan
+
+- [Xe Tải Cần Tìm Hàng 2026: Cách Kết Nối Chủ Hàng Nhanh Nhất](/blog/xe-tai-can-tim-hang/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

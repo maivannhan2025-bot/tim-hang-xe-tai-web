@@ -148,3 +148,10 @@ Nhà xe đăng rõ cỡ xe, sức chở và có nhận bốc xếp hàng nặng 
 Chủ hàng đăng rõ danh sách máy, cân nặng, tầng và có thang máy không. Đủ vậy thì nhà xe báo giá đúng ngay lần đầu.
 
 Anh em nào sắp nhận cuốc phòng gym đầu tiên thì gửi bài này cho người cùng chạy. Hỏi cân nặng từng máy trước khi gật là việc quan trọng nhất.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Xe Tải Chở Đồ 2026: Chọn Xe, Sắp Xếp Và Giao Nhận Đúng Cách](/blog/xe-tai-cho-do/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

@@ -151,3 +151,11 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Đăng
 Chiều về trống thì tìm trên sàn theo chặng ngược lại, bù được chuyến rỗng nào hay chuyến đó.
 
 Anh em nào đang chạy mà chưa làm giấy thì gửi bài này cho người cùng chạy. Làm một lần rồi yên, hơn là mỗi lần qua chốt lại lo.
+
+## Bài viết liên quan
+
+- [Tài xế tìm việc lái xe tải: cách có chuyến đều mỗi tuần 2026](/blog/tai-xe-tim-viec/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Thuê Xe Bán Tải Chở Hàng: Khi Nào Nên Chọn Loại Xe Này 2026](/blog/thue-xe-ban-tai-cho-hang/)
+
+*Quy định nhắc trong bài tra tại [Cục Cảnh sát giao thông](https://csgt.vn).*

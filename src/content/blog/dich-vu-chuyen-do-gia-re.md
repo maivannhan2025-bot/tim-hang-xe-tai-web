@@ -133,3 +133,5 @@ Ngày thường trong tuần dễ sắp xe hơn cuối tuần. Tránh cuối th�
 Chuyển đồ không phải chuyện đáng lo nếu chuẩn bị đúng. Rẻ và an toàn hoàn toàn đi cùng nhau khi anh chị chủ động.
 
 Hãy tải app và đăng chuyến chuyển đồ tại timhangxetai.com. Nêu rõ đồ đạc và tuyến đi, rồi so sánh các xe phù hợp để nhận báo giá. Dịch vụ chuyển đồ giá rẻ và minh bạch đang chờ anh chị.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

@@ -153,3 +153,11 @@ Nhà xe đăng rõ cỡ xe, tuyến hay chạy và ngày rảnh. Với tuyến d
 Chủ hàng đăng rõ loại hàng, số khối, khung giờ nhận và điều kiện lối vào. Đủ vậy thì nhà xe báo giá chắc ngay lần đầu.
 
 Anh em nào sắp nhận mối khách sạn đầu tiên thì gửi bài này cho người cùng chạy. Hỏi cổng nào và khung giờ nào trước khi gật là việc quan trọng nhất.
+
+## Bài viết liên quan
+
+- [Vì sao xe chạy rỗng chiều về, và cách tìm hàng 2 chiều để đỡ lỗ dầu](/blog/vi-sao-xe-chay-rong-chieu-ve/)
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

@@ -151,3 +151,11 @@ Chủ hàng đăng rõ loại hàng là than hay viên nén, quy cách bao, hai 
 Nhà xe đăng rõ cỡ xe, có nhận hàng bụi không, có bạt kín không và có nhận bốc xếp không. Với nhóm này, chuyện bạt kín là câu chủ hàng viên nén hỏi trước tiên.
 
 Anh em nào chạy tuyến tỉnh thì gửi bài này cho người cùng chạy. Trải bạt lót sàn và vách trước khi xếp là việc rẻ nhất mà giữ được nhiều mối nhất.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Tìm Hàng Xe Tải: Cách Nhận Chuyến Đều Cho Nhà Xe 2026](/blog/tim-hang-xe-tai/)
+- [Tìm Xe Tải Chở Hàng: Cách Nhà Xe Nhận Chuyến Đều 2026](/blog/tim-xe-tai-cho-hang/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

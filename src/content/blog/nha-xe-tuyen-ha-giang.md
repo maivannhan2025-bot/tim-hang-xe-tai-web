@@ -117,3 +117,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** cỡ xe, vào được tới đâu trong tỉnh, **có nhận hàng sống không và có hỗ trợ thủ tục kiểm dịch không**, có xe lạnh không, và có chạy được mùa mưa không.
 
 Ở tỉnh này, câu **"nhận hàng sống, hỗ trợ thủ tục"** kéo về nhiều cuộc gọi nhất mà gần như không ai ghi, vì phần lớn nhà xe ngại nhóm hàng đó.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

@@ -161,3 +161,11 @@ Nhà xe đăng rõ cỡ xe, loại thùng kín hay bạt, tuyến hay chạy và
 Chủ hàng đăng rõ loại hàng, số kiện, số khối, giờ kho mở cửa và yêu cầu riêng nếu có. Đăng đủ thì nhà xe báo giá được ngay, đỡ mất một vòng hỏi lại.
 
 Anh em nào sắp nhận cuốc điện tử đầu tiên thì gửi bài này cho tài xế chạy chuyến đó. Lót sàn và chèn kín là hai việc quyết định phần lớn kết quả chuyến hàng.
+
+## Bài viết liên quan
+
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

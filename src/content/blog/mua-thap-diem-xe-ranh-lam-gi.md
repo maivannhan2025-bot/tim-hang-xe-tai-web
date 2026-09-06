@@ -169,3 +169,11 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Đăng
 Mùa này cũng là lúc nên mở rộng khu vực đăng. Cuốc hơi lệch tuyến quen mà vẫn trên ngưỡng thì vẫn hơn nằm bãi.
 
 Anh em nào đang có xe rảnh mấy ngày mỗi tuần thì gửi bài này cho người cùng chạy. Việc làm trong mùa rảnh quyết định mùa bận chạy thế nào.
+
+## Bài viết liên quan
+
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

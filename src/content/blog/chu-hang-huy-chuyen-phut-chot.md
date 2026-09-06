@@ -147,3 +147,11 @@ Nhà xe đăng rõ cỡ xe, tuyến hay chạy, ngày rảnh và số điện th
 Chủ hàng đăng rõ ngày giờ lấy hàng, địa chỉ hai đầu, số khối và loại hàng. Đăng đủ thì nhà xe báo giá chắc, và chuyến ít bị dời.
 
 Anh em nào tuần rồi bị huỷ một cuốc thì gửi bài này cho người cùng chạy. Cuộc gọi xác nhận 30 giây trước khi xuất phát là việc đáng làm nhất trong cả bài.
+
+## Bài viết liên quan
+
+- [Tìm Hàng Xe Tải: Cách Nhận Chuyến Đều Cho Nhà Xe 2026](/blog/tim-hang-xe-tai/)
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

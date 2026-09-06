@@ -127,3 +127,11 @@ Chủ hàng cần xe cẩu nên đăng rõ vật nặng bao nhiêu, đặt cách
 Nhà xe đăng rõ tải cẩu và tầm với, hoặc khối thùng ben và khu vực chạy. Với nhóm này, tầm với và khối thùng là con số khách hỏi trước tiên.
 
 Anh em nào đang tính đổi sang xe chuyên dùng thì gửi bài này cho người cùng chạy. Thử liên kết với người đã có xe trước khi bỏ vốn mua, đó là cách vào nghề ít rủi ro nhất.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Vì sao xe chạy rỗng chiều về, và cách tìm hàng 2 chiều để đỡ lỗ dầu](/blog/vi-sao-xe-chay-rong-chieu-ve/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

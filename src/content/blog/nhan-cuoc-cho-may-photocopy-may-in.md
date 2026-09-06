@@ -131,3 +131,9 @@ Chủ hàng đăng rõ số máy và loại máy, máy thuê hay máy mua, tần
 Nhà xe đăng rõ cỡ xe, loại thùng, có xe đẩy bánh lớn không và có chăn bọc không. Với nhóm này, hai chi tiết cuối là thứ chủ hàng hỏi trước tiên.
 
 Anh em nào có xe thùng kín sạch thì gửi bài này cho người cùng chạy. Hỏi máy thuê hay máy mua trước khi nhận cuốc là câu giữ mình khỏi rắc rối lớn nhất.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

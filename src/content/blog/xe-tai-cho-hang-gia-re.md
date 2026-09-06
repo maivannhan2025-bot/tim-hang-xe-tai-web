@@ -160,3 +160,5 @@ Có thể chậm hơn bao xe một chút vì gom nhiều điểm. Đổi lại c
 Xe tải chở hàng giá rẻ là mục tiêu tốt, nếu hiểu đúng chữ rẻ. Rẻ thật nằm ở tổng chi phí và độ an toàn, không ở con số đầu.
 
 Quý khách tải app và đăng chuyến tại timhangxetai.com để nhận nhiều báo giá cùng lúc. So minh bạch từng khoản, chọn nhà xe hợp và giữ hàng an toàn. Tiết kiệm đúng cách mới là tiết kiệm bền.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

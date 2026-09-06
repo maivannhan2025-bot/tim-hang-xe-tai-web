@@ -94,3 +94,5 @@ Nên thống nhất thời gian giao hàng ngay từ đầu, ghi lại rõ ràng
 Thuê xe tải chở hàng đi tỉnh không khó nếu chuẩn bị kỹ và hỏi rõ trước khi chốt xe. Phần lớn rắc rối xảy ra vì hai bên hiểu khác nhau về điều cần nói rõ từ đầu.
 
 Nếu chưa quen mối nhà xe uy tín nào, có thể đăng nhu cầu hàng lên Tìm Hàng Xe Tải. Nhiều nhà xe đang hoạt động trên đó sẽ chủ động liên hệ báo giá. Mình so sánh rồi tự chọn bên phù hợp với chuyến hàng của mình.
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

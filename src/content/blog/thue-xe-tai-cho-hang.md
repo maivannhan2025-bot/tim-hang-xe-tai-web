@@ -134,3 +134,5 @@ Chở hàng đi tỉnh có thuê được không? Được, anh chị chỉ cầ
 Thuê xe tải chở hàng không còn là chuyện gọi mỏi tay mà vẫn lo hớ giá. Chỉ cần đăng chuyến, anh chị đã có nhiều nhà xe cùng báo giá để so sánh. Quý khách chủ động chọn xe đúng loại, đúng tuyến, đúng ngân sách của mình.
 
 Hãy đăng chuyến hoặc tải app miễn phí ngay hôm nay. [Nền tảng timhangxetai.com](https://timhangxetai.com/) giúp Quý khách nhận báo giá nhanh, chọn xe an tâm và chở hàng gọn nhẹ hơn mỗi ngày.
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

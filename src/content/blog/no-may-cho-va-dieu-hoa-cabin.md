@@ -159,3 +159,10 @@ Chủ hàng đăng rõ giờ hàng sẵn sàng và ai ra nhận xe thì anh em b
 Nhà xe đăng rõ cỡ xe, khu vực chạy và điều kiện về giờ chờ của mình. Nói trước vẫn hơn tới nơi mới bàn.
 
 Anh em nào hay nằm chờ giữa trưa thì gửi bài này cho người cùng chạy. Đo một lần rồi biết mình đang mất bao nhiêu, đó là bước đầu tiên.
+
+## Bài viết liên quan
+
+- [Vì sao xe chạy rỗng chiều về, và cách tìm hàng 2 chiều để đỡ lỗ dầu](/blog/vi-sao-xe-chay-rong-chieu-ve/)
+- [Xe tải mấy tấn chở được bao nhiêu hàng, chọn sao cho đúng](/blog/xe-tai-may-tan-cho-duoc-bao-nhieu-hang/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

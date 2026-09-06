@@ -140,3 +140,11 @@ Vào timhangxetai.com đăng thông tin xe. Với cỡ 1,5 tấn, hai dòng đá
 Khách nhà hẻm tìm đúng con số bề ngang, và họ ít mặc cả khi tìm được xe vừa hẻm nhà mình. Khách chuyển nhà thì tìm người nhận cả phần khiêng.
 
 Bài này có ích thì gửi cho anh em cùng chạy cỡ này. Bốn câu hỏi trước khi nhận cuốc chuyển nhà đáng lưu lại.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

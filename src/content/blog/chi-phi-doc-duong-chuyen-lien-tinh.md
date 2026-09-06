@@ -173,3 +173,11 @@ Chuyến dài mà có hàng cả hai chiều thì khoản ăn ngủ chia đều 
 Nhà xe đăng rõ tuyến, cỡ xe và ngày chạy. Chủ hàng ở đầu kia thấy xe sẵn thì liên hệ.
 
 Anh em nào hay quên khoản này lúc báo giá thì gửi bài cho người cùng chạy. Đo một chuyến rồi ghi vào sổ là xong, dùng được cả năm.
+
+## Bài viết liên quan
+
+- [Cho thuê xe tải chở hàng: chọn đúng loại xe, đỡ tốn chi phí 2026](/blog/cho-thue-xe-tai/)
+- [Chuyển Đồ Liên Tỉnh: Chuẩn Bị Đúng Để Đồ Về An Toàn 2026](/blog/chuyen-do-lien-tinh/)
+- [Vận Chuyển Hàng Hóa: Cách Thuê Xe Tải Đúng Nhu Cầu 2026](/blog/van-chuyen-hang-hoa/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

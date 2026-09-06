@@ -136,3 +136,5 @@ Xe tải chở hàng 8 tấn TPHCM đi Hà Nội phù hợp với phần lớn h
 <figure><img src="/anh/xe-tai-cho-hang-100.jpg" alt="Xe tải chở hàng đầy thùng chuẩn bị chạy tuyến TPHCM đi Hà Nội"><figcaption>Xếp hàng đầy một chuyến là cách dùng chi phí thuê xe 8 tấn hiệu quả nhất trên tuyến dài.</figcaption></figure>
 
 Hãy tải ứng dụng và đăng chuyến của anh chị tại timhangxetai.com. Nhận báo giá và so sánh nhiều xe chạy đúng tuyến TPHCM đi Hà Nội. Đặt chuyến hôm nay để hàng đi đúng ý mình.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

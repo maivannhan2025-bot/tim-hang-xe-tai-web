@@ -117,3 +117,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** cỡ xe, sàn thùng loại gì, **có nhận hàng cuộn không**, có sẵn nêm chặn không, và có hỗ trợ thu xếp thiết bị nâng ở đầu nhận không.
 
 Ở tỉnh này, câu **"nhận hàng cuộn, có nêm chặn"** kéo về nhiều cuộc gọi hơn mọi câu về giá, vì phần lớn nhà xe đăng tin đều bỏ trống đúng chỗ đó.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

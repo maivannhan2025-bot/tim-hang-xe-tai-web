@@ -129,3 +129,9 @@ Chủ hàng đăng rõ giờ thiết bị phải có mặt, giờ dự kiến th
 Nhà xe đăng rõ cỡ xe, loại thùng, có nhận chạy đêm không và có xe đẩy tay không. Với nhóm này, hai chi tiết cuối là thứ đơn vị tổ chức hỏi trước tiên.
 
 Anh em nào nhận được việc cuối tuần thì gửi bài này cho người cùng chạy. Báo giá theo buổi thay vì theo cây số là cách giữ được lời với nhóm cuốc này.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

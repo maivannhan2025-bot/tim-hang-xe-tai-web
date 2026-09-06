@@ -118,3 +118,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** cỡ xe, vào được tới đâu trong tỉnh, **có nhận khai giá trị hàng không**, có hỗ trợ mua bảo hiểm hàng hóa không, và có xuất hóa đơn không.
 
 Ở tuyến đường xa và khó như đây, câu **"có nhận khai giá trị hàng"** kéo về nhóm khách trả cao nhất, vì đó là dấu hiệu của người làm nghề rõ ràng chứ không phải người hứa suông.
+
+## Bài viết liên quan
+
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

@@ -169,3 +169,11 @@ Chủ hàng đăng rõ điểm giao và điều kiện đường vào thì anh e
 Nhà xe đăng rõ cỡ xe và khu vực chạy, kèm điều kiện của mình về đường đất và bãi hạ hàng.
 
 Anh em nào từng nằm lầy một buổi thì gửi bài này cho người cùng chạy. Xuống xe đi bộ vào xem 2 phút là việc rẻ nhất trong cả mùa mưa.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

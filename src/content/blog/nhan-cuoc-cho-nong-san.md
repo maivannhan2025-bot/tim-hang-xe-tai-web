@@ -155,3 +155,9 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Đăng
 Chiều về tìm trên sàn theo chặng ngược lại. Vùng trồng nào cũng cần vật tư và hàng tiêu dùng đi vào, nên nguồn hàng về thường có, chỉ là phải tìm.
 
 Anh em nào mới nhận cuốc nông sản thì gửi bài này cho người cùng chạy. Hỏi mức hao hụt trước khi chạy là câu đáng giá nhất trong cả cuộc nói chuyện.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

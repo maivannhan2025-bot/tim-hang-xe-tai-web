@@ -164,3 +164,11 @@ Quý nhà xe mở ứng dụng, lọc chuyến trong khu vực Bình Dương và
 Chủ hàng ở các khu công nghiệp cần chở về nội đô hoặc ra cảng thì đăng chuyến lên, nhà xe gần đó sẽ liên hệ.
 
 Thấy bài này có ích thì gửi cho anh em cùng chạy tuyến khu công nghiệp.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

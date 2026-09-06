@@ -136,3 +136,11 @@ Hàng nhẹ không phải hàng dở. Nó chỉ đòi cách tính cước khác.
 Hỏi kỹ ba câu trước khi báo giá, chốt cách tính ngay từ đầu, và ghi rõ trọn chuyến là bao nhiêu khối. Làm được vậy thì hàng nhẹ chạy đều còn khỏe hơn hàng bao.
 
 Anh em có xe thùng 6m đang trống lịch thì đăng xe lên sàn kèm thông tin thể tích thùng và tải trọng. Chủ hàng nhẹ tìm xe thường lọc theo số khối chứ không lọc theo tấn.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Xe tải mấy tấn chở được bao nhiêu hàng, chọn sao cho đúng](/blog/xe-tai-may-tan-cho-duoc-bao-nhieu-hang/)
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

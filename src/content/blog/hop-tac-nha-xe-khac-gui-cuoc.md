@@ -159,3 +159,11 @@ Vào timhangxetai.com đăng thông tin xe. Ghi rõ **có nhận chạy giúp nh
 Nhà xe cần gửi cuốc tìm đúng người cùng tuyến, và đó là nguồn hàng đều mà nhiều người bỏ qua.
 
 Bài này có ích thì gửi cho anh em cùng chạy. Ba tiêu chí chọn người ở giữa bài đáng nhớ trước khi gửi cuốc đầu tiên.
+
+## Bài viết liên quan
+
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+- [Cách đóng gói hàng hóa an toàn khi gửi xe tải](/blog/cach-dong-goi-hang-hoa-khi-gui-xe-tai/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

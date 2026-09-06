@@ -168,3 +168,11 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Đăng
 Chiều về trống thì tìm trên sàn theo chặng ngược lại. Xe vẫn chạy đều thì sổ bảo dưỡng cũng đẹp hơn, và đó là thứ người mua nhìn.
 
 Anh em nào sắp đổi xe thì gửi bài này cho người cùng chạy. Rà giấy tờ trước khi rao là việc đầu tiên nên làm.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+- [Tài xế tìm việc lái xe tải: cách có chuyến đều mỗi tuần 2026](/blog/tai-xe-tim-viec/)
+- [Chuyển Đồ Liên Tỉnh: Chuẩn Bị Đúng Để Đồ Về An Toàn 2026](/blog/chuyen-do-lien-tinh/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

@@ -103,3 +103,5 @@ Dựa trên loại xe, quãng đường, khối lượng và bốc xếp. Không
 Vận chuyển hàng hóa an toàn bắt đầu từ khâu chuẩn bị kỹ. Xác định nhu cầu, chọn đúng xe và bàn giao rõ ràng hai đầu. Làm tốt các bước này thì hàng về đúng hẹn và nguyên vẹn.
 
 Anh hãy tải ứng dụng và đăng chuyến tại timhangxetai.com để nhận báo giá. Mô tả rõ hàng và tuyến, nhiều nhà xe phù hợp sẽ liên hệ. Chủ động đặt chuyến ngay hôm nay để so sánh và chọn phương án tốt nhất.
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

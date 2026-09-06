@@ -137,3 +137,5 @@ Nên trộn nhiều nguồn. Một mối lớn nghỉ là đứng xe, còn nhi�
 Xe của anh không nên nằm bãi thêm ngày nào nữa. Nguồn hàng có sẵn, vấn đề là mình có chủ động bắt lấy hay không.
 
 Hãy tải app và đăng ký tài khoản chủ xe tại timhangxetai.com. Đăng chiếc xe rỗng của anh lên, chọn tuyến, rồi nhận chuyến hợp với mình. Nguồn hàng xe tải cập nhật mỗi ngày đang chờ anh khai thác.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

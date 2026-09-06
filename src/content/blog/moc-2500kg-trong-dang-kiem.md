@@ -148,3 +148,11 @@ Vào timhangxetai.com đăng thông tin xe. Với cỡ này, dòng đáng ghi nh
 Khách cần giao ban ngày trong nội đô tìm đúng hai dòng đó. Ghi rõ thì họ gọi thẳng anh, khỏi phải hỏi qua hỏi lại rồi mới biết xe không đi được.
 
 Bài này có ích thì gửi cho anh em đang tính mua xe. Mở đăng kiểm ra xem dòng khối lượng chuyên chở là việc mất một phút mà quyết định cả năm chạy xe.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Tìm Hàng Chạy Xe Tải 2026: Bí Quyết Có Đơn Đều, Giảm Chạy Rỗng](/blog/tim-hang-chay-xe-tai/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

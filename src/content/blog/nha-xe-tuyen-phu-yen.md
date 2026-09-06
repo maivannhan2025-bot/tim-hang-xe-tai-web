@@ -122,3 +122,11 @@ Nhà xe chạy tuyến này có thể đăng tuyến và loại hàng nhận lê
 Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đứng về bên nào.
 
 **Đăng tin nên ghi rõ:** có xe lạnh không và giữ mức nào, **bao lâu sau khi gọi thì có xe**, chờ ở cảng được bao lâu, có chở hàng có mùi không. Ở tuyến này, **con số giờ từ lúc gọi tới lúc có xe** là thứ chủ hàng biển tìm trước tiên, trước cả giá.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+- [Tìm Nguồn Hàng Chạy Xe Tải Ổn Định Cho Nhà Xe 2026](/blog/tim-nguon-hang-chay-xe-tai/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

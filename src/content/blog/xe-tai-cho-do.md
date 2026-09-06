@@ -101,3 +101,5 @@ Rất tiện. Bạn đăng nhu cầu một lần và nhận kết nối từ nhi
 Một chuyến xe tải chở đồ trọn vẹn đến từ ba việc: chọn đúng xe, xếp đồ chắc chắn và nghiệm thu cẩn thận. Chuẩn bị kỹ vài phút giúp bạn tránh được cảnh đồ móp méo hay thất lạc khi tới nơi.
 
 Hãy đăng nhu cầu chở đồ của bạn tại timhangxetai.com để kết nối với các chủ xe phù hợp và đặt xe nhanh chóng. Đó là cách đơn giản để mỗi lần dùng xe tải chở đồ đều nhẹ nhàng và yên tâm.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

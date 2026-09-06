@@ -115,3 +115,11 @@ Nhà xe chạy tuyến này có thể đăng tuyến và loại hàng nhận lê
 Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đứng về bên nào.
 
 **Đăng tin nên ghi rõ:** chạy chặng nào, có nhận gom cho tuyến Bắc Nam không, có xe lạnh không, có nhận hàng cửa khẩu không và chờ được bao lâu. Ở tuyến này, **ghi rõ mình chờ được bao lâu ở cửa khẩu** là thứ chủ hàng nông sản tìm trước tiên.
+
+## Bài viết liên quan
+
+- [Tài xế tìm việc lái xe tải: cách có chuyến đều mỗi tuần 2026](/blog/tai-xe-tim-viec/)
+- [Tìm Hàng Xe Tải: Cách Nhận Chuyến Đều Cho Nhà Xe 2026](/blog/tim-hang-xe-tai/)
+- [Tìm Xe Tải Chở Hàng: Cách Nhà Xe Nhận Chuyến Đều 2026](/blog/tim-xe-tai-cho-hang/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

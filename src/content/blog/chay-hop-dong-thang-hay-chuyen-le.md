@@ -154,3 +154,5 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Đăng
 Chiều về của chuyến hợp đồng đang rỗng cũng tìm được trên sàn theo đúng chặng ngược lại. Bù được chiều về là phần lời thật, vì dầu và phí đường đằng nào cũng đã tốn.
 
 Anh em nào đang được mời ký hợp đồng tháng thì gửi bài này cho người cùng chạy. Bảy điều chốt trước khi ký đỡ được cả năm ấm ức.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

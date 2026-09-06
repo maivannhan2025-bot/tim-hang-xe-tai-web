@@ -118,3 +118,11 @@ Tìm Hàng Xe Tải là nơi chủ hàng đăng nhu cầu và nhà xe đăng xe 
 **Chủ hàng nên ghi:** ước bao nhiêu khối, nặng bao nhiêu, món lớn nhất kích thước ra sao, và đường vào hai đầu.
 
 Đăng nhu cầu hoặc đăng xe trống tại timhangxetai.com. Ai đang tính học hạng C1 hoặc đổi cỡ xe thì nên vào xem trước vài tuần: đếm thử ở khu vực mình có bao nhiêu việc thuộc dải trên 3,5 tấn. Đếm trước rẻ hơn nhiều so với quyết rồi mới biết.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

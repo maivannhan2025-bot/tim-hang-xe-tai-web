@@ -131,3 +131,11 @@ Vào timhangxetai.com đăng thông tin xe. Ghi rõ **tài xế chạy tuyến n
 Ba dòng đó nói về con người chứ không phải về chiếc xe, và đó là thứ khách hàng giá trị cao để ý.
 
 Bài này có ích thì gửi cho anh em đang tuyển tài. Bốn kỹ năng ở đầu bài đáng hỏi ngay trong buổi phỏng vấn.
+
+## Bài viết liên quan
+
+- [Thuê xe tải chở hàng đi tỉnh cần lưu ý gì](/blog/thue-xe-tai-cho-hang-di-tinh-can-luu-y-gi/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+
+*Quy định nhắc trong bài tra tại [Cục Cảnh sát giao thông](https://csgt.vn).*

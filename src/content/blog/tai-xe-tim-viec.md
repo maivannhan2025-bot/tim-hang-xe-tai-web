@@ -148,3 +148,5 @@ Nên cân nhắc kỹ. Chuyến lệch đường tốn xăng và khó tìm hàng
 Ngồi chờ mối gọi là để thu nhập cho người khác quyết. Tài xế tìm việc chủ động sẽ tự nắm được lịch chạy của mình. Anh chọn chuyến, giữ khách, tăng thu nhập đều đặn.
 
 Hãy tải ứng dụng và tạo hồ sơ tài xế tại timhangxetai.com. Xem ngay các chuyến đang cần xe theo tuyến anh chạy. Nhận chuyến đầu tiên hôm nay, đừng để tuần này trôi qua.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

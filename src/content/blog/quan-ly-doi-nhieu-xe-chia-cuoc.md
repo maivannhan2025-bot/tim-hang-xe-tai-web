@@ -146,3 +146,11 @@ Vào timhangxetai.com đăng thông tin từng xe. Với đội nhiều xe, đă
 Khách tìm theo cỡ xe và khu vực. Đăng riêng thì mỗi chiếc lọt vào một nhóm tìm kiếm khác nhau, cơ hội nhiều hơn.
 
 Bài này có ích thì gửi cho anh em đang có hai ba xe. Sổ sáu cột ở giữa bài là thứ đáng bắt đầu ngay tháng này.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+- [Nguồn Hàng Xe Tải Ổn Định: Cách Tìm Và Giữ Chân 2026](/blog/nguon-hang-xe-tai/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

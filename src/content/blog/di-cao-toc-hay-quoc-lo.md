@@ -144,3 +144,10 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Đăng
 Chiều về trống thì tìm trên sàn theo chặng ngược lại. Có hàng hai chiều rồi thì phí cao tốc nhẹ hẳn, vì nó chia cho cả hai lượt thu.
 
 Anh em nào hay phân vân ở ngã ba vào cao tốc thì gửi bài này cho người cùng chạy. Ghi sổ năm chuyến là hết phân vân.
+
+## Bài viết liên quan
+
+- [Thuê xe tải chở hàng đi tỉnh cần lưu ý gì](/blog/thue-xe-tai-cho-hang-di-tinh-can-luu-y-gi/)
+- [Xe tải chở hàng 8 tấn TPHCM đi Hà Nội: chọn đúng xe, tính đúng chuyến](/blog/xe-tai-8-tan-tphcm-di-ha-noi/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

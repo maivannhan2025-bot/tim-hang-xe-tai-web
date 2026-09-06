@@ -133,3 +133,5 @@ Mô tả đúng khối lượng và tính chất hàng khi đăng chuyến. Nhà
 Trục Bắc Nam luôn có xe chạy và luôn có hàng cần đi. Vấn đề chỉ là gặp nhau đúng lúc.
 
 Hãy tải app và đăng chuyến trên timhangxetai.com. Ghi rõ điểm đi, điểm đến, loại hàng, thời gian. Việc tìm xe tải chở hàng Bắc Nam sẽ nhanh hơn, và xe cũng dễ ghép được hàng hai chiều để đỡ chạy rỗng.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

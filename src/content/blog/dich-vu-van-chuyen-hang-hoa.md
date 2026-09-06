@@ -144,3 +144,5 @@ Anh chị đăng chuyến cần chở kèm thông tin hàng và tuyến. Xe hợ
 Hàng đi an toàn hay không phần lớn do khâu chọn ban đầu. Dịch vụ vận chuyển hàng hóa uy tín cộng với cách kiểm hàng kỹ sẽ giúp anh chị yên tâm. Hàng đúng giờ, nguyên vẹn, rõ ràng.
 
 Hãy tải ứng dụng và đăng chuyến của anh chị tại timhangxetai.com. Nhận báo giá và chọn xe phù hợp với hàng. Gửi chuyến đầu tiên hôm nay để thấy sự khác biệt.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

@@ -125,3 +125,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** có xe lạnh không, **chạy đêm hay chạy ngày**, giờ giao được ở đầu Sài Gòn, cỡ xe kèm kích thước lòng thùng, và có vào được tận vườn không.
 
 Ở tuyến này, câu **"giao trước mấy giờ sáng"** kéo về nhiều cuộc gọi hơn mọi câu quảng cáo về giá, vì đó đúng là thứ chủ hàng đang tìm.
+
+## Bài viết liên quan
+
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

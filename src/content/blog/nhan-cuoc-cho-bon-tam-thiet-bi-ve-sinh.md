@@ -146,3 +146,10 @@ Chủ hàng đăng rõ danh sách món, có bồn tắm không và dài bao nhi�
 Nhà xe đăng rõ cỡ xe, số người đi theo, có nhận đưa lên lầu không. Với nhóm này, số người là thứ cửa hàng hỏi trước tiên.
 
 Anh em nào chạy tuyến vật liệu và nội thất thì gửi bài này cho người cùng chạy. Đòi số đo cầu thang trước khi báo giá là việc cứu được nhiều chuyến nhất.
+
+## Bài viết liên quan
+
+- [Chuyển Đồ Liên Tỉnh: Chuẩn Bị Đúng Để Đồ Về An Toàn 2026](/blog/chuyen-do-lien-tinh/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

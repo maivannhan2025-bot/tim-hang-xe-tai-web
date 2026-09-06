@@ -170,3 +170,11 @@ Nhà xe có pháp nhân thì ghi rõ trong phần giới thiệu là làm việc
 Đăng xe rõ cỡ, khu vực chạy và loại hàng nhận. Chủ hàng đăng rõ tuyến và yêu cầu của họ.
 
 Anh em nào từng mất cuốc vì không xuất được chứng từ thì gửi bài này cho người cùng chạy. Đi hỏi cho rõ một buổi còn hơn đoán mấy năm.
+
+## Bài viết liên quan
+
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+- [Thuê Xe Bán Tải Chở Hàng: Khi Nào Nên Chọn Loại Xe Này 2026](/blog/thue-xe-ban-tai-cho-hang/)
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

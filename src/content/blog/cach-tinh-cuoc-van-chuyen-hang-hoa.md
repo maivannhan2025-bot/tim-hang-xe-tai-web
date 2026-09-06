@@ -90,3 +90,5 @@ Có thể trao đổi, nhất là khi nhà xe đang tiện tuyến. Nhưng nên 
 Nắm được cách tính cước vận chuyển hàng hóa, Quý khách chủ động hơn hẳn khi thuê xe, không còn cảnh nghe giá mà không biết đắt hay rẻ.
 
 Nếu muốn tự so nhiều nhà xe cùng lúc, Quý khách có thể thử ứng dụng [Tìm Hàng Xe Tải](/blog/app-tim-hang-xe-tai/). Chủ hàng đăng chuyến, nhà xe đang tiện tuyến báo giá trực tiếp, hai bên tự thỏa thuận, không qua bên thứ ba giữ tiền cước.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

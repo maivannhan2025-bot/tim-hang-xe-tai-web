@@ -153,3 +153,11 @@ Nhà xe đăng rõ cỡ xe, tuyến hay chạy và khu vực đang đứng. Anh 
 Chủ hàng đăng rõ hàng, tuyến và hạn giao. Gặp sự cố thì cũng dễ tìm xe khác đi tiếp trong ngày.
 
 Anh em nào chưa có sẵn danh sách số điện thoại dự phòng thì lập ngay hôm nay. Việc đó mất 15 phút, mà có ngày nó cứu cả chuyến hàng.
+
+## Bài viết liên quan
+
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Thuê xe tải chở hàng đi tỉnh cần lưu ý gì](/blog/thue-xe-tai-cho-hang-di-tinh-can-luu-y-gi/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

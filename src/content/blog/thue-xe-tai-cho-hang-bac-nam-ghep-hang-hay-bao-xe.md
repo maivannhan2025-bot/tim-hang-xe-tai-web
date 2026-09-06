@@ -98,3 +98,5 @@ Cách chắc nhất là hỏi giá vài nơi cho cùng lô hàng, cùng chặng 
 Khó chính xác tuyệt đối vì xe còn ghé lấy trả hàng cho nhiều chủ khác nhau. Nếu cần giao đúng giờ, nên hỏi kỹ nhà xe trước hoặc cân nhắc bao nguyên chuyến.
 
 Nếu ngại mất công gọi hỏi từng nhà xe, Tìm Hàng Xe Tải là chỗ đăng nhu cầu một lần. Nhà xe rảnh tuyến vùng Bắc Nam sẽ chủ động liên hệ lại, không phải tự đi gọi từng nơi. Cứ thử đăng tuyến đường, khối lượng và thời gian cần chuyển, xem có nhà xe nào hợp không.
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

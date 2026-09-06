@@ -136,3 +136,11 @@ Chủ hàng đăng rõ số đơn, món lớn nhất của từng đơn, tầng 
 Nhà xe đăng rõ cỡ xe, số người đi theo, có xe đẩy và đai khiêng không, có nhận đưa lên lầu không. Với nhóm này, số người là thứ cửa hàng hỏi trước tiên.
 
 Anh em nào có xe thùng kín và hai người trở lên thì gửi bài này cho người cùng chạy. Đòi số tầng của từng đơn trước khi nhận vòng là việc giữ được lời rõ nhất.
+
+## Bài viết liên quan
+
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Tìm Xe Tải Chở Hàng Bắc Nam Nhanh, Ghép Chuyến 2 Chiều 2026](/blog/tim-xe-tai-cho-hang-bac-nam/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

@@ -172,3 +172,5 @@ Có, Quý khách đăng chuyến để nhà xe nhận chở. Nhà xe lo xe và t
 Thuê xe tải tự lái đáng chọn khi Quý khách quen lái và muốn chủ động. Kiểm xe kỹ, đủ giấy tờ và chọn đúng tải là yên tâm.
 
 Nếu muốn nhẹ đầu hơn, Quý khách tải app và đăng chuyến tại timhangxetai.com. Nhà xe hợp tuyến sẽ nhận chở, Quý khách khỏi lo xe cộ và giấy tờ. Chọn cách nào hợp mình nhất là được.
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

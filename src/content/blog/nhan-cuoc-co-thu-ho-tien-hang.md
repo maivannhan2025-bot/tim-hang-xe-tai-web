@@ -146,3 +146,11 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe, hai b�
 Đăng xe ghi rõ tuyến, cỡ xe, sức chở và ngày rảnh. Nếu mình không nhận cuốc thu hộ thì ghi luôn, khỏi mất công hai bên.
 
 Anh em nào từng ôm tiền thu hộ rồi mệt thì gửi bài này cho người cùng chạy. Năm thứ chốt trước khi nhận đỡ được kha khá chuyện.
+
+## Bài viết liên quan
+
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

@@ -168,3 +168,5 @@ Chèn lót kỹ và cố định hàng chắc trong thùng. Đường dài rung 
 Vận tải Bắc Nam không đáng ngại nếu Quý khách chuẩn bị kỹ và chọn đúng dịch vụ vận tải phù hợp. Chọn đúng xe, sắp lịch khéo và theo dõi sát là ổn.
 
 Quý khách tải app và đăng chuyến tại timhangxetai.com để nhiều nhà xe cùng tuyến nhận. So báo giá, chọn xe hợp và theo dõi hàng tới nơi. Đường dài mà chủ động thì yên tâm hẳn.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

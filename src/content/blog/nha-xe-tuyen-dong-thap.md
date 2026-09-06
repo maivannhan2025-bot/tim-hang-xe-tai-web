@@ -128,3 +128,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** cỡ xe, **vào được tới đâu trong mùa nước**, có nhận trung chuyển đoạn cuối không, và có nhận hàng đi ghe không.
 
 Ở tỉnh này, câu **"mùa nước vẫn vào được ấp"** kéo về nhiều cuộc gọi hơn mọi câu về giá, vì đó đúng là thứ chủ hàng lo nhất trong bốn tháng cuối năm.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

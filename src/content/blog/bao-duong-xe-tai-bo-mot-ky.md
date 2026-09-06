@@ -141,3 +141,11 @@ Vào timhangxetai.com đăng thông tin xe. Ghi rõ **đời xe**, **tình trạ
 Khách hàng giá trị cao để ý điều đó. Xe được chăm thì ít khi hỏng giữa chuyến, và họ trả thêm cho sự chắc chắn.
 
 Bài này có ích thì gửi cho anh em cùng chạy. Bảng mốc km ở đầu bài đáng in ra dán trong cabin.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Tài xế tìm việc lái xe tải: cách có chuyến đều mỗi tuần 2026](/blog/tai-xe-tim-viec/)
+- [Xe tải mấy tấn chở được bao nhiêu hàng, chọn sao cho đúng](/blog/xe-tai-may-tan-cho-duoc-bao-nhieu-hang/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

@@ -131,3 +131,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** cỡ xe, chạy tuyến dài hay chạy quanh vùng, **có nhận chặng nối ra ga không**, có nhận chuyến gấp trong ngày không, và có xuất hóa đơn không.
 
 Ở tỉnh này, câu **"nhận chuyến gấp trong ngày"** đáng giá hơn mọi câu về giá, vì đó đúng là chỗ mà cả đường sắt lẫn xe từ xa tới đều không làm được.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

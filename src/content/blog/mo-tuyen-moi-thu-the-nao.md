@@ -175,3 +175,9 @@ timhangxetai.com là nơi nhà xe đăng xe và chủ hàng đăng hàng. Mở t
 Chuyến thử nào chưa có hàng về thì tìm trên sàn theo đúng chặng ngược lại. Một chuyến rỗng bù được là một chuyến thử đỡ đau.
 
 Nhà xe nào đang tính mở tuyến thì gửi bài này cho anh em cùng chạy. Người đã đi tuyến đó rồi nói một câu đỡ được vài chuyến thử.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

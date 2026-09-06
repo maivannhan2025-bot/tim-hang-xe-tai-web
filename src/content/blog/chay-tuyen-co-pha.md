@@ -139,3 +139,11 @@ Nhà xe đăng rõ cỡ xe, tuyến hay chạy và ngày rảnh. Với tuyến c
 Chủ hàng đăng rõ tuyến, số khối và khung thời gian giao. Hàng đi miền Tây nên ghi khung ngày thay vì khung giờ, để nhà xe báo giá chắc hơn.
 
 Anh em nào sắp nhận cuốc qua phà lần đầu thì gửi bài này cho người cùng chạy. Hỏi giờ chuyến cuối trước khi xuất phát là việc quan trọng nhất.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

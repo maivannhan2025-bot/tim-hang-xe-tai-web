@@ -93,3 +93,5 @@ Ghi rõ tuyến chạy, loại xe, [tải trọng](/blog/xe-tai-may-tan-cho-duoc
 Câu hỏi nhà xe tìm hàng ở đâu không có một đáp án duy nhất. Kết hợp mối quen với vài kênh mở rộng mới cho chuyến đều quanh năm.
 
 Muốn thêm kênh chủ động lấp chiều về, Quý nhà xe có thể thử ứng dụng Tìm Hàng Xe Tải. Xem chuyến chủ hàng đang cần theo đúng tuyến rồi liên hệ thẳng, hai bên tự thỏa thuận giá. Không qua bên thứ ba giữ tiền.
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

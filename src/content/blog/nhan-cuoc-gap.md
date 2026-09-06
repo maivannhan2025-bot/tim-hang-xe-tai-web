@@ -168,3 +168,11 @@ Nhà xe đăng rõ cỡ xe, khu vực đang đứng và khung giờ rảnh trong
 Chủ hàng đăng rõ hàng, hai đầu và giờ cần xe. Đủ vậy thì nhà xe trả lời được ngay trong cuộc gọi đầu.
 
 Anh em nào muốn ăn nhóm cuốc này thì cập nhật tin đăng mỗi sáng, và chuẩn bị sẵn bốn thứ ở trên. Cuốc gấp thuộc về người trả lời được ngay.
+
+## Bài viết liên quan
+
+- [Chuyển Đồ Liên Tỉnh: Chuẩn Bị Đúng Để Đồ Về An Toàn 2026](/blog/chuyen-do-lien-tinh/)
+- [Nhận Chở Hàng: Cách Nhà Xe Nhận Chuyến An Toàn 2026](/blog/nhan-cho-hang/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

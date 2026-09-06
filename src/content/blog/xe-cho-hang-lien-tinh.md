@@ -112,3 +112,11 @@ Tìm Hàng Xe Tải là nơi chủ hàng đăng nhu cầu và nhà xe đăng xe 
 **Chủ hàng nên ghi:** số khối, cân nặng, loại hàng, điểm đi điểm đến, ngày cần tới, và có cần hóa đơn không.
 
 Đăng nhu cầu hoặc đăng xe trống tại timhangxetai.com. Nhà xe đã có đủ giấy tờ thì nên nói rõ ngay trong phần giới thiệu, vì đó là điểm phân biệt rõ nhất với phần đông, và là thứ khách lớn tìm trước khi tìm giá.
+
+## Bài viết liên quan
+
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Chuyển Đồ Liên Tỉnh: Chuẩn Bị Đúng Để Đồ Về An Toàn 2026](/blog/chuyen-do-lien-tinh/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

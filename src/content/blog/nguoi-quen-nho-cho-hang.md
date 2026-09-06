@@ -138,3 +138,11 @@ Nhà xe đăng rõ cỡ xe, tuyến và ngày rảnh. Lịch kín bằng cuốc 
 Chủ hàng đăng rõ tuyến và thời gian giao. Xe đang chạy tuyến nào thì gom thêm hàng cùng hướng, kể cả hàng của người quen.
 
 Anh em nào tuần nào cũng bị nhờ thì gửi bài này cho người cùng chạy. Có sẵn ba mức giá trong đầu là cách đỡ ngại nhất.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Thuê xe tải chở hàng đi tỉnh cần lưu ý gì](/blog/thue-xe-tai-cho-hang-di-tinh-can-luu-y-gi/)
+- [Xe tải chở hàng 8 tấn TPHCM đi Hà Nội: chọn đúng xe, tính đúng chuyến](/blog/xe-tai-8-tan-tphcm-di-ha-noi/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

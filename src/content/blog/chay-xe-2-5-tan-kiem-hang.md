@@ -173,3 +173,11 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe.
 Xem tin hàng theo tuyến để lấp chỗ trống giữa hai cuốc quen, nhất là buổi chiều và đầu tuần.
 
 Anh em chạy cùng cỡ thì gửi bài này cho nhau. Biết chi phí một giờ của xe mình là cách duy nhất để từ chối cuốc rẻ mà không tiếc.
+
+## Bài viết liên quan
+
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách đóng gói hàng hóa an toàn khi gửi xe tải](/blog/cach-dong-goi-hang-hoa-khi-gui-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

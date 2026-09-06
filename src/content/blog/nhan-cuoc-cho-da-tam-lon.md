@@ -170,3 +170,10 @@ Xưởng đá đăng rõ số tấm, khổ, độ dày và số ký. Nhà xe nh�
 Nhà xe đăng rõ cỡ xe, có giá chữ A hay không, và có người phụ bốc không. Với nhóm này thì đó là hai dòng khách đọc trước tiên.
 
 Anh em nào định nhận nhóm đá tấm thì gửi bài này cho người cùng chạy. Chốt chuyện người phụ ở đầu nhận trước khi gật là việc quan trọng nhất.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Xe Tải Chở Đồ 2026: Chọn Xe, Sắp Xếp Và Giao Nhận Đúng Cách](/blog/xe-tai-cho-do/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

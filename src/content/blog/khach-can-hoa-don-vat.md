@@ -156,3 +156,11 @@ Chủ hàng đăng rõ có cần hoá đơn hay không, và thanh toán theo k�
 Nhà xe đăng rõ cỡ xe, tuyến chạy, và có xuất được hoá đơn hay không. Ghi trước một dòng đó thì khỏi mất công hai bên.
 
 Anh em nào đang phân vân giữa ba cách ở trên thì gửi bài này cho người cùng chạy, rồi hỏi một kế toán trước khi quyết. Quyết một lần rồi làm bảng giá, sau đó khách hỏi là trả lời được ngay.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Tìm Công Ty Cần Thuê Xe Tải: Cách Nhà Xe Chốt Khách 2026](/blog/tim-cty-can-thue-xe-tai/)
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

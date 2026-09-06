@@ -187,3 +187,11 @@ Xưởng có hàng đi kho thường đăng rõ tuyến, số pallet và mốc g
 Nhà xe đăng rõ cỡ xe, khu vực chạy và việc có xe nâng hay không. Chủ hàng cần đúng loại đó sẽ gọi.
 
 Anh em nào muốn nhận nhóm hàng này thì gửi bài cho người cùng chạy. Hỏi mốc giờ cuối cùng trước khi gật là việc quan trọng nhất của cả chuyến.
+
+## Bài viết liên quan
+
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

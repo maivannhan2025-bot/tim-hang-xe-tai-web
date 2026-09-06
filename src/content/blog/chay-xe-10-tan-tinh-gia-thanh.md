@@ -137,3 +137,11 @@ Vào timhangxetai.com đăng thông tin xe. Với cỡ này, ghi rõ **số kh�
 Thêm một dòng ít ai ghi: nếu tuyến của anh đi được theo vành đai thì nói rõ chạy được ban ngày. Khách cần giao giờ hành chính sẽ tìm đúng dòng đó.
 
 Bài này có ích thì gửi cho anh em chạy xe lớn. Bảng chi phí ở đầu bài đáng ngồi tính một lần cho xe của mình.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Xe tải chở hàng 8 tấn TPHCM đi Hà Nội: chọn đúng xe, tính đúng chuyến](/blog/xe-tai-8-tan-tphcm-di-ha-noi/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

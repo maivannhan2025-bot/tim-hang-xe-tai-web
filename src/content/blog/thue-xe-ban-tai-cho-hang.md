@@ -107,3 +107,5 @@ Dựa trên quãng đường, khối lượng và bốc xếp. Không có mức 
 Thuê xe bán tải chở hàng là lựa chọn hay cho hàng ít và tuyến đô thị. Đo hàng kỹ, chọn đúng cỡ xe và đặt chuyến rõ ràng. Làm vậy thì chuyến hàng vừa tiết kiệm vừa nhanh gọn.
 
 Anh hãy tải ứng dụng và đăng chuyến tại timhangxetai.com để nhận báo giá. Mô tả rõ hàng và tuyến, nhiều nhà xe phù hợp sẽ liên hệ. Chủ động đặt chuyến ngay hôm nay để so sánh và chọn phương án tốt nhất.
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

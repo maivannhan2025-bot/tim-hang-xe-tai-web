@@ -147,3 +147,11 @@ Nhà xe đăng rõ cỡ xe, tuyến chạy đều và khung giờ rảnh. Xe ch�
 Chủ hàng đăng rõ tuyến, số khối và khung giờ giao. Với tuyến trùng hướng, nhà xe nhận thêm được hàng chiều về mà không phải chạy rỗng.
 
 Anh em nào sắp nhận tuyến bưu cục đầu tiên thì gửi bài này cho người cùng chạy. Hỏi chiều về có hàng không là câu quyết định tuyến đó lời hay hoà.
+
+## Bài viết liên quan
+
+- [Xe Tải Chở Đồ 2026: Chọn Xe, Sắp Xếp Và Giao Nhận Đúng Cách](/blog/xe-tai-cho-do/)
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

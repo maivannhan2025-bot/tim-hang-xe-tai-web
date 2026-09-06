@@ -156,3 +156,9 @@ Người cần chuyển đăng rõ tầng, có thang máy không, và món lớn
 Nhà xe đăng rõ có nhận khiêng lầu không, mấy người, và có xe đẩy leo bậc không. Với nhóm khách này thì đó là dòng họ đọc trước tiên.
 
 Anh em nào hay bị hỏi câu nhà em ở lầu 4 thì soạn sẵn bảng giá theo tầng. Có bảng rồi thì trả lời trong 30 giây, khỏi phải tính lại mỗi lần.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

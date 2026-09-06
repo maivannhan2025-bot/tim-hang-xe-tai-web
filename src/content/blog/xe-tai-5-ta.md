@@ -137,3 +137,5 @@ Thường không cần lâu. Với chuyến trong phố, xe nhỏ khá sẵn. Đ
 Hàng gọn, tuyến ngắn thì xe tải 5 tạ là lựa chọn nhẹ nhàng và tiết kiệm. Quan trọng là đo đồ đúng và đặt xe phù hợp.
 
 Hãy tải app và đăng nhu cầu trên timhangxetai.com. Ghi rõ loại hàng, số điểm giao và địa chỉ. Bạn sẽ nhanh chóng có xe phù hợp, hoặc được tư vấn đổi xe khi hàng nhiều hơn dự tính.
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

@@ -157,3 +157,11 @@ Có con số của năm cũ rồi thì biết mình muốn nhóm hàng nào, tuy
 Nhà xe đăng rõ cỡ xe, tuyến quen và khung giờ rảnh. Chủ hàng đăng rõ hàng, hai đầu và hạn giao.
 
 Anh em nào chưa từng ngồi tính lại một năm thì thử một buổi tối tuần này. Bảy con số thôi, nhưng nó cho biết năm sau nên làm gì khác đi.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

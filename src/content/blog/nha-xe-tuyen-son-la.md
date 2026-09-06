@@ -141,3 +141,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** cỡ xe, có xe lạnh không, **có nhận hàng lỏng đóng can phuy không**, có sàn chống trượt không, và vào được tới đâu trong tỉnh.
 
 Ở tuyến này, câu **"nhận hàng can phuy, có sàn chống trượt"** kéo về nhiều cuộc gọi mà gần như không nhà xe nào ghi, vì phần lớn ngại nhóm hàng đó mà không biết rào cản thật ra rất thấp.
+
+## Bài viết liên quan
+
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Tìm Hàng Xe Tải: Cách Nhận Chuyến Đều Cho Nhà Xe 2026](/blog/tim-hang-xe-tai/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

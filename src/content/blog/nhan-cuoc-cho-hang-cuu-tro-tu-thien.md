@@ -166,3 +166,11 @@ Nhận cuốc cứu trợ đi tỉnh thì tìm luôn hàng chiều về trên đ
 Nhà xe đăng rõ cỡ xe, tuyến và ngày chạy. Chủ hàng ở tỉnh thấy xe sẵn thì liên hệ.
 
 Anh em nào hay chạy tuyến miền Trung mùa mưa thì gửi bài này cho người cùng chạy. Nói rõ tiền ngay từ đầu và chốt hàng chiều về là hai việc giữ cho mình chạy được lâu dài.
+
+## Bài viết liên quan
+
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

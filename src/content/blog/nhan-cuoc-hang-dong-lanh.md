@@ -169,3 +169,11 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Xem th
 Nếu đã có xe, đăng rõ là xe đông lạnh kèm dải nhiệt chạy được, vì chủ hàng cần biết con số đó, biết có xe lạnh thôi là chưa đủ.
 
 Anh em nào đang tính mua xe đông lạnh thì gửi bài này cho người cùng chạy. Hỏi nguồn hàng trước khi hỏi giá xe là thứ tự đúng.
+
+## Bài viết liên quan
+
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách đóng gói hàng hóa an toàn khi gửi xe tải](/blog/cach-dong-goi-hang-hoa-khi-gui-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

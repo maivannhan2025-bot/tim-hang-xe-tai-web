@@ -137,3 +137,5 @@ Dùng nền tảng kết nối để thấy xe gần và còn rảnh. Nêu rõ h
 Việc nhỏ thì nên có giải pháp nhỏ gọn. Thuê xe tải nhỏ đúng cỡ giúp anh chị nhanh việc mà nhẹ tiền.
 
 Hãy tải app và đăng chuyến tại timhangxetai.com. Nêu rõ hàng hóa và điểm giao, rồi chọn xe tải nhỏ gần nhất để nhận báo giá. Xe phù hợp cho hàng của anh chị luôn sẵn mỗi ngày.
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

@@ -151,3 +151,11 @@ Chủ hàng đăng rõ số thùng theo nhóm, cân của một thùng mẫu, h�
 Nhà xe đăng rõ cỡ xe, khu vực chạy, có nhận bốc xếp không và có xe đẩy tay không. Với nhóm hàng này, chuyện bốc xếp là thứ chủ hàng hỏi trước tiên.
 
 Anh em nào hay nhận hàng giấy thì gửi bài này cho người cùng chạy. Bắt chủ hàng cân thử một thùng trước khi chốt giá là việc cứu được nhiều cuốc nhất.
+
+## Bài viết liên quan
+
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

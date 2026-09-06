@@ -148,3 +148,11 @@ Chủ quán đăng rõ số tủ đông, loại bếp, số bàn ghế và đã 
 Nhà xe đăng rõ cỡ xe, số người đi kèm và có nhận chạy đêm không. Với nhóm này thì hai dòng đó là thứ chủ quán hỏi trước tiên.
 
 Anh em nào sắp nhận cuốc chuyển quán đầu tiên thì gửi bài này cho người cùng chạy. Dặn chủ quán xả đá tủ đông từ hôm trước là câu đáng nói nhất trong cả cuộc gọi.
+
+## Bài viết liên quan
+
+- [Nhận Chở Hàng: Cách Nhà Xe Nhận Chuyến An Toàn 2026](/blog/nhan-cho-hang/)
+- [Cách đóng gói hàng hóa an toàn khi gửi xe tải](/blog/cach-dong-goi-hang-hoa-khi-gui-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

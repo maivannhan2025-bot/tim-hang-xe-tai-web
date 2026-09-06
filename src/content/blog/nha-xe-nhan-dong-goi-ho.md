@@ -155,3 +155,11 @@ Nhà xe đăng rõ cỡ xe, khu vực, và ghi luôn là có nhận đóng gói 
 Chủ hàng và khách chuyển nhà đăng rõ số phòng, số khối và có cần gói hay không. Đủ thông tin thì báo giá một lần là xong.
 
 Anh em nào đang cân nhắc nhận thêm phần này thì gửi bài này cho người cùng làm. Bắt đầu từ mức bán vật tư là cách thử ít rủi ro nhất.
+
+## Bài viết liên quan
+
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+- [Cách đóng gói hàng hóa an toàn khi gửi xe tải](/blog/cach-dong-goi-hang-hoa-khi-gui-xe-tai/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

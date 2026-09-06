@@ -142,3 +142,11 @@ Vào timhangxetai.com đăng thông tin xe. Với loại cuốc này, ghi rõ **
 Ba dòng đó khác hẳn cách đăng của xe chở nguyên chuyến. Shop tìm người giao nhiều điểm, không tìm người chở nhiều khối.
 
 Bài này có ích thì gửi cho anh em chạy xe nhỏ trong thành phố. Cuốc shop là nguồn hàng đều nhất, nhưng phải tính đúng cách mới sống được với nó.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Dịch vụ vận chuyển hàng hóa: chọn đúng xe, giao an toàn 2026](/blog/dich-vu-van-chuyen-hang-hoa/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

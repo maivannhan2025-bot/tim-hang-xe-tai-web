@@ -116,3 +116,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** có xe lạnh không và dải nhiệt độ chạy được, **có làm lạnh thùng trước khi xếp không**, **có thiết bị ghi nhiệt độ và xuất được dữ liệu không**, nhận đi thẳng hay ghép điểm, và vào được tới đâu trong tỉnh.
 
 Ở tỉnh này, hai câu **"làm lạnh thùng trước khi xếp"** và **"có ghi nhiệt độ, xuất được dữ liệu"** kéo về nhóm khách trả cao nhất, vì đó đúng là hai thứ mà doanh nghiệp làm hàng xuất khẩu tìm, còn gần như không nhà xe nào ghi ra.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

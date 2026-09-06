@@ -153,3 +153,11 @@ Chủ hàng đăng rõ quy cách bao, số bao, hàng đã lên pallet chưa, v�
 Nhà xe đăng rõ cỡ xe, khu vực chạy, có nhận bốc xếp không và có xe đẩy tay không. Với hàng bao, chuyện ai vác là câu chủ hàng hỏi trước tiên.
 
 Anh em nào đang tìm tuyến chạy đều quanh năm thì gửi bài này cho người cùng chạy. Tách tiền vác ra khỏi tiền chạy là việc giữ được lời nhiều nhất.
+
+## Bài viết liên quan
+
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách đóng gói hàng hóa an toàn khi gửi xe tải](/blog/cach-dong-goi-hang-hoa-khi-gui-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

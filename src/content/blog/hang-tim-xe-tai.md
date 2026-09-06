@@ -131,3 +131,5 @@ Bật thông báo theo tuyến hay chạy và phản hồi sớm. Hàng tốt b�
 Cơ hội có mỗi ngày, chỉ cần anh có mặt đúng chỗ. Tin hàng mới liên tục được đăng, xe của anh nên là xe bắt được chuyến.
 
 Hãy tải app và đăng ký tài khoản chủ xe tại timhangxetai.com. Chọn tuyến hay chạy, bật thông báo, rồi chốt những chuyến hợp với mình. Nguồn hàng tìm xe tải đang chờ anh mỗi ngày.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

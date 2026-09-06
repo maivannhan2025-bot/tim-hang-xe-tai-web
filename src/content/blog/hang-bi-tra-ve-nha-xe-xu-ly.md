@@ -146,3 +146,11 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe, hai b�
 Đăng xe ghi rõ tuyến, cỡ xe, sức chở và ngày rảnh. Chuyến nào đang có hàng trả về chiếm chỗ thì ghi số khối còn trống cho đúng, khỏi nhận rồi phải từ chối.
 
 Anh em nào từng ôm hàng trả về mấy ngày không biết gửi đâu thì gửi bài này cho người cùng chạy. Bốn câu chốt lúc nhận cuốc đỡ được cả ngày mất trắng.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

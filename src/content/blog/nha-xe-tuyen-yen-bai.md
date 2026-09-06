@@ -120,3 +120,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** cỡ xe kèm kích thước lòng thùng, **có nhận hàng mùi mạnh không**, có bạt lót thùng không, nhận nhóm vỏ quế hay tinh dầu hay gỗ, và chạy hướng xuôi hay hướng lên Lào Cai.
 
 Ở tỉnh này, câu **"nhận hàng mùi mạnh, có bạt lót thùng"** kéo về nhiều cuộc gọi nhất mà gần như không ai ghi, vì phần lớn nhà xe né nhóm hàng đó thay vì xử lý nó.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

@@ -101,3 +101,5 @@ Nền tảng giúp thông tin hai bên rõ ràng và dễ so sánh nhiều lựa
 Thuê xe tải không khó nếu bạn chuẩn bị kỹ. Biết rõ nhu cầu, chọn đúng tải trọng, hiểu các yếu tố tạo nên giá và chốt rõ mọi khoản là bạn đã tránh được hầu hết rắc rối thường gặp.
 
 Hãy đăng chuyến hàng của bạn tại timhangxetai.com để nhận kết nối từ các chủ xe phù hợp, so sánh lựa chọn và đặt xe nhanh chóng. Đây là cách đơn giản để mỗi lần thuê xe tải đều nhẹ nhàng và đúng ý.
+
+*Quy định nhắc trong bài tra tại [Cục Cảnh sát giao thông](https://csgt.vn).*

@@ -134,3 +134,11 @@ Chủ hàng đăng rõ số bầu và cỡ bầu, có khay và giá kê không, 
 Nhà xe đăng rõ cỡ xe, có khung che và lưới không, có bộ giá tầng không. Với nhóm này, bộ giá tầng là thứ vườn ươm hỏi trước tiên.
 
 Anh em nào chạy tuyến miền Tây hay Tây Nguyên thì gửi bài này cho người cùng chạy. Làm sẵn một bộ giá tầng tháo lắp được là khoản đầu tư rẻ mà mở ra cả nhóm cuốc mới.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

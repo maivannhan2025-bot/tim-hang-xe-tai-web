@@ -160,3 +160,5 @@ Nếu vượt sức xe nhỏ, anh chị nên chọn xe tầm trung. Một xe v�
 Hàng ít, quãng gần, cần nhanh thì taxi tải là lựa chọn gọn. Chuẩn bị hàng sẵn, mô tả rõ, chọn giờ hợp là chuyến đi trôi nhanh. Anh chị vừa tiện, vừa đỡ tốn.
 
 Hãy tải ứng dụng và đăng chuyến của anh chị tại timhangxetai.com. Xe gần sẽ nhận và báo giá phù hợp. Đặt taxi tải ngay để hàng đi trong ngày.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

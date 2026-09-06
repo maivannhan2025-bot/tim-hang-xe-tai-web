@@ -145,3 +145,11 @@ Vào timhangxetai.com đăng thông tin xe. Nếu anh nhận hàng lỏng, ghi r
 Dòng thứ nhất là dòng khách cần nhất. Họ đếm phuy chứ không đếm khối.
 
 Bài này có ích thì gửi cho anh em cùng chạy. Câu hỏi "phuy có đầy không" đáng thành thói quen, nó thay đổi cả cách chạy chuyến đó.
+
+## Bài viết liên quan
+
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

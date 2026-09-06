@@ -117,3 +117,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** chạy hướng Hà Nội hay hướng Hải Phòng, cỡ xe, thùng kín hay bạt, có nhận chặng nối ngắn không, và có xuất được hóa đơn không.
 
 Ở tỉnh này, ghi rõ **"nhận chạy chân rết ra đầu mối Hà Nội"** hoặc **"có hóa đơn, nhận hàng nhà máy"** là hai câu kéo về nhiều cuộc gọi nhất, vì đó đúng là hai thứ chủ hàng ở đây tìm.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

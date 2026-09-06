@@ -165,3 +165,11 @@ Trước khi nâng hạng, anh em vào xem tin hàng trong khu vực để đế
 Sau khi có bằng và có xe, đăng xe rõ cỡ, khu vực chạy và khung giờ nhận cuốc.
 
 Anh em nào đang tính nâng hạng thì gửi bài này cho người cùng chạy. Đếm hàng trước, ghi danh sau, đó là thứ tự đúng.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Tài xế tìm việc lái xe tải: cách có chuyến đều mỗi tuần 2026](/blog/tai-xe-tim-viec/)
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+
+*Quy định nhắc trong bài tra tại [Cục Cảnh sát giao thông](https://csgt.vn).*

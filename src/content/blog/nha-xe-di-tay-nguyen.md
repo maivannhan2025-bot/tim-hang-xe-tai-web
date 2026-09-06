@@ -131,3 +131,11 @@ Tìm Hàng Xe Tải là nơi chủ hàng đăng nhu cầu và nhà xe đăng xe 
 **Chủ hàng nên ghi:** tên huyện nơi nhận, cách trung tâm bao xa, đường vào là đường gì, số khối và ngày cần tới.
 
 Đăng nhu cầu hoặc đăng xe trống tại timhangxetai.com. Trước mùa cà phê là lúc nên đăng lịch trống sớm nhất, vì đó là lúc chủ hàng hai chiều đều đi tìm xe.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

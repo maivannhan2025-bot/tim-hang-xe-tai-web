@@ -131,3 +131,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** cỡ xe kèm **chiều dài lòng thùng**, kiện dài nhất nhận được bao nhiêu mét, có xuất hóa đơn không, có nhận công nợ theo đợt không, và chạy cố định ngày nào trong tuần.
 
 Ở tuyến này, câu **"nhận kiện dài tới mấy mét, có hóa đơn"** kéo về đúng nhóm khách trả đều nhất, vì đó là hai điều nhà thầu hỏi trước tiên.
+
+## Bài viết liên quan
+
+- [Cách đóng gói hàng hóa an toàn khi gửi xe tải](/blog/cach-dong-goi-hang-hoa-khi-gui-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

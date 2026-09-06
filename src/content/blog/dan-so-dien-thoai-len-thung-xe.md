@@ -134,3 +134,11 @@ Nhà xe đăng rõ cỡ xe, tuyến hay chạy, ngày rảnh và số gọi đư
 Chủ hàng đăng rõ tuyến, số khối, ngày giờ giao. Đủ thông tin thì nhà xe gọi lại là báo giá được ngay.
 
 Anh em nào sắp làm decal cho xe thì gửi bài này cho người cùng chạy. Số to, ít chữ, và nhớ mặt sau thùng là ba điều đáng nhớ nhất.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Cách đóng gói hàng hóa an toàn khi gửi xe tải](/blog/cach-dong-goi-hang-hoa-khi-gui-xe-tai/)
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

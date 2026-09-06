@@ -140,3 +140,10 @@ Chủ hàng đăng rõ kiểu đóng gói, số kiện, có hàng treo không v�
 Nhà xe đăng rõ cỡ xe, loại thùng, có bạt lót sàn không và có khung treo không. Với nhóm hàng này, hai chi tiết cuối là thứ chủ hàng hỏi trước tiên.
 
 Anh em nào có xe van hoặc thùng kín sạch thì gửi bài này cho người cùng chạy. Đổi câu hỏi cân thành câu hỏi số kiện là việc cứu được nhiều cuốc nhất.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Thuê Xe Tải Chở Hàng Giá Tốt 2026: Đăng Chuyến Nhận Báo Giá Ngay](/blog/thue-xe-tai-cho-hang/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

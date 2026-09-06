@@ -124,3 +124,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe và cũng không 
 **Đăng tin nên ghi rõ:** tuyến chạy và **lịch cố định ngày nào**, cỡ xe kèm số khối, có nhận hàng lẻ trực tiếp không, có nhận chạy thuê cho chành không, và có nhận hàng chiều về không.
 
 Câu **"chạy cố định thứ mấy"** kéo về nhiều liên hệ nhất, vì cả chủ hàng lẫn chành đều cần biết lịch để gom hàng theo. Và khi họ gom theo lịch của mình thì xe mình đầy hơn mà không phải chạy thêm cây số nào.
+
+## Bài viết liên quan
+
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Thuê xe tải chở hàng đi tỉnh cần lưu ý gì](/blog/thue-xe-tai-cho-hang-di-tinh-can-luu-y-gi/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

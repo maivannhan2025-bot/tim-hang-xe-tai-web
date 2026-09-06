@@ -156,3 +156,9 @@ Chủ hàng đăng rõ số bộ, bàn ghế liền hay rời, trường cho và
 Nhà xe đăng rõ cỡ xe, số người đi theo, có nhận làm cuối tuần và buổi tối không. Với nhóm này, số người và chuyện làm ngoài giờ là hai câu xưởng hỏi trước tiên.
 
 Anh em nào rảnh cuối tuần thì gửi bài này cho người cùng chạy. Hỏi quãng khiêng từ cổng vào dãy phòng trước khi báo giá là việc cứu được nhiều buổi nhất.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

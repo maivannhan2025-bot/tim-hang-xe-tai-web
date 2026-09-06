@@ -145,3 +145,9 @@ Chủ hàng đăng rõ bảng dài bao nhiêu, có thiết bị điện tử kh�
 Nhà xe đăng rõ cỡ xe, chiều dài lòng thùng, số người và có nhận làm cuối tuần không. Với nhóm này, chiều dài lòng thùng và chuyện làm ngoài giờ là hai điều công ty thiết bị hỏi trước tiên.
 
 Anh em nào có xe thùng dài và rảnh dịp hè thì gửi bài này cho người cùng chạy. Nhóm này bù đúng vào mùa mà các tuyến khác vắng nhất.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

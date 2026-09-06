@@ -92,3 +92,5 @@ Xe chạy rỗng chiều về đôi khi khó tránh hoàn toàn. Nhưng nếu bi
 Quý nhà xe có thể xem thêm cách gom đơn và chọn tuyến trong bài [xe tải tìm hàng: cách lấp đầy chuyến, bớt chạy rỗng chiều về](/blog/xe-tai-tim-hang/). Hoặc tham khảo thêm các kênh tìm hàng khác trong bài [nhà xe tìm hàng ở đâu](/blog/nha-xe-tim-hang-o-dau/) và [tìm nguồn hàng cho xe tải](/blog/tim-nguon-hang-cho-xe-tai/).
 
 Hãy tải [ứng dụng Tìm Hàng Xe Tải](/blog/app-tim-hang-xe-tai/) và đăng ký xe tại timhangxetai.com ngay hôm nay. Xem chuyến chủ hàng đang cần theo đúng tuyến, chủ động tìm hàng chiều về, để mỗi chuyến chạy đều đáng công hơn.
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

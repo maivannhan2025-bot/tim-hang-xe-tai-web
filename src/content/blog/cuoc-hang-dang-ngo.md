@@ -147,3 +147,11 @@ Chủ hàng đăng rõ loại hàng, số khối, hai đầu địa chỉ và th
 Nhà xe đăng rõ cỡ xe, tuyến và loại hàng mình nhận. Ghi luôn là chỉ nhận cuốc có phiếu giao hàng cũng được, đó là cách lọc từ đầu.
 
 Anh em nào vừa nhận một cuộc gọi thấy gợn thì gửi bài này cho người cùng chạy. Bốn câu hỏi lọc nhanh là thứ nên thuộc lòng.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

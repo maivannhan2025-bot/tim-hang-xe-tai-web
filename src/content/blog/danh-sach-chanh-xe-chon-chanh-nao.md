@@ -121,3 +121,11 @@ Tìm Hàng Xe Tải là nơi chủ hàng đăng nhu cầu và nhà xe đăng xe 
 **Chủ hàng và chành nên ghi:** tuyến, khối lượng thường xuyên, tần suất mỗi tuần, và yêu cầu về giấy tờ.
 
 Đăng nhu cầu hoặc đăng xe trống tại timhangxetai.com. Nhà xe nên đăng cả tuyến chính lẫn tuyến phụ mình nhận được, vì nhiều việc đến từ tuyến mà mình không nghĩ là mình chạy.
+
+## Bài viết liên quan
+
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+- [Thuê Xe Bán Tải Chở Hàng: Khi Nào Nên Chọn Loại Xe Này 2026](/blog/thue-xe-ban-tai-cho-hang/)
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

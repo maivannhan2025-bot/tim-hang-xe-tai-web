@@ -169,3 +169,11 @@ Chủ hàng đăng rõ giờ hàng sẵn, giờ phải có mặt và giờ kho n
 Nhà xe đăng rõ cỡ xe, tuyến quen và có nhận chạy đêm hay không. Nhận được cuốc gấp hay không nằm ở dòng đó.
 
 Anh em nào hay nhận cuốc cam kết giờ thì tự lập bảng dự phòng cho mấy tuyến quen của mình. Ghi một lần, dùng mãi.
+
+## Bài viết liên quan
+
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Xe Tải Chở Đồ 2026: Chọn Xe, Sắp Xếp Và Giao Nhận Đúng Cách](/blog/xe-tai-cho-do/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

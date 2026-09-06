@@ -155,3 +155,11 @@ Chủ hàng đăng rõ giờ hàng sẵn sàng, giờ kho mở, và ai là ngư�
 Nhà xe đăng rõ cỡ xe, khu vực chạy và điều kiện về giờ chờ của mình. Nói trước còn hơn để tới nơi mới bàn.
 
 Anh em nào hay bị nằm chờ thì gửi bài này cho người cùng chạy. Chốt giờ chờ ngay lúc nhận cuốc là việc đơn giản nhất mà giữ được nhiều tiền nhất.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Chạy Xe Tải 20 Tấn: Tải Trọng Trục Và Cách Tính Lại Giá](/blog/chay-xe-tai-20-tan-tai-trong-truc/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

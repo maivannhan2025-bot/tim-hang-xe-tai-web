@@ -144,3 +144,11 @@ Hàng cồng kềnh không phải hàng dở, chỉ cần tính đúng cách và
 Tính theo khối hoặc trọn chuyến, xếp món cao sát vách, chèn chân, chằng theo lớp. Làm được vậy thì một chuyến hàng nhẹ vẫn ra tiền như chuyến hàng nặng, mà xe lại đỡ hao.
 
 Anh em đăng xe lên sàn thì ghi rõ thể tích thùng và chiều cao lòng thùng. Chủ hàng cồng kềnh quan tâm hai con số đó hơn cả tải trọng.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Thuê Xe Tải Chở Hàng Giá Tốt 2026: Đăng Chuyến Nhận Báo Giá Ngay](/blog/thue-xe-tai-cho-hang/)
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

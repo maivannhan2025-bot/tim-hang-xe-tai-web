@@ -125,3 +125,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** tải trọng xe, có nhận hàng bao không, có bạt che kín không, có nhận bốc xếp không, và **có nhận ghép hàng nhẹ vào phần thùng trống không**.
 
 Câu cuối là câu ít người ghi mà lại kéo về nhiều cuộc gọi, vì chủ hàng nhẹ đang tìm chuyến rẻ, còn nhà xe thì đang có chỗ trống bỏ không.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Cho thuê xe tải chở hàng: chọn đúng loại xe, đỡ tốn chi phí 2026](/blog/cho-thue-xe-tai/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

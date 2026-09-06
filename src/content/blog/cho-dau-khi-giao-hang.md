@@ -149,3 +149,11 @@ Chủ hàng đăng rõ địa chỉ, xe đậu được tới đâu và quãng t
 Nhà xe đăng rõ cỡ xe và có xe đẩy tay không. Với cuốc giao mặt phố thì hai chi tiết đó quyết định khách chọn ai.
 
 Anh em nào chạy giao hàng nội thành mỗi ngày thì lập sổ chỗ đậu ngay tuần này. Mất mấy phút mỗi cuốc, mà vài tháng sau là tiết kiệm thấy rõ.
+
+## Bài viết liên quan
+
+- [Dịch vụ vận chuyển hàng hóa: chọn đúng xe, giao an toàn 2026](/blog/dich-vu-van-chuyen-hang-hoa/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+- [Vì sao xe chạy rỗng chiều về, và cách tìm hàng 2 chiều để đỡ lỗ dầu](/blog/vi-sao-xe-chay-rong-chieu-ve/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

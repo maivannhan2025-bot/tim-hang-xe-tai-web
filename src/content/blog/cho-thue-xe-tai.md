@@ -146,3 +146,5 @@ Anh chị đăng chuyến cần chở với thông tin hàng và tuyến. Chủ 
 Chọn đúng loại xe là nửa phần thành công của chuyến hàng. Cho thuê xe tải chở hàng sẽ nhẹ nhàng khi anh chị biết mình cần gì. Xe vừa vặn, hàng an toàn, chi phí hợp lý.
 
 Hãy tải ứng dụng và đăng chuyến của anh chị tại timhangxetai.com. Nhận báo giá và so sánh nhiều xe phù hợp. Đặt chuyến hôm nay để hàng đi đúng ý mình.
+
+*Quy định nhắc trong bài tra tại [Tổng cục Thuế](https://www.gdt.gov.vn).*

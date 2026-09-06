@@ -162,3 +162,5 @@ timhangxetai.com là nơi chủ hàng đăng hàng và nhà xe đăng xe. Đăng
 Cuốc ngắn trong khu vực là loại hợp nhất để lấp phần lịch trống này, vì không kéo xe đi xa khỏi tuyến chính.
 
 Anh em nào đang được mời chạy tuyến suất ăn thì gửi bài này cho người cùng chạy. Bốn câu tự hỏi trước khi nhận là phần quan trọng nhất.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

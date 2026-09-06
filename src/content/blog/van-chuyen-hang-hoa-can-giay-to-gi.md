@@ -76,3 +76,5 @@ Tuỳ loại hàng và tuyến đường, có thể phát sinh thêm yêu cầu 
 Giấy tờ vận chuyển hàng hoá nghe có vẻ là chuyện nhỏ. Nhưng thiếu đúng một tờ vào đúng lúc có thể làm cả chuyến hàng bị trễ. Chuẩn bị kỹ từ đầu luôn nhẹ nhàng hơn xử lý giữa đường rất nhiều.
 
 Khi chủ hàng và nhà xe uy tín tìm được nhau sớm, phần lớn rắc rối này gần như không xảy ra. Tìm Hàng Xe Tải là nơi chủ hàng đăng nhu cầu vận chuyển hàng hóa và nhà xe tìm chuyến phù hợp, hai bên chủ động trao đổi trực tiếp, không qua trung gian giữ tiền cước. Ai đang cần tìm đối tác cho chuyến hàng sắp tới, hãy tải app hoặc đăng chuyến ngay trên timhangxetai.com.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

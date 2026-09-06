@@ -95,3 +95,5 @@ Có thể hỏi mối quen hoặc đăng chuyến lên [ứng dụng tìm hàng]
 Chọn gửi hàng qua nhà xe hay chành xe không khó nếu nhìn đúng vào lô hàng. Cân giữa chi phí, tốc độ và độ an toàn cho từng chuyến.
 
 Quý khách cần một nhà xe chạy riêng đang tiện tuyến có thể thử ứng dụng Tìm Hàng Xe Tải. Đăng chuyến lên đó, nhà xe hợp tuyến sẽ báo giá trực tiếp. Hai bên tự thỏa thuận, không qua bên thứ ba giữ tiền cước.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

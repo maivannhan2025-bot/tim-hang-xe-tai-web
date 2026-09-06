@@ -138,3 +138,10 @@ Chủ hàng đăng rõ số két và số thùng, bao nhiêu quán, quán nào t
 Nhà xe đăng rõ cỡ xe, khu vực chạy, có nhận bốc xếp không và có nhận thu hộ tiền không. Với nhóm này, hai chi tiết cuối là thứ đại lý hỏi trước tiên.
 
 Anh em nào muốn có vòng chạy đều mỗi ngày thì gửi bài này cho người cùng chạy. Ghi vỏ có chữ ký tại từng quán là việc giữ mình khỏi rắc rối lớn nhất.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Xe Tải Chở Đồ 2026: Chọn Xe, Sắp Xếp Và Giao Nhận Đúng Cách](/blog/xe-tai-cho-do/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

@@ -114,3 +114,11 @@ Tìm Hàng Xe Tải là nơi chủ hàng đăng nhu cầu và nhà xe đăng xe 
 **Chủ hàng nên ghi:** số khối, cân nặng, loại hàng, điểm đi điểm đến, và ngày cần tới trước.
 
 Đăng nhu cầu hoặc đăng xe trống tại timhangxetai.com. Nhà xe đang chạy tuyến Bắc Nam thì nên đăng lịch chiều về ngay khi vừa nhận chuyến đi, đừng đợi tới lúc giao xong mới tìm. Tìm sớm vài ngày là khác hẳn.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Tìm Nguồn Hàng Chạy Xe Tải Ổn Định Cho Nhà Xe 2026](/blog/tim-nguon-hang-chay-xe-tai/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

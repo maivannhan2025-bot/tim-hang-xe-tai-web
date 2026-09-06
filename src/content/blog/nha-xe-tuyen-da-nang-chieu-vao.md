@@ -152,3 +152,11 @@ Quý nhà xe mở ứng dụng, lọc chuyến từ Đà Nẵng và miền Trung
 Chủ hàng ở miền Trung cần gửi vào Nam thì đăng chuyến lên, nhà xe đang quay đầu sẽ liên hệ.
 
 Thấy bài này có ích thì gửi cho anh em cùng chạy tuyến miền Trung.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Nhà xe tìm hàng ở đâu để xe ít chạy rỗng](/blog/nha-xe-tim-hang-o-dau/)
+- [Vì sao xe chạy rỗng chiều về, và cách tìm hàng 2 chiều để đỡ lỗ dầu](/blog/vi-sao-xe-chay-rong-chieu-ve/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

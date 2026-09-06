@@ -134,3 +134,11 @@ Chủ hàng đăng rõ số món theo loại, tầng của hai đầu, có thang
 Nhà xe đăng rõ cỡ xe, số người đi theo, có xe đẩy tay không và có nhận tháo lắp không. Với nhóm hàng này, số người là thứ chủ hàng hỏi trước tiên.
 
 Anh em nào muốn có mối doanh nghiệp chạy đều thì gửi bài này cho người cùng chạy. Hỏi khung giờ dùng thang máy trước khi nhận giờ hẹn là việc cứu được nhiều buổi nhất.
+
+## Bài viết liên quan
+
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Thuê Xe Tải Tự Lái: Kinh Nghiệm Và Checklist 2026](/blog/thue-xe-tai-tu-lai/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

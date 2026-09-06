@@ -120,3 +120,11 @@ Nhà xe chạy tuyến này có thể đăng tuyến và loại hàng nhận lê
 Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đứng về bên nào.
 
 **Đăng tin nên ghi rõ:** **có chở sầu riêng không**, cỡ xe và loại thùng, có xe lạnh không, giờ chạy trong ngày và chạy được mấy lượt. Ở tuyến này, **ghi rõ giờ chạy và số lượt** đáng giá hơn ghi giá, vì chủ hàng trái cây chọn theo giờ trước tiên.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Xe Tải Chở Hàng Giá Rẻ: Cách So Báo Giá Đúng 2026](/blog/xe-tai-cho-hang-gia-re/)
+- [Cách chọn nhà xe uy tín khi thuê xe tải lần đầu](/blog/cach-chon-nha-xe-uy-tin-khi-thue-lan-dau/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

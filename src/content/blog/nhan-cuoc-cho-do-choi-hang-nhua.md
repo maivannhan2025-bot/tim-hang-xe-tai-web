@@ -145,3 +145,11 @@ Chủ hàng đăng rõ số kiện và cỡ kiện, có món rời cỡ lớn kh
 Nhà xe đăng rõ cỡ xe, khối thùng chứa được, có xe đẩy tay không và có nhận giao nhiều điểm không. Với nhóm này, khối thùng là con số chủ hàng cần hơn cả tải trọng.
 
 Anh em nào chạy hàng nhẹ thì gửi bài này cho người cùng chạy. Đổi câu hỏi cân thành câu hỏi số kiện là việc cứu được nhiều cuốc nhất.
+
+## Bài viết liên quan
+
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

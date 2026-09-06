@@ -138,3 +138,11 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 **Đăng tin nên ghi rõ:** cỡ xe, vào được tới đâu trong tỉnh, chạy đường nào và mất bao lâu, có nhận chuyển nhà không, và **nhóm hàng nào mình nhận hoặc không nhận**.
 
 Ghi rõ mình **không** nhận nhóm nào nghe như tự thu hẹp khách, nhưng thực tế nó lọc đúng người và tránh được những cuộc gọi mất công cho cả hai bên.
+
+## Bài viết liên quan
+
+- [Cho Thuê Xe Tải Theo Tháng: Nhà Xe Nên Nhận Hay Không](/blog/cho-thue-xe-tai-theo-thang/)
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Tìm Công Ty Cần Thuê Xe Tải: Cách Nhà Xe Chốt Khách 2026](/blog/tim-cty-can-thue-xe-tai/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

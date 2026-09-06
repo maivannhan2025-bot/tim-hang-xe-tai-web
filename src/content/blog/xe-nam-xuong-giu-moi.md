@@ -148,3 +148,11 @@ Nhà xe đăng rõ cỡ xe, tuyến và ngày rảnh. Khi xe vừa ra xưởng, 
 Chủ hàng đăng rõ tuyến, số khối và thời gian giao. Nhà xe vừa xong sửa chữa thường nhận được cuốc sớm nếu chủ động tìm.
 
 Anh em nào đang có xe nằm xưởng thì gửi bài này cho người cùng chạy. Gọi báo khách ngay trong ngày đầu là việc giữ được nhiều nhất.
+
+## Bài viết liên quan
+
+- [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

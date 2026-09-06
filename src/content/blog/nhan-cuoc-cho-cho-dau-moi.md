@@ -142,3 +142,11 @@ Nhà xe đăng rõ cỡ xe, khung giờ chạy được và khu vực. Ghi rõ l
 Chủ hàng đăng rõ giờ lấy hàng, số điểm giao và loại hàng. Đăng đủ thì nhà xe báo giá chắc ngay lần đầu.
 
 Anh em nào định thử nhóm khách chợ đầu mối thì gửi bài này cho tài xế chạy đêm. Tới sớm 30 phút trong mấy chuyến đầu là việc đáng làm nhất.
+
+## Bài viết liên quan
+
+- [Vì sao xe chạy rỗng chiều về, và cách tìm hàng 2 chiều để đỡ lỗ dầu](/blog/vi-sao-xe-chay-rong-chieu-ve/)
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+
+*Quy định nhắc trong bài tra tại [Cục Đăng kiểm Việt Nam](https://www.vr.org.vn).*

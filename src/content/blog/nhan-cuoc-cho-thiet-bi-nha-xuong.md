@@ -151,3 +151,11 @@ Chủ hàng đăng rõ cân của máy nặng nhất, hai đầu có xe nâng kh
 Nhà xe đăng rõ cỡ xe, có xe nâng tay và xích chằng không, và có nhận đi khảo sát không. Với nhóm này, thiết bị đi kèm là thứ chủ xưởng hỏi trước tiên.
 
 Anh em nào có xe lớn thì gửi bài này cho người cùng chạy. Hỏi cân máy nặng nhất trước khi nhận là câu giữ mình khỏi rắc rối lớn nhất.
+
+## Bài viết liên quan
+
+- [Nhận Chở Hàng: Cách Nhà Xe Nhận Chuyến An Toàn 2026](/blog/nhan-cho-hang/)
+- [Nhận Cuốc Chở Thuốc Tây Cho Nhà Thuốc: Nhẹ Mà Chặt](/blog/nhan-cuoc-cho-thuoc-tay-nha-thuoc/)
+- [Tìm Hàng Xe Tải: Cách Nhận Chuyến Đều Cho Nhà Xe 2026](/blog/tim-hang-xe-tai/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

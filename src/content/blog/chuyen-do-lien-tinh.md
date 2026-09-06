@@ -133,3 +133,5 @@ Với đồ giá trị hoặc hàng kinh doanh nên có giấy tờ nguồn gố
 Đường xa không còn đáng ngại khi anh chị chuẩn bị đúng. Đồ về đủ và về lành là chuyện làm được nếu chọn đúng xe, đúng nơi.
 
 Hãy tải app và đăng chuyến tại timhangxetai.com. Nêu rõ đồ đạc, điểm đi và điểm đến, rồi so sánh các xe chạy đúng tuyến để nhận báo giá. Chuyển đồ liên tỉnh an toàn và tiết kiệm đang chờ anh chị.
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

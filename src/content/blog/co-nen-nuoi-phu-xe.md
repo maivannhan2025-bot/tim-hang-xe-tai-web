@@ -135,3 +135,11 @@ Nhà xe đăng rõ cỡ xe, tuyến hay chạy, ngày rảnh, và ghi luôn là 
 Chủ hàng đăng rõ số kiện, khối lượng mỗi kiện và kho hai đầu có người bốc xếp không. Ghi đủ thì nhà xe báo giá đúng ngay lần đầu.
 
 Anh em nào đang cân nhắc nhận thêm người thì gửi bài này cho người cùng chạy. Ghi sổ ba tháng trước khi quyết là cách chắc nhất.
+
+## Bài viết liên quan
+
+- [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
+- [Tìm Hàng Chạy Xe Tải 2026: Bí Quyết Có Đơn Đều, Giảm Chạy Rỗng](/blog/tim-hang-chay-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*

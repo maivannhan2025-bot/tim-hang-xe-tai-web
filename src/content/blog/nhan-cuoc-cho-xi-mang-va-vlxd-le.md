@@ -153,3 +153,11 @@ Chủ hàng đăng rõ số bao và quy cách, mấy khối cát, hẻm rộng b
 Nhà xe đăng rõ cỡ xe, khu vực chạy, có nhận bốc xếp không và có nhận hàng bụi không. Với nhóm này, chuyện ai vác là câu cửa hàng hỏi trước tiên.
 
 Anh em nào chạy VLXD thì gửi bài này cho người cùng chạy. Tách tiền vác ra khỏi tiền chạy, và tính luôn công rửa thùng, là cách giữ được lời với nhóm cuốc này.
+
+## Bài viết liên quan
+
+- [Xe Tải Chở Đồ 2026: Chọn Xe, Sắp Xếp Và Giao Nhận Đúng Cách](/blog/xe-tai-cho-do/)
+- [App Tìm Hàng Xe Tải 2026: Cách Chủ Xe Nhận Chuyến, Bớt Chạy Rỗng](/blog/app-tim-hang-xe-tai/)
+- [Cách tính cước vận chuyển hàng hóa bằng xe tải](/blog/cach-tinh-cuoc-van-chuyen-hang-hoa/)
+
+*Quy định nhắc trong bài tra tại [Cổng Thông tin điện tử Chính phủ](https://chinhphu.vn).*
