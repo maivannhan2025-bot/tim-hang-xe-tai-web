@@ -220,6 +220,46 @@ async function gh(path, opts) {
   return r;
 }
 
+/* ---------- AI ĐANG ĐĂNG NHẬP + ĐỌC DANH SÁCH THƯ MỤC ----------
+   GitHub trả 404 cho kho riêng khi tài khoản đang đăng nhập không có quyền vào — nghe như
+   "kho không tồn tại" nhưng thật ra là "đang cầm nhầm chìa khoá". Trước đây mọi chỗ gọi thẳng
+   .filter() lên câu trả lời, gặp lỗi là vỡ với dòng "(intermediate value).filter is not a
+   function" — không ai hiểu gì. ghDanhSach() dịch lại cho ra tiếng người, kèm tên tài khoản. */
+let WHOAMI = '';
+async function taiKhoanDangDung() {
+  if (WHOAMI || !TOKEN) return WHOAMI;
+  try {
+    const r = await fetch('https://api.github.com/user', {
+      headers: { Authorization: 'Bearer ' + TOKEN, Accept: 'application/vnd.github+json' },
+    });
+    if (r.ok) { const u = await r.json(); WHOAMI = u.login || ''; }
+  } catch (_) {}
+  return WHOAMI;
+}
+
+function hienTenTaiKhoan(thuLai) {
+  taiKhoanDangDung().then(ai => {
+    if (!ai) return;
+    const el = document.getElementById('whoami');
+    if (el) el.textContent = ' \u00b7 ' + ai;
+    else if (thuLai !== false) setTimeout(() => hienTenTaiKhoan(false), 800);
+  });
+}
+
+async function ghDanhSach(path) {
+  const r = await gh(path);
+  let j = null; try { j = await r.json(); } catch (_) {}
+  if (Array.isArray(j)) return j;
+  const ai = await taiKhoanDangDung();
+  const keo = ai ? ' Tài khoản GitHub đang đăng nhập: ' + ai + '.' : '';
+  if (r.status === 404) throw new Error('Không mở được kho ' + CFG.repo + '.' + keo
+    + ' Đây là kho riêng — GitHub trả "không tìm thấy" cả khi kho có thật, chỉ vì tài khoản này'
+    + ' không có quyền vào. Bấm Thoát rồi đăng nhập lại bằng đúng tài khoản chủ kho.');
+  if (r.status === 403) throw new Error('GitHub từ chối (403).' + keo + ' '
+    + ((j && j.message) || 'Thường do gọi quá nhiều, chờ vài phút rồi thử lại.'));
+  throw new Error('GitHub báo lỗi ' + r.status + ': ' + ((j && j.message) || 'không rõ lý do'));
+}
+
 /* ---------- LƯU QUA GITHUB CÓ TỰ THỬ LẠI KHI LỆCH PHIÊN BẢN (409 "does not match") ----------
    build(latest) nhận phiên bản MỚI NHẤT của file trên GitHub: { sha, content(base64), json } — hoặc
    null nếu file chưa tồn tại. build trả về body cho PUT { message, content, [sha], [branch] }.
@@ -372,6 +412,11 @@ function seoCheckHtml({kw,title,desc,html}){
 function route(name, arg) {
   try { if (window.tinymce && tinymce.remove) tinymce.remove(); } catch(_){}
   if (!TOKEN && name !== 'login') name = 'login';
+  const ra = veTrang(name, arg);
+  if (name !== 'login') hienTenTaiKhoan();
+  return ra;
+}
+function veTrang(name, arg) {
   if (name==='login') return renderLogin();
   if (name==='home') return renderHome();
   if (name==='blogList') return renderBlogList();
@@ -383,7 +428,7 @@ function route(name, arg) {
 }
 function topBar(active) {
   return `<div class="top">
-    <div class="brand">${CFG.brand}<small>TRANG QUẢN LÝ</small></div>
+    <div class="brand">${CFG.brand}<small>TRANG QUẢN LÝ<span id="whoami"></span></small></div>
     <nav>
       <button onclick="route('home')" class="${active==='home'?'active':''}">🏠 Trang chính</button>
       <button onclick="route('blogList')" class="${active==='blog'?'active':''}">✍️ Bài viết</button>
@@ -428,8 +473,7 @@ async function renderBlogList() {
     <div id="bl" class="list"><div class="center-msg"><span class="spin"></span> Đang tải…</div></div>
   </div>`;
   try {
-    const r = await gh(CFG.blogDir + '?ref=' + CFG.branch);
-    const files = (await r.json()).filter(f => f.name.endsWith('.md'));
+    const files = (await ghDanhSach(CFG.blogDir + '?ref=' + CFG.branch)).filter(f => f.name.endsWith('.md'));
     if (!files.length) { document.getElementById('bl').innerHTML = '<div class="center-msg">Chưa có bài nào. Bấm “Viết bài mới”.</div>'; return; }
     const items = await Promise.all(files.map(async f => {
       try { const c = await (await gh('src/content/blog/' + f.name + '?ref=' + CFG.branch)).json(); const { fm } = parseMd(b64dec(c.content)); return { name:f.name, sha:c.sha, fm }; }
@@ -648,8 +692,8 @@ async function openGallery(onPick) {
   document.body.appendChild(ov);
   const close=()=>ov.remove(); ov.querySelector('#cls').onclick=close; ov.onclick=e=>{if(e.target===ov)close();};
   async function loadImgs(){
-    try{ const [res,dateMap]=await Promise.all([ gh(CFG.imgDir+'?ref='+CFG.branch), anhThuTuMap() ]);
-      const files=sortMoiTruoc((await res.json()).filter(f=>/\.(webp|jpg|jpeg|png|gif)$/i.test(f.name)), dateMap);
+    try{ const [ds,dateMap]=await Promise.all([ ghDanhSach(CFG.imgDir+'?ref='+CFG.branch), anhThuTuMap() ]);
+      const files=sortMoiTruoc(ds.filter(f=>/\.(webp|jpg|jpeg|png|gif)$/i.test(f.name)), dateMap);
       ov.querySelector('#gg').innerHTML=files.map(f=>`<div class="g" data-p="/anh/${esc(f.name)}"><img src="${CFG.site}/anh/${esc(f.name)}" loading="lazy"><span>${esc(f.name)}</span></div>`).join('')||'<div class="center-msg">Chưa có ảnh.</div>';
       ov.querySelectorAll('.g').forEach(g=>g.onclick=()=>{ onPick(g.dataset.p); close(); });
     }catch(e){ ov.querySelector('#gg').innerHTML='Lỗi: '+esc(e.message); }
@@ -1167,8 +1211,8 @@ async function uploadOneImg(file) {
 async function loadMedia() {
   const grid = document.getElementById('mGrid'); if(!grid) return;
   try {
-    const [res, dateMap] = await Promise.all([ gh(CFG.imgDir+'?ref='+CFG.branch), anhThuTuMap() ]);
-    const files = sortMoiTruoc((await res.json()).filter(f=>/\.(webp|jpg|jpeg|png|gif|svg)$/i.test(f.name)), dateMap);
+    const [ds, dateMap] = await Promise.all([ ghDanhSach(CFG.imgDir+'?ref='+CFG.branch), anhThuTuMap() ]);
+    const files = sortMoiTruoc(ds.filter(f=>/\.(webp|jpg|jpeg|png|gif|svg)$/i.test(f.name)), dateMap);
     if(!files.length){ grid.innerHTML='<div class="center-msg">Chưa có ảnh nào. Bấm “Tải ảnh mới lên”.</div>'; return; }
     grid.innerHTML = files.map(f=>mcardHTML(f.name, CFG.site+'/anh/'+f.name, f.sha, kbText(f.size), false)).join('');
     grid.querySelectorAll('.mcard').forEach(bindMediaCard);
