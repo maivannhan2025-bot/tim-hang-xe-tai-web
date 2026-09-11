@@ -77,7 +77,7 @@ Xe tuyến Bắc Nam ghé Bắc Ninh lời nhất khi ghép hai loại hàng bù
 
 Tính cước theo khối hay theo tấn cho khỏi hớ, xem thêm bài [báo cước xe 6m theo khối hay theo tấn](https://timhangxetai.com/blog/bao-cuoc-xe-6m-theo-khoi-hay-theo-tan/).
 
-![Nhà xe chở hàng Bắc Ninh bằng xe thùng kín cỡ trung](/anh/nha-xe-cho-hang-bac-ninh-xe-tai.jpg)
+![Nhà xe chở hàng Bắc Ninh bằng xe tải cỡ trung](/anh/nha-xe-cho-hang-bac-ninh-xe-tai.jpg)
 
 *Xe cỡ trung hợp cả hàng khu công nghiệp lẫn đồ gỗ làng nghề, chỉ cần nhớ xe lớn không vào được ngõ.*
 
