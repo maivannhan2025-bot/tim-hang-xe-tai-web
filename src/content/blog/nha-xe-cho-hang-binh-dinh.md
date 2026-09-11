@@ -8,7 +8,7 @@ anhDaiDien: "/anh/nha-xe-cho-hang-binh-dinh.jpg"
 doiTuong: "nha-xe"
 tuKhoa: "nhà xe chở hàng Bình Định"
 ---
-Từ ngày 29/4/2026, xe tuyến Bắc Nam đi được cao tốc liền một mạch qua Bình Định cũ: Quảng Ngãi - Hoài Nhơn 88 km, Hoài Nhơn - Quy Nhơn 70,1 km, rồi Quy Nhơn - Chí Thạnh xuống Phú Yên cũ. Nhanh hơn QL1. Nhưng nhà xe chở hàng Bình Định chạy một mạch như vậy cũng lướt qua luôn các khu công nghiệp nằm dọc QL1A và QL19.
+Trong năm 2026, xe tuyến Bắc Nam đã đi được cao tốc qua Bình Định cũ: Quảng Ngãi - Hoài Nhơn 88 km, Hoài Nhơn - Quy Nhơn 70,1 km, rồi Quy Nhơn - Chí Thạnh xuống Phú Yên cũ. Nhanh hơn QL1. Nhưng nhà xe chở hàng Bình Định chạy một mạch như vậy cũng lướt qua luôn các khu công nghiệp nằm dọc QL1A và QL19.
 
 Hàng ở đây không thiếu: khu công nghiệp dọc hai quốc lộ, cảng cá Tam Quan, làng nghề gỗ và dừa. Bài này chia theo từng huyện cũ để nhà xe chở hàng Bình Định biết hàng nằm đâu, cách cảng bao xa, cỡ xe nào dễ kín chuyến hai chiều.
 
