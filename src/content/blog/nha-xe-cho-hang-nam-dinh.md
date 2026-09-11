@@ -103,7 +103,7 @@ Quãng đường tính từ thành phố Nam Định cũ, tuyến không có s�
 | Hà Nội | Khoảng 90 km | Hàng khu công nghiệp, gạo, quà quê |
 | Hải Phòng, Quảng Ninh | Theo điểm | Hàng ra cảng, hàng giữa các khu công nghiệp |
 | Thanh Hóa, Nghệ An, Đà Nẵng | Theo điểm | Ghép theo tuyến Bắc Nam |
-| TPHCM, Bình Dương, Đồng Nai | Khoảng 1.550 km | Gạo, hàng dệt may, hàng ghép chiều vào |
+| TPHCM, Bình Dương, Đồng Nai | Hơn 1.600 km | Gạo, hàng dệt may, hàng ghép chiều vào |
 
 Bên kia sông Hồng, qua cầu Tân Đệ, là vùng hàng Thái Bình. Nhà xe chạy cả hai tỉnh đọc thêm bài [nguồn hàng Thái Bình theo từng huyện](https://timhangxetai.com/blog/nha-xe-cho-hang-thai-binh/) để ghép tuyến.
 
