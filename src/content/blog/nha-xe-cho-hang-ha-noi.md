@@ -109,9 +109,9 @@ Hàng đi ra khỏi Hà Nội: hàng khu công nghiệp đi cảng, đi tỉnh, 
 
 Nhà xe chở hàng Hà Nội ghép hàng thì xếp điểm ngoài đường bao chạy ban ngày, điểm trong nội thành dồn về tối. Xếp ngược là xe nằm chờ cả buổi. Chuyện tiền mất khi xe chạy không, xem bài [vì sao xe hay chạy rỗng chiều về](https://timhangxetai.com/blog/vi-sao-xe-chay-rong-chieu-ve/).
 
-![Nhà xe chở hàng Hà Nội bằng xe tải nhỏ chạy ban ngày trong phố](/anh/nha-xe-cho-hang-ha-noi-xe-tai.jpg)
+![Nhà xe chở hàng Hà Nội chạy tuyến vào thành phố](/anh/nha-xe-cho-hang-ha-noi-xe-tai.jpg)
 
-*Xe nhỏ có khối lượng toàn bộ dưới 2 tấn chạy được ban ngày ngoài giờ cao điểm, xe lớn hơn phải vào phố sau 21h.*
+*Xe lớn chạy tuyến vào Hà Nội phải canh giờ: trong vùng hạn chế chỉ được chạy từ 21h tới 6h, trừ khi có văn bản chấp thuận.*
 
 ## Nhà xe chở hàng Hà Nội đi tiếp những tỉnh nào
 
