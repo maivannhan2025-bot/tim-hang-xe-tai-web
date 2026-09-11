@@ -35,7 +35,7 @@ Có xe cỡ nào thì dò cột cuối xem nên tìm hàng ở đâu. Xe nhỏ k
 
 ## Nguồn hàng cho nhà xe chở hàng Bắc Ninh theo từng huyện
 
-Từ 1/7/2025, Bắc Ninh và Bắc Giang gộp thành tỉnh Bắc Ninh mới, trung tâm hành chính đặt ở phía Bắc Giang cũ, cấp huyện bỏ. Chủ hàng giờ ghi địa chỉ theo xã mới, nhà xe vẫn quen gọi theo huyện cũ. Bảng dưới chỉ tính phần Bắc Ninh cũ, đặt hai tên cạnh nhau kèm nguồn hàng chính của từng vùng.
+Từ 1/7/2025, Bắc Ninh và Bắc Giang gộp thành tỉnh Bắc Ninh mới, trung tâm hành chính đặt ở phía Bắc Giang cũ, cấp huyện bỏ. Theo Nghị quyết 39/2026/QH16, từ ngày 20/9/2026 tỉnh Bắc Ninh lên thành thành phố Bắc Ninh trực thuộc Trung ương, nên giấy tờ sau ngày đó sẽ ghi "thành phố Bắc Ninh". Chủ hàng giờ ghi địa chỉ theo xã mới, nhà xe vẫn quen gọi theo huyện cũ. Bảng dưới chỉ tính phần Bắc Ninh cũ, đặt hai tên cạnh nhau kèm nguồn hàng chính của từng vùng.
 
 | Huyện cũ | Số xã cũ | Nay là xã, phường | Nguồn hàng chính |
 |---|---|---|---|
