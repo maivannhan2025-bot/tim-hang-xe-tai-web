@@ -79,7 +79,7 @@ Tính cước theo khối hay theo tấn cho khỏi hớ, xem thêm bài [báo c
 
 ![Nhà xe chở hàng Bắc Ninh bằng xe thùng kín cỡ trung](/anh/nha-xe-cho-hang-bac-ninh-xe-tai.jpg)
 
-*Xe thùng kín cỡ trung hợp cả hàng khu công nghiệp lẫn đồ gỗ làng nghề, chỉ cần nhớ xe lớn không vào được ngõ.*
+*Xe cỡ trung hợp cả hàng khu công nghiệp lẫn đồ gỗ làng nghề, chỉ cần nhớ xe lớn không vào được ngõ.*
 
 ## Đường và luật nhà xe chở hàng Bắc Ninh phải thuộc
 
