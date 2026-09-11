@@ -114,7 +114,7 @@ Quãng đường tính từ trung tâm Vinh.
 | Hà Nội | Khoảng 300 km | Hàng điện tử, sữa, hàng tiêu dùng |
 | Hải Phòng, Bắc Ninh, Quảng Ninh | Theo điểm | Hàng giữa các khu công nghiệp |
 | Huế, Đà Nẵng | Theo điểm | Ghép theo tuyến Bắc Nam |
-| TPHCM, Bình Dương, Đồng Nai | Khoảng 1.500-1.550 km | Hàng ghép, hàng nguyên chuyến đường dài |
+| TPHCM, Bình Dương, Đồng Nai | Hơn 1.400 km | Hàng ghép, hàng nguyên chuyến đường dài |
 | Cửa khẩu Nậm Cắn, Thông Thụ | QL7 khoảng 220 km, QL48 khoảng 160 km | Hàng lên cửa khẩu, xe hợp đường đèo |
 
 Chạy tuyến dài từ Sài Gòn ra thì đọc thêm bài [tìm hàng hai chiều tuyến TPHCM - Vinh](https://timhangxetai.com/blog/nha-xe-chay-tuyen-vinh/).
