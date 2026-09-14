@@ -1,8 +1,8 @@
 ---
 title: "Nhà xe tuyến Đà Nẵng: tìm hàng chiều vào Nam đừng chạy rỗng"
-description: "Tuyến Đà Nẵng 930km, vòng quay 2-3 ngày, nhanh gấp đôi tuyến Hà Nội. Cách gom hàng chiều về dọc các tỉnh miền Trung và tính cả vòng."
+description: "Tuyến Đà Nẵng 960km, vòng quay 2-3 ngày, nhanh gấp đôi tuyến Hà Nội. Cách gom hàng chiều về dọc các tỉnh miền Trung và tính cả vòng."
 ngayDang: 2026-09-09T03:00:00+07:00
-ngayCapNhat: 2026-09-04T12:37:00+07:00
+ngayCapNhat: 2026-09-14T13:37:00+07:00
 thoiGianDoc: 7
 anhDaiDien: "/anh/nha-xe-tuyen-da-nang-chieu-vao.jpg"
 tuKhoa: "nhà xe tuyến Đà Nẵng"
@@ -18,7 +18,7 @@ Bài này nói về tuyến TPHCM đi Đà Nẵng dưới góc nhà xe: chặng 
 
 ## Chặng đường và vòng quay
 
-Quãng đường bộ theo quốc lộ 1A khoảng **930 km**. Chạy hết **14 tới 20 giờ** tùy đường, thời tiết và số lần dừng nghỉ.
+Quãng đường bộ theo quốc lộ 1A khoảng **960 km**. Chạy hết **14 tới 20 giờ** tùy đường, thời tiết và số lần dừng nghỉ.
 
 | Kiểu chạy | Thời gian | Vòng quay cả đi về |
 |---|---|---|
@@ -29,7 +29,7 @@ So với tuyến Hà Nội mất bốn năm ngày một vòng, tuyến Đà Nẵ
 
 ## Chạy rỗng chiều về mất gì
 
-Chặng 930 km chạy không thì:
+Chặng 960 km chạy không thì:
 
 **Tiền dầu** cho gần một nghìn cây số vẫn đổ đủ.
 
