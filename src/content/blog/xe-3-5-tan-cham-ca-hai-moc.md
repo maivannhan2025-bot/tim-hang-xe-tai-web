@@ -1,6 +1,6 @@
 ---
 title: "Xe 3,5 Tấn Chạm Cả Hai Mốc: Bằng C1 Và Giờ Cấm Nhóm Nặng"
-description: "Cỡ xe vượt cả hai mốc pháp lý cùng lúc. Hai dòng khác nhau trong đăng kiểm, nguồn hàng hợp, và lối thoát qua đường vành đai."
+description: "Cỡ xe vượt cả hai mốc pháp lý cùng lúc. Hai dòng khác nhau trong đăng kiểm, nguồn hàng hợp, và chuyện vành đai phải đọc kỹ trước khi hứa."
 ngayDang: 2026-09-16T06:00:00+07:00
 ngayCapNhat: 2026-09-04T16:09:00+07:00
 thoiGianDoc: 7
@@ -72,15 +72,15 @@ Nhà máy và khu công nghiệp vùng ven. Nằm ngoài khu vực hạn chế, 
 
 *Hàng đi tỉnh là nguồn hợp nhất với cỡ này: thùng lớn chở nhiều, mà giờ cấm nội đô ít ảnh hưởng.*
 
-## Vành đai: chỗ ít nhà xe tận dụng
+## Vành đai: đọc kỹ trước khi hứa với khách
 
-Trên các tuyến vành đai, cả xe nhẹ lẫn xe nặng đều lưu thông không bị giới hạn giờ.
+Khu vực hạn chế xe tải ở TPHCM được khoanh bằng các tuyến vành đai. Theo dự thảo quy định mới mà Sở Xây dựng TPHCM lấy ý kiến tháng 8/2026, vành đai gồm Đỗ Mười, Lê Đức Anh, Lê Khả Phiêu, Nguyễn Văn Linh, cầu Phú Mỹ, Võ Chí Công, Đồng Văn Cống, Mai Chí Thọ, Võ Nguyên Giáp và xa lộ Hà Nội, kèm một số tuyến hành lang cho xe tải chạy theo khung giờ riêng ([tin Tuổi Trẻ ngày 25/8/2026](https://tuoitre.vn/tphcm-de-xuat-cam-xe-tai-tren-1-tan-vao-noi-thanh-tu-6h-den-22h-100260825165139228.htm)).
 
-Nghĩa là cuốc nào có điểm lấy và điểm giao đều gần vành đai thì chạy được ban ngày, dù xe anh nhóm nặng.
+Nhưng đó vẫn là dự thảo. Tuyến nào được chạy giờ nào phải đợi văn bản chính thức.
 
-Cách dùng khi nhận cuốc: xem hai đầu có đi vòng theo vành đai được không. Xa hơn vài cây số nhưng chạy được ngay, hơn ngồi chờ tới 22 giờ.
+Cách dùng khi nhận cuốc: hỏi rõ điểm lấy, điểm giao nằm trong hay ngoài khu vực hạn chế, rồi xem quy định đang áp dụng cho đúng tuyến đó. Kho nằm ngoài vành đai thì xe nặng chạy ban ngày thuận hơn nhiều.
 
-Và nói với khách điều này khi báo giá. Khách thường tưởng xe lớn chỉ chạy được đêm, biết được là họ chọn anh.
+Đừng hứa với khách là xe nặng chạy vành đai ban ngày thoải mái khi chưa có văn bản.
 
 ## Đường vào phải hỏi kỹ hơn xe nhỏ
 
@@ -104,7 +104,7 @@ Vài điều nên cân trước khi xuống tiền.
 
 Nhắm hàng đi tỉnh, hàng công trình, kho ca đêm thì cỡ này rất hợp: thùng lớn, chở nhiều, và khách của anh vốn làm ngoài giờ hành chính.
 
-Nhắm thị trường lẻ ban ngày trong thành phố thì không hợp. Mất khung 9h30 tới 15h30 là mất phần lớn khách chuyển nhà và giao cửa hàng.
+Nhắm thị trường lẻ ban ngày trong thành phố thì không hợp. Mất khung ban ngày của xe nhẹ là mất phần lớn khách chuyển nhà và giao cửa hàng.
 
 Và nhớ khoản tài xế: cần C1 nên khó thuê người hơn, lương cũng khác. Nếu anh tự lái thì phải có bằng đúng hạng trước khi mua xe, không phải mua xong mới đi thi.
 
@@ -124,7 +124,7 @@ Khoảng 20 khối với thùng 5,2 m, khoảng 28 khối với thùng 6,2 m.
 
 ### Có chạy được nội đô ban ngày không
 
-Không, trừ khi tuyến đi theo vành đai. Vành đai không giới hạn giờ với cả hai nhóm xe.
+Theo quy định đang áp dụng thì không, xe chở trên 2,5 tấn bị cấm vào khu vực hạn chế từ 6h đến 22h. Tuyến vành đai, tuyến hành lang nào chạy được giờ nào thì xem văn bản đang áp dụng, dự thảo mới vẫn đang chờ ký.
 
 ### Nguồn hàng nào hợp nhất
 
@@ -136,7 +136,7 @@ Chở hàng nặng thì 5,2 m đủ. Chở hàng nhẹ cồng kềnh thì 6,2 m,
 
 ## Đăng xe tìm hàng
 
-Vào timhangxetai.com đăng thông tin xe. Với cỡ này, ba dòng đáng ghi nhất là **chiều dài thùng**, **số khối**, và **khu vực chạy được ban ngày** nếu tuyến của anh đi qua vành đai.
+Vào timhangxetai.com đăng thông tin xe. Với cỡ này, ba dòng đáng ghi nhất là **chiều dài thùng**, **số khối**, và **điểm lấy hàng hay chạy** nằm trong hay ngoài khu vực hạn chế.
 
 Ba dòng đó lọc đúng khách anh phục vụ được, khỏi mất thời gian nghe rồi từ chối vì giờ giấc.
 
