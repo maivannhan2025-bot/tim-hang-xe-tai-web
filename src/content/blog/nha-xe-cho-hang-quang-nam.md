@@ -133,7 +133,7 @@ Thuộc thành phố Đà Nẵng từ 1/7/2025. Hỏi chủ hàng cả tên xã 
 
 ### Xe 8 tấn có chạy đường ven biển 129 được không
 
-Đầu năm 2025 tuyến này cấm xe tải từ 5 tấn trở lên, khi đó xe 8 tấn phải chạy QL1. Biển có thể đã đổi, hỏi lại trước khi nhận cuốc.
+Lệnh cấm xe từ 5 tấn đầu năm 2025 đã bỏ từ 28/2/2025. Còn đoạn ĐT 603B - cầu Câu Đại: xe chở trên 10 tấn chỉ chạy 22h - 5h. Biển có thể đã đổi sau khi nhập Đà Nẵng, hỏi lại trước khi nhận cuốc.
 
 ### Nhà xe chở hàng Quảng Nam nên chạy cỡ xe nào
 
