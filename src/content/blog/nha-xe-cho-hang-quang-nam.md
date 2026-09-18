@@ -94,7 +94,7 @@ Chuyện chạy rỗng chiều về và cách đếm tiền mất đi, xem thêm
 
 Mấy chỗ dưới đây là nơi hay bị phạt hoặc mất giờ.
 
-- **Đường ven biển 129 (Võ Chí Công).** Tuyến dài khoảng 90 km qua Quảng Nam, nối Hội An với Chu Lai. Tháng 1/2025 báo Tuổi Trẻ đưa tin đường cấm xe tải từ 5 tấn trở lên vì còn đoạn thi công, lãnh đạo tỉnh nói sẽ tính nâng tải trọng khi làm xong. Biển hiện tại ghi gì thì hỏi lại trước khi nhận cuốc chạy tuyến này. Biển trọng lượng tính cả xe lẫn hàng.
+- **Đường ven biển 129 (Võ Chí Công).** Tuyến dài khoảng 90 km qua Quảng Nam, nối Hội An với Chu Lai. Đầu năm 2025 đường từng cấm xe tải từ 5 tấn; theo [Thanh Niên ngày 28/2/2025](https://thanhnien.vn/bo-lenh-cam-xe-tu-5-tan-tren-tuyen-cao-toc-ven-bien-quang-nam-185250228190333216.htm) lệnh này đã bỏ. Chỉ còn đoạn từ ĐT 603B tới cầu Câu Đại: xe chở trên 10 tấn chỉ chạy 22h - 5h, tối đa 50 km/h. Quảng Nam nay đã nhập vào Đà Nẵng, biển có thể đổi tiếp, hỏi lại trước khi nhận cuốc chạy tuyến này. Biển trọng lượng tính cả xe lẫn hàng.
 - **Phố cổ Hội An cấm xe cơ giới.** Hàng khách sạn trong phố dỡ ở đầu phố, báo giá phải tính giờ chờ và người chuyển tay.
 - **QL14D lên cửa khẩu Nam Giang.** Chừng 74 km, mặt đường nát vì xe nặng chạy liên tục. Hồi tháng 2/2026 tuyến này từng tạm dừng xe từ 5 trục trở lên dịp Tết. Ngày 26/6/2026 đã khởi công nâng cấp, dự kiến xong năm 2028, nên nhiều đoạn còn là công trường.
 - **QL40B lên Trà My.** Dài khoảng 209 km từ Tam Kỳ lên Đăk Tô. Cuối tháng 10 và giữa tháng 11/2025 đường đều bị sạt lở, có lúc chia cắt. Mùa mưa nhận hàng lên núi thì cộng một ngày dự phòng.
