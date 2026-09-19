@@ -95,7 +95,7 @@ Từ 1/7/2025, Tiền Giang nhập vào tỉnh Đồng Tháp, bỏ cấp huyện
 
 Chữ "Đồng Tháp" trên tin đăng giờ có thể là Cao Lãnh, Sa Đéc, Hồng Ngự, hướng khác hẳn. Nên ghi thêm "Tiền Giang cũ" để nhà xe khỏi hiểu nhầm.
 
-Tên xã còn có thể đổi. Ngày 11/5/2026, HĐND tỉnh Đồng Tháp thông qua chủ trương lập 11 phường ([Tiền Phong](https://tienphong.vn/dong-thap-se-thanh-lap-11-phuong-post1842388.tpo)). Phía Tiền Giang cũ có Cái Bè, Bình Phú, Châu Thành, Vĩnh Kim và Vĩnh Bình (sẽ đổi tên thành Gò Công Tây). Còn chờ cấp trên quyết, nên gần ngày gửi đồ hỏi người nhận đang ghi "xã" hay "phường".
+Tên xã còn có thể đổi. Ngày 11/5/2026, HĐND tỉnh Đồng Tháp thông qua chủ trương lập 11 phường ([Tiền Phong](https://tienphong.vn/dong-thap-se-thanh-lap-11-phuong-post1842388.tpo)). Phía Tiền Giang cũ có An Hữu, Cái Bè, Bình Phú, Châu Thành, Vĩnh Kim và Vĩnh Bình (sẽ đổi tên thành Gò Công Tây). Còn chờ cấp trên quyết, nên gần ngày gửi đồ hỏi người nhận đang ghi "xã" hay "phường".
 
 | Huyện cũ | Số xã cũ | Nay là xã, phường | Điểm xe tuyến hay trả |
 |---|---|---|---|
