@@ -7,9 +7,10 @@ const { title, description, path = '/', image, ngayDangISO, ngaySuaISO } = Astro
 const siteUrl = 'https://timhangxetai.com';
 const fullTitle = title || 'Tìm Hàng Xe Tải — Sàn kết nối chủ hàng và nhà xe tải toàn quốc';
 const fullDesc = description || 'Chủ hàng đăng chuyến, nhà xe báo giá và nhận đơn — hai bên tự thoả thuận, tự thanh toán trực tiếp. Miễn phí cho chủ hàng, trải nghiệm ngay với đơn hàng thật.';
-// Chưa có ảnh thương hiệu riêng (logo vuông) — tạm dùng ảnh thật đã tải lên (/anh/6.png) làm mặc
-// định chung, để chia sẻ link không bị trống ảnh. Đổi ngay khi có ảnh logo/thương hiệu chính thức.
-const ogImage = siteUrl + (image || '/anh/6.png');
+// Ảnh mặc định khi chia sẻ link lên Zalo/Facebook: logo timhangxetai.com đặt giữa nền trắng
+// 1200x630 (tỉ lệ khung xem trước của Zalo/Facebook, logo vuông để trần sẽ bị cắt mất chữ).
+// Bài blog truyền `image` riêng thì vẫn dùng ảnh bài.
+const ogImage = siteUrl + (image || '/anh/og-timhangxetai.jpg');
 ---
 <!doctype html>
 <html lang="vi">
