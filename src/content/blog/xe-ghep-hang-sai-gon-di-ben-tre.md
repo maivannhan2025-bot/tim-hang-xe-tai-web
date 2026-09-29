@@ -143,6 +143,11 @@ Cổng nhà máy thường chỉ nhận trong giờ hành chính và cần ngư�
 
 Cái này tùy mô hình kinh doanh vận tải của từng nhà xe. Nên hỏi lại cơ quan quản lý vận tải nơi đăng ký, đừng dựa vào lời truyền miệng.
 
+
+<!-- lk-mt:start -->
+**Các tuyến miền Tây khác:** [xe ghép hàng đi Long An](/blog/xe-ghep-hang-sai-gon-di-long-an/), [xe ghép hàng đi Tiền Giang](/blog/xe-ghep-hang-sai-gon-di-tien-giang/), [xe ghép hàng đi Đồng Tháp](/blog/xe-ghep-hang-sai-gon-di-dong-thap/), [xe ghép hàng đi Vĩnh Long](/blog/xe-ghep-hang-sai-gon-di-vinh-long/), [xe ghép hàng đi Trà Vinh](/blog/xe-ghep-hang-sai-gon-di-tra-vinh/), [xe ghép hàng đi Cần Thơ](/blog/xe-ghep-hang-sai-gon-di-can-tho/), [xe ghép hàng đi Hậu Giang](/blog/xe-ghep-hang-sai-gon-di-hau-giang/), [xe ghép hàng đi Sóc Trăng](/blog/xe-ghep-hang-sai-gon-di-soc-trang/), [xe ghép hàng đi An Giang](/blog/xe-ghep-hang-sai-gon-di-an-giang/).
+<!-- lk-mt:end -->
+
 ## Đăng tuyến xe ghép hàng Sài Gòn đi Bến Tre lên sàn
 
 Nếu anh chạy tuyến này đều, đăng tuyến lên [Tìm Hàng Xe Tải](https://timhangxetai.com/nha-xe/). Sàn không cắt phần trăm cước. Anh lưu tuyến hay chạy, khi có đơn khớp một trong hai đầu tuyến, đơn báo về máy.

@@ -138,6 +138,11 @@ Tuỳ lượng đơn. Tuyến gần, nhiều điểm trả nhỏ, xe vừa phả
 
 Theo ký, theo khối hoặc theo kiện, bên nào lớn hơn tính bên đó, cộng khoản giao tận nơi nếu vào sâu. Thoả thuận rõ trước khi xếp hàng.
 
+
+<!-- lk-mt:start -->
+**Các tuyến miền Tây khác:** [xe ghép hàng đi Long An](/blog/xe-ghep-hang-sai-gon-di-long-an/), [xe ghép hàng đi Bến Tre](/blog/xe-ghep-hang-sai-gon-di-ben-tre/), [xe ghép hàng đi Đồng Tháp](/blog/xe-ghep-hang-sai-gon-di-dong-thap/), [xe ghép hàng đi Vĩnh Long](/blog/xe-ghep-hang-sai-gon-di-vinh-long/), [xe ghép hàng đi Trà Vinh](/blog/xe-ghep-hang-sai-gon-di-tra-vinh/), [xe ghép hàng đi Cần Thơ](/blog/xe-ghep-hang-sai-gon-di-can-tho/), [xe ghép hàng đi Hậu Giang](/blog/xe-ghep-hang-sai-gon-di-hau-giang/), [xe ghép hàng đi Sóc Trăng](/blog/xe-ghep-hang-sai-gon-di-soc-trang/), [xe ghép hàng đi An Giang](/blog/xe-ghep-hang-sai-gon-di-an-giang/).
+<!-- lk-mt:end -->
+
 ## Đăng tuyến xe ghép Tiền Giang lên sàn để gom đơn dễ hơn
 
 Tìm Hàng Xe Tải là sàn nối chủ hàng với nhà xe. Anh em chạy xe ghép hàng Sài Gòn đi Tiền Giang lưu tuyến hay chạy, ví dụ Sài Gòn - Mỹ Tho - Cái Bè hay Sài Gòn - Gò Công. Có đơn khớp một trong hai đầu tuyến, sàn báo về máy. Anh em xem đơn, gọi chủ hàng, tự báo giá.

@@ -143,6 +143,11 @@ Gọi người nhận hỏi ấp và xã cũ trước khi xếp. Hai xã này l�
 
 Nhận được nếu chủ hàng đồng ý nhận ở bờ thành phố. Theo báo Vĩnh Long tháng 8/2023, phà khách An Bình không cho ô tô lên, nên chưa hỏi rõ đường thì đừng hứa giao tận nhà.
 
+
+<!-- lk-mt:start -->
+**Các tuyến miền Tây khác:** [xe ghép hàng đi Long An](/blog/xe-ghep-hang-sai-gon-di-long-an/), [xe ghép hàng đi Tiền Giang](/blog/xe-ghep-hang-sai-gon-di-tien-giang/), [xe ghép hàng đi Bến Tre](/blog/xe-ghep-hang-sai-gon-di-ben-tre/), [xe ghép hàng đi Đồng Tháp](/blog/xe-ghep-hang-sai-gon-di-dong-thap/), [xe ghép hàng đi Trà Vinh](/blog/xe-ghep-hang-sai-gon-di-tra-vinh/), [xe ghép hàng đi Cần Thơ](/blog/xe-ghep-hang-sai-gon-di-can-tho/), [xe ghép hàng đi Hậu Giang](/blog/xe-ghep-hang-sai-gon-di-hau-giang/), [xe ghép hàng đi Sóc Trăng](/blog/xe-ghep-hang-sai-gon-di-soc-trang/), [xe ghép hàng đi An Giang](/blog/xe-ghep-hang-sai-gon-di-an-giang/).
+<!-- lk-mt:end -->
+
 ## Đăng tuyến xe ghép hàng Sài Gòn đi Vĩnh Long lên sàn
 
 Anh chạy tuyến này đều thì đăng tuyến lên [Tìm Hàng Xe Tải](https://timhangxetai.com/nha-xe/). Sàn không cắt phần trăm cước. Lưu tuyến hay chạy, có đơn khớp một trong hai đầu tuyến là báo về máy.

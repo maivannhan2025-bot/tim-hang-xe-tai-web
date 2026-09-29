@@ -144,6 +144,10 @@ Chủ hàng ở miền Tây cần gửi lên Sài Gòn thì đăng chuyến lên
 
 Thấy bài này có ích thì gửi cho anh em cùng chạy tuyến miền Tây.
 
+
+<!-- lk-mt-xe-ghep-hang-sai-gon-di-can-tho -->
+Anh em chạy ghép hàng lẻ tuyến Cần Thơ cũ, xem thêm [cách chia điểm trả xe ghép đi Cần Thơ](/blog/xe-ghep-hang-sai-gon-di-can-tho/).
+
 ## Bài viết liên quan
 
 - [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)

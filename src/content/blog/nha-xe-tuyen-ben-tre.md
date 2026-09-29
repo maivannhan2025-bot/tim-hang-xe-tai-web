@@ -118,6 +118,10 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 
 **Đăng tin nên ghi rõ:** cỡ xe và **kích thước thùng**, tính cước theo cân hay khối, thùng kín hay bạt, có chở than gáo dừa không, và có nhận hàng đi xuất có giờ cứng không. Ở tuyến này, **ghi kích thước thùng** là thứ khiến tin của mình hữu ích hơn hẳn, vì phân nửa hàng của vùng tính theo khối chứ không theo tấn.
 
+
+<!-- lk-mt-xe-ghep-hang-sai-gon-di-ben-tre -->
+Anh em chạy ghép hàng lẻ tuyến Bến Tre cũ, xem thêm [cách chia điểm trả xe ghép đi Bến Tre](/blog/xe-ghep-hang-sai-gon-di-ben-tre/).
+
 ## Bài viết liên quan
 
 - [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)

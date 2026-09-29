@@ -137,6 +137,11 @@ Nhận khi gom đủ đơn cụm biên giới, hoặc người nhận chịu ra 
 
 Theo ký, khối hoặc kiện, bên nào lớn tính bên đó, cộng tiền đi thêm nếu giao sâu trong xã hay qua sông. Nói rõ trước khi xếp hàng.
 
+
+<!-- lk-mt:start -->
+**Các tuyến miền Tây khác:** [xe ghép hàng đi Long An](/blog/xe-ghep-hang-sai-gon-di-long-an/), [xe ghép hàng đi Tiền Giang](/blog/xe-ghep-hang-sai-gon-di-tien-giang/), [xe ghép hàng đi Bến Tre](/blog/xe-ghep-hang-sai-gon-di-ben-tre/), [xe ghép hàng đi Đồng Tháp](/blog/xe-ghep-hang-sai-gon-di-dong-thap/), [xe ghép hàng đi Vĩnh Long](/blog/xe-ghep-hang-sai-gon-di-vinh-long/), [xe ghép hàng đi Trà Vinh](/blog/xe-ghep-hang-sai-gon-di-tra-vinh/), [xe ghép hàng đi Cần Thơ](/blog/xe-ghep-hang-sai-gon-di-can-tho/), [xe ghép hàng đi Hậu Giang](/blog/xe-ghep-hang-sai-gon-di-hau-giang/), [xe ghép hàng đi Sóc Trăng](/blog/xe-ghep-hang-sai-gon-di-soc-trang/).
+<!-- lk-mt:end -->
+
 ## Lưu tuyến An Giang trên Tìm Hàng Xe Tải
 
 Tìm Hàng Xe Tải là sàn nối chủ hàng với nhà xe. Anh em lưu tuyến hay chạy, ví dụ Sài Gòn - Long Xuyên - Châu Đốc. Có đơn khớp một trong hai đầu tuyến, sàn báo về máy. Anh em tự xem đơn, tự gọi chủ hàng, tự báo giá.

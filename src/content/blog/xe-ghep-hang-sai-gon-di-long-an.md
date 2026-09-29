@@ -128,6 +128,11 @@ Gọi chủ hàng ngay tại cổng, đừng tự quay về. Thường là thi�
 
 Khách quen giữ chuyến chính, sàn lấp chỗ trống và hàng chiều về. Hai việc không loại nhau.
 
+
+<!-- lk-mt:start -->
+**Các tuyến miền Tây khác:** [xe ghép hàng đi Tiền Giang](/blog/xe-ghep-hang-sai-gon-di-tien-giang/), [xe ghép hàng đi Bến Tre](/blog/xe-ghep-hang-sai-gon-di-ben-tre/), [xe ghép hàng đi Đồng Tháp](/blog/xe-ghep-hang-sai-gon-di-dong-thap/), [xe ghép hàng đi Vĩnh Long](/blog/xe-ghep-hang-sai-gon-di-vinh-long/), [xe ghép hàng đi Trà Vinh](/blog/xe-ghep-hang-sai-gon-di-tra-vinh/), [xe ghép hàng đi Cần Thơ](/blog/xe-ghep-hang-sai-gon-di-can-tho/), [xe ghép hàng đi Hậu Giang](/blog/xe-ghep-hang-sai-gon-di-hau-giang/), [xe ghép hàng đi Sóc Trăng](/blog/xe-ghep-hang-sai-gon-di-soc-trang/), [xe ghép hàng đi An Giang](/blog/xe-ghep-hang-sai-gon-di-an-giang/).
+<!-- lk-mt:end -->
+
 ## Đăng tuyến xe ghép hàng Sài Gòn đi Long An lên Tìm Hàng Xe Tải
 
 Nếu anh em đang chạy xe ghép hàng Sài Gòn đi Long An, hoặc có xe muốn lấp chỗ trống trên trục Đức Hòa, Bến Lức, Cần Giuộc hay Đồng Tháp Mười, đăng ký nhà xe tại [trang dành cho nhà xe](https://timhangxetai.com/nha-xe/).
