@@ -154,6 +154,10 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 
 **Đăng tin nên ghi rõ:** có xe lạnh không và giữ được mức nhiệt nào, cỡ xe, có đi cao tốc không, có nhận trung chuyển nội vùng không, và tần suất chuyến lên Sài Gòn. Ở tuyến này, **ghi rõ mức nhiệt** là thứ khiến tin của mình khác hẳn tin người khác.
 
+
+<!-- lk-mt-xe-ghep-hang-sai-gon-di-ca-mau -->
+Anh em chạy ghép hàng lẻ tuyến Cà Mau cũ, xem thêm [cách chia điểm trả xe ghép đi Cà Mau](/blog/xe-ghep-hang-sai-gon-di-ca-mau/).
+
 ## Bài viết liên quan
 
 - [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)

@@ -158,7 +158,7 @@ Tùy mô hình kinh doanh vận tải của từng nhà xe. Hỏi lại cơ quan
 
 
 <!-- lk-mt:start -->
-**Các tuyến miền Tây khác:** [xe ghép hàng đi Long An](/blog/xe-ghep-hang-sai-gon-di-long-an/), [xe ghép hàng đi Tiền Giang](/blog/xe-ghep-hang-sai-gon-di-tien-giang/), [xe ghép hàng đi Bến Tre](/blog/xe-ghep-hang-sai-gon-di-ben-tre/), [xe ghép hàng đi Đồng Tháp](/blog/xe-ghep-hang-sai-gon-di-dong-thap/), [xe ghép hàng đi Vĩnh Long](/blog/xe-ghep-hang-sai-gon-di-vinh-long/), [xe ghép hàng đi Trà Vinh](/blog/xe-ghep-hang-sai-gon-di-tra-vinh/), [xe ghép hàng đi Cần Thơ](/blog/xe-ghep-hang-sai-gon-di-can-tho/), [xe ghép hàng đi Sóc Trăng](/blog/xe-ghep-hang-sai-gon-di-soc-trang/), [xe ghép hàng đi An Giang](/blog/xe-ghep-hang-sai-gon-di-an-giang/), [xe ghép hàng đi Kiên Giang](/blog/xe-ghep-hang-sai-gon-di-kien-giang/).
+**Các tuyến miền Tây khác:** [xe ghép hàng đi Long An](/blog/xe-ghep-hang-sai-gon-di-long-an/), [xe ghép hàng đi Tiền Giang](/blog/xe-ghep-hang-sai-gon-di-tien-giang/), [xe ghép hàng đi Bến Tre](/blog/xe-ghep-hang-sai-gon-di-ben-tre/), [xe ghép hàng đi Đồng Tháp](/blog/xe-ghep-hang-sai-gon-di-dong-thap/), [xe ghép hàng đi Vĩnh Long](/blog/xe-ghep-hang-sai-gon-di-vinh-long/), [xe ghép hàng đi Trà Vinh](/blog/xe-ghep-hang-sai-gon-di-tra-vinh/), [xe ghép hàng đi Cần Thơ](/blog/xe-ghep-hang-sai-gon-di-can-tho/), [xe ghép hàng đi Sóc Trăng](/blog/xe-ghep-hang-sai-gon-di-soc-trang/), [xe ghép hàng đi An Giang](/blog/xe-ghep-hang-sai-gon-di-an-giang/), [xe ghép hàng đi Kiên Giang](/blog/xe-ghep-hang-sai-gon-di-kien-giang/), [xe ghép hàng đi Bạc Liêu](/blog/xe-ghep-hang-sai-gon-di-bac-lieu/), [xe ghép hàng đi Cà Mau](/blog/xe-ghep-hang-sai-gon-di-ca-mau/).
 <!-- lk-mt:end -->
 
 ## Lưu tuyến Hậu Giang lên Tìm Hàng Xe Tải
