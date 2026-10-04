@@ -158,6 +158,10 @@ Xe nhỏ dưới 1 tấn cho hàng shop nội thành. Xe từ 5 tấn cho khu c�
 
 KCN Nội Bài, Quang Minh, Phú Nghĩa và Khu công nghệ cao Hòa Lạc đều ở ngoài đường bao.
 
+
+<!-- lk-cn-xe-ghep-chuyen-nha-tphcm-di-ha-noi -->
+Ít đồ mà dọn về Hà Nội thì xem [cách đi ghép chuyển nhà về Hà Nội](/blog/xe-ghep-chuyen-nha-tphcm-di-ha-noi/).
+
 ## Nhà xe chở hàng Hà Nội tìm hàng hai chiều ở đâu
 
 Tìm Hàng Xe Tải là sàn nối chủ hàng với nhà xe. Chủ hàng đăng cuốc, nhà xe xem tuyến và cỡ xe rồi báo giá, sàn không cắt phần trăm cước. Nhà xe chở hàng Hà Nội lưu tuyến hay chạy, đơn khớp một trong hai đầu tuyến sẽ báo về máy, nhờ vậy bắt được cả hàng chiều về.

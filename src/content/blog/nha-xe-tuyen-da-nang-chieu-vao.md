@@ -153,6 +153,10 @@ Chủ hàng ở miền Trung cần gửi vào Nam thì đăng chuyến lên, nh�
 
 Thấy bài này có ích thì gửi cho anh em cùng chạy tuyến miền Trung.
 
+
+<!-- lk-cn-xe-ghep-chuyen-nha-tphcm-di-da-nang -->
+Ít đồ mà dọn về Đà Nẵng thì xem [cách đi ghép chuyển nhà về Đà Nẵng](/blog/xe-ghep-chuyen-nha-tphcm-di-da-nang/).
+
 ## Bài viết liên quan
 
 - [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
