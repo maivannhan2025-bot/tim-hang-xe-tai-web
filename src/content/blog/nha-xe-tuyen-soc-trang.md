@@ -133,6 +133,10 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 
 **Đăng tin nên ghi rõ:** có vào tận xã được không, cỡ xe và loại thùng, có xe lạnh không, có chở hành tím không, và có nhận gom ra điểm đón cho chuyến ngang không. Ở tuyến này, **ghi rõ vào tận nơi được** là thứ tách mình khỏi hàng chục xe chạy ngang chỉ dừng trên quốc lộ.
 
+
+<!-- lk-mt-xe-ghep-hang-sai-gon-di-soc-trang -->
+Anh em chạy ghép hàng lẻ tuyến Sóc Trăng cũ, xem thêm [cách chia điểm trả xe ghép đi Sóc Trăng](/blog/xe-ghep-hang-sai-gon-di-soc-trang/).
+
 ## Bài viết liên quan
 
 - [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
