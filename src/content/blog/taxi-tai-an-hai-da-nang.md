@@ -125,6 +125,10 @@ Xem trang muangap. Nước đang lên ở điểm lấy hoặc điểm giao thì
 
 Không có giá chung. Tùy cỡ xe, quãng đường, cầu phải qua, số điểm dừng, công khiêng và giờ chờ.
 
+
+<!-- lk-cn-xe-ghep-chuyen-nha-tphcm-di-da-nang -->
+Ít đồ mà dọn về Đà Nẵng thì xem [cách đi ghép chuyển nhà về Đà Nẵng](/blog/xe-ghep-chuyen-nha-tphcm-di-da-nang/).
+
 ## Đăng cuốc taxi tải An Hải Đà Nẵng lên sàn, ghi kèm tên phường cũ
 
 Tìm Hàng Xe Tải là sàn nối người cần chở hàng với nhà xe. Người gọi xe đăng cuốc với điểm lấy, điểm giao có tên cũ và mới, số món, cầu phải qua và giờ; nhà xe xem cuốc rồi báo giá nếu nhận, anh chị so và chọn. Sàn không cắt phần trăm cước.
