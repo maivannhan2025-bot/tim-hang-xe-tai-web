@@ -180,6 +180,10 @@ Chủ hàng ở Đồng Nai cần chở về nội đô, ra cảng hay đi tỉn
 
 Thấy bài này có ích thì gửi cho anh em cùng chạy tuyến Đồng Nai.
 
+
+<!-- lk-cn-xe-ghep-chuyen-nha-tphcm-di-dong-nai -->
+Ít đồ mà dọn về Đồng Nai thì xem [cách đi ghép chuyển nhà về Đồng Nai](/blog/xe-ghep-chuyen-nha-tphcm-di-dong-nai/).
+
 ## Bài viết liên quan
 
 - [Gửi hàng qua nhà xe hay chành xe, nên chọn cách nào](/blog/gui-hang-qua-nha-xe-hay-chanh-xe/)

@@ -143,6 +143,10 @@ Theo ký, khối hoặc kiện, bên nào lớn tính bên đó, cộng tiền �
 **Các tuyến miền Tây khác:** [xe ghép hàng đi Long An](/blog/xe-ghep-hang-sai-gon-di-long-an/), [xe ghép hàng đi Tiền Giang](/blog/xe-ghep-hang-sai-gon-di-tien-giang/), [xe ghép hàng đi Bến Tre](/blog/xe-ghep-hang-sai-gon-di-ben-tre/), [xe ghép hàng đi Đồng Tháp](/blog/xe-ghep-hang-sai-gon-di-dong-thap/), [xe ghép hàng đi Vĩnh Long](/blog/xe-ghep-hang-sai-gon-di-vinh-long/), [xe ghép hàng đi Trà Vinh](/blog/xe-ghep-hang-sai-gon-di-tra-vinh/), [xe ghép hàng đi Hậu Giang](/blog/xe-ghep-hang-sai-gon-di-hau-giang/), [xe ghép hàng đi Sóc Trăng](/blog/xe-ghep-hang-sai-gon-di-soc-trang/), [xe ghép hàng đi An Giang](/blog/xe-ghep-hang-sai-gon-di-an-giang/), [xe ghép hàng đi Kiên Giang](/blog/xe-ghep-hang-sai-gon-di-kien-giang/), [xe ghép hàng đi Bạc Liêu](/blog/xe-ghep-hang-sai-gon-di-bac-lieu/), [xe ghép hàng đi Cà Mau](/blog/xe-ghep-hang-sai-gon-di-ca-mau/).
 <!-- lk-mt:end -->
 
+
+<!-- lk-cn-xe-ghep-chuyen-nha-tphcm-di-can-tho -->
+Ít đồ mà dọn về Cần Thơ thì xem [cách đi ghép chuyển nhà về Cần Thơ](/blog/xe-ghep-chuyen-nha-tphcm-di-can-tho/).
+
 ## Lưu tuyến Cần Thơ trên Tìm Hàng Xe Tải
 
 Tìm Hàng Xe Tải là sàn nối chủ hàng với nhà xe. Anh em lưu tuyến hay chạy, ví dụ Sài Gòn - Cái Răng - Thốt Nốt. Có đơn khớp một trong hai đầu tuyến, sàn báo về máy. Anh em tự xem đơn, tự gọi chủ hàng, tự báo giá.

@@ -171,7 +171,7 @@ Hẹn xe tuyến trả ở đầu kiệt hay ở kho, rồi thuê xe nhỏ hoặ
 
 
 <!-- lk-cn:start -->
-**Chuyển nhà đi tỉnh khác:** [xe ghép chuyển nhà đi Hà Nội](/blog/xe-ghep-chuyen-nha-tphcm-di-ha-noi/).
+**Chuyển nhà đi tỉnh khác:** [xe ghép chuyển nhà đi Hà Nội](/blog/xe-ghep-chuyen-nha-tphcm-di-ha-noi/), [xe ghép chuyển nhà đi Cần Thơ](/blog/xe-ghep-chuyen-nha-tphcm-di-can-tho/), [xe ghép chuyển nhà đi Đồng Nai](/blog/xe-ghep-chuyen-nha-tphcm-di-dong-nai/).
 <!-- lk-cn:end -->
 
 ## Đăng nhu cầu chuyển đồ về Đà Nẵng trên Tìm Hàng Xe Tải

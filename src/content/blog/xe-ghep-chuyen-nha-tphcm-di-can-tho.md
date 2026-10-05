@@ -148,6 +148,11 @@ Tuỳ lúc xe gom đủ đơn và vị trí nhà anh chị trên lộ trình. H�
 
 Nhà xe thường tính theo lượng đồ, số kiện, món lớn, quãng từ điểm trả chính vào nhà. Đăng cuốc rõ ràng để nhận giá cụ thể, bài này không nêu giá.
 
+
+<!-- lk-cn:start -->
+**Chuyển nhà đi tỉnh khác:** [xe ghép chuyển nhà đi Hà Nội](/blog/xe-ghep-chuyen-nha-tphcm-di-ha-noi/), [xe ghép chuyển nhà đi Đà Nẵng](/blog/xe-ghep-chuyen-nha-tphcm-di-da-nang/), [xe ghép chuyển nhà đi Đồng Nai](/blog/xe-ghep-chuyen-nha-tphcm-di-dong-nai/).
+<!-- lk-cn:end -->
+
 ## Cần xe ghép đi Cần Thơ, đăng cuốc trên Tìm Hàng Xe Tải
 
 Tìm Hàng Xe Tải là sàn nối người cần chở với nhà xe. Anh chị tải app hoặc vào timhangxetai.com, đăng cuốc xe ghép chuyển nhà TPHCM đi Cần Thơ với đủ thông tin như trên. Nhà xe chạy tuyến TP.HCM - Cần Thơ thấy cuốc sẽ liên hệ báo giá, anh chị tự so và chọn. Cần hỏi thêm, nhắn Zalo 0707707115.

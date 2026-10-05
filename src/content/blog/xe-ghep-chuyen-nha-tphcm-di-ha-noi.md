@@ -172,7 +172,7 @@ Tùy giá trị đồ. Hỏi nhà xe có mua bảo hiểm hàng hóa không, đ�
 
 
 <!-- lk-cn:start -->
-**Chuyển nhà đi tỉnh khác:** [xe ghép chuyển nhà đi Đà Nẵng](/blog/xe-ghep-chuyen-nha-tphcm-di-da-nang/).
+**Chuyển nhà đi tỉnh khác:** [xe ghép chuyển nhà đi Đà Nẵng](/blog/xe-ghep-chuyen-nha-tphcm-di-da-nang/), [xe ghép chuyển nhà đi Cần Thơ](/blog/xe-ghep-chuyen-nha-tphcm-di-can-tho/), [xe ghép chuyển nhà đi Đồng Nai](/blog/xe-ghep-chuyen-nha-tphcm-di-dong-nai/).
 <!-- lk-cn:end -->
 
 ## Đăng nhu cầu chuyển đồ ra Hà Nội trên Tìm Hàng Xe Tải
