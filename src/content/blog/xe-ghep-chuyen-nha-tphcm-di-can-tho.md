@@ -150,7 +150,7 @@ Nhà xe thường tính theo lượng đồ, số kiện, món lớn, quãng t�
 
 
 <!-- lk-cn:start -->
-**Chuyển nhà đi tỉnh khác:** [xe ghép chuyển nhà đi Hà Nội](/blog/xe-ghep-chuyen-nha-tphcm-di-ha-noi/), [xe ghép chuyển nhà đi Đà Nẵng](/blog/xe-ghep-chuyen-nha-tphcm-di-da-nang/), [xe ghép chuyển nhà đi Đồng Nai](/blog/xe-ghep-chuyen-nha-tphcm-di-dong-nai/).
+**Chuyển nhà đi tỉnh khác:** [xe ghép chuyển nhà đi Hà Nội](/blog/xe-ghep-chuyen-nha-tphcm-di-ha-noi/), [xe ghép chuyển nhà đi Đà Nẵng](/blog/xe-ghep-chuyen-nha-tphcm-di-da-nang/), [xe ghép chuyển nhà đi Đồng Nai](/blog/xe-ghep-chuyen-nha-tphcm-di-dong-nai/), [xe ghép chuyển nhà đi Bình Dương](/blog/xe-ghep-chuyen-nha-tphcm-di-binh-duong/), [xe ghép chuyển nhà đi Vũng Tàu](/blog/xe-ghep-chuyen-nha-tphcm-di-vung-tau/).
 <!-- lk-cn:end -->
 
 ## Cần xe ghép đi Cần Thơ, đăng cuốc trên Tìm Hàng Xe Tải

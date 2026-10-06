@@ -135,6 +135,11 @@ Tủ lạnh mini thì thường được. Tủ lạnh lớn chiếm nhiều ch�
 
 Nên có. Không có thì nhờ người quen, và gửi danh sách kiện kèm ảnh cho nhà xe trước.
 
+
+<!-- lk-cn:start -->
+**Chuyển nhà đi tỉnh khác:** [xe ghép chuyển nhà đi Hà Nội](/blog/xe-ghep-chuyen-nha-tphcm-di-ha-noi/), [xe ghép chuyển nhà đi Đà Nẵng](/blog/xe-ghep-chuyen-nha-tphcm-di-da-nang/), [xe ghép chuyển nhà đi Cần Thơ](/blog/xe-ghep-chuyen-nha-tphcm-di-can-tho/), [xe ghép chuyển nhà đi Đồng Nai](/blog/xe-ghep-chuyen-nha-tphcm-di-dong-nai/), [xe ghép chuyển nhà đi Bình Dương](/blog/xe-ghep-chuyen-nha-tphcm-di-binh-duong/).
+<!-- lk-cn:end -->
+
 ## Đăng cuốc để tìm xe ghép cho đỡ tiền
 
 Đồ ít, chờ được vài ngày thì xe ghép chuyển nhà TPHCM đi Vũng Tàu là cách dọn nhà nhẹ tiền. Đồ nhiều, gấp ngày thì so thêm giá bao xe.

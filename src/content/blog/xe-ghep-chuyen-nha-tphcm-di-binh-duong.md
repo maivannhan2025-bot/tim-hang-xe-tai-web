@@ -155,6 +155,11 @@ Chụp ảnh trước khi giao, đếm kiện lúc nhận. Có sai lệch thì b
 
 Tuỳ thoả thuận. Ghi rõ trong tin đăng là cần khiêng lên tầng mấy để giá báo đúng.
 
+
+<!-- lk-cn:start -->
+**Chuyển nhà đi tỉnh khác:** [xe ghép chuyển nhà đi Hà Nội](/blog/xe-ghep-chuyen-nha-tphcm-di-ha-noi/), [xe ghép chuyển nhà đi Đà Nẵng](/blog/xe-ghep-chuyen-nha-tphcm-di-da-nang/), [xe ghép chuyển nhà đi Cần Thơ](/blog/xe-ghep-chuyen-nha-tphcm-di-can-tho/), [xe ghép chuyển nhà đi Đồng Nai](/blog/xe-ghep-chuyen-nha-tphcm-di-dong-nai/), [xe ghép chuyển nhà đi Vũng Tàu](/blog/xe-ghep-chuyen-nha-tphcm-di-vung-tau/).
+<!-- lk-cn:end -->
+
 ## Đăng cuốc để tìm xe ghép cho đỡ tiền
 
 Đồ ít, không gấp ngày thì xe ghép chuyển nhà TPHCM đi Bình Dương là cách dọn nhà nhẹ tiền. Gấp ngày hoặc đồ nhiều thì so thêm giá bao xe nhỏ.

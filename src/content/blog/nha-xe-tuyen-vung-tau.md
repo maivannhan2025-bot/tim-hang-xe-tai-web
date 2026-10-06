@@ -151,6 +151,10 @@ Chủ hàng ở Vũng Tàu cần gửi lên Sài Gòn thì đăng chuyến lên,
 
 Thấy bài này có ích thì gửi cho anh em cùng chạy tuyến Vũng Tàu.
 
+
+<!-- lk-cn-xe-ghep-chuyen-nha-tphcm-di-vung-tau -->
+Ít đồ mà dọn về Vũng Tàu thì xem [cách đi ghép chuyển nhà về Vũng Tàu](/blog/xe-ghep-chuyen-nha-tphcm-di-vung-tau/).
+
 ## Bài viết liên quan
 
 - [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)

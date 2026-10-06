@@ -144,7 +144,7 @@ Tuỳ nhà xe. Báo trước để nhà xe dành chỗ dựng đứng và không
 
 
 <!-- lk-cn:start -->
-**Chuyển nhà đi tỉnh khác:** [xe ghép chuyển nhà đi Hà Nội](/blog/xe-ghep-chuyen-nha-tphcm-di-ha-noi/), [xe ghép chuyển nhà đi Đà Nẵng](/blog/xe-ghep-chuyen-nha-tphcm-di-da-nang/), [xe ghép chuyển nhà đi Cần Thơ](/blog/xe-ghep-chuyen-nha-tphcm-di-can-tho/).
+**Chuyển nhà đi tỉnh khác:** [xe ghép chuyển nhà đi Hà Nội](/blog/xe-ghep-chuyen-nha-tphcm-di-ha-noi/), [xe ghép chuyển nhà đi Đà Nẵng](/blog/xe-ghep-chuyen-nha-tphcm-di-da-nang/), [xe ghép chuyển nhà đi Cần Thơ](/blog/xe-ghep-chuyen-nha-tphcm-di-can-tho/), [xe ghép chuyển nhà đi Bình Dương](/blog/xe-ghep-chuyen-nha-tphcm-di-binh-duong/), [xe ghép chuyển nhà đi Vũng Tàu](/blog/xe-ghep-chuyen-nha-tphcm-di-vung-tau/).
 <!-- lk-cn:end -->
 
 ## Đăng cuốc xe ghép đi Đồng Nai trên Tìm Hàng Xe Tải

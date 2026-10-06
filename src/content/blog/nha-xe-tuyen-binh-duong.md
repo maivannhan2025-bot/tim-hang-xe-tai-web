@@ -165,6 +165,10 @@ Chủ hàng ở các khu công nghiệp cần chở về nội đô hoặc ra c�
 
 Thấy bài này có ích thì gửi cho anh em cùng chạy tuyến khu công nghiệp.
 
+
+<!-- lk-cn-xe-ghep-chuyen-nha-tphcm-di-binh-duong -->
+Ít đồ mà dọn về Bình Dương thì xem [cách đi ghép chuyển nhà về Bình Dương](/blog/xe-ghep-chuyen-nha-tphcm-di-binh-duong/).
+
 ## Bài viết liên quan
 
 - [Chạy Xe Tải 750kg Có Đủ Sống: Nhà Xe Tính Trước Mấy Con Số](/blog/chay-xe-tai-750kg-co-du-song/)
