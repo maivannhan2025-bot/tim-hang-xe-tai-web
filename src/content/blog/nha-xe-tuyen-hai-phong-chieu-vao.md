@@ -145,6 +145,10 @@ Chủ hàng ở Hải Phòng cần gửi vào Nam thì đăng chuyến lên, nh�
 
 Thấy bài này có ích thì gửi cho anh em cùng chạy tuyến Bắc Nam.
 
+
+<!-- lk-cn-xe-ghep-chuyen-nha-tphcm-di-hai-phong -->
+Ít đồ mà dọn về Hải Phòng thì xem [cách đi ghép chuyển nhà về Hải Phòng](/blog/xe-ghep-chuyen-nha-tphcm-di-hai-phong/).
+
 ## Bài viết liên quan
 
 - [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)

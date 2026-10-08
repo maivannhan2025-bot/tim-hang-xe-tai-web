@@ -147,6 +147,10 @@ Xoài Cam Lâm quanh tháng 5, sầu riêng Khánh Sơn tháng 8. Hẹn vựa tr
 
 Đoạn Cam Lâm - Vĩnh Hảo là đường BOT, thu phí từ 28/5/2024. Cộng khoản này vào giá khi báo cho chủ hàng.
 
+
+<!-- lk-cn-xe-ghep-chuyen-nha-tphcm-di-khanh-hoa -->
+Ít đồ mà dọn về Khánh Hòa thì xem [cách đi ghép chuyển nhà về Khánh Hòa](/blog/xe-ghep-chuyen-nha-tphcm-di-khanh-hoa/).
+
 ## Nhà xe chở hàng Khánh Hòa tìm hàng hai chiều ở đâu
 
 Tìm Hàng Xe Tải là sàn nối chủ hàng với nhà xe. Chủ hàng đăng cuốc, nhà xe xem tuyến và cỡ xe rồi báo giá, sàn không cắt phần trăm cước. Nhà xe chở hàng Khánh Hòa lưu tuyến hay chạy, đơn khớp một trong hai đầu tuyến sẽ báo về máy, nhờ vậy bắt được cả hàng chiều về.
