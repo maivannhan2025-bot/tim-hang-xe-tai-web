@@ -138,6 +138,10 @@ Chỗ này là nơi hai bên gặp nhau, không phải nhà xe, nên không đ�
 
 **Đăng tin nên ghi rõ:** đi quốc lộ 60 hay quốc lộ 1, cỡ xe và loại thùng, có xe lạnh không, có vào được xã xa không. Ở tuyến này, **ghi rõ đi quốc lộ 60 qua cầu Cổ Chiên** là dòng đáng giá nhất, vì nó nói ngay rằng mình chạy ngắn hơn đối thủ 70 km.
 
+
+<!-- lk-mt-xe-ghep-hang-sai-gon-di-tra-vinh -->
+Anh em chạy ghép hàng lẻ tuyến Trà Vinh cũ, xem thêm [cách chia điểm trả xe ghép đi Trà Vinh](/blog/xe-ghep-hang-sai-gon-di-tra-vinh/).
+
 ## Bài viết liên quan
 
 - [Nhà xe chạy tuyến TPHCM đi Vinh: tìm hàng hai chiều thế nào](/blog/nha-xe-chay-tuyen-vinh/)
