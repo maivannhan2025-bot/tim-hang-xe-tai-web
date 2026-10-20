@@ -1,24 +1,43 @@
-name: Deploy Web
+name: Deploy
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
+  # Bài blog hẹn ngày đăng (ngayDang) chỉ tự hiện khi build LẠI sau đúng giờ đó — chạy lại
+  # đều đặn để bài hẹn lịch tự "sống dậy" đúng giờ, không cần ai bấm tay.
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      # fetch-depth: 0 = lấy đủ lịch sử, để web đọc được "lúc sửa gần nhất" của từng bài từ Git.
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: 'npm'
+      - run: npm ci || npm install
+      - run: npm run build
+      # Chup lai sitemap DANG live TRUOC khi deploy, de lat nua biet bai nao vua moi len.
+      - name: Ghi nhớ sitemap đang live (để biết bài nào mới)
+        run: node .github/bao-index.mjs ghi-nho
 
-      - name: Install dependencies
-        run: npm ci || npm install
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: e9e88ac586803b53ffff66350dd0e375
+          command: pages deploy dist --project-name=tim-hang-xe-tai-web
 
-      - name: Build project
-        run: npm run build
+      # Bao cho Bing/Yandex/Naver/Seznam biet BAI VUA LEN CONG KHAI (IndexNow).
+      # Chi bao URL moi hoac doi ngay — khong bao lai ca sitemap. Google KHONG dung
+      # IndexNow: Google di theo sitemap + Search Console.
+      - name: Báo index bài vừa lên công khai
+        run: node .github/bao-index.mjs bao
